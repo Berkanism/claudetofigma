@@ -1,0 +1,601 @@
+{
+  "fileKey": "KJLraiSuClOfcJWkqbH2nw",
+  "name": "FK-Charts",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:09:51.130Z",
+  "componentCount": 74,
+  "components": [
+    {
+      "key": "0fee04ee46cd88c02456f5d4cf10287c0dc36fa0",
+      "nodeId": "8001:1366",
+      "name": "Property 1=3 Item",
+      "description": "",
+      "containingFrame": "Distribution",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "460ed11d957c1bc6ab95c50a4409a560124d7148",
+      "nodeId": "8001:1375",
+      "name": "Property 1=5 Item",
+      "description": "",
+      "containingFrame": "Distribution",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5fa38341452c20d1bf4008b7a98b4876a6724ab7",
+      "nodeId": "8001:1381",
+      "name": "Property 1=6 Item",
+      "description": "",
+      "containingFrame": "Distribution",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6f349ed60ce33acd2a57d03331ca995f0fcd7033",
+      "nodeId": "8001:1396",
+      "name": "Property 1=8 Item",
+      "description": "",
+      "containingFrame": "Distribution",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "806a585911c21c50b5fae32623d838cd1236e820",
+      "nodeId": "8001:1370",
+      "name": "Property 1=4 Item",
+      "description": "",
+      "containingFrame": "Distribution",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "eb2a9ae5cebc7408f544c685db40d3f019dd7b84",
+      "nodeId": "8220:2249",
+      "name": "Property 1=7 Item 2",
+      "description": "",
+      "containingFrame": "Distribution",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f237aeae5db1ac5fc62643b88899a67b68735fd4",
+      "nodeId": "8001:1405",
+      "name": "Property 1=9 Item",
+      "description": "",
+      "containingFrame": "Distribution",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f5fc7984cc876251392a5cf46c6879b885308c77",
+      "nodeId": "8001:1388",
+      "name": "Property 1=7 Item",
+      "description": "",
+      "containingFrame": "Distribution",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cde0f20cf0045e643877b390e7678446d43692f1",
+      "nodeId": "8142:1103",
+      "name": "Line=6",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "15d5569ef7eb35a2976fa55784a6a2305a6506d3",
+      "nodeId": "8054:9633",
+      "name": "Column=6, Type=Multi",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "22bf2867834facecd8caa8eeddce692645bd5855",
+      "nodeId": "8082:4810",
+      "name": "Column=5, Type=Single",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7df2a63e63d69706eabf7dbcf324d2be3081d8be",
+      "nodeId": "8054:8322",
+      "name": "Column=1, Type=Multi",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "80d5d2be77dc39221d11fc5669a7bd6db280e3cf",
+      "nodeId": "8054:9282",
+      "name": "Column=4, Type=Multi",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "092532b8039bb8ec1dccf581bc9bb798c0cfe09c",
+      "nodeId": "8142:1248",
+      "name": "Line=7",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "093af6940de9ea5e1ec008a6aa8fa448404f5538",
+      "nodeId": "8159:2815",
+      "name": "Y Axis On Graph=True",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1aaf63292008e972c870c4e4b42750ae5e59039c",
+      "nodeId": "8032:452",
+      "name": "Row=Single, Column=Single, Status=Active",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1c9bacc1d8b1cb7cda9a1f7f1d169a051b47914a",
+      "nodeId": "8142:1285",
+      "name": "Line=5",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1caeb684cf3c53d5508fd8bde4a8eb53012f622f",
+      "nodeId": "8142:1558",
+      "name": "Line=3",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1ecb7bc35697611c137e9b3d812ea3ed4c04c61e",
+      "nodeId": "8142:1190",
+      "name": "Line=4",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "20c91f47ee174cf9605347ae892c6328e6d9741f",
+      "nodeId": "8134:1602",
+      "name": "Type=Default",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2157c3701990af4be06acf0dfd11838ae60ddda3",
+      "nodeId": "8134:1562",
+      "name": "State=Left Align (Small)",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "229f250d714291b9c3703d0c4c5ceaac522d3682",
+      "nodeId": "8142:1310",
+      "name": "Line=4",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "289faf78aa32a79e83dd16f7b4e82398016868dd",
+      "nodeId": "8142:1534",
+      "name": "Line=5",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2bb90a5fdc57dc16dd47afe322635909d9acbac7",
+      "nodeId": "8247:3827",
+      "name": "Type=Lines 1",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3350c3232bad92cd4715d400888d20ec6a56aa47",
+      "nodeId": "8142:1161",
+      "name": "Line=3",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "35d6f611f17378d246c553b458db5654f9bb43f0",
+      "nodeId": "8142:1256",
+      "name": "Line=6",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "39a76cd8dea2d492b081923f7ce04e67ceb0cc23",
+      "nodeId": "8200:135691",
+      "name": "Point=Top",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4824248a9051bc0bbbbf72867e7743907f7b0d7d",
+      "nodeId": "8247:3886",
+      "name": "Type=Lines 2",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4d70c24b35f9baeeda0ce233b7afac655f735ce9",
+      "nodeId": "8154:2091",
+      "name": "Line=8",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "56c82feecc9e9ad67bc39c357a254cbf62d3f5e3",
+      "nodeId": "8142:1513",
+      "name": "Line=6",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "588aaf902b1d6c6ca222d99ccd3b3698e724f67e",
+      "nodeId": "8215:3762",
+      "name": "Type=Partial",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5e6ef4be328746e2e1ec2b8e2c9f11fd55e65707",
+      "nodeId": "8241:1132",
+      "name": "Type=New Graph",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "70f3490e08addabf819f82bf58db4fb912f36314",
+      "nodeId": "8161:2919",
+      "name": "Type=No Balance",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "87cad6de50336b73c3532360959b61ff8c57af31",
+      "nodeId": "8142:1547",
+      "name": "Line=4",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8934643511ca97d5b47d0e854f1021c8653dbc65",
+      "nodeId": "8154:2138",
+      "name": "Line=8",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9807791d06b871e2ed4213608f4159fce0233ab6",
+      "nodeId": "8267:836",
+      "name": "Row=Single, Column=Double, Status=Active",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a42a3c15d5e3442b5eae23e28d50bddd26b380ff",
+      "nodeId": "8134:1811",
+      "name": "Type=Depth",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a4c866bb816d8bc2b75995feb64b5a8c570046d6",
+      "nodeId": "8032:829",
+      "name": "Row=Single, Column=Single, Status=Inactive",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b0a9275de7df0fddc9b9fa81830106ec7a5c60fd",
+      "nodeId": "8236:1079",
+      "name": "Type=Default [Lighter]",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b1bfb762e56c8fa4b8d9a9049633e959f217667e",
+      "nodeId": "8162:2923",
+      "name": "Point=Center",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b974acbd421bef47a3f1f9a70db2e6f0f3e99f8b",
+      "nodeId": "8239:1530",
+      "name": "Type=Start&End",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bf91fbc76180067ded1ae749dec2cea0883635ff",
+      "nodeId": "8032:454",
+      "name": "Row=Multi, Column=Single, Status=Active",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c7912086d17faeaee51435d8f9aad0929461e6ac",
+      "nodeId": "8142:1092",
+      "name": "Line=7",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c9e70d8493ce94749e5f328e1c8a2a543357a36b",
+      "nodeId": "8248:1079",
+      "name": "Type=No Data",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e6ea6c1bdb7e4ca119be5604ef7277b1cdbf8116",
+      "nodeId": "8142:1483",
+      "name": "Line=3",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e7f380b76400e76fc270f34a0b3770b5b8d59ab2",
+      "nodeId": "8134:1558",
+      "name": "State=Left Align",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f5302a84072424287c7a1497afcfbf7e041893ea",
+      "nodeId": "8134:1641",
+      "name": "Y Axis On Graph=False",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ea53595d516368d5c678af173b4682c48d8af407",
+      "nodeId": "8142:1511",
+      "name": "Line=7",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ea67161ba47fb9b451f9a80d538a2ce52b7676dd",
+      "nodeId": "8032:833",
+      "name": "Row=Multi, Column=Single, Status=Inactive",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "efbf9e539c2386d938eed8ae0013f0127d893acd",
+      "nodeId": "8142:1132",
+      "name": "Line=5",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f3cf835a67fa1589425824909c89de3667721f47",
+      "nodeId": "8134:1554",
+      "name": "State=Default",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fafc363f468a8c7e6f6ba5c8465c4a6795b463fc",
+      "nodeId": "8247:3649",
+      "name": "Type=Line",
+      "description": "",
+      "containingFrame": "Line Graph + Depth",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "102af39ef938eb815a61e98c7793e1cd88c1cc74",
+      "nodeId": "8054:9998",
+      "name": "Column=7+, Type=Multi",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1cac18ff5349bc5153bf4a1b40686ce8cfb8bbe6",
+      "nodeId": "8267:1198",
+      "name": "Column=2, Type=Double",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1e4bbe02007501df1bebda058c57c6bd4d25ec61",
+      "nodeId": "8082:4855",
+      "name": "Column=7, Type=Single",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1e60fe0574688018d6155f2fd309a53edc9799bc",
+      "nodeId": "8054:9397",
+      "name": "Column=5, Type=Multi",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2c90f35541434a346e05e1b96237bf40eefa1e89",
+      "nodeId": "8054:8710",
+      "name": "Column=2, Type=Multi",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2d1d4773820a009392a0b75b4a44348916f22f68",
+      "nodeId": "8054:9176",
+      "name": "Column=3, Type=Multi",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3c85e1c962f7a3799f39805cd6892d1b7919d005",
+      "nodeId": "8267:1725",
+      "name": "Column=5, Type=Double",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "40fa86100789363240e4d5a11a968d4b74f173a6",
+      "nodeId": "8054:9826",
+      "name": "Column=7, Type=Multi",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6b06dd173568f156b6b203f9bb1917dd44487ff2",
+      "nodeId": "8267:2439",
+      "name": "Column=7+, Type=Double",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6b1de049ce4359981176113d6d379205ab56cbac",
+      "nodeId": "8054:10201",
+      "name": "Column=0, Type=Multi",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "848cbcb2cef76c1484e3e4961750ee2b75c6b2c1",
+      "nodeId": "8082:4832",
+      "name": "Column=6, Type=Single",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "92dd228510b1c1161012d7bd411293df50af946c",
+      "nodeId": "8267:874",
+      "name": "Column=1, Type=Double",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ba07f6a575d5fec5e13a11d796053518b24842e2",
+      "nodeId": "8082:4769",
+      "name": "Column=3, Type=Single",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bac2142aa43d51fc423af34ec4e1033a6bde5da5",
+      "nodeId": "8267:1334",
+      "name": "Column=3, Type=Double",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bc4435f60cf46ed727ad9b66a1abd1de00cfe11b",
+      "nodeId": "8267:2167",
+      "name": "Column=7, Type=Double",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c13fbae801d212fc64c8817b4c950a5bd8336412",
+      "nodeId": "8082:4789",
+      "name": "Column=4, Type=Single",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d05ee516e1962177e7c26b65550eb2b4e438ecd8",
+      "nodeId": "8267:1929",
+      "name": "Column=6, Type=Double",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d5d9782c738879a6121a1d470c345098da9f8619",
+      "nodeId": "8082:4879",
+      "name": "Column=7+, Type=Single",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e4ab21e1de02ef0bd6e0c54d3ff1b62e5013fb52",
+      "nodeId": "8282:1277",
+      "name": "Column=0, Type=Loading",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "eadebdfe64e7ec027174c3a25fbdf988fd449c68",
+      "nodeId": "8082:4713",
+      "name": "Column=1, Type=Single",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "efb64959e2a49584757debc0a68fee048ca67f5e",
+      "nodeId": "8082:4750",
+      "name": "Column=2, Type=Single",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f2854d44cf82938ad2cd8fa879501e5e363d90c9",
+      "nodeId": "8267:1470",
+      "name": "Column=4, Type=Double",
+      "description": "",
+      "containingFrame": "Column Graph + Column Chart",
+      "containingPage": "1.0"
+    }
+  ]
+}

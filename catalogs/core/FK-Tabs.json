@@ -1,0 +1,233 @@
+{
+  "fileKey": "b9bDpsrcp4dT22xgaD7ipR",
+  "name": "FK-Tabs",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:13.051Z",
+  "componentCount": 28,
+  "components": [
+    {
+      "key": "0d3208edd207455ed6e34409372c810cab505b87",
+      "nodeId": "8001:31",
+      "name": "Size=Medium, State=ON",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "100105e7d1e2a8a04b8e8e54ce683d722d4e5074",
+      "nodeId": "8001:209",
+      "name": "Brand=Kripto, State=OFF, Size=X-Large",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "10bcb54799b39f44a7ee0a8df41ac5c455ad4a3f",
+      "nodeId": "8001:189",
+      "name": "Brand=Wallet, State=ON, Size=Large",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2c4ca9543f05fcf2323d76bdf63b7c715f597675",
+      "nodeId": "8001:111",
+      "name": "Size=X-Large, State=OFF",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2d8514abfde7663c15127a8348fe80198bd750d5",
+      "nodeId": "8001:211",
+      "name": "Brand=Hisse, State=OFF, Size=Large",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4d7635fc670b6b3b8e2d655ba1262d92b0d271ec",
+      "nodeId": "8001:125",
+      "name": "Size=Small, State=OFF",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6345003f284968bd88e1e96c35f0342cffcab390",
+      "nodeId": "8001:177",
+      "name": "Brand=Wallet, State=ON, Size=Medium",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "695ebf4a9e9d805d6cbd051ca39c37ec2cb2a7e1",
+      "nodeId": "8001:49",
+      "name": "Size=Large, State=ON",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6a6562c7e01e3530d743ec58804f7fa288a32ebc",
+      "nodeId": "8001:205",
+      "name": "Brand=Wallet, State=OFF, Size=Medium",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "83c12b9c6b5acf0fa6a9be50d3d177296a138ad5",
+      "nodeId": "8001:105",
+      "name": "Size=Large, State=OFF",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "885e0e8f175c4d57b39a78c819158eeec3e523d3",
+      "nodeId": "8001:213",
+      "name": "Brand=Wallet, State=OFF, Size=Large",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ae1ff14f7a40ade4b5774e90c4c542f07b279c92",
+      "nodeId": "8001:207",
+      "name": "Brand=Kripto, State=OFF, Size=Large",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b104cd8246cc4e562509f3c8823d5b84d5a761a2",
+      "nodeId": "8001:183",
+      "name": "Brand=Kripto, State=ON, Size=X-Large",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b78c10aaa22f3c4b5c89c07c838b96492270a37d",
+      "nodeId": "8001:215",
+      "name": "Brand=Kripto, State=OFF, Size=Small",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b7eee485636a0426743bc47241c3d171b1a0d45f",
+      "nodeId": "8001:73",
+      "name": "Size=Small, State=ON",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ba533310d3f044c4f47492ac8d3166953925171e",
+      "nodeId": "8001:171",
+      "name": "Brand=Kripto, State=ON, Size=Medium",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bbbc186cf530154fe3c4bd16ca2691633ebcbab1",
+      "nodeId": "8001:186",
+      "name": "Brand=Hisse, State=ON, Size=Large",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bd5f786d55015c996f1db2c901531c47a093ac1f",
+      "nodeId": "8001:91",
+      "name": "Size=Medium, State=OFF",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c6fb0dc9c0de6d9401ef5da45c5317efca9d5b3a",
+      "nodeId": "8001:201",
+      "name": "Brand=Kripto, State=OFF, Size=Medium",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c8ce9eeeb9b81814efa7244d03733c01d250077e",
+      "nodeId": "8001:174",
+      "name": "Brand=Hisse, State=ON, Size=Medium",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d6c283ba0b069ee23974ffc00a2eba163d9c5a1a",
+      "nodeId": "8001:219",
+      "name": "Brand=Wallet, State=OFF, Size=Small",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d702e8a4ceaf20b1c7d8bd03db25b7e48034929b",
+      "nodeId": "8001:55",
+      "name": "Size=X-Large, State=ON",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dac4c8835654d8c4b293f60e8e4a5f6e008c3f7c",
+      "nodeId": "8001:198",
+      "name": "Brand=Wallet, State=ON, Size=Small",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e533eb5a70d0e78822ba04d0978f498ad309c2a3",
+      "nodeId": "8001:192",
+      "name": "Brand=Kripto, State=ON, Size=Small",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e687a5c12da6a580640cc4232a43c76ec1a7c6b4",
+      "nodeId": "8001:203",
+      "name": "Brand=Hisse, State=OFF, Size=Medium",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f15f9f09a503bb5abc01eb6a311e7b3a87e6d52f",
+      "nodeId": "8001:180",
+      "name": "Brand=Kripto, State=ON, Size=Large",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fce18a223d026d141bddd52c50f2ce3d3c53ceb5",
+      "nodeId": "8001:217",
+      "name": "Brand=Hisse, State=OFF, Size=Small",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ff9d335c307ff5dbd490fb8d923ee875b2e748bc",
+      "nodeId": "8001:195",
+      "name": "Brand=Hisse, State=ON, Size=Small",
+      "description": "",
+      "containingFrame": "Tabs",
+      "containingPage": "1.0"
+    }
+  ]
+}

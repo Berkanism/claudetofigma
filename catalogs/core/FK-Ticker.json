@@ -1,0 +1,113 @@
+{
+  "fileKey": "aYJZ11gzeieWPIyAyfsvmF",
+  "name": "FK-Ticker",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:13.756Z",
+  "componentCount": 13,
+  "components": [
+    {
+      "key": "039f18d7143e0fbf6acb348fdebb0b35325a0704",
+      "nodeId": "8001:34417",
+      "name": "Type=Crypto, Size=Large",
+      "description": "",
+      "containingFrame": "{FK-Ticker}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "34c7ac82c6e147fe86f70c633571fe55ea55f9f8",
+      "nodeId": "8002:28958",
+      "name": "Brand=Hisse, Style=with Graph",
+      "description": "",
+      "containingFrame": "{FK-Ticker-Square}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "39a19bab7e9a7e30d911f0d1f261e24778a18a42",
+      "nodeId": "8002:28951",
+      "name": "Brand=Hisse, Style=Outline",
+      "description": "",
+      "containingFrame": "{FK-Ticker-Square}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "50d16e129038ec30366177e4f17c549ab7aff14a",
+      "nodeId": "8001:34452",
+      "name": "Type=Stock, Size=Large",
+      "description": "",
+      "containingFrame": "{FK-Ticker}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5923073ee6663df7987ca40e8a15010532fc230b",
+      "nodeId": "8001:34426",
+      "name": "Type=Crypto, Size=X-Large",
+      "description": "",
+      "containingFrame": "{FK-Ticker}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "62b8c57b45de1c46f28ae26746392603d6231fa7",
+      "nodeId": "8002:28964",
+      "name": "Brand=Kripto, Style=with Graph",
+      "description": "",
+      "containingFrame": "{FK-Ticker-Square}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "635b86d0d5feb85e78e1af2b9bd0be4924f9d243",
+      "nodeId": "8002:28970",
+      "name": "Brand=Kripto, Style=Default",
+      "description": "",
+      "containingFrame": "{FK-Ticker-Square}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "63ea4d3c1b713735e675d7226e63ea002f226713",
+      "nodeId": "8001:34442",
+      "name": "Type=Stock, Size=Medium",
+      "description": "",
+      "containingFrame": "{FK-Ticker}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7c319231261ca5155d2d71607459a95cad2b93d6",
+      "nodeId": "8001:34435",
+      "name": "Type=Stock, Size=Small",
+      "description": "",
+      "containingFrame": "{FK-Ticker}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ced15f2f0cf7a65398b66c25fdd74604bd48522b",
+      "nodeId": "8002:28943",
+      "name": "Brand=Hisse, Style=Default",
+      "description": "",
+      "containingFrame": "{FK-Ticker-Square}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d205efc580fbd902e362f3f8f375e43b7dd98727",
+      "nodeId": "8001:34396",
+      "name": "Type=Crypto, Size=Small",
+      "description": "",
+      "containingFrame": "{FK-Ticker}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dc87db6a759b0438cf8cca1fe4a637b10fd5d5d2",
+      "nodeId": "8001:34459",
+      "name": "Type=Stock, Size=X-Large",
+      "description": "",
+      "containingFrame": "{FK-Ticker}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f2bd89387c44df2ab68d253758a29dadfed57fad",
+      "nodeId": "8001:34405",
+      "name": "Type=Crypto, Size=Medium",
+      "description": "",
+      "containingFrame": "{FK-Ticker}",
+      "containingPage": "1.0"
+    }
+  ]
+}

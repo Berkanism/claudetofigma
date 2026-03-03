@@ -1,0 +1,97 @@
+{
+  "fileKey": "YRnObGVc1Gjz2wvudqFFgk",
+  "name": "FK-RangeSelector",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:08.764Z",
+  "componentCount": 11,
+  "components": [
+    {
+      "key": "05cba054ee1f583b3c0aaa0fad63f9cd74c857e3",
+      "nodeId": "8002:51",
+      "name": "State=75, Type=Outline",
+      "description": "",
+      "containingFrame": "Range Selector",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0a516491fb01187e30a3d25e1691a43cd82ab5a1",
+      "nodeId": "8002:71",
+      "name": "State=No Balance, Type=Convert",
+      "description": "",
+      "containingFrame": "Range Selector",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "495860d16adb669ccefabfcced2a6c30a1f5ed54",
+      "nodeId": "8002:26",
+      "name": "State=Inactive, Type=Inline",
+      "description": "",
+      "containingFrame": "Range Selector",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4fd2afdccc6842f3b75821800f1ad2789eba2635",
+      "nodeId": "8002:61",
+      "name": "State=100, Type=Outline",
+      "description": "",
+      "containingFrame": "Range Selector",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "63b795c871cdb183019747948e88e76402c42cab",
+      "nodeId": "8002:41",
+      "name": "State=50, Type=Outline",
+      "description": "",
+      "containingFrame": "Range Selector",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7dd760b000cd865ecc94c2d4e3a8cde91b0a107b",
+      "nodeId": "8002:56",
+      "name": "State=75, Type=Inline",
+      "description": "",
+      "containingFrame": "Range Selector",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "98307dbbdec33e097f54093c4c016c99e601bcb0",
+      "nodeId": "8002:46",
+      "name": "State=50, Type=Inline",
+      "description": "",
+      "containingFrame": "Range Selector",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a632f6a40c28c7a20b087f9af1c18fb231a0eeac",
+      "nodeId": "8002:36",
+      "name": "State=25, Type=Inline",
+      "description": "",
+      "containingFrame": "Range Selector",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ac36ab7a53e2664b9474dd4f6419b170cacefb11",
+      "nodeId": "8002:66",
+      "name": "State=100, Type=Inline",
+      "description": "",
+      "containingFrame": "Range Selector",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b456289568f7c466403faa38fe720d014ccb83e5",
+      "nodeId": "8002:21",
+      "name": "State=Inactive, Type=Outline",
+      "description": "",
+      "containingFrame": "Range Selector",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d771848787c7b5722f6a8d0a1e15781a196689a3",
+      "nodeId": "8002:31",
+      "name": "State=25, Type=Outline",
+      "description": "",
+      "containingFrame": "Range Selector",
+      "containingPage": "1.0"
+    }
+  ]
+}

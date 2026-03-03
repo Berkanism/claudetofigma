@@ -1,0 +1,121 @@
+{
+  "fileKey": "lXP90rO5s6pXUOCk338x4F",
+  "name": "FK-BottomNav",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:24.203Z",
+  "componentCount": 14,
+  "components": [
+    {
+      "key": "46dd8fbc36325b9590c2ebace4633a16b6f0f0e9",
+      "nodeId": "2110:418",
+      "name": "Active=TRUE",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "76bf2ba860a9882d8395ff22d24045b7a5140cb1",
+      "nodeId": "2001:29759",
+      "name": "State=ON, Type=Navigation",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "065d8b90d67a798d9cafd43242b0634889be7a6b",
+      "nodeId": "2001:29863",
+      "name": "State=OFF, Type=Empty",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0bd9dc8ed06b466083d76f34af9b9dcc63ddad7b",
+      "nodeId": "2001:29795",
+      "name": "State=ON, Type=2x Action (V)",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "114b61c3f8ce9910fd78be051f9af61379a9d953",
+      "nodeId": "2288:161",
+      "name": "State=ON, Type=3x Action (V)",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6760902b3fa4cb88f9625644589ffa78fcd1f221",
+      "nodeId": "2001:29823",
+      "name": "State=OFF, Type=Price + CTA",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6ebe8e6b3ffc4cacdf6e4943a8bac9f568ef0f57",
+      "nodeId": "2001:29858",
+      "name": "State=ON, Type=Sticky Message",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9b6461c15804b91618b06eb225794a78ee9aa11a",
+      "nodeId": "2001:29805",
+      "name": "State=ON, Type=2x Action (H)",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b1e34478ff4243761fb9233aea1cec5167197b12",
+      "nodeId": "2001:29786",
+      "name": "State=ON, Type=1x Action",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b5d099d314f268a7ca31d8d4e6b469070c587f72",
+      "nodeId": "2110:414",
+      "name": "Active=FALSE",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bc2b1c66f0681ee9d555e55728a922524eeb837c",
+      "nodeId": "2001:29845",
+      "name": "State=ON, Type=Browser",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c50a0297cab3eb704485cf8652aec35fc5768965",
+      "nodeId": "2001:29819",
+      "name": "State=ON, Type=Fade-Out CTA",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c7f3c486fcacb255429cfd5fa1adc2594a6e236e",
+      "nodeId": "2001:29777",
+      "name": "State=OFF, Type=1x Action",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f7fd5684428fac2dbe442d50ea0e88af6f5bbe7e",
+      "nodeId": "2001:29815",
+      "name": "State=ON, Type=Go to Bottom",
+      "description": "",
+      "containingFrame": "FKBottomNav",
+      "containingPage": "1.0"
+    }
+  ]
+}

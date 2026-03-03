@@ -1,0 +1,113 @@
+{
+  "fileKey": "L4PR4CRZ7lbfnhVaNUbXFn",
+  "name": "FK-NumpadUnit",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:32.245Z",
+  "componentCount": 13,
+  "components": [
+    {
+      "key": "18bb7b7b67026014a6777dddc5d5d2fdce4a41ea",
+      "nodeId": "8001:42115",
+      "name": "Scrolling Text",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "80b18a3f482fd55cf5a2fd571089702f236753cb",
+      "nodeId": "8094:8631",
+      "name": "Type=Default",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f32c0a51595b8fba2ed030a949ebde3007cabbcf",
+      "nodeId": "8094:8633",
+      "name": "Type=No Blance",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bc14838a104cde9ef6f44cf6e47b502360055a5f",
+      "nodeId": "8001:42122",
+      "name": "State=Empty",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bf8b73f119ffb44997b359b49f83c8c40f763374",
+      "nodeId": "8001:42126",
+      "name": "State=Transfer :Selected",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f6f66a46c5a4b454689eda06c883e671ae956f7a",
+      "nodeId": "8001:42130",
+      "name": "State=Donation",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0481bf415e3b57ee33723494b8e49d57d98a0d2f",
+      "nodeId": "8001:42132",
+      "name": "State=Currency Buy-Sell",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "215471dd9813d891b939ab11a6cbd1327609893f",
+      "nodeId": "8001:42128",
+      "name": "State=Rüçhan",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "27e1c713b11c4f581a9ed24ca9e0c444531e609f",
+      "nodeId": "8001:42124",
+      "name": "State=Bank :Selected",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5afce2a98b2a40ff30b0fed5721c9b690fd13908",
+      "nodeId": "8109:10150",
+      "name": "Type=Disable",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8161defef2bdf1b2b493542bf6bad8ced18f82fc",
+      "nodeId": "8001:42066",
+      "name": "Type=Default",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b4c56324e6a61ea6b3b8970c24ada387ba070454",
+      "nodeId": "8157:3707",
+      "name": "State=Public Offering: Price View",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f83663ce91d63744a648077c4f2f962279e4a248",
+      "nodeId": "8157:3834",
+      "name": "State=Public Offering: Price Select",
+      "description": "",
+      "containingFrame": "Numpad Unit",
+      "containingPage": "1.0"
+    }
+  ]
+}

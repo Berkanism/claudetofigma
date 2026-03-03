@@ -1,0 +1,370 @@
+{
+  "updatedAt": "2026-03-03T15:09:44.736Z",
+  "libraries": [
+    {
+      "name": "FK-Typography",
+      "group": "base",
+      "count": 0
+    },
+    {
+      "name": "FK-Visuals",
+      "group": "base",
+      "count": 257
+    },
+    {
+      "name": "FK-FlagshipColors",
+      "group": "base",
+      "count": 0
+    },
+    {
+      "name": "FK-SubBrandColors",
+      "group": "base",
+      "count": 0
+    },
+    {
+      "name": "FK-Button",
+      "group": "core",
+      "count": 146
+    },
+    {
+      "name": "FK-ButtonGroup",
+      "group": "core",
+      "count": 6
+    },
+    {
+      "name": "FK-Charts",
+      "group": "core",
+      "count": 74
+    },
+    {
+      "name": "FK-Checkbox",
+      "group": "core",
+      "count": 12
+    },
+    {
+      "name": "FK-Chips",
+      "group": "core",
+      "count": 14
+    },
+    {
+      "name": "FK-Drawer",
+      "group": "core",
+      "count": 3
+    },
+    {
+      "name": "FK-Dropdown",
+      "group": "core",
+      "count": 37
+    },
+    {
+      "name": "FK-Filters",
+      "group": "core",
+      "count": 13
+    },
+    {
+      "name": "FK-Gauge",
+      "group": "core",
+      "count": 21
+    },
+    {
+      "name": "FK-Graph",
+      "group": "core",
+      "count": 22
+    },
+    {
+      "name": "FK-Icons",
+      "group": "core",
+      "count": 822
+    },
+    {
+      "name": "FK-InfoRow",
+      "group": "core",
+      "count": 48
+    },
+    {
+      "name": "FK-Input",
+      "group": "core",
+      "count": 207
+    },
+    {
+      "name": "FK-Keyboards",
+      "group": "core",
+      "count": 64
+    },
+    {
+      "name": "FK-Loader",
+      "group": "core",
+      "count": 12
+    },
+    {
+      "name": "FK-Menu",
+      "group": "core",
+      "count": 17
+    },
+    {
+      "name": "FK-NotificationBadge",
+      "group": "core",
+      "count": 1
+    },
+    {
+      "name": "FK-Overlay",
+      "group": "core",
+      "count": 1
+    },
+    {
+      "name": "FK-PriceRow",
+      "group": "core",
+      "count": 4
+    },
+    {
+      "name": "FK-ProgressStepper",
+      "group": "core",
+      "count": 22
+    },
+    {
+      "name": "FK-ProgressDot",
+      "group": "core",
+      "count": 17
+    },
+    {
+      "name": "FK-Radio",
+      "group": "core",
+      "count": 3
+    },
+    {
+      "name": "FK-RangeSelector",
+      "group": "core",
+      "count": 11
+    },
+    {
+      "name": "FK-Row",
+      "group": "core",
+      "count": 185
+    },
+    {
+      "name": "FK-SegmentedControl",
+      "group": "core",
+      "count": 84
+    },
+    {
+      "name": "FK-TableHeader",
+      "group": "core",
+      "count": 8
+    },
+    {
+      "name": "FK-Tables",
+      "group": "core",
+      "count": 21
+    },
+    {
+      "name": "FK-Tabs",
+      "group": "core",
+      "count": 28
+    },
+    {
+      "name": "FK-Ticker",
+      "group": "core",
+      "count": 13
+    },
+    {
+      "name": "FK-Toast",
+      "group": "core",
+      "count": 7
+    },
+    {
+      "name": "FK-Toggle",
+      "group": "core",
+      "count": 6
+    },
+    {
+      "name": "FK-Tooltip",
+      "group": "core",
+      "count": 34
+    },
+    {
+      "name": "FK-UserGizmo",
+      "group": "core",
+      "count": 8
+    },
+    {
+      "name": "FK-Empty",
+      "group": "core",
+      "count": 0
+    },
+    {
+      "name": "FK-Technology",
+      "group": "core",
+      "count": 20
+    },
+    {
+      "name": "FK-Utilities",
+      "group": "core",
+      "count": 202
+    },
+    {
+      "name": "FK-AssetRow",
+      "group": "core",
+      "count": 24
+    },
+    {
+      "name": "FK-Bullet",
+      "group": "core",
+      "count": 14
+    },
+    {
+      "name": "FK-AssetList",
+      "group": "modules",
+      "count": 8
+    },
+    {
+      "name": "FK-BalancePNL",
+      "group": "modules",
+      "count": 25
+    },
+    {
+      "name": "FK-BasicTrade",
+      "group": "modules",
+      "count": 11
+    },
+    {
+      "name": "FK-BottomNav",
+      "group": "modules",
+      "count": 14
+    },
+    {
+      "name": "FK-Calendar",
+      "group": "modules",
+      "count": 12
+    },
+    {
+      "name": "FK-Card",
+      "group": "modules",
+      "count": 16
+    },
+    {
+      "name": "FK-ConfirmationDrawer",
+      "group": "modules",
+      "count": 10
+    },
+    {
+      "name": "FK-Convert",
+      "group": "modules",
+      "count": 0
+    },
+    {
+      "name": "FK-DOB",
+      "group": "modules",
+      "count": 29
+    },
+    {
+      "name": "FK-DatePicker",
+      "group": "modules",
+      "count": 5
+    },
+    {
+      "name": "FK-Exceptions",
+      "group": "modules",
+      "count": 8
+    },
+    {
+      "name": "FK-FeeInformation",
+      "group": "modules",
+      "count": 10
+    },
+    {
+      "name": "FK-Finalizer",
+      "group": "modules",
+      "count": 3
+    },
+    {
+      "name": "FK-GraphModule",
+      "group": "modules",
+      "count": 7
+    },
+    {
+      "name": "FK-NumpadUnit",
+      "group": "modules",
+      "count": 13
+    },
+    {
+      "name": "FK-OrderList",
+      "group": "modules",
+      "count": 24
+    },
+    {
+      "name": "FK-PINScreen",
+      "group": "modules",
+      "count": 2
+    },
+    {
+      "name": "FK-PickerModal",
+      "group": "modules",
+      "count": 9
+    },
+    {
+      "name": "FK-PriceDetailGraph",
+      "group": "modules",
+      "count": 15
+    },
+    {
+      "name": "FK-TopNav",
+      "group": "modules",
+      "count": 74
+    },
+    {
+      "name": "FK-TradePages",
+      "group": "modules",
+      "count": 20
+    },
+    {
+      "name": "FK-TradeStuff",
+      "group": "modules",
+      "count": 71
+    },
+    {
+      "name": "FK-Validation",
+      "group": "modules",
+      "count": 65
+    },
+    {
+      "name": "x-CryptoLogos",
+      "group": "assets",
+      "count": 559
+    },
+    {
+      "name": "x-StockLogos",
+      "group": "assets",
+      "count": 681
+    },
+    {
+      "name": "x-FiatLogos",
+      "group": "assets",
+      "count": 16
+    },
+    {
+      "name": "Logos",
+      "group": "assets",
+      "count": 15
+    },
+    {
+      "name": "AppIcons",
+      "group": "assets",
+      "count": 21
+    },
+    {
+      "name": "FK-WireframeSet",
+      "group": "assets",
+      "count": 0
+    },
+    {
+      "name": "LocalLib-Kripto",
+      "group": "local",
+      "count": 2105
+    },
+    {
+      "name": "LocalLib-Hisse",
+      "group": "local",
+      "count": 1915
+    }
+  ]
+}

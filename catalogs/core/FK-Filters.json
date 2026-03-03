@@ -1,0 +1,113 @@
+{
+  "fileKey": "NtzBKUfAuAVIiALPZOejV9",
+  "name": "FK-Filters",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:09:54.665Z",
+  "componentCount": 13,
+  "components": [
+    {
+      "key": "db1ed0c1c31c293ab66217bba6ff8c47a13de485",
+      "nodeId": "8003:28839",
+      "name": "Type=Text, Status=Default",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "eb40783f92ab2e693615559d181b67536c6cd5b5",
+      "nodeId": "8098:32555",
+      "name": "Icon=Stock, Type=Double",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "074c7042e0500ffda1bd10e0630bb9a4082a2908",
+      "nodeId": "8003:28805",
+      "name": "Icon=Crypto, Type=Double",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3c6647e5e88be88a27e343b07b19df71943e7452",
+      "nodeId": "8003:28817",
+      "name": "Icon=Crypto, Type=Compare",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5193bd688b64b6949f20e15b7235ca7b46885a00",
+      "nodeId": "8003:28813",
+      "name": "Icon=Crypto, Type=Single",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "92ab13a5cee72c19ce73edbdadfef96af99741a8",
+      "nodeId": "8003:28795",
+      "name": "Icon=Crypto, Type=Triple",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9a86b6c3c0f8f6ea096ab619e6a556443f0e5d20",
+      "nodeId": "8098:32544",
+      "name": "Icon=Stock, Type=3+",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b9c211ac340d33228bbceee4327720525319deeb",
+      "nodeId": "8003:28784",
+      "name": "Icon=Crypto, Type=3+",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d4b86fe9b645c1038b11a05314c6210707126344",
+      "nodeId": "8003:28825",
+      "name": "Type=Icon + Text, Status=Selected",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d8b975a7294c3cf5e9e4125b80bb6c56da49b8a5",
+      "nodeId": "8098:32550",
+      "name": "Icon=Stock, Type=Triple",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f05696b7e790514b38a3e9a2e956c81677a716d9",
+      "nodeId": "8098:32559",
+      "name": "Icon=Stock, Type=Single",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fbfe8a2663fbaded0602ad038a7a5a1a22e1ec69",
+      "nodeId": "8098:32563",
+      "name": "Icon=Stock, Type=Compare",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ffed8a6a38ad13e5f1484b95146537a151a98ed8",
+      "nodeId": "8003:28833",
+      "name": "Type=Text, Status=Selected",
+      "description": "",
+      "containingFrame": "Filters",
+      "containingPage": "1.0"
+    }
+  ]
+}

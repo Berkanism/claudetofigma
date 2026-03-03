@@ -1,0 +1,185 @@
+{
+  "fileKey": "fglj1Gyg683cRrFzVklsrO",
+  "name": "FK-ProgressStepper",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:06.420Z",
+  "componentCount": 22,
+  "components": [
+    {
+      "key": "2b4e25366d4ef52431a99c57079c169b6fc5014a",
+      "nodeId": "8001:30",
+      "name": "Size=Medium, Options=2, Selected=2nd",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "564a0324fb3ba02a6da814dc26a7fe41153add13",
+      "nodeId": "8001:25",
+      "name": "Size=Medium, Options=4, Selected=1st",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "731f5de36cacdcaea1b8910d9410dd09fe83be9a",
+      "nodeId": "8001:89",
+      "name": "Size=Small, Options=4, Selected=4th",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0788e16b76c238d0754b062d6afae958ebf1377e",
+      "nodeId": "8001:18",
+      "name": "Size=Medium, Options=2, Selected=1st",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0cc0adc09820e656beadbe0be7eac3a9d3f2480e",
+      "nodeId": "8001:68",
+      "name": "Size=Small, Options=2, Selected=2nd",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "184ffae01b9a7d80a1c5acf71dae3d8aa5bb3a03",
+      "nodeId": "8001:105",
+      "name": "Current=False, Size=Medium",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "19e6418609519f6859d1245c0cfcb1003511badb",
+      "nodeId": "8001:59",
+      "name": "Size=Small, Options=3, Selected=1st",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2305a9bd0cab342d52e2eb9c2e59e7112a732448",
+      "nodeId": "8001:37",
+      "name": "Size=Medium, Options=4, Selected=2nd",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "336554ed9bebc9dbdfe9f796a63bfbe99088248f",
+      "nodeId": "8001:84",
+      "name": "Size=Small, Options=4, Selected=3rd",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "416c2f6dfacf6c64e0d5dd9bb121d6b084ffa5ad",
+      "nodeId": "8001:63",
+      "name": "Size=Small, Options=4, Selected=1st",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "56e75433e50ea3c487baed859930b695915f711a",
+      "nodeId": "8001:42",
+      "name": "Size=Medium, Options=3, Selected=3rd",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5f5dc83d7d28b9ae8dbc36c747e24cb790096f3f",
+      "nodeId": "8001:97",
+      "name": "Current=True, Size=Medium",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9e2d5ee36c0ee86613e3271cc3141a7160c515d5",
+      "nodeId": "8001:71",
+      "name": "Size=Small, Options=3, Selected=2nd",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b16743f5fa174197981c61afc03a394ff169a095",
+      "nodeId": "8001:101",
+      "name": "Current=True, Size=Small",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b646d9e2f326ad9dc93f30520fe0e4b041ac48be",
+      "nodeId": "8001:33",
+      "name": "Size=Medium, Options=3, Selected=2nd",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c8f8740da3014e679253299282ae6aa52b29fff4",
+      "nodeId": "8001:21",
+      "name": "Size=Medium, Options=3, Selected=1st",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ea06ed23a32099643ff49ed876bbf8ac9cf62582",
+      "nodeId": "8001:75",
+      "name": "Size=Small, Options=4, Selected=2nd",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f11c7ac524d124b8b88aa3e82e2491a4a617e79a",
+      "nodeId": "8001:56",
+      "name": "Size=Small, Options=2, Selected=1st",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fa6c97c9c61ffed2e22661b07c45b236e6a379a5",
+      "nodeId": "8001:46",
+      "name": "Size=Medium, Options=4, Selected=3rd",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fd9151cba4e8a81050099e0200ffcadc762d0331",
+      "nodeId": "8001:80",
+      "name": "Size=Small, Options=3, Selected=3rd",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fe641fe0daff517b7880cc489f5d866962c5b278",
+      "nodeId": "8001:109",
+      "name": "Current=False, Size=Small",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fec5ac1ddf525734ba542fe48a8f3384104a0a0d",
+      "nodeId": "8001:51",
+      "name": "Size=Medium, Options=4, Selected=4th",
+      "description": "",
+      "containingFrame": "Progress Step",
+      "containingPage": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "fileKey": "nrsqqSsjRtYatCoixuKSmX",
+  "name": "FK-TradePages",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:36.389Z",
+  "componentCount": 20,
+  "components": [
+    {
+      "key": "043021f6e08b68ae033f9408cfffff61c11f12b6",
+      "nodeId": "12004:6935",
+      "name": "Type=6M",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4ad8de07e268caf7538fbe61097e177e6c617d9c",
+      "nodeId": "12004:6931",
+      "name": "Type=1M",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "654002ff2208a0ed03954ac1e032f0b1988a7e7f",
+      "nodeId": "12028:2977",
+      "name": "Trade -> Info Item",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b0e3c2c56cc1d59add7aae4cba82fa5f3533a17e",
+      "nodeId": "12157:4250",
+      "name": "Nav=1",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3ac53f0e8436c69a0eb134bd2c1192646b757939",
+      "nodeId": "12006:16528",
+      "name": "Page=Open Orders",
+      "description": "",
+      "containingFrame": "Pages",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1249f1e78d880d0f79e5ed7ddde109604c0bc80a",
+      "nodeId": "12004:6937",
+      "name": "Type=1Y",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1afe49fb95213f2afaf4bcb7fd0dd54d7c417b63",
+      "nodeId": "12006:23410",
+      "name": "Type=List",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "05bdb1042477a220ea81aed8eb0cf485e2420906",
+      "nodeId": "12028:2988",
+      "name": "Trade -> Info",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3a7fe0125f697575d453942d158cf4db4734f7f7",
+      "nodeId": "12006:23411",
+      "name": "Page=Last Trades",
+      "description": "",
+      "containingFrame": "Pages",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6a5f2eb6b85271cf38fa5164a0a0ea3a7584e230",
+      "nodeId": "12006:14256",
+      "name": "Nav=3",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "769879ee4a5b6ef655467fb78afbcd4633d465f5",
+      "nodeId": "12004:6939",
+      "name": "Type=Depth",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7f930128dbad8c64c635db3d94c84cd9ca3035cf",
+      "nodeId": "12004:6927",
+      "name": "Type=1D",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "83a11e12a5b6414c12bc5c007871c30141475867",
+      "nodeId": "12004:6933",
+      "name": "Type=3M",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b4daa91684cd7f4bacc6abfafb6971654b774a55",
+      "nodeId": "12006:14444",
+      "name": "Trade -> Filter + CTA",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bf14f8941e825b41d016a6f16fbd5e3a9b4deeaf",
+      "nodeId": "12004:6929",
+      "name": "Type=1W",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c9861e2b697ff3cc84f5b3fefe3e3444ba81e13b",
+      "nodeId": "12006:14219",
+      "name": "Nav=2",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ea5c9dbfc71bbefbf9f79a059a51197078b480de",
+      "nodeId": "12006:14320",
+      "name": "Nav=4",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dc35bf0a860108c86d4b2d52eee60ef0586e600d",
+      "nodeId": "12009:30423",
+      "name": "Type=Empty",
+      "description": "",
+      "containingFrame": "Comp",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "af92e715c87caf001213d1d6c0cb15bed5b1fbf2",
+      "nodeId": "12006:26500",
+      "name": "Page=Graphics",
+      "description": "",
+      "containingFrame": "Pages",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f357c19fc7cd79e73beec6a8d0eb58254daa1e0a",
+      "nodeId": "12028:3055",
+      "name": "Page=Info",
+      "description": "",
+      "containingFrame": "Pages",
+      "containingPage": "1.0"
+    }
+  ]
+}

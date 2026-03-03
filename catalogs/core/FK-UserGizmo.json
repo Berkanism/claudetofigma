@@ -1,0 +1,73 @@
+{
+  "fileKey": "JDaRUMfK9t0sKQGOUB4Cay",
+  "name": "FK-UserGizmo",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:16.563Z",
+  "componentCount": 8,
+  "components": [
+    {
+      "key": "3bc730586564312776ae8aa09dda1a3b6c33aae3",
+      "nodeId": "8001:799",
+      "name": "State=To Trade",
+      "description": "",
+      "containingFrame": "Custom Message",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9704e102527d16da150784f4aca17843ffcc07d8",
+      "nodeId": "8001:754",
+      "name": "State=Video Call Required",
+      "description": "",
+      "containingFrame": "{User-Account-Gizmo}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b5a835cca4fb003eaaea427608bcc080aa36eaad",
+      "nodeId": "8001:744",
+      "name": "State=User Left",
+      "description": "",
+      "containingFrame": "{User-Account-Gizmo}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "be70c5df5cddf049715de2c89ed23fa257f7a97b",
+      "nodeId": "8001:806",
+      "name": "State=Must Continue",
+      "description": "",
+      "containingFrame": "Custom Message",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c082988896ca00adbebf84c3b95b41c3110030e0",
+      "nodeId": "8001:792",
+      "name": "State=Video Call Required",
+      "description": "",
+      "containingFrame": "Custom Message",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c4dba8a9ce7a71098003ef4a2298a4abe1f60ead",
+      "nodeId": "8001:734",
+      "name": "State=Just Registered",
+      "description": "",
+      "containingFrame": "{User-Account-Gizmo}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cc53371786179d6eee491efd30dc7c5871d1dd5a",
+      "nodeId": "8001:764",
+      "name": "State=Verified",
+      "description": "",
+      "containingFrame": "{User-Account-Gizmo}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d46b3cecad552dc1ec8f0aa5c84684a393b39b50",
+      "nodeId": "8001:775",
+      "name": "State=VIP",
+      "description": "",
+      "containingFrame": "{User-Account-Gizmo}",
+      "containingPage": "1.0"
+    }
+  ]
+}

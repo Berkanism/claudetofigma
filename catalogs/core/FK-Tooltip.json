@@ -1,0 +1,281 @@
+{
+  "fileKey": "YuRDNMsrweog6Dd3PbCYYF",
+  "name": "FK-Tooltip",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:15.865Z",
+  "componentCount": 34,
+  "components": [
+    {
+      "key": "3817cf50a0131ed0540e2d8bcf09158d74e1b83c",
+      "nodeId": "8024:104",
+      "name": "Size=Small",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0f2e470949ef1ec4488d4c33b67e980bae04f5e7",
+      "nodeId": "8114:238",
+      "name": "Direction=Top, Position=Left Align, Size=Small, Level=2",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "25367774e83dd14a12f35388a4366a4c7fe17eed",
+      "nodeId": "8001:79",
+      "name": "Direction=Bottom, Position=Left Align, Size=Medium, Level=1",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "276f17e9da951434340eb0bb2750cc58f49ef13b",
+      "nodeId": "8001:49",
+      "name": "Direction=Top, Position=Right Align, Size=Medium, Level=1",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9c88ff8bb23d7d31866ef011729712f33135da68",
+      "nodeId": "8001:122",
+      "name": "Size=Small, Type=Multi",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f8eae0f323c0eeefaf8d349ee3e35dd1661c0787",
+      "nodeId": "8024:64",
+      "name": "Size=Medium",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2b6442e3219901e1ace4ee4bf69a428ae10846a6",
+      "nodeId": "8114:244",
+      "name": "Direction=Top, Position=Left Align, Size=Medium, Level=2",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2b97dd8d8ff2e422f013aaeb7443ef3d02ffc361",
+      "nodeId": "8114:220",
+      "name": "Direction=Top, Position=Right Align, Size=Medium, Level=2",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "38b9acff0145e55a71e97699c6341ab999488273",
+      "nodeId": "8019:98",
+      "name": "Size=Medium, Type=Mono",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3f19cb79721d0d8689ad391dbe258e1024978fe0",
+      "nodeId": "8114:268",
+      "name": "Direction=Bottom, Position=Center Align, Size=Medium, Level=2",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "43000ef512a1ce2603aab5f9b8b14bcaae1900fa",
+      "nodeId": "8114:232",
+      "name": "Direction=Top, Position=Center Align, Size=Medium, Level=2",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "492db9691cd59db24d1eb21330283f439bc9b8f1",
+      "nodeId": "8001:105",
+      "name": "State=TOP, Size=Small",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4a621f88352034f371866e47a997a8a7effa2662",
+      "nodeId": "8114:226",
+      "name": "Direction=Top, Position=Center Align, Size=Small, Level=2",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5119b3630b2be4ced6da78be835b506e6cf950c7",
+      "nodeId": "8114:280",
+      "name": "Direction=Bottom, Position=Right Align, Size=Medium, Level=2",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "52a9c1f5c888b0359a6de8d3087f812d8f15eb39",
+      "nodeId": "8001:59",
+      "name": "Direction=Top, Position=Center Align, Size=Medium, Level=1",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "76c66183a66667f1359000abaa356dbd1349a8ef",
+      "nodeId": "8001:94",
+      "name": "Direction=Bottom, Position=Right Align, Size=Small, Level=1",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7aad39491f276f78ad61d39f626b08d01906c562",
+      "nodeId": "8114:256",
+      "name": "Direction=Bottom, Position=Left Align, Size=Medium, Level=2",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "81bf7c472df236a58c9f855ac2400b2f6d0b88d7",
+      "nodeId": "8001:116",
+      "name": "State=BOTTOM, Size=Medium",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "93275029f52ec6746fbf25c41fd6c40731b814b7",
+      "nodeId": "8001:74",
+      "name": "Direction=Bottom, Position=Left Align, Size=Small, Level=1",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9605ed02b8cf757e1f6c9b4ef5a2cf6101a422fc",
+      "nodeId": "8001:69",
+      "name": "Direction=Top, Position=Left Align, Size=Medium, Level=1",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9e4688a5f75a28e091abdaab9fccceb25399c900",
+      "nodeId": "8001:64",
+      "name": "Direction=Top, Position=Left Align, Size=Small, Level=1",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a0b2a8fbedfa2f2835fe15bb570fd1b6b572d9a4",
+      "nodeId": "8019:86",
+      "name": "Size=Small, Type=Mono",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a0ec1f63c2590744bd013bc7e524bbf01c7f4a35",
+      "nodeId": "8114:274",
+      "name": "Direction=Bottom, Position=Right Align, Size=Small, Level=2",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a466b9c04162913c80047e439bbd840bc2714146",
+      "nodeId": "8001:108",
+      "name": "State=TOP, Size=Medium",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a74c6a847ab5a4628d1045ada57f662cfed7432c",
+      "nodeId": "8114:262",
+      "name": "Direction=Bottom, Position=Center Align, Size=Small, Level=2",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "af1094753e34c9412009a0fdbb9d0cdc7479987f",
+      "nodeId": "8001:129",
+      "name": "Size=Medium, Type=Multi",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b3ee0efac58aacfcd63e6488be08e85ced25fa9d",
+      "nodeId": "8001:99",
+      "name": "Direction=Bottom, Position=Right Align, Size=Medium, Level=1",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b624c24e95216150d1024a9021c6760d6b7a4537",
+      "nodeId": "8001:54",
+      "name": "Direction=Top, Position=Center Align, Size=Small, Level=1",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c6bb8abbe8f4f8fccbbf6896da7acd46635b0595",
+      "nodeId": "8001:84",
+      "name": "Direction=Bottom, Position=Center Align, Size=Small, Level=1",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cc77b4a2aefc805ef53c3b9ed9357bac59065971",
+      "nodeId": "8001:111",
+      "name": "State=BOTTOM, Size=Small",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d1d0338057d841dabfa7601e464e6ec456576781",
+      "nodeId": "8114:214",
+      "name": "Direction=Top, Position=Right Align, Size=Small, Level=2",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d7ac4605b581cf55e3c8cab7b015721f63168509",
+      "nodeId": "8001:44",
+      "name": "Direction=Top, Position=Right Align, Size=Small, Level=1",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e2585afd896faca50dcbd804b600972acaa0311e",
+      "nodeId": "8114:250",
+      "name": "Direction=Bottom, Position=Left Align, Size=Small, Level=2",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "eabec0b2f3825d48f648b3fcde141281aaebaded",
+      "nodeId": "8001:89",
+      "name": "Direction=Bottom, Position=Center Align, Size=Medium, Level=1",
+      "description": "",
+      "containingFrame": "Tooltip",
+      "containingPage": "1.0"
+    }
+  ]
+}

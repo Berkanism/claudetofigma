@@ -1,0 +1,129 @@
+{
+  "fileKey": "Nkvz18CYJHlcdbl0AzUZpY",
+  "name": "Logos",
+  "group": "assets",
+  "updatedAt": "2026-03-03T15:10:42.152Z",
+  "componentCount": 15,
+  "components": [
+    {
+      "key": "acffa04d54a690dfd15ba247d05a7df791390ab2",
+      "nodeId": "942:2041",
+      "name": "Type=White",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "c430bb796648e09936bdd9f523bb37489dafaf99",
+      "nodeId": "942:2039",
+      "name": "Type=Color",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "2ec4ce08d760c9882502c9c74b5a414f88bf340b",
+      "nodeId": "453:819",
+      "name": "Brand=Technology",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "a03ac4c8298f448cb348eea37ada88606b22a049",
+      "nodeId": "453:759",
+      "name": "Brand=Stock",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "0d4cdd30d20380a26b1c2430dee8d0e468b64587",
+      "nodeId": "453:749",
+      "name": "Brand=Main",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "2560c3dbea3e32a97dc9ccb78f6c2c38440b546e",
+      "nodeId": "800:2491",
+      "name": "Brand=Global",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "35ff815c1c4abba17749beadea53ac26ca3dd794",
+      "nodeId": "453:743",
+      "name": "Brand=Crypto",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "37df893a693047959ac2ce08b688d8547d68e1a4",
+      "nodeId": "453:771",
+      "name": "Brand=Bank",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "49937e85fce8e7b0b363491223f56b29fe1c8493",
+      "nodeId": "453:795",
+      "name": "Brand=Ventures",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "675110990b2f565e5875ae2d0ed548cbf533148e",
+      "nodeId": "453:856",
+      "name": "Brand=HR",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "7748ff7237d67ecd33897b65f035d8742c922329",
+      "nodeId": "453:807",
+      "name": "Brand=Custody",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "7b03d3191fe6e31486ba804f756ff6dd3221aaa8",
+      "nodeId": "453:831",
+      "name": "Brand=Support",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "931eba67ed7c291d47210b36e1b5845e53a02d00",
+      "nodeId": "453:783",
+      "name": "Brand=Wallet",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "c8554f763a80d3679e0617b3ec58bef2d0ade2fc",
+      "nodeId": "638:1430",
+      "name": "Brand=Bitcoin",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    },
+    {
+      "key": "fd911ce2efdfbe948473f9a3f8954b93143c4de2",
+      "nodeId": "638:1439",
+      "name": "Brand=Info",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "Logo"
+    }
+  ]
+}

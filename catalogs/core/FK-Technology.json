@@ -1,0 +1,169 @@
+{
+  "fileKey": "2iIFDf53s7KHbLjt5nrzLW",
+  "name": "FK-Technology",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:18.010Z",
+  "componentCount": 20,
+  "components": [
+    {
+      "key": "8c299cb01e6faca16a1b16c040392152baa630ab",
+      "nodeId": "8002:58",
+      "name": "State=Scanning (03)",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "0885897d5d854cc5f1323fbe624006d00e122a1f",
+      "nodeId": "8002:103",
+      "name": "Type=Variant2",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "0e5b24e5e20428e4518ee1b250c4f4972a6309a3",
+      "nodeId": "8002:101",
+      "name": "Type=Default",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "2a5e4bea9dcdbde46358bde15a90d8d60136dab0",
+      "nodeId": "8002:68",
+      "name": "State=Scanning (04)",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "2b04858a8163e62f2b3a859828122f413e6b836e",
+      "nodeId": "8002:132",
+      "name": "Type=02",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "3bb7564b6df14e1d49ab6218f48be39d853b9bd0",
+      "nodeId": "8002:111",
+      "name": "Type=Variant2",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "40100a3fc23ac704856300569ee78cb983002bb2",
+      "nodeId": "8002:38",
+      "name": "State=Scanning (01)",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "6cf340afa36abd57e601897fe310c14e54a7f215",
+      "nodeId": "8002:126",
+      "name": "Type=01",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "82ff82fadc56e8a36ddae832f74fda3abca5b601",
+      "nodeId": "8002:120",
+      "name": "Type=00",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "8e2e3ef95000acea03123ff7d01f0f509b20b379",
+      "nodeId": "8002:106",
+      "name": "Type=Default",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "915ff0646bd0ef66568a4a91b5cac15f05a87acd",
+      "nodeId": "8002:95",
+      "name": "State=Done",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "9bdb8a96d52fe1197c4522fa5b1d29949d3e6fe0",
+      "nodeId": "8002:114",
+      "name": "Type=Variant3",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "a30554f874373a5ef506544207257c67669a051f",
+      "nodeId": "8002:78",
+      "name": "State=State9",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "af234fb673f930d29377e35daaea7d327c085f4c",
+      "nodeId": "8002:144",
+      "name": "Type=04",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "c2f807371c8c95f4625c2c7df0dd0c53787f6b9c",
+      "nodeId": "8002:28",
+      "name": "State=Scanning (00)",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "d571c180ff54d86f394aba323f36cff40f165f94",
+      "nodeId": "8002:48",
+      "name": "State=Scanning (02)",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "e9551aaf9fbd5244003cfa7651d30ee0979bf08e",
+      "nodeId": "8002:138",
+      "name": "Type=03",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "f1e5e0f090ba83e15aeb1a22478555913e7c0309",
+      "nodeId": "8002:88",
+      "name": "State=Error",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "f63f0a551df363715baef3bc70ea4651b80bdc5f",
+      "nodeId": "8002:150",
+      "name": "Type=05",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    },
+    {
+      "key": "f9d08adf84b77122413e97d2e795d5164a802109",
+      "nodeId": "8002:20",
+      "name": "State=Before Scan",
+      "description": "",
+      "containingFrame": "NFC Scanner (iOS)",
+      "containingPage": "NFC Scanner (iOS)"
+    }
+  ]
+}

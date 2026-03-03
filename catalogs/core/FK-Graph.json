@@ -1,0 +1,185 @@
+{
+  "fileKey": "DiVyjfM8iWfJeQVZoGfOf1",
+  "name": "FK-Graph",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:09:55.959Z",
+  "componentCount": 22,
+  "components": [
+    {
+      "key": "0665115a4bc67c8a37cf1e874cb94adbf31e5f0a",
+      "nodeId": "8002:116",
+      "name": "Style=Dummy",
+      "description": "",
+      "containingFrame": "Big Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0941b13cd7a04098f360926526e58ffe217c5f60",
+      "nodeId": "8002:62",
+      "name": "Dots/Default",
+      "description": "",
+      "containingFrame": "",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "15a9b0bf1fd9ca3156511681eca9d5d11068a73d",
+      "nodeId": "8002:56",
+      "name": "theme=dark, Type=DOWN, Version=3.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3215b07ccf0726230564e01f4d7c0d4c02bd43bc",
+      "nodeId": "8002:45",
+      "name": "theme=dark, Type=DOWN, Version=1.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "34a0be24c0e5e23bc7c51924f8e4effd9b878a06",
+      "nodeId": "8002:33",
+      "name": "theme=light, Type=UP, Version=2.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3f5afc13d1e28e57d6cd4fe2721f3751eba00f1c",
+      "nodeId": "8002:19",
+      "name": "theme=dark, Type=UP, Version=1.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "432284bd8198fa398d1ef8b0febd9bcdcfe12705",
+      "nodeId": "8002:125",
+      "name": "Style=Hisse",
+      "description": "",
+      "containingFrame": "Big Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "438b43ec6c5974feb09507af5ac923cda00f9ba3",
+      "nodeId": "8002:48",
+      "name": "theme=light, Type=NA, Version=1.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4b37a95b6320950b206a73cd6c7051cef370a914",
+      "nodeId": "8002:30",
+      "name": "theme=dark, Type=UP, Version=2.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6bf668f2c4b5ddc13252a8f6e764eebd81b2a791",
+      "nodeId": "8002:27",
+      "name": "theme=light, Type=UP, Version=4.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "73a5bab2f077ea0a14cf5b463cbd04be6fbbe0b6",
+      "nodeId": "8002:39",
+      "name": "theme=light, Type=UP, Version=3.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7ae625f20cd7cc44afe5dcc3e44c09aab050b185",
+      "nodeId": "8002:42",
+      "name": "theme=light, Type=DOWN, Version=Default",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7ffcaa6653dd6f5ea5cd49ac780f6dd7bd0b1e8a",
+      "nodeId": "8002:36",
+      "name": "theme=dark, Type=UP, Version=3.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "840ee543f3585cd14c8ee80d1ce9091cd0ab28fb",
+      "nodeId": "8002:22",
+      "name": "theme=dark, Type=NA, Version=1.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "87c3126467e1430b27f0f94179bf3bd3ff9760e1",
+      "nodeId": "8002:119",
+      "name": "Style=Kripto",
+      "description": "",
+      "containingFrame": "Big Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8b99153e7b2755229745b9bfbbee7f1534950221",
+      "nodeId": "8002:53",
+      "name": "theme=light, Type=DOWN, Version=2.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8e4a803f135d0a885649780785e118c938f6d23d",
+      "nodeId": "8002:50",
+      "name": "theme=dark, Type=DOWN, Version=2.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ae49be0651fc94ff03bd36b8dab9b25fee77b381",
+      "nodeId": "8002:59",
+      "name": "theme=light, Type=DOWN, Version=3.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cd995af56bd7a92738ae9bac7cdd6c4d1838437c",
+      "nodeId": "8002:16",
+      "name": "theme=light, Type=UP, Version=Default",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d0047a2a500d1dfbe4062a57053b748aee4fced6",
+      "nodeId": "8002:122",
+      "name": "Style=Kripto (Low)",
+      "description": "",
+      "containingFrame": "Big Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d0a8a49394b1c5a9db21fe75de869b6c650500bc",
+      "nodeId": "8002:24",
+      "name": "theme=dark, Type=UP, Version=4.0",
+      "description": "",
+      "containingFrame": "Graph Small ½",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d463ce001ffb2a6c6013dc3565a4b5c797fff542",
+      "nodeId": "8002:128",
+      "name": "Style=Hisse (Low)",
+      "description": "",
+      "containingFrame": "Big Graph",
+      "containingPage": "1.0"
+    }
+  ]
+}

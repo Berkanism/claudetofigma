@@ -1,0 +1,1665 @@
+{
+  "fileKey": "366GFBWgYcSAnuiMmBZSlm",
+  "name": "FK-Input",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:01.035Z",
+  "componentCount": 207,
+  "components": [
+    {
+      "key": "11c7410273c82504e96e0b0a371d37f55ae8877f",
+      "nodeId": "85:2325",
+      "name": "Property 1=Variant2",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1b03edee493ff8ccb1a1a74b34d009659a4d4b44",
+      "nodeId": "296:3287",
+      "name": "Type=4 Digit, State=2nd",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3405d6eb2a778e8c8a4758e8907c2e0e0db48c0b",
+      "nodeId": "85:2306",
+      "name": "State=Amount",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "54c04af5ebbcd6519103e637dff095087d130ce9",
+      "nodeId": "296:3321",
+      "name": "Type=6 Digit, State=1st",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6178a9957034bb25b7e6e3f182063b6196e9d2c2",
+      "nodeId": "296:3339",
+      "name": "Type=6 Digit, State=2nd",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8c5b9d07717eea8eb50a74895c256dcb0301a7d7",
+      "nodeId": "296:3307",
+      "name": "Type=4 Digit, State=4th",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9a7277e546d4124ccddddc7fcf9c47109be62938",
+      "nodeId": "85:2177",
+      "name": "Type=4 Digit, State=Rest",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a7d313051be67caf4029b2e280c14e1ff8c87136",
+      "nodeId": "296:3297",
+      "name": "Type=4 Digit, State=3rd",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "aba5d5b26df569ec37e0d0de23deab4cbec7b3c2",
+      "nodeId": "296:3393",
+      "name": "Type=6 Digit, State=5th",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d0c1cf63e0fdf1f477aca57ab994c6a9129f56da",
+      "nodeId": "296:3357",
+      "name": "Type=6 Digit, State=3rd",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d87788bc8cd988ec833aca55992e15c393f8fa89",
+      "nodeId": "296:3411",
+      "name": "Type=6 Digit, State=6th",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "edd745d06619d92ca9cb77ce95588cf028c0682f",
+      "nodeId": "296:3375",
+      "name": "Type=6 Digit, State=4th",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f17862f71bb675c859745ea960db229558bdb9c4",
+      "nodeId": "296:3277",
+      "name": "Type=4 Digit, State=1st",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fae66cb4de8c2dee94383b299b91bc24d19ab647",
+      "nodeId": "85:2182",
+      "name": "Type=6 Digit, State=Rest",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0e49a4d732d03eb2b9541803335a38457608b484",
+      "nodeId": "4:1167",
+      "name": "Platform=App, Size=Large, State=Disabled, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3238aa127cfc9eaea6a421add34fb1889bf1aafc",
+      "nodeId": "46:3013",
+      "name": "Platform=Web, Size=Large, State=Done, Feature=Price, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "29530d6c599027276b2d2566c9a89f890fbba9be",
+      "nodeId": "4:1303",
+      "name": "Platform=App, Size=Large, State=Focus, Feature=Hint Tracker, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5fd96007b5a78f35f936144f65f4784fc557f807",
+      "nodeId": "46:2968",
+      "name": "Platform=Web, Size=Large, State=Error, Feature=Multi Line, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "62bd6f1363577e8be5b55f4d9adae76b55cc65f6",
+      "nodeId": "4:1421",
+      "name": "Platform=App, Size=Large, State=Done, Feature=Phone, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "63f6424b26ed7d7521efdcd9e56019f459719fc0",
+      "nodeId": "85:2320",
+      "name": "Property 1=Default",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "01bce69a960da5f092ebba43844f7311b2309142",
+      "nodeId": "4:1267",
+      "name": "Platform=App, Size=Large, State=Done, Feature=Button, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "043828f5a96c79b03b7baf50510de94cce17f4b2",
+      "nodeId": "4:1479",
+      "name": "Platform=App, Size=Large, State=Disabled, Feature=ID, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "06048df99fcf9065f9e85f33ae6d2b7b106846af",
+      "nodeId": "4:1066",
+      "name": "Platform=App, Size=Large, State=Error, Feature=Phone, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0638df46369d3224ee5733d05e4b96e5ab295d98",
+      "nodeId": "4:1764",
+      "name": "Platform=App, Size=Small, State=Done, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "06cdd595ea1aca65deb586e3d1a267366bcf55fd",
+      "nodeId": "85:2213",
+      "name": "State=Weak, Type=8 Digit",
+      "description": "",
+      "containingFrame": "Password Wizard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "08393e8b347e03da6a69c2152d822f9b1c97b7b1",
+      "nodeId": "46:2874",
+      "name": "Platform=Web, Size=Large, State=Focus, Feature=Numeric, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0a6cce161b89a3bc07c0ecbd41d275778ee03325",
+      "nodeId": "46:3163",
+      "name": "Platform=Web, Size=Large, State=Inactive, Feature=Phone (TR), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0b01cc79551667d07df23326b74e5756fc3409ab",
+      "nodeId": "46:3198",
+      "name": "Platform=Web, Size=Large, State=Focus, Feature=Phone (TR), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0cfbd6d839d45839608c62680c5bfd27b4c6f5f7",
+      "nodeId": "4:1397",
+      "name": "Platform=App, Size=Large, State=Typing, Feature=Phone (TR), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "14aad629d43927fd2aec82b663e9815b344577ee",
+      "nodeId": "46:3114",
+      "name": "Platform=Web, Size=Large, State=Disabled, Feature=Button, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "16f0a781d73a817b8a0c88b65c7ce988eb1c2e2e",
+      "nodeId": "4:1493",
+      "name": "Platform=App, Size=Large, State=Typing, Feature=Hint Tracker, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "17e299f67e1eff353596bdb0948eae53ab8b9f8c",
+      "nodeId": "4:1742",
+      "name": "Platform=App, Size=Small, State=Focus, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1842f351a5d5ec8e7d7f7db5fc1a2e3534c691ce",
+      "nodeId": "4:1550",
+      "name": "Platform=App, Size=Large, State=Focus, Feature=Extension (L), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1a09b7ef12dc91a1c214e5642945a09166a4afce",
+      "nodeId": "46:2868",
+      "name": "Platform=Web, Size=Large, State=Error, Feature=Numeric, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1a0a108950e451e70e512321f44c01b93fbfa55e",
+      "nodeId": "4:1325",
+      "name": "Platform=App, Size=Large, State=Inactive, Feature=Phone (TR), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1aa1cc38dee078deb0f2ce0bbc71e3368d95f5c0",
+      "nodeId": "46:3506",
+      "name": "Platform=Web, Size=Large, State=Inactive, Feature=Price, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1d09f1b40a0b29b346b1d18fb5cb26be32433046",
+      "nodeId": "4:1276",
+      "name": "Platform=App, Size=Large, State=Disabled, Feature=Button, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1d15bb8073a71cfe85432b41d3d7ffd7bcc688f0",
+      "nodeId": "46:3220",
+      "name": "Platform=Web, Size=Large, State=Typing, Feature=Phone, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "201081bff9bcd8de34cdd0e7fa414286d14acc7b",
+      "nodeId": "4:1040",
+      "name": "Platform=App, Size=Large, State=Inactive, Feature=Numeric, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "211f29746b4916656b46db3300980574d4674f6f",
+      "nodeId": "46:3376",
+      "name": "Platform=Web, Size=Large, State=Focus, Feature=Extension (R), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "21edb811b72a7bbc132b8b16689d53cfa8055e41",
+      "nodeId": "46:3559",
+      "name": "Platform=Web, Size=X-Small, State=Disabled, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "235755068222678f288dfff8820ec8defa4fa403",
+      "nodeId": "46:3093",
+      "name": "Platform=Web, Size=Large, State=Disabled, Feature=Multi Line, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "25ce4d56b965d34e5c7f254b99a80aa4324b4edf",
+      "nodeId": "46:3170",
+      "name": "Platform=Web, Size=Large, State=Inactive, Feature=ID, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2660340f41f0f95b78f930a3a483d605476553ec",
+      "nodeId": "46:3123",
+      "name": "Platform=Web, Size=Large, State=Focus, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "26eed45fb26489f9a27efdc3b19cb2cc5ad84119",
+      "nodeId": "4:1619",
+      "name": "Platform=App, Size=Large, State=Typing, Feature=Button, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "27b474b5fef9909951b0131bbaff9b5069d07e63",
+      "nodeId": "46:3388",
+      "name": "Platform=Web, Size=Large, State=Focus, Feature=Extension (L), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2804eb51284f4e138a63b0898d0905367f919045",
+      "nodeId": "4:1538",
+      "name": "Platform=App, Size=Large, State=Focus, Feature=Extension (R), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2f59a986e216238ba2b1afc8a40e160da871e641",
+      "nodeId": "4:1728",
+      "name": "Platform=App, Size=X-Small, State=Error, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2f81b80d57584f8cc1aab207478002d35ac11b45",
+      "nodeId": "4:1368",
+      "name": "Platform=App, Size=Large, State=Focus, Feature=ID, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "301e2078c7b667162e89dc0863b25edec26118b3",
+      "nodeId": "4:1030",
+      "name": "Platform=App, Size=Large, State=Error, Feature=Numeric, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "30279f14ac01ccabcb49da7c13371b4a56279dba",
+      "nodeId": "46:3244",
+      "name": "Platform=Web, Size=Large, State=Typing, Feature=ID, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "34994f3b92aa8e5f2001a09291b2410ad75d16bb",
+      "nodeId": "4:1678",
+      "name": "Platform=App, Size=Large, State=Inactive, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "37f2eef5e712b57235b887b1e8bdce0a697b26f8",
+      "nodeId": "4:1219",
+      "name": "Platform=App, Size=Large, State=Disabled, Feature=Extension (R), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "39f7217e026833d87d8fced27460fe5f9648ab6f",
+      "nodeId": "4:1574",
+      "name": "Platform=App, Size=Large, State=Typing, Feature=Extension (R), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3d5e597972d5db801058bb78918afd5b55c90761",
+      "nodeId": "4:1032",
+      "name": "Platform=App, Size=Large, State=Done, Feature=Numeric, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3e34e4664cfb96e4c403ffd5d1c2829c1901283c",
+      "nodeId": "46:3566",
+      "name": "Platform=Web, Size=X-Small, State=Error, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3ebfd9f96a1e41b4d3dfe939b95943b455fa4fae",
+      "nodeId": "4:1586",
+      "name": "Platform=App, Size=Large, State=Typing, Feature=Extension (L), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3f0d1d8f7a49743ef01313d048eedaca80084e22",
+      "nodeId": "46:3206",
+      "name": "Platform=Web, Size=Large, State=Focus, Feature=ID, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "40cea4719807b55fb0ec04ad62d1528feaf09717",
+      "nodeId": "46:3033",
+      "name": "Platform=Web, Size=Large, State=Done, Feature=Extension (R), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "438555d9a71db76a082a331164b31553b0c20e9a",
+      "nodeId": "4:1038",
+      "name": "Platform=App, Size=Large, State=Typing, Feature=Numeric, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "439c40acffe84631c74af84b9b470b4ef61eaa3a",
+      "nodeId": "2149:43887",
+      "name": "Platform=App, Size=Large, State=Error, Feature=Price [Big], Background=False",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "43f739d0021e0d70f5c61d93e962412678f58e19",
+      "nodeId": "46:3523",
+      "name": "Platform=Web, Size=Large, State=Inactive, Feature=Hint Tracker, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "449c63890285e4f102c93f8b0228c891badb345f",
+      "nodeId": "4:1382",
+      "name": "Platform=App, Size=Large, State=Typing, Feature=Phone, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "44df3e3f884362502c0a26d60ad3d7f89a092382",
+      "nodeId": "4:1231",
+      "name": "Platform=App, Size=Large, State=Disabled, Feature=Extension (L), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "480484b34c1d5e5eda306362c29f7ed1f24654ee",
+      "nodeId": "4:1502",
+      "name": "Platform=App, Size=Large, State=Done, Feature=Hint Tracker, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4917cd2534a2f400ef21dcefc752bc0c96602084",
+      "nodeId": "46:3149",
+      "name": "Platform=Web, Size=Large, State=Inactive, Feature=Phone, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4a887f1f02b3711de6be33ef993cf216f6137fb5",
+      "nodeId": "4:1610",
+      "name": "Platform=App, Size=Large, State=Focus, Feature=Button, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4be4e458ea00d64ff01704f3f6da77962744ec5c",
+      "nodeId": "2149:43855",
+      "name": "Platform=App, Size=Large, State=Done, Feature=Price [Big], Background=False",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4e7835ff68a30619ed12dd0e4aef0f919b4683e8",
+      "nodeId": "46:2997",
+      "name": "Platform=Web, Size=Large, State=Done, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5731b30dba33f0a62ceb02a320a0a7deb6c888b5",
+      "nodeId": "46:3331",
+      "name": "Platform=Web, Size=Large, State=Typing, Feature=Hint Tracker, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "58682acab66d26cc3a3d2d3a651d0cfce7eced0a",
+      "nodeId": "4:1054",
+      "name": "Platform=App, Size=Large, State=Error, Feature=Hint Tracker, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "59521a0aa95e9b688f89b9c773cfbbc440e41b21",
+      "nodeId": "4:1034",
+      "name": "Platform=App, Size=Large, State=Disabled, Feature=Numeric, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5ad8a879719fc8566fd78e850bd881d6b83d22a5",
+      "nodeId": "46:3023",
+      "name": "Platform=Web, Size=Large, State=Disabled, Feature=Price, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5c466a13c6772bf66bee32466d79976443e984ff",
+      "nodeId": "46:3552",
+      "name": "Platform=Web, Size=X-Small, State=Done, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5d9d4b6991a49db48d37612755a3f1bc568dbb34",
+      "nodeId": "4:1721",
+      "name": "Platform=App, Size=X-Small, State=Disabled, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5fe2ca330a5e0e1e058643a6cd5e48bcea90c9c6",
+      "nodeId": "46:2922",
+      "name": "Platform=Web, Size=Large, State=Error, Feature=Price, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6176ef0a27b07f6b473e8a03787cb520091b8684",
+      "nodeId": "4:1465",
+      "name": "Platform=App, Size=Large, State=Done, Feature=ID, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "61c9e8db1d8fe16c6b18c553a07c1225db415f94",
+      "nodeId": "4:1285",
+      "name": "Platform=App, Size=Large, State=Focus, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6202970ec98f0e52760de4c11467f7c9584bda17",
+      "nodeId": "4:1435",
+      "name": "Platform=App, Size=Large, State=Disabled, Feature=Phone, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "68239f66a1b399cb0892e6564c121a540f4d9996",
+      "nodeId": "46:3141",
+      "name": "Platform=Web, Size=Large, State=Focus, Feature=Hint Tracker, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "68f70c2b0d93f05674f1ce360d2e410c6ef5ea62",
+      "nodeId": "46:2904",
+      "name": "Platform=Web, Size=Large, State=Error, Feature=Phone, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6aaf20352407387c2b954d5058c374be72a7cfba",
+      "nodeId": "4:1598",
+      "name": "Platform=App, Size=Large, State=Typing, Feature=Multi Line, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6bd8ef54b59dfbda61a3dc3ffe028d13ecc9248e",
+      "nodeId": "4:1293",
+      "name": "Platform=App, Size=Large, State=Typing, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6d2785222bbfb9c66e59b3894f12bdf42d854ff5",
+      "nodeId": "85:2233",
+      "name": "State=Strong, Type=8 Digit",
+      "description": "",
+      "containingFrame": "Password Wizard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7045cfda5bbdf5d13207d99dbe1e0349eb8824cd",
+      "nodeId": "4:1638",
+      "name": "Platform=App, Size=Large, State=Inactive, Feature=Extension (R), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "70c0cbc7e2914dc7f61a0f2f43a5e552c2e6a747",
+      "nodeId": "46:2880",
+      "name": "Platform=Web, Size=Large, State=Error, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "71144d06e917397cbf2e03ae6d57e7bed3a983cb",
+      "nodeId": "46:3609",
+      "name": "Platform=Web, Size=Small, State=Disabled, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7466655e52e25934ca77b28a833f2da3897b40fc",
+      "nodeId": "46:3537",
+      "name": "Platform=Web, Size=X-Small, State=Focus, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7586faf750a5276e7df77d9f805f68b2481db0c4",
+      "nodeId": "46:2984",
+      "name": "Platform=Web, Size=Large, State=Error, Feature=Button, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "76d7f687a7228a967359ecede6f2e72ed3d888ef",
+      "nodeId": "46:3468",
+      "name": "Platform=Web, Size=Large, State=Inactive, Feature=Button, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "77e145e24dd5b7295f015e81aa8401d7788be3ae",
+      "nodeId": "46:3340",
+      "name": "Platform=Web, Size=Large, State=Done, Feature=Hint Tracker, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7847ca3b76154c54353cf5a9491cae6026fa1aed",
+      "nodeId": "4:1648",
+      "name": "Platform=App, Size=Large, State=Inactive, Feature=Extension (L), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "79de14e31e842b8199f4c8ff4e7eb24995a03302",
+      "nodeId": "46:3366",
+      "name": "Platform=Web, Size=Large, State=Typing, Feature=Price, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7d17a24aeafe20494ad1994ddb4f65e5d9378373",
+      "nodeId": "4:1757",
+      "name": "Platform=App, Size=Small, State=Error, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7d1eb1ce5ed4ff273a93984c20083356f3530408",
+      "nodeId": "4:1735",
+      "name": "Platform=App, Size=Small, State=Inactive, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7ee871ca905d371c782a433dbc87f0b2f169e2e8",
+      "nodeId": "4:1360",
+      "name": "Platform=App, Size=Large, State=Focus, Feature=Phone (TR), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7f5ff54bf21175104729add884ffe140896bf828",
+      "nodeId": "46:3424",
+      "name": "Platform=Web, Size=Large, State=Typing, Feature=Extension (L), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "801188412667479432075125dffff439307932b6",
+      "nodeId": "46:3476",
+      "name": "Platform=Web, Size=Large, State=Inactive, Feature=Extension (R), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8045f1f99f4def6db0e1a780ecbd93e7e830c81e",
+      "nodeId": "2149:43823",
+      "name": "Platform=App, Size=Large, State=Typing, Feature=Price [Big], Background=False",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "81122f42510b20d17dfdb2b4e1448f676bff55d2",
+      "nodeId": "4:1098",
+      "name": "Platform=App, Size=Large, State=Error, Feature=Extension (R), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8285aacf95ae424ffbd82cfc29f5dc6fb3b5b76b",
+      "nodeId": "46:3448",
+      "name": "Platform=Web, Size=Large, State=Focus, Feature=Button, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "82ce81f76677fd5217fb672a1eedcc0284331ce2",
+      "nodeId": "4:1714",
+      "name": "Platform=App, Size=X-Small, State=Done, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "85e4a733864aa8cff6500a9119ae02134e80efe0",
+      "nodeId": "4:1406",
+      "name": "Platform=App, Size=Large, State=Typing, Feature=ID, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "89f02e83d63fd2307fa6ef81ab6042e907eb0947",
+      "nodeId": "4:1685",
+      "name": "Platform=App, Size=Large, State=Inactive, Feature=Hint Tracker, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8ce9d7f17fcd9da902e1096451559cc566dd0cde",
+      "nodeId": "4:1528",
+      "name": "Platform=App, Size=Large, State=Typing, Feature=Price, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8d813841084f1f67c9fc955d7aaae4abeb96dc95",
+      "nodeId": "4:1706",
+      "name": "Platform=App, Size=X-Small, State=Typing, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8d89b04619f2d1e1ec42ee11fb916ab600187ed4",
+      "nodeId": "46:3273",
+      "name": "Platform=Web, Size=Large, State=Disabled, Feature=Phone, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8e3080c3e5b106578990527789a132ce96063b07",
+      "nodeId": "4:1692",
+      "name": "Platform=App, Size=X-Small, State=Inactive, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8e6f660ea28780c2bd1c21c92ee5913dbc5f7e26",
+      "nodeId": "4:1562",
+      "name": "Platform=App, Size=Large, State=Focus, Feature=Multi Line, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8ef0517510dd9c2f49181a60400f7be8972819ab",
+      "nodeId": "4:1042",
+      "name": "Platform=App, Size=Large, State=Error, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "909d4659692dd573638185bc4d7f6180c02d73ea",
+      "nodeId": "46:3436",
+      "name": "Platform=Web, Size=Large, State=Typing, Feature=Multi Line, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "90ae3205041520630f5cf98407c2dc55fbf72e20",
+      "nodeId": "46:3287",
+      "name": "Platform=Web, Size=Large, State=Done, Feature=Phone (TR), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "91258e92708eeb6d529b722185c443c4a54705ae",
+      "nodeId": "46:3530",
+      "name": "Platform=Web, Size=X-Small, State=Inactive, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "91809bed3495ed9232871cf792b2955522dfaa9f",
+      "nodeId": "46:2892",
+      "name": "Platform=Web, Size=Large, State=Error, Feature=Hint Tracker, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9226b4a6bfd1e5580ad229ba2586fb2bc1117fc7",
+      "nodeId": "46:3573",
+      "name": "Platform=Web, Size=Small, State=Inactive, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "93e1a1cdf74303fb7e0437a203f32decc92c96de",
+      "nodeId": "46:3081",
+      "name": "Platform=Web, Size=Large, State=Done, Feature=Multi Line, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "93e1c969b9a2db60c84abce635481e4a013a25e1",
+      "nodeId": "4:1175",
+      "name": "Platform=App, Size=Large, State=Done, Feature=Price, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "962d6a31755969a3794dddf3dfde441dd9539372",
+      "nodeId": "4:1518",
+      "name": "Platform=App, Size=Large, State=Focus, Feature=Price, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "971fe8e45a09450e00bdee3c2cc8196e3d761528",
+      "nodeId": "4:1668",
+      "name": "Platform=App, Size=Large, State=Inactive, Feature=Price, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "97859f73614eeeab894ac2118cba2de3a7efd975",
+      "nodeId": "46:3602",
+      "name": "Platform=Web, Size=Small, State=Done, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9d64f5455650ac4e5102550d1a4ef7a3a0797a13",
+      "nodeId": "46:3069",
+      "name": "Platform=Web, Size=Large, State=Disabled, Feature=Extension (L), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a10949ec69d23a7dac7567b11dad6dafdf3e7ff9",
+      "nodeId": "46:2952",
+      "name": "Platform=Web, Size=Large, State=Error, Feature=Extension (L), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a13288c76ec8fc80ac2fb2930f1f33ac889e7d4d",
+      "nodeId": "46:3295",
+      "name": "Platform=Web, Size=Large, State=Disabled, Feature=Phone (TR), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a6557a6e7780424ab38deedbbf2bbfb73fe06be6",
+      "nodeId": "85:2209",
+      "name": "State=Default, Type=6 Digit",
+      "description": "",
+      "containingFrame": "Password Wizard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a753ab04ef2997608bb0ebc5ca19984e40a044a9",
+      "nodeId": "4:1159",
+      "name": "Platform=App, Size=Large, State=Done, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a7daa07bfb56746d39215bc43e4846f16569d2a8",
+      "nodeId": "46:3348",
+      "name": "Platform=Web, Size=Large, State=Disabled, Feature=Hint Tracker, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a9748e576825722ae97824e3c1ccab16a7976b48",
+      "nodeId": "46:2870",
+      "name": "Platform=Web, Size=Large, State=Done, Feature=Numeric, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "aa31d7911d5cf26dd0f8ccc2dd2eb8da3057fd61",
+      "nodeId": "46:3317",
+      "name": "Platform=Web, Size=Large, State=Disabled, Feature=ID, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "aa96dcf08930fbaf6723017f3e1cbd37da53f7c7",
+      "nodeId": "4:1243",
+      "name": "Platform=App, Size=Large, State=Done, Feature=Multi Line, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ab48772c6c25e4ee72d4b28e274008a52d9c5f70",
+      "nodeId": "46:3587",
+      "name": "Platform=Web, Size=Small, State=Typing, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "af4c2bee5764dd8332dcb718e37c067bddb61259",
+      "nodeId": "4:1699",
+      "name": "Platform=App, Size=X-Small, State=Focus, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "afc269a03ee1ae5594ad7a3484af906f4b1f41c7",
+      "nodeId": "4:1084",
+      "name": "Platform=App, Size=Large, State=Error, Feature=Price, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b1b6cc897dbaf320776621f2afb5a2f06f830d00",
+      "nodeId": "4:1207",
+      "name": "Platform=App, Size=Large, State=Done, Feature=Extension (L), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b3738a6061bce10a183defac3859ad384bd7ea74",
+      "nodeId": "85:2223",
+      "name": "State=Middle, Type=8 Digit",
+      "description": "",
+      "containingFrame": "Password Wizard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b5174b803b1b2df88e69a72ac559c8f431659027",
+      "nodeId": "4:1346",
+      "name": "Platform=App, Size=Large, State=Focus, Feature=Phone, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b6e8e44d06d296e2452d1797cd4e5e82a8612c9e",
+      "nodeId": "4:1771",
+      "name": "Platform=App, Size=Small, State=Disabled, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b79d56d7cd4b6efb84db7373b637fff7f4f03fef",
+      "nodeId": "4:1311",
+      "name": "Platform=App, Size=Large, State=Inactive, Feature=Phone, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b955d1ca2d23bd308e1f7f933e38bc4678c40c80",
+      "nodeId": "46:2876",
+      "name": "Platform=Web, Size=Large, State=Typing, Feature=Numeric, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b989c9b9f0063eb2350d87898c74b91874156779",
+      "nodeId": "46:3544",
+      "name": "Platform=Web, Size=X-Small, State=Typing, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bc57af9670fc5659385c4ca5f7a915f188faff07",
+      "nodeId": "85:2323",
+      "name": "Property 1=Variant3",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "be470715612315072d8c779962f3cfdae317e67f",
+      "nodeId": "46:3595",
+      "name": "Platform=Web, Size=Small, State=Error, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c156f68e563439176397259ff842938c716e05b8",
+      "nodeId": "2149:43758",
+      "name": "Platform=App, Size=Large, State=Inactive, Feature=Price [Big], Background=False",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c442789ae251ea5ca930d1cb029bccc81f6a13fe",
+      "nodeId": "85:2199",
+      "name": "State=Default, Type=8 Digit",
+      "description": "",
+      "containingFrame": "Password Wizard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c54ac6f1bd0acd4c968eaef7a9c9f0f5a90b9666",
+      "nodeId": "4:1036",
+      "name": "Platform=App, Size=Large, State=Focus, Feature=Numeric, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c78f451dd7d77274e9a2df57806384ebc4f3bfce",
+      "nodeId": "46:3400",
+      "name": "Platform=Web, Size=Large, State=Focus, Feature=Multi Line, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c79a29d74fe7f669ab0fd9138e7ce909899f333a",
+      "nodeId": "4:1449",
+      "name": "Platform=App, Size=Large, State=Done, Feature=Phone (TR), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c80e3f38352d0f84f53771e8ef05bd871817d53e",
+      "nodeId": "46:3184",
+      "name": "Platform=Web, Size=Large, State=Focus, Feature=Phone, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c827758b72ea187402015d681d8c1bbced8fef61",
+      "nodeId": "4:1630",
+      "name": "Platform=App, Size=Large, State=Inactive, Feature=Button, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c836813b36518a8d6379cfb17a5c553f60efa45c",
+      "nodeId": "46:3005",
+      "name": "Platform=Web, Size=Large, State=Disabled, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c965ebe09ec14a7f9ef07352e0eda652878304ee",
+      "nodeId": "46:2878",
+      "name": "Platform=Web, Size=Large, State=Inactive, Feature=Numeric, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cde5081620d4d81513cc0681f93ad5c1a5b7e380",
+      "nodeId": "46:3045",
+      "name": "Platform=Web, Size=Large, State=Done, Feature=Extension (L), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d000acf292181219fcd702464fdcb236755da720",
+      "nodeId": "46:3105",
+      "name": "Platform=Web, Size=Large, State=Done, Feature=Button, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d1867e4888f8a8cf6fab3c2bfac035e138a469f1",
+      "nodeId": "4:1457",
+      "name": "Platform=App, Size=Large, State=Disabled, Feature=Phone (TR), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d382142a6aec901677f1ad287c593c71e2d79369",
+      "nodeId": "46:3259",
+      "name": "Platform=Web, Size=Large, State=Done, Feature=Phone, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d4ac12869744702c51f8a9e2e59bbcf15449452a",
+      "nodeId": "46:3580",
+      "name": "Platform=Web, Size=Small, State=Focus, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dce4156c2657b9b6f0b4398fa88ccfcdbad74639",
+      "nodeId": "85:2281",
+      "name": "State=Price",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dffe6cc04aa102f9d70628b8ca14ae071f739e76",
+      "nodeId": "2149:43791",
+      "name": "Platform=App, Size=Large, State=Focus, Feature=Price [Big], Background=False",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e058790638ad019f4086de92c6a9e0d63ba0f70e",
+      "nodeId": "4:1130",
+      "name": "Platform=App, Size=Large, State=Error, Feature=Multi Line, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e2bcbd549f2412c53c3bd2aabc3701ef2e6ccfe3",
+      "nodeId": "4:1749",
+      "name": "Platform=App, Size=Small, State=Typing, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e40e9088b3cea7730c99469037790006958dfe61",
+      "nodeId": "46:3235",
+      "name": "Platform=Web, Size=Large, State=Typing, Feature=Phone (TR), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e4eff8fc1d65ac77d7ff4d9f0b8732e8d29988c7",
+      "nodeId": "4:1332",
+      "name": "Platform=App, Size=Large, State=Inactive, Feature=ID, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e53dacce5f03f3db6e47458a220e14e93d55eba0",
+      "nodeId": "46:3496",
+      "name": "Platform=Web, Size=Large, State=Inactive, Feature=Multi Line, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e78798523f7e54f9277089cd62d9011839a12dfa",
+      "nodeId": "46:3057",
+      "name": "Platform=Web, Size=Large, State=Disabled, Feature=Extension (R), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e81934d3c572800d3ae02a6065651b7e151a5543",
+      "nodeId": "46:3412",
+      "name": "Platform=Web, Size=Large, State=Typing, Feature=Extension (R), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e8a459929feb323ff3908d14d3286330f0535bb8",
+      "nodeId": "46:3486",
+      "name": "Platform=Web, Size=Large, State=Inactive, Feature=Extension (L), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ec194b6e9de2ca3ae8ca46c611ae67610913678b",
+      "nodeId": "46:2936",
+      "name": "Platform=Web, Size=Large, State=Error, Feature=Extension (R), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ecbaa847c2976e991f8618e22efcf62e7aa72d62",
+      "nodeId": "4:1146",
+      "name": "Platform=App, Size=Large, State=Error, Feature=Button, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ef78cb3392935282359ded478376c888a979786c",
+      "nodeId": "4:1658",
+      "name": "Platform=App, Size=Large, State=Inactive, Feature=Multi Line, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ef835aa6187e435ec099e71fd231b00f5efdf72e",
+      "nodeId": "46:3516",
+      "name": "Platform=Web, Size=Large, State=Inactive, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f049f88c5f605cdb299c83c8ea5ea3fef37b3c05",
+      "nodeId": "46:3356",
+      "name": "Platform=Web, Size=Large, State=Focus, Feature=Price, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f0aa65c992263d01d06f817db2629c52f6f27470",
+      "nodeId": "46:3457",
+      "name": "Platform=Web, Size=Large, State=Typing, Feature=Button, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f1fc7ffa601367eeb3a65a0f828c474f232a928a",
+      "nodeId": "4:1255",
+      "name": "Platform=App, Size=Large, State=Disabled, Feature=Multi Line, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f2b8a509f05b2ecff0389d0aa24b82040fc9b07e",
+      "nodeId": "46:2872",
+      "name": "Platform=Web, Size=Large, State=Disabled, Feature=Numeric, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f3c68bb62026cb6639a0961075d9852f90d50bdc",
+      "nodeId": "46:3303",
+      "name": "Platform=Web, Size=Large, State=Done, Feature=ID, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f9d140a883bdd0677ac365f93ba23ac002efec91",
+      "nodeId": "4:1195",
+      "name": "Platform=App, Size=Large, State=Done, Feature=Extension (R), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fbdfa58d2da9ea76388318c74f3bb2de813bae9a",
+      "nodeId": "4:1185",
+      "name": "Platform=App, Size=Large, State=Disabled, Feature=Price, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fcfc1cc6187c2bd32767828509b5cf128c4f2def",
+      "nodeId": "4:1510",
+      "name": "Platform=App, Size=Large, State=Disabled, Feature=Hint Tracker, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fd45489acef285aec28f8d4f53b2751ee28e04eb",
+      "nodeId": "46:3131",
+      "name": "Platform=Web, Size=Large, State=Typing, Feature=Default, Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ffc914b972e9011d9a891fbeae219d3742d3d301",
+      "nodeId": "4:1114",
+      "name": "Platform=App, Size=Large, State=Error, Feature=Extension (L), Background=True",
+      "description": "",
+      "containingFrame": "INPUT",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "05c0618cc085021dd94d1a9f057b4f43938a9798",
+      "nodeId": "270:2996",
+      "name": "State=Error, Screen=Mobile, Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "10167cb7c48bff01efe2b401b8d3dd932501443d",
+      "nodeId": "270:2749",
+      "name": "State=Default, Screen=Desktop (DEPRECATED), Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "17afce3e8a004dc9fef2974a5bf91e852e74b5c3",
+      "nodeId": "270:3015",
+      "name": "State=Error, Screen=Desktop (DEPRECATED), Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2d4210e8990595d47d29f2e1f6411dc0ef333593",
+      "nodeId": "270:3121",
+      "name": "State=Code : Focus, Screen=Mobile, Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2f8ea8b7b9c1b63f4942372c4c35ebb400e27527",
+      "nodeId": "270:2926",
+      "name": "State=Done, Screen=Mobile, Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3a6466731c43f60f33d699eb40dc4e4880853cc1",
+      "nodeId": "270:2765",
+      "name": "State=Default, Screen=Desktop (DEPRECATED), Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3dccc10f52975a0650e0bc1c9c056da275ceb961",
+      "nodeId": "270:3169",
+      "name": "State=Code : Focus, Screen=Desktop (DEPRECATED), Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "48ccf560256c00c7eff4c6a42dbb049bfd7c5273",
+      "nodeId": "270:2829",
+      "name": "State=Focus, Screen=Desktop (DEPRECATED), Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "576f0ca730ac7c1951fc989153649d232dca4969",
+      "nodeId": "270:2861",
+      "name": "State=Typing, Screen=Mobile, Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "58ed579c5d57731b5c92a01054ee756159d04c79",
+      "nodeId": "270:2845",
+      "name": "State=Typing, Screen=Mobile, Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5e3dc1be1e23b2a82637344f77479cddc748563f",
+      "nodeId": "270:2960",
+      "name": "State=Done, Screen=Desktop (DEPRECATED), Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "71d8ce5c21e17f6a1a10e2e613709863d104f5d0",
+      "nodeId": "270:3087",
+      "name": "State=Disabled, Screen=Desktop (DEPRECATED), Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8b46b79c79d6b77a4e42f2a4ec30578ad2d5c357",
+      "nodeId": "270:3153",
+      "name": "State=Code : Focus, Screen=Desktop (DEPRECATED), Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c492b1ba73ad5952a6940b1380596ffe0064965c",
+      "nodeId": "270:2733",
+      "name": "State=Default, Screen=Mobile, Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8dcf289137936c8e5952e7bb43b20f4ba80575e7",
+      "nodeId": "270:2877",
+      "name": "State=Typing, Screen=Desktop (DEPRECATED), Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "934c10632f0b6563b5b1754dca696a4ea93ade23",
+      "nodeId": "270:2781",
+      "name": "State=Focus, Screen=Mobile, Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "971d132b4f86716e21e544d0adb3cee9a518f7fc",
+      "nodeId": "270:3070",
+      "name": "State=Disabled, Screen=Mobile, Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a3f454c01db4fb5d5408c7a745fc4c3a99b02592",
+      "nodeId": "270:2813",
+      "name": "State=Focus, Screen=Desktop (DEPRECATED), Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "adb3f73dc64fb6162ba836e3da63042b3315b6e1",
+      "nodeId": "270:3137",
+      "name": "State=Code : Focus, Screen=Mobile, Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b297778f5e6a1c8233bb6b4b30d0f81f5f9c7ed3",
+      "nodeId": "270:2797",
+      "name": "State=Focus, Screen=Mobile, Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b2e16c07f2b98d4a90362dfaf4a3cf0349ee4870",
+      "nodeId": "270:2909",
+      "name": "State=Done, Screen=Mobile, Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cb06e9ad6ba0cc866ae26944d7a9e2d62c113a95",
+      "nodeId": "270:2943",
+      "name": "State=Done, Screen=Desktop (DEPRECATED), Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d1cde2f0ed1bfc1910eb365393d450b76372dcd5",
+      "nodeId": "270:2893",
+      "name": "State=Typing, Screen=Desktop (DEPRECATED), Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e067098b48c729c6aa2ee5e7603b41718d670158",
+      "nodeId": "270:3104",
+      "name": "State=Disabled, Screen=Desktop (DEPRECATED), Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e08ea523db4bbadef5752c518c074ba8730fce6c",
+      "nodeId": "270:3034",
+      "name": "State=Error, Screen=Desktop (DEPRECATED), Country=Other",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e6765b5ea675136a5c3cad3f002d5e90c5a37c8f",
+      "nodeId": "270:2717",
+      "name": "State=Default, Screen=Mobile, Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e8a9c03a31117e8c4f1bf91f00ec90bcaddd0a08",
+      "nodeId": "270:2977",
+      "name": "State=Error, Screen=Mobile, Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ee488bec8e4e717952bc804dd039b57c48de802f",
+      "nodeId": "270:3053",
+      "name": "State=Disabled, Screen=Mobile, Country=TR",
+      "description": "",
+      "containingFrame": "FK-Input Dropdown + Function",
+      "containingPage": "1.0"
+    }
+  ]
+}

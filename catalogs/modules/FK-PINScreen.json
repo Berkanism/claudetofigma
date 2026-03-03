@@ -1,0 +1,25 @@
+{
+  "fileKey": "hj56hdvkKyWrul6P9uf5sV",
+  "name": "FK-PINScreen",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:33.503Z",
+  "componentCount": 2,
+  "components": [
+    {
+      "key": "152e916a62d13d0f99087d51f666b65ef6f5f0ca",
+      "nodeId": "10020:587",
+      "name": "Type=Login",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c0e677cd3bcf6e69689553e48f704dce6fcf4ef0",
+      "nodeId": "10020:580",
+      "name": "Type=Crypto Withdrawal",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    }
+  ]
+}

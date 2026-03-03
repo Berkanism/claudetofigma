@@ -1,0 +1,601 @@
+{
+  "fileKey": "y0fqsC9RIiddun3581BQhH",
+  "name": "FK-TopNav",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:35.586Z",
+  "componentCount": 74,
+  "components": [
+    {
+      "key": "1932f9fb11bb7e02ceff5bec0a103c8fd9c7778c",
+      "nodeId": "4286:5677",
+      "name": "Type=Search, Dark Mode=ON",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1aa3d2d612d68ad83968afe6350bb16f2342c4ea",
+      "nodeId": "4005:6500",
+      "name": "Type=Lang Selector",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "20cb55802c7b7593bfd90e97ab31bbcc881485fe",
+      "nodeId": "4005:6662",
+      "name": "Size=Android Large",
+      "description": "",
+      "containingFrame": "Status Bar",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "22af7f9d56e5f64f597f7c171780a6d159fce25c",
+      "nodeId": "4346:3454",
+      "name": "Type=Progress Bar",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "35916ebbce5c08b2fe056bc85017587671c2ba69",
+      "nodeId": "4005:6524",
+      "name": "Version=Fixed, Color=Primary",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "38f11babcd321a585914fa5ccaaf60b5cc7207e2",
+      "nodeId": "4005:6575",
+      "name": "Size=iPhone X",
+      "description": "",
+      "containingFrame": "Status Bar",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "70da75f1f44d85dc76bbd96a249118b50e72fb55",
+      "nodeId": "4282:1784",
+      "name": "Banner Card",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7390cd38cd319914ce56f65b7c40c7e92aab8fcf",
+      "nodeId": "4005:6317",
+      "name": "Assets/Icons/16px/System/Header-Back",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c46264af2a1379459ce43305c21e1c99cbafd93f",
+      "nodeId": "4005:6646",
+      "name": "Size=iPhone 8",
+      "description": "",
+      "containingFrame": "Status Bar",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dde01327bfdb369eb865fa1803ef9f67c4cba097",
+      "nodeId": "4005:6555",
+      "name": "Dismiss",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e04c362f44014cc5c85b7fd9f50e1690c0903040",
+      "nodeId": "4005:6628",
+      "name": "Size=iPhone 13 Mini",
+      "description": "",
+      "containingFrame": "Status Bar",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e324479495d674d004539af0fb73f92820f47b72",
+      "nodeId": "4005:6320",
+      "name": "Assets/Icons/16px/System/Scroll-Down",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fa739d4926ab2286dfc74e63b90c43868c0170d8",
+      "nodeId": "4005:6610",
+      "name": "Size=iPhone 12 (3D)",
+      "description": "",
+      "containingFrame": "Status Bar",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fb94f050625fa573bfe623b14e1c55eaa6712877",
+      "nodeId": "4005:6592",
+      "name": "Size=iPhone 14 Pro",
+      "description": "",
+      "containingFrame": "Status Bar",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "94a2f5c1a53e3cd7ff24eeb717f9278ff6688f22",
+      "nodeId": "4005:6391",
+      "name": "Type=Large Title, Modal?=ON",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5ac21fbf53431dc25fd0e148327edbb639a08c28",
+      "nodeId": "4005:6372",
+      "name": "Type=SSO, Modal?=ON",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0b3c4acf47904f8a7b0af3a9793ff43ff3ddcfee",
+      "nodeId": "4005:6333",
+      "name": "Type=Standart, Modal?=OFF",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "29199a6219574c1cf02b4ad13982882cb600311b",
+      "nodeId": "4346:3005",
+      "name": "Type=Story, Modal?=OFF",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2c6b04a7e4c55f9ebaabd56c4b1cfb4f6a5bcc02",
+      "nodeId": "4005:6338",
+      "name": "Type=Search Active, Modal?=OFF",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2df54055380371764c92cfa317a9eaa39899b958",
+      "nodeId": "4005:6351",
+      "name": "Type=Mini + Large Title, Modal?=OFF",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "321d36da629d7794536e346fc730454f53395cad",
+      "nodeId": "4005:6382",
+      "name": "Type=Mini + Large Title, Modal?=ON",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3ea4e9311cc6830b587030a5b138c9a96c5d9572",
+      "nodeId": "4005:6344",
+      "name": "Type=Large Title, Modal?=OFF",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a2d6839cbb333a31d8cde9e69b6499e374781cdd",
+      "nodeId": "4005:6358",
+      "name": "Type=Standart, Modal?=ON",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c252f548a0f201312331ce54ccb92f90ba9f5365",
+      "nodeId": "4286:39869",
+      "name": "Type=Header Left Align",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "daff0c76eb83bc26bc92c465a36fa9d4c5c69224",
+      "nodeId": "4005:6324",
+      "name": "Type=Header",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f3d4bc89ccd5ffad39782db52682df509b8a4142",
+      "nodeId": "4005:6365",
+      "name": "Type=Browser [Default], Modal?=ON",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0f4cf0263601b7a716579a0f4dc2c4c955392e5a",
+      "nodeId": "4005:6477",
+      "name": "Type=Ticker + Title, Dark Mode=ON",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0a04568ed586d79e55eb61e3a2cc51d3934dfcd6",
+      "nodeId": "4263:1301",
+      "name": "Type=Icon + Text",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1e36aa8472884562e084e2c7a770e86f9501e328",
+      "nodeId": "4005:6527",
+      "name": "Version=Fixed (Dismissable), Color=Primary",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1f3c3bf0d42f7d36fcace2da76edf431d9bb81ce",
+      "nodeId": "4005:6473",
+      "name": "Type=Logo, Dark Mode=ON",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "23e1be27a82a668c7b82001d26902ad4cda21d92",
+      "nodeId": "4281:1729",
+      "name": "Sorter",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2b0909f63f76335dbbf30dff67f761c419a43c21",
+      "nodeId": "4286:5647",
+      "name": "Type=Logo Icon",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4d55dfcdcd6044ca6af1f313050c31f33dc898d1",
+      "nodeId": "4005:6510",
+      "name": "Version=Fixed, Color=Basement",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "534d0d60a930259f3622d01b1f88a0680e9d79c7",
+      "nodeId": "4005:6480",
+      "name": "Type=Ticker + Title, Dark Mode=OFF",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "39d63037ca13de494b60792fbe9e069fc45da115",
+      "nodeId": "4005:6440",
+      "name": "Type=Ticker",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "42c4e8193559e080e51e305c9f5ddccf411dcbad",
+      "nodeId": "4005:6426",
+      "name": "Type=Logo+Title+Dropdown OLD",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "771b584980999ece2933505f415c46a6a5c59b71",
+      "nodeId": "4005:6536",
+      "name": "Version=Scrolling, Color=Action-03",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "77ff3147531fd79c8f729f6fb04d6d66a8c00ec3",
+      "nodeId": "4005:6513",
+      "name": "Version=Fixed (Dismissable), Color=Basement",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9441adbe0ed7b3a08317d9292d75f786ad68ea2a",
+      "nodeId": "4313:2480",
+      "name": "Gizmo",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6f9bf13d5c67462460166022e40a4e420b5678f5",
+      "nodeId": "4490:3565",
+      "name": "Type=Empty",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "865c7234b186b0992477f329815dff28e0e4b0d3",
+      "nodeId": "4005:6433",
+      "name": "Type=SSO",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9667241412f384bcffe1cc10bff2fc967b7e0f42",
+      "nodeId": "4005:6520",
+      "name": "Version=Fixed (Dismissable), Color=Action-03",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "992ab59ebae1364b3476bd2e96aaef203a450b72",
+      "nodeId": "4005:6517",
+      "name": "Version=Fixed, Color=Action-03",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9a1f26df0141c8ef76682ba2f7a18489ce152919",
+      "nodeId": "4005:6466",
+      "name": "Type=Title, Dark Mode=ON",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9c8ce4970c68c481ee69554e72e7f800f71d8186",
+      "nodeId": "4271:2125",
+      "name": "Search + Filters",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ba0527b0d9f5b99b628fb64e8296f8974e3e6a4a",
+      "nodeId": "4005:6540",
+      "name": "Version=Scrolling, Color=Primary",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9722425774d2751ffe305a55eb316fd2dade3de7",
+      "nodeId": "4005:6443",
+      "name": "Type=Ticker (New)",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bce5c2d4b69521117695f6b39aad6e0c9c348524",
+      "nodeId": "4005:6411",
+      "name": "Type=Big Title",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c3e224131c48105f75fbe10c9de72d12c85c1ea2",
+      "nodeId": "4005:6436",
+      "name": "Type=Icon [26px]",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d16d143a4c90a07f98e1f872d4592c1846504388",
+      "nodeId": "4005:6313",
+      "name": "Pull to Refresh",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cb70a820fb143151f947db004229c1fa9b88e433",
+      "nodeId": "4005:6431",
+      "name": "Type=Text",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ea2a1837ac3497d390ad98a0f5456cf0314dcf12",
+      "nodeId": "4271:2128",
+      "name": "Categories",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ec80ef4c89628f1a797ed060a2babf6d5ca453a7",
+      "nodeId": "4005:6475",
+      "name": "Type=ProgressBar, Dark Mode=ON",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f253016fc4289d0bba3510f087aec718bdd09474",
+      "nodeId": "4005:6469",
+      "name": "Type=Title + Subtitle, Dark Mode=ON",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dcebe94e9d8e4178bece318b7e61efa25314539b",
+      "nodeId": "4005:6438",
+      "name": "Type=Icon [32px]",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f78806b47565edd799624ea5c5e44a0036ddd070",
+      "nodeId": "4005:6531",
+      "name": "Version=Scrolling, Color=Basement",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fadcd70f67b848790986bea5772dce309a3b1eec",
+      "nodeId": "4005:6409",
+      "name": "Type=Icon",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "feaa9ba36a34d5df0b2d7a18c2d904b287ab6c6d",
+      "nodeId": "4005:6379",
+      "name": "Type=SSO, Modal?=OFF",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0416e0be93978ac21a8f6cad56cd72986dd571f5",
+      "nodeId": "4005:6484",
+      "name": "Type=DELETE Icon [32px]",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2eeea02a53193d7469148101c7fbd7f368ed4c60",
+      "nodeId": "4005:6571",
+      "name": "STATE=MediaEngine",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "55b0b6da345f899cf2b3524a63b29693b72b7602",
+      "nodeId": "4005:6400",
+      "name": "Page Header",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5bf15fba76fb0a85a7484769df053e509799fccc",
+      "nodeId": "4005:6454",
+      "name": "Type=Ticker (Hisse)",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5c7f936c84af162caf82e79b8f105bd9bd38a55a",
+      "nodeId": "4005:6506",
+      "name": "Type=Ticker",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bf8b8e6e003dc4d888ebc407f5d48a0f319efb8f",
+      "nodeId": "4005:6486",
+      "name": "Type=Icons [26px]",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c030d7df87bd9dcc8a4a4aad2792f1b13b6d961d",
+      "nodeId": "4458:4246",
+      "name": "Type=Icon + Nav",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c73165a7bc51e2a0e812ecb6b224688625e5cda8",
+      "nodeId": "4005:6498",
+      "name": "Type=Order Switcher",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c8fc63846d3e2f829de59714accd84795754470b",
+      "nodeId": "4005:6494",
+      "name": "Type=[NEW] Text + Icon",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ccbe4339665d1436d3ec5038799cbe0eb6fb1dbb",
+      "nodeId": "4005:6413",
+      "name": "Type=Logo+Title",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ce76a359b45bfa2d21741114133084248555e457",
+      "nodeId": "4271:2123",
+      "name": "Segmented",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ced3492f958408a7e203ac2b88b09c3542dd48ff",
+      "nodeId": "4005:6417",
+      "name": "Type=Logo+Title+Dropdown",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d28570430d174919b07497f60d07d1224e1400b0",
+      "nodeId": "4005:6561",
+      "name": "STATE=BASE",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e3f60072d50fc6d2a6e96c2949859a7018f9f18a",
+      "nodeId": "4005:6502",
+      "name": "Type=MD Container",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f3298f9cd99deaf909e78b98a7713dcf4523332e",
+      "nodeId": "4005:6490",
+      "name": "Type=DELETE Text+Icon",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e00d1905edfd0538c2d31f1ac138b946cde942ac",
+      "nodeId": "4005:6328",
+      "name": "Type=Modal",
+      "description": "",
+      "containingFrame": "FKTopNav",
+      "containingPage": "1.0"
+    }
+  ]
+}

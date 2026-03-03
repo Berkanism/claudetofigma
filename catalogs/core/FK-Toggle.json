@@ -1,0 +1,57 @@
+{
+  "fileKey": "Rai40im5wuttEk7ori4dkF",
+  "name": "FK-Toggle",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:15.177Z",
+  "componentCount": 6,
+  "components": [
+    {
+      "key": "146a87813c55fbcd585f68951f51319fccd2c722",
+      "nodeId": "8001:19",
+      "name": "Platform=Android, Active=True",
+      "description": "",
+      "containingFrame": "{FK-Toggle}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4ef94dc64908a6e91124527e96f994e08bbc036b",
+      "nodeId": "8001:15",
+      "name": "Platform=Material 3, Active=True",
+      "description": "",
+      "containingFrame": "{FK-Toggle}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8c72e7a8075f9bf60683cfd6aa953c0d8b6adb9d",
+      "nodeId": "8001:23",
+      "name": "Platform=iOS, Active=False",
+      "description": "struct Toggle",
+      "containingFrame": "{FK-Toggle}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bacd48317eb506ed3e06891d1833998ff52edba1",
+      "nodeId": "8001:26",
+      "name": "Platform=Material 3, Active=False",
+      "description": "struct Toggle",
+      "containingFrame": "{FK-Toggle}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c3cb302f815e9c56e0e91b0edb97959b06cb5ca5",
+      "nodeId": "8001:28",
+      "name": "Platform=Android, Active=False",
+      "description": "struct Toggle",
+      "containingFrame": "{FK-Toggle}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cf1244c1364563a48b46d9f8e8adae45375ca72c",
+      "nodeId": "8001:12",
+      "name": "Platform=iOS, Active=True",
+      "description": "",
+      "containingFrame": "{FK-Toggle}",
+      "containingPage": "1.0"
+    }
+  ]
+}

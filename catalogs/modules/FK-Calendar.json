@@ -1,0 +1,105 @@
+{
+  "fileKey": "BfqjMydNBPW0NtNPCkp7wn",
+  "name": "FK-Calendar",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:24.918Z",
+  "componentCount": 12,
+  "components": [
+    {
+      "key": "497ceb499c5c0e09dd380b4aaace10e83131dca3",
+      "nodeId": "10003:1490",
+      "name": "PNL=Not Calculated, In Selected Month?=Yes, Select=Yes",
+      "description": "",
+      "containingFrame": "PNL Calendar / Day",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "668098d59dffe440c78b1f4f4563070e85b4dd79",
+      "nodeId": "10001:452",
+      "name": "PNL=Decreased, In Selected Month?=No, Select=No",
+      "description": "",
+      "containingFrame": "PNL Calendar / Day",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "67d3607f9699ae5b4ed99101386db07881719a31",
+      "nodeId": "10001:445",
+      "name": "PNL=Not Calculated, In Selected Month?=No, Select=No",
+      "description": "",
+      "containingFrame": "PNL Calendar / Day",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6cd2365a41e1aa8557614f9de9bce4f192e727ae",
+      "nodeId": "10004:1494",
+      "name": "PNL=No PNL, In Selected Month?=Yes, Select=Yes",
+      "description": "",
+      "containingFrame": "PNL Calendar / Day",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "77860fd345c7840a24329c63f8f772897ea63db4",
+      "nodeId": "10001:448",
+      "name": "PNL=Decreased, In Selected Month?=Yes, Select=No",
+      "description": "",
+      "containingFrame": "PNL Calendar / Day",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "80d29cc572d1ab65a20ddad5a1118cc69f472da4",
+      "nodeId": "10001:438",
+      "name": "PNL=Increased, In Selected Month?=No, Select=No",
+      "description": "",
+      "containingFrame": "PNL Calendar / Day",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "89fad4351f5b8f19f3d67df54d0a695e737eedbe",
+      "nodeId": "10003:1362",
+      "name": "PNL=Increased, In Selected Month?=Yes, Select=Yes",
+      "description": "",
+      "containingFrame": "PNL Calendar / Day",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b581c6787d2d854c54ac20423b94f56f05e695ce",
+      "nodeId": "10004:1492",
+      "name": "PNL=No PNL, In Selected Month?=Yes, Select=No",
+      "description": "",
+      "containingFrame": "PNL Calendar / Day",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b7dec90f38698dc67ce20224d9826aeaa3247ed4",
+      "nodeId": "10001:433",
+      "name": "PNL=Increased, In Selected Month?=Yes, Select=No",
+      "description": "",
+      "containingFrame": "PNL Calendar / Day",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dbd48781897d18b7b43e3ba637a563941df1c1a6",
+      "nodeId": "10003:1366",
+      "name": "PNL=Decreased, In Selected Month?=Yes, Select=Yes",
+      "description": "",
+      "containingFrame": "PNL Calendar / Day",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f6018e3494592b4a1633e6c6a35021cf9b5c7066",
+      "nodeId": "10001:442",
+      "name": "PNL=Not Calculated, In Selected Month?=Yes, Select=No",
+      "description": "",
+      "containingFrame": "PNL Calendar / Day",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "368bd803371733698d8fde6fd29ed41998ce8cfa",
+      "nodeId": "10001:1051",
+      "name": "FK-Calendar",
+      "description": "",
+      "containingFrame": "",
+      "containingPage": "1.0"
+    }
+  ]
+}

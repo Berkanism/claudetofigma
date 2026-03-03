@@ -1,0 +1,177 @@
+{
+  "fileKey": "I8VF3iKT4wXpGziooEGK1O",
+  "name": "FK-Tables",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:12.427Z",
+  "componentCount": 21,
+  "components": [
+    {
+      "key": "9f70bae40f11c27c30b37ba1730e4b077e8f86aa",
+      "nodeId": "8002:5525",
+      "name": "Align=Left, Style=Ticker, Size=Small",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "be3bd26ebaefe34c35605f15f094a4ff11d34792",
+      "nodeId": "8002:5412",
+      "name": "Version=2.0, Align=Right, Step=5",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "00c0a5da352f75be280cbfd77b2e9b309c3ac3e4",
+      "nodeId": "8002:5537",
+      "name": "Style=Solid",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c0c05b559fbbdc66c5b7781991ecbda46da30d44",
+      "nodeId": "8002:5540",
+      "name": "Style=Line",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0a19dc32b8597b615e01b916b274002b4dd02e02",
+      "nodeId": "8002:5527",
+      "name": "Align=Right, Style=Default, Size=Small",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "12a6028d649b80c9aa3fcdec0dcc396d773bb66d",
+      "nodeId": "8002:5546",
+      "name": "Align=Right",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "18cd8ef0b7f82e6170c2d4c8e4a60db5e904c75f",
+      "nodeId": "8002:5544",
+      "name": "Align=Left",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1c778747158697e05cfef8a24676881b7c08ca13",
+      "nodeId": "8002:5447",
+      "name": "Version=3.0, Align=Right, Step=10",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2fe329c9ead5d58db1cbc64398b79b097905e6ca",
+      "nodeId": "8002:5516",
+      "name": "Align=Left, Style=Default, Size=Small",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "410d8af2aba501ac34062d2c40308adfee81224f",
+      "nodeId": "8002:5522",
+      "name": "Align=Left, Style=Default, Size=Large",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4242bcdc858814d580a80b38bbc04cb1a32cd3f2",
+      "nodeId": "8002:5502",
+      "name": "Version=3.0, Align=Left, Step=10",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "44d14fc4a2320f6f9f0a173c5f4d7e17d4b03288",
+      "nodeId": "8002:5467",
+      "name": "Version=2.0, Align=Left, Step=5",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5cb77133fb84c38fadb3bfac1737e86578ad3e1b",
+      "nodeId": "8002:5405",
+      "name": "Version=1.0, Align=Right, Step=5",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "72d5928f7d758ae1373934f016973fabdaf27f93",
+      "nodeId": "8002:5476",
+      "name": "Version=1.0, Align=Left, Step=10",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "925bdec4c19c139d08aaad5a1ed9c40e4ebde09a",
+      "nodeId": "8002:5533",
+      "name": "Align=Right, Style=Default, Size=Large",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a47ddc61f2b7054436fe2141962676cf3da1f11d",
+      "nodeId": "8002:5421",
+      "name": "Version=1.0, Align=Right, Step=10",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a7c47d15f0b26086e699531a75f53c7a4a7b0d3e",
+      "nodeId": "8002:5433",
+      "name": "Version=2.0, Align=Right, Step=10",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a829316a98637857559e243d2ce1000fa9eaa3b1",
+      "nodeId": "8002:5519",
+      "name": "Align=Left, Style=Default, Size=Medium",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cc12032fdc30f545a1fddf6deee0b1ac6d634ed2",
+      "nodeId": "8002:5488",
+      "name": "Version=2.0, Align=Left, Step=10",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e6c0f6f404405d8a9564d7e40f0a3dd9b5e8ef4d",
+      "nodeId": "8002:5530",
+      "name": "Align=Right, Style=Default, Size=Medium",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fd4e2de5c46ecbabaef96d7941af77279c7cea2d",
+      "nodeId": "8002:5460",
+      "name": "Version=1.0, Align=Left, Step=5",
+      "description": "",
+      "containingFrame": "Table",
+      "containingPage": "1.0"
+    }
+  ]
+}

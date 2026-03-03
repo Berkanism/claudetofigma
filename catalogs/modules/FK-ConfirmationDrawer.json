@@ -1,0 +1,89 @@
+{
+  "fileKey": "qeprfeadWXeFygq3RKoo4b",
+  "name": "FK-ConfirmationDrawer",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:26.353Z",
+  "componentCount": 10,
+  "components": [
+    {
+      "key": "34d21e6b4bdec545407fbf86c96ce42f261be77a",
+      "nodeId": "8001:9539",
+      "name": "Nema Disclaimer",
+      "description": "",
+      "containingFrame": "Confirmation Drawer",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3105a04c621aab90a399cb60bf2b59950c83271c",
+      "nodeId": "8001:9553",
+      "name": "Drawer -> Withdrawal Confirmation (TRY) ½",
+      "description": "",
+      "containingFrame": "Confirmation Drawer",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3828010d41be6afb1e1c32f55cc03e498e6130c2",
+      "nodeId": "8001:9565",
+      "name": "Drawer -> Transfer Confirmation ½",
+      "description": "",
+      "containingFrame": "Confirmation Drawer",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2fa8ad1504f16a71028de4009733549777e29b47",
+      "nodeId": "8001:9569",
+      "name": "Drawer -> Rüçhan Confirmation ½",
+      "description": "",
+      "containingFrame": "Confirmation Drawer",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3e6efad53918d6eee43d238ea4233d1e4cfa9c40",
+      "nodeId": "8001:9497",
+      "name": "Type=Default",
+      "description": "",
+      "containingFrame": "Confirmation Drawer",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "52312095439d7cf7e03f78ba4815b79d799e1741",
+      "nodeId": "8001:9577",
+      "name": "Drawer -> Donation Confirmation ½",
+      "description": "",
+      "containingFrame": "Confirmation Drawer",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "675de758a1a32b6944b31e39013a8a9053d10364",
+      "nodeId": "8001:9518",
+      "name": "Type=Variant2",
+      "description": "",
+      "containingFrame": "Confirmation Drawer",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6bac3bf3b55b7ee2d472445bedd3a9d0d389f7e1",
+      "nodeId": "8001:9561",
+      "name": "Drawer -> Withdrawal Confirmation (USD -> Swift) ½",
+      "description": "",
+      "containingFrame": "Confirmation Drawer",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7cb35bc17fddf301add8a79917a7b2d866ed4140",
+      "nodeId": "8001:9573",
+      "name": "Drawer -> T+0 Confirmation ½",
+      "description": "",
+      "containingFrame": "Confirmation Drawer",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b42994af416756b60f5888556dd06487432d901b",
+      "nodeId": "8001:9557",
+      "name": "Drawer -> Withdrawal Confirmation (USD -> Havale) ½",
+      "description": "",
+      "containingFrame": "Confirmation Drawer",
+      "containingPage": "1.0"
+    }
+  ]
+}

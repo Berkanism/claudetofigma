@@ -1,0 +1,33 @@
+{
+  "fileKey": "lu8QQlPsZGU2MWltQBUZZi",
+  "name": "FK-Finalizer",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:30.858Z",
+  "componentCount": 3,
+  "components": [
+    {
+      "key": "2c40c2d7fefbef2161315b4c5cdecf24dcf6345f",
+      "nodeId": "8002:277",
+      "name": "Size=Medium",
+      "description": "",
+      "containingFrame": "Finalizer",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "73898996dc45bb34e81ca211fa4f878be3f8d9d1",
+      "nodeId": "8002:266",
+      "name": "Size=Large",
+      "description": "",
+      "containingFrame": "Finalizer",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "aa6be5476a964e40cefaa6e2be518b48075b485b",
+      "nodeId": "8002:255",
+      "name": "Size=X-Large",
+      "description": "",
+      "containingFrame": "Finalizer",
+      "containingPage": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "fileKey": "JuIVr0cyIcq11A6pV5Rw8K",
+  "name": "FK-DOB",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:27.786Z",
+  "componentCount": 29,
+  "components": [
+    {
+      "key": "3b30797af5596a828025703b55a4dcb9f89cee06",
+      "nodeId": "12001:11231",
+      "name": "DOB -> NFC Scanner Header",
+      "description": "",
+      "containingFrame": "Android NFC Scanner",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e9b05421e3b9056ab64b290a82945f2a898d9404",
+      "nodeId": "12001:11314",
+      "name": "Version=Action Spesific",
+      "description": "",
+      "containingFrame": "Dialogs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "03093bfea97a26bc92f3035c4ca6f3aa4da09b26",
+      "nodeId": "12001:11335",
+      "name": "State=Exit Notification",
+      "description": "",
+      "containingFrame": "Dialogs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2617b53d945b424e8b10e8987bc1e482ef99b97e",
+      "nodeId": "12001:11304",
+      "name": "Version=Notifier",
+      "description": "",
+      "containingFrame": "Dialogs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3e78a721806040edfba88859afcfbef798e5c5c8",
+      "nodeId": "12001:11234",
+      "name": "State=Initial",
+      "description": "",
+      "containingFrame": "Android NFC Scanner",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "653530a71c7eb55eccd93407604463813fcc2ec0",
+      "nodeId": "12001:11343",
+      "name": "State=Try Again Exit",
+      "description": "",
+      "containingFrame": "Dialogs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7a16b88e03b3a670a1e2664a3ae2a1a30cdf17ee",
+      "nodeId": "12001:11324",
+      "name": "Version=Account Level",
+      "description": "",
+      "containingFrame": "Dialogs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9fbb15dc1b6f73cb0f7f97785094db5859863a40",
+      "nodeId": "12001:11339",
+      "name": "State=Exit from Video Call",
+      "description": "",
+      "containingFrame": "Dialogs",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a86af63659e11788842c8febbe0481781c7c70aa",
+      "nodeId": "12001:11236",
+      "name": "State=Scanning",
+      "description": "",
+      "containingFrame": "Android NFC Scanner",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "eec375a154627376c358109e92a84eeae5825fa6",
+      "nodeId": "12001:11240",
+      "name": "Property 1=01",
+      "description": "",
+      "containingFrame": "Android NFC Scanner",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1387314dde51279cf60c8bd47b307549acb62b61",
+      "nodeId": "12001:11242",
+      "name": "Property 1=02",
+      "description": "",
+      "containingFrame": "Android NFC Scanner",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b8242a27e18c4dc1fa6a7c798aad1b8b57debf0a",
+      "nodeId": "12001:11244",
+      "name": "Property 1=03",
+      "description": "",
+      "containingFrame": "Android NFC Scanner",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0e90088925ed008bd61dac2e3b515bfd75f5e061",
+      "nodeId": "12001:11246",
+      "name": "Property 1=04",
+      "description": "",
+      "containingFrame": "Android NFC Scanner",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8711e0273cc538b190122fa3e75aa8a82ea90e21",
+      "nodeId": "12001:11248",
+      "name": "Property 1=05",
+      "description": "",
+      "containingFrame": "Android NFC Scanner",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9da97c36e77fe1c879c12114ec1f795ee2e5f978",
+      "nodeId": "12001:11250",
+      "name": "Property 1=06",
+      "description": "",
+      "containingFrame": "Android NFC Scanner",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "da620b8020486756d51d0e6441fee2bcabd1c467",
+      "nodeId": "12001:11300",
+      "name": "KYC -> Slots Comp/Alert",
+      "description": "",
+      "containingFrame": "Permission Dialog",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "be7859b59c69dce129558cf5c8ac73d08c6522b6",
+      "nodeId": "12001:11168",
+      "name": "Step=3, State=Success",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "09022da56a3fff7a79b96c31877073bc7e46735c",
+      "nodeId": "12001:11152",
+      "name": "KYC Page",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "21f446f7e69b32b81b7ca6eba151c93487557abb",
+      "nodeId": "12028:12540",
+      "name": "Step=3, State=Default",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "48421dca05bc471446a8d2a0418fb32208d8fef0",
+      "nodeId": "12028:12926",
+      "name": "Step=2, State=Failed",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "516eda7662a0bffa95aff541faa04b4bf60dce45",
+      "nodeId": "12001:11166",
+      "name": "Step=3, State=Failed",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6067211b5612ab53f22d8e35deab2aa4663c19a5",
+      "nodeId": "12001:11158",
+      "name": "Step=1, State=Loading",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "85612bbdc6ed5ccac2bc769742208722dceef5fe",
+      "nodeId": "12028:12928",
+      "name": "Step=2, State=Success",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a0fd7c6dd582009c449dae48e3cd23278371cbe5",
+      "nodeId": "12028:12922",
+      "name": "Step=2, State=Default",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a7871d8e0300ba6511011c83e4ea298ee314c1ae",
+      "nodeId": "12001:11164",
+      "name": "Step=3, State=Loading",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b27107cd76446873077409eb3d051e168a51e930",
+      "nodeId": "12001:11160",
+      "name": "Step=1, State=Failed",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b7a71b0882e6da0b9d5940b0eea48bb4cbd235f2",
+      "nodeId": "12028:12924",
+      "name": "Step=2, State=Loading",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c28f041a6e34f9f9a7701e8d44a6815b5b25fbf8",
+      "nodeId": "12001:11156",
+      "name": "Step=1, State=Default",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c65ff8380472bcf702e4c17c0871a344c0527af1",
+      "nodeId": "12001:11162",
+      "name": "Step=1, State=Success",
+      "description": "",
+      "containingFrame": "KYC Slots",
+      "containingPage": "1.0"
+    }
+  ]
+}

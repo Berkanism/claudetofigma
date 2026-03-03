@@ -1,0 +1,65 @@
+{
+  "fileKey": "jPRQt7YtsKn0kvvN65fCbs",
+  "name": "FK-GraphModule",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:31.593Z",
+  "componentCount": 7,
+  "components": [
+    {
+      "key": "4d5eeeca11b094584a666ebfb4b08353c00c7dbe",
+      "nodeId": "10072:1332",
+      "name": "Size=5",
+      "description": "",
+      "containingFrame": "Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "53c0542131c0f818babfa9e4c51346375596ccfd",
+      "nodeId": "10131:3451",
+      "name": "Size=3",
+      "description": "",
+      "containingFrame": "Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5441b80bc9b39cdcbed4bd449585442a5b05822d",
+      "nodeId": "10072:1317",
+      "name": "Size=6",
+      "description": "",
+      "containingFrame": "Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3527a00ff7ce6145d5c1571b311fa05e9044094d",
+      "nodeId": "10072:1345",
+      "name": "Size=4",
+      "description": "",
+      "containingFrame": "Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5b7a67b9ec46c7d15c3bab84d55ff012ac1d8883",
+      "nodeId": "10033:3809",
+      "name": "Y Asix on Graph=True",
+      "description": "",
+      "containingFrame": "Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "872d446fda0280e07c26909146b92adbe2e1f948",
+      "nodeId": "10001:2343",
+      "name": "Y Asix on Graph=False",
+      "description": "",
+      "containingFrame": "Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fd538a049f7543559dc4506837b23f7b01b6ba57",
+      "nodeId": "10001:2249",
+      "name": "Size=7",
+      "description": "",
+      "containingFrame": "Graph",
+      "containingPage": "1.0"
+    }
+  ]
+}

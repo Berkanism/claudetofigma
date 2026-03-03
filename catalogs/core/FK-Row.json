@@ -1,0 +1,1489 @@
+{
+  "fileKey": "4DtqKs7Lzzp8ayZEbakx1X",
+  "name": "FK-Row",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:09.765Z",
+  "componentCount": 185,
+  "components": [
+    {
+      "key": "029fda58cf2eb6de842a9ceb5c1d1808cd624db6",
+      "nodeId": "6034:1898",
+      "name": "Left=Title [14px], Right=Number, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "033bb9f0453a96ac3b83317be41b373839b7cc6f",
+      "nodeId": "6034:3281",
+      "name": "Left=Title + Description, Right=Checkbox, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "02b380118f66e828e6093084faadbbee023d3153",
+      "nodeId": "6034:2492",
+      "name": "Left=Description + Title, Right=Number (Double), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0429810a711a75006a544e14c7f0cfed7970a8f1",
+      "nodeId": "6034:1790",
+      "name": "Left=Title [16px], Right=Icon, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0c430cd6ab49e2409ff244504ff588d33782d9ff",
+      "nodeId": "6034:3429",
+      "name": "Dark Mode=OFF, Status=Waiting",
+      "description": "",
+      "containingFrame": "HR / Feedback / Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "127beb55e763434147fb87f3efc21e546dab14d3",
+      "nodeId": "6034:3440",
+      "name": "Dark Mode=OFF, Status=Need Action",
+      "description": "",
+      "containingFrame": "HR / Feedback / Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1aea3a967251d549834a239004cb87e8a32a0473",
+      "nodeId": "6034:3461",
+      "name": "OFF=Feedback, Status=Not Started",
+      "description": "",
+      "containingFrame": "HR / Goal / Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "298a964bf63ce55da3fd7c923488ef704387491d",
+      "nodeId": "6034:3512",
+      "name": "OFF=Feedback, Status=Waiting Response",
+      "description": "",
+      "containingFrame": "HR / Goal / Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "629f3b61ed08986fc871742163e6cb522fb9a32f",
+      "nodeId": "6034:3450",
+      "name": "Dark Mode=OFF, Status=Complate",
+      "description": "",
+      "containingFrame": "HR / Feedback / Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8d7a7e782fa36723a975dd5ecba270356aa3e599",
+      "nodeId": "6034:3536",
+      "name": "OFF=Feedback, Status=Done",
+      "description": "",
+      "containingFrame": "HR / Goal / Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d86defbc77c7b9e324302130b8e644c499c06aea",
+      "nodeId": "6034:3487",
+      "name": "OFF=Feedback, Status=Continuing",
+      "description": "",
+      "containingFrame": "HR / Goal / Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "04b2eba051a183845297809cdafc12f30838f602",
+      "nodeId": "6034:2005",
+      "name": "Left=Title [12px], Right=Radio, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0622d0d0f8e9763580cb8c6bd357e69162ed53fe",
+      "nodeId": "6034:1938",
+      "name": "Left=Title [14px], Right=Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "072fd227e2959e7354bdb2f16b4b1ce576731058",
+      "nodeId": "6034:2797",
+      "name": "Left=Title [14px], Right=N/A, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0779b76f0cd8ad2b4e3c3ead2bd2c58872973870",
+      "nodeId": "6034:2508",
+      "name": "Left=Title [16px] + Desc [14px], Right=Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0821e01d6707d4d3efb52e1e652e5954229bd6c8",
+      "nodeId": "6034:3127",
+      "name": "Left=Title + Description, Right=Button, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "085a76b0ed82a89e0cc930809b71397a84f8cba0",
+      "nodeId": "6034:2448",
+      "name": "Left=Description + Title, Right=Number (Double Text), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "08a9c5d2e900ff385095a16dd795f5e0230f5476",
+      "nodeId": "6034:2558",
+      "name": "Left=Title [16px] + Desc [14px], Right=Number (Double), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "099debe03186ca9a7683f0f1b7d0286718839d35",
+      "nodeId": "6034:2917",
+      "name": "Left=Title [13px], Right=Text, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "09fd898b2606e4f9e233e026d5f3b124db59e9a6",
+      "nodeId": "6034:3043",
+      "name": "Left=Title [14px], Right=Radio, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0c6347c6cae007beaba00a6a2659c1f44e415abc",
+      "nodeId": "6034:1704",
+      "name": "Left=Title [16px], Right=Toggle, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0ce478fc03b29a9ba4189a4577ef6cd30417f415",
+      "nodeId": "6034:2413",
+      "name": "Left=Title [16px] + Desc [14px], Right=Number, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0cf7841fc46071a8eab0b34fbaf1ddfbe6b10353",
+      "nodeId": "6034:2748",
+      "name": "Left=Title [16px], Right=Number (Double), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0d0c0f4babe37d98ceef96a4178f7fd5a487eae4",
+      "nodeId": "6034:1833",
+      "name": "Left=Title [12px], Right=N/A, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0fd9b97afc8153285416c8388ab0557aed9d8f73",
+      "nodeId": "6034:3371",
+      "name": "Left=Description + Title, Right=Text Small, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "10231b0342170a0d84e1c33e885e2148b9312450",
+      "nodeId": "6034:2063",
+      "name": "Left=Title [13px], Right=Text Small, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1038ec2593d6ccafe7b4bd733973c8e80049f7ad",
+      "nodeId": "6034:2154",
+      "name": "Left=Title + Description, Right=Toggle, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1048e4991d9ac72d59fc18170913ec726f9ae6d6",
+      "nodeId": "6034:3009",
+      "name": "Left=Title [14px] + Icon, Right=Number, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1049cca37e156b242a52e1f9a9232210962dd4c1",
+      "nodeId": "6034:3317",
+      "name": "Left=Description + Title, Right=Toggle, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "10904b0fa8ea0356c92eac922f1b2c758da69d8f",
+      "nodeId": "6034:3235",
+      "name": "Left=Title + Description, Right=Icon, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "111b30c0949c102c0736ae371d6e8059408d9f86",
+      "nodeId": "6034:2601",
+      "name": "Left=Title [16px] + Desc [14px], Right=Text Small, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "114cddc579502b60656a258ea2302522716df73e",
+      "nodeId": "6034:2781",
+      "name": "Left=Title [16px], Right=Radio, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "11adf23cb344fd294d0ff0488525ba6eb13385bb",
+      "nodeId": "6034:2802",
+      "name": "Left=Title [13px], Right=N/A, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "129d7a3651eb0d19ec7926679d491fcaa3edbad4",
+      "nodeId": "6115:1809",
+      "name": "Left=Title [12px] + Icon, Right=Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "13e026e8a1311d85574a769ad87d6a103926cd6a",
+      "nodeId": "6034:2590",
+      "name": "Left=Description + Title, Right=Text Small, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "147fa0d42a5183172cde860696f90074c7208004",
+      "nodeId": "6034:2881",
+      "name": "Left=Title [14px], Right=Double Text, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "149b817ddc1f7da62c5e74254bd832224e2ea3f5",
+      "nodeId": "6034:3181",
+      "name": "Left=Title + Description, Right=Double Text, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1532007925e5ab180a891c8900c8941241fb4937",
+      "nodeId": "6034:1845",
+      "name": "Left=Title [13px], Right=Chevron, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "16376e65c02df818cdd204a8557fee45f0c962fe",
+      "nodeId": "6034:2369",
+      "name": "Left=Title [16px] + Desc [14px], Right=Toggle, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "166796ebd91893f74df7eb21a98e1120f0845f03",
+      "nodeId": "6034:2947",
+      "name": "Left=Title [13px], Right=Number (Double), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "19d29b9e04d430e7b53a1ae06b590aa1fa55b5ce",
+      "nodeId": "6085:1793",
+      "name": "Left=Title [14px] + Icon, Right=Number (Double Text), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "19fc2d37ad8962c53ca072b1a8fcf990258566ac",
+      "nodeId": "6034:2700",
+      "name": "Left=Title [16px], Right=Button, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1ca9421395fa86d7ecc35ca014f13eed867fd325",
+      "nodeId": "6034:1990",
+      "name": "Left=Title [12px], Right=Text X-Small, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1e362418153500bc454b2a14d57b503568615702",
+      "nodeId": "6034:3301",
+      "name": "Left=Description + Title, Right=N/A, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "20906cbc8f12c9494f606dcafd8d36b6a5f279cc",
+      "nodeId": "6034:3032",
+      "name": "Left=Title [13px], Right=Icon, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "20b6e2fe318e09d2e166754ddd0b76a0f2dbff2b",
+      "nodeId": "6034:1733",
+      "name": "Left=Title [16px], Right=Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "22a4a111c2342e11a4bae48c4c7e5416ba35afe6",
+      "nodeId": "6034:2670",
+      "name": "Left=Title [16px] + Desc [14px], Right=Checkbox, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "232b00e9240fca5db7c39514e97454310066c057",
+      "nodeId": "6117:1838",
+      "name": "Left=Title [14px] + Icon, Right=Button, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "236a6f058be49cbe5a7ddf88eac8705043d61845",
+      "nodeId": "6034:2969",
+      "name": "Left=Title [13px], Right=Text Small, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "26c2316d084423c4c377a229a0bd5cf29d8a723f",
+      "nodeId": "6034:3159",
+      "name": "Left=Title [16px] + Desc [14px], Right=Number, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "271f72f331b7e333cf9554aff6f4ab9d69adbc75",
+      "nodeId": "6034:1766",
+      "name": "Left=Title [16px], Right=Number (Double), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "29691d0d549901ddc6894f0ccdd47fcd653d54b5",
+      "nodeId": "6034:2821",
+      "name": "Left=Title [14px], Right=Toggle, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "298bfd8d0e0a6e7594117692cb06e3bcde9fdd93",
+      "nodeId": "6034:2104",
+      "name": "Left=Title [14px], Right=Radio, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2a8f57d59ee677c99c887abf5fb68727d892fa4f",
+      "nodeId": "6034:2436",
+      "name": "Left=Description + Title, Right=Double Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2add496028b6923848da92ff7bb906ba2d7dc36f",
+      "nodeId": "6034:1998",
+      "name": "Left=Title [12px], Right=Checkbox, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2b00c562b56f1798e89ecf10208730fadf25bef2",
+      "nodeId": "6034:2961",
+      "name": "Left=Title [14px], Right=Text Small, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2b61a405ae15f57851629c7d3874557730b556e6",
+      "nodeId": "6034:2925",
+      "name": "Left=Title [13px], Right=Double Text, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2c7ad86a7bf3461dc8aaee4ae45cc9e143dd93fd",
+      "nodeId": "6034:2829",
+      "name": "Left=Title [13px], Right=Toggle, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2f469a26a703d6bb43acd955e8f522f29400705b",
+      "nodeId": "6034:2977",
+      "name": "Left=Title [13px] + Icon, Right=Number, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "308ae766a4dadd2c72b02f337a596c2395b8cc6d",
+      "nodeId": "6034:3308",
+      "name": "Left=Description + Title, Right=Chevron, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "34c1d98887d111ddd0130b83b37ec801c3c2c016",
+      "nodeId": "6034:2093",
+      "name": "Left=Title [12px], Right=Icon, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "35d1c84e36475e739edefa2e1b3c6b2d9e304859",
+      "nodeId": "6034:1928",
+      "name": "Left=Title [12px], Right=Number (X-Small), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "385195ac6bc35e0a14a9b817455f7da420bd9a22",
+      "nodeId": "6034:2574",
+      "name": "Left=Title [16px] + Desc [14px], Right=Number (Double), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "39040b4307d62d15b8cbff67ee04bdf840f4e0a1",
+      "nodeId": "6034:2462",
+      "name": "Left=Description + Title, Right=Number (Double Text), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3b3c61543679af380dce93747b7906b378506b0e",
+      "nodeId": "6034:3117",
+      "name": "Left=Title [16px] + Desc [14px], Right=Toggle, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3c67e86fdc07f5f08d94974ad62a9098ef3e426d",
+      "nodeId": "6034:2814",
+      "name": "Left=Title [13px], Right=Chevron, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3f71b30130d3ccc53c9b61d6de1d372644c0d6e7",
+      "nodeId": "6034:2011",
+      "name": "Left=Title [12px], Right=Text X-Small, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3f81be38f3f3d5cf515b3f336528900a93786c1c",
+      "nodeId": "6034:3107",
+      "name": "Left=Title + Description, Right=Toggle, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4128fa71396651e5badfdeec2e598bb83cb6c84c",
+      "nodeId": "6034:1866",
+      "name": "Left=Title [14px], Right=Toggle, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4182f0ebd1476ef8f8d38f0348cb1bcb4a241942",
+      "nodeId": "6034:1956",
+      "name": "Left=Title [14px], Right=Number (Double Text), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "42ed262c2aaded13a6f4e7c2c7ad59d63fbf44e6",
+      "nodeId": "6034:1753",
+      "name": "Left=Title [16px], Right=Number (Double Text), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4360702539e89694a8cb1d7579b72c7cce5aed89",
+      "nodeId": "6034:2903",
+      "name": "Left=Title [14px], Right=Number (Double), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "466bb32182d75fa73061eb3ecef269edc4741f0e",
+      "nodeId": "6034:3327",
+      "name": "Left=Description + Title, Right=Button, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4787f64f84a4077a24f5544e264c8c7fa1f426d2",
+      "nodeId": "6034:1802",
+      "name": "Left=Title [16px], Right=Radio, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4c6c94f787e35460ae6f8b19718e99cc4ae2b7ac",
+      "nodeId": "6034:3381",
+      "name": "Left=Description + Title, Right=Icon, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4d08b089c152eb2eccff547b97d4a8a7a2089c40",
+      "nodeId": "6034:2863",
+      "name": "Left=Title [13px], Right=Number, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4d42bc224dda625174a38d39f17e7b50b51700da",
+      "nodeId": "6034:1882",
+      "name": "Left=Title [14px], Right=Button, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4db9a2d57ab90e031255e791145b1be37e0de69f",
+      "nodeId": "6034:3051",
+      "name": "Left=Title [13px], Right=Radio, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4e5db3345edbb1ee98b0cea34a6016a22beca68d",
+      "nodeId": "6034:1688",
+      "name": "Left=Title [16px], Right=Segmented, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4ef8f06d42db476706b9a38f9b1c84a2d10fb564",
+      "nodeId": "6034:2313",
+      "name": "Left=Title + Description, Right=Checkbox, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4feb175176f430c921ba09e449687b999376b868",
+      "nodeId": "6034:1810",
+      "name": "Left=Title [16px], Right=Checkbox, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5384b539cd143bfc4b4b964da23348987b847e39",
+      "nodeId": "6034:2518",
+      "name": "Left=Title [16px] + Desc [14px], Right=Double Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5406d5354b18bb62e72dfdbf0f3a0d2aaf75a28a",
+      "nodeId": "6142:1842",
+      "name": "Left=Title [14px] + Icon, Right=Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "550c34e19bf208696af14e7f3695e915ae9aaf4b",
+      "nodeId": "6034:3098",
+      "name": "Left=Title [16px] + Desc [14px], Right=Chevron, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "55a3bc9b448d3754d0c0ca04cc49c7c88d196940",
+      "nodeId": "6034:2837",
+      "name": "Left=Title [14px], Right=Button, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "562749446e0d6ced6925ab997157a24c922391cf",
+      "nodeId": "6034:3021",
+      "name": "Left=Title [14px], Right=Icon, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5a754711484c76120abb658d05ef554cb080e2e4",
+      "nodeId": "6034:3215",
+      "name": "Left=Title + Description, Right=Text Small, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5ae2e2f1e0c08f6bd0dfa2f79d0d9d0ed029531d",
+      "nodeId": "6034:3404",
+      "name": "Left=Description + Title, Right=Checkbox, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5b2d5ea7b205a83461dc706f99e6a5c726c75cf5",
+      "nodeId": "6034:2200",
+      "name": "Left=Title + Description, Right=Double Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5ba7629f5be191c045c5fcca84d119fe5a2abd97",
+      "nodeId": "6034:1828",
+      "name": "Left=Title [12px], Right=N/A, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5d03d4a4a4fcf7d60d247bc8d225842035dcf43c",
+      "nodeId": "6034:2708",
+      "name": "Left=Title [16px], Right=Number, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5d4947bdff0215a10087a31d946226c0bd46a338",
+      "nodeId": "6034:2649",
+      "name": "Left=Title [16px] + Desc [14px], Right=Radio, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5dd19b87419d5dcf526c0bbee15e3ae865bfd6da",
+      "nodeId": "6034:2736",
+      "name": "Left=Title [16px], Right=Number (Double Text), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5e47d6eef5817d01a3c4c424360dc0c8861f1d9f",
+      "nodeId": "6034:2112",
+      "name": "Left=Title [13px], Right=Radio, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5ec4d3954d0903c1fa9b2b77f3c9d4e331d068db",
+      "nodeId": "6034:2659",
+      "name": "Left=Description + Title, Right=Checkbox, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5fd2c63b37baa169aa57d2308c3b385f0c70d63c",
+      "nodeId": "6034:1722",
+      "name": "Left=Title [16px], Right=Number, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6239634575e351aac79b9a1395567c913b8c1922",
+      "nodeId": "6034:2302",
+      "name": "Left=Title + Description, Right=Radio, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "63747a3e54966335497722c7512dd61610b21e6d",
+      "nodeId": "6034:2041",
+      "name": "Left=Title [13px], Right=Number (Double), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6490a449b2c4ba0d91e82bce77d68780614f760b",
+      "nodeId": "6034:2789",
+      "name": "Left=Title [16px], Right=Checkbox, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "686aee84c72840fd768f024a1b9497399b8bc40e",
+      "nodeId": "6034:2807",
+      "name": "Left=Title [14px], Right=Chevron, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "69f4aa4e3e0eed61a1fcd3a151ad79cf56550fa3",
+      "nodeId": "6034:1874",
+      "name": "Left=Title [13px], Right=Toggle, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6c4db459a6d6b1d08ef3cf6f73d696c6a24021a5",
+      "nodeId": "6034:2136",
+      "name": "Left=Title + Description, Right=N/A, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6ce5fe58d9f658846ffab66b4feef086b78b8379",
+      "nodeId": "6034:1818",
+      "name": "Left=Title [14px], Right=N/A, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6cf061b5c8b3a0b054cf61c5627a3033d8e6b66e",
+      "nodeId": "6034:2071",
+      "name": "Left=Title [14px], Right=Icon, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6f6b2a7233ec2bc3b54227184db32abc291e6afa",
+      "nodeId": "6034:2425",
+      "name": "Left=Description + Title, Right=Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "75b3e89a44ad885f48fbcc06cacb6f1826872f5c",
+      "nodeId": "6034:2891",
+      "name": "Left=Title [14px], Right=Number (Double Text), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7dd050f4b8dc9ba10d3939592833fac253110f0a",
+      "nodeId": "6034:1696",
+      "name": "Left=Title [14px], Right=Segmented, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7def10425e862fed5d37ead825a67164f323e026",
+      "nodeId": "6034:2987",
+      "name": "Left=Title [13px] + Icon, Right=Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7eaf11eeaa48c71a892eb8d59ac79f7e61669cf4",
+      "nodeId": "6034:2770",
+      "name": "Left=Title [16px], Right=Icon, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8319bb90757a009f74dcd094aaac013984cd8c5b",
+      "nodeId": "6034:3059",
+      "name": "Left=Title [14px], Right=Checkbox, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "83222d4a0000ef47c868cdeec3b6236f0a7ec71a",
+      "nodeId": "6034:3261",
+      "name": "Left=Title + Description, Right=Radio, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8629af8ab97f792de1163b6ce0c192663f34c859",
+      "nodeId": "6034:1742",
+      "name": "Left=Title [16px], Right=Double Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "86d697293f2fa7488c867d02e284a059d0a7263d",
+      "nodeId": "6034:3337",
+      "name": "Left=Description + Title, Right=Number, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "89367b2bda7895ec5bfd68f8c9555bfe71b9e754",
+      "nodeId": "6034:1781",
+      "name": "Left=Title [16px], Right=Text Small, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8bebd8ae0c9f7813084c9ed5026b29137beb234e",
+      "nodeId": "6034:2260",
+      "name": "Left=Title + Description, Right=Number (Double), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8f3da71d6466fe9e530cf5fe2b10ec73255d229b",
+      "nodeId": "6034:2277",
+      "name": "Left=Title + Description, Right=Text Small, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9020560fed49a5a820081573e1bc45f60ddc3d71",
+      "nodeId": "6034:2685",
+      "name": "Left=Title [16px], Right=Chevron, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "91c8181a46920bbf1a1445059770185206b6cf2c",
+      "nodeId": "6034:1890",
+      "name": "Left=Title [13px], Right=Button, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "92fe1d4bf6da00185c3d0585f981cab91916bef9",
+      "nodeId": "6034:2997",
+      "name": "Left=Title [14px] + Icon, Right=Number, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "969a8fe9e14e9b18bc7a98c7ab63bcc5e2d011d6",
+      "nodeId": "6034:3271",
+      "name": "Left=Title [16px] + Desc [14px], Right=Radio, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "99bdba533d23830c383d4f4e34acd3d02ce16882",
+      "nodeId": "6034:1908",
+      "name": "Left=Title [13px], Right=Number, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9a6a17f9a7be8f49ea3a6a344de4b9f69bd3236f",
+      "nodeId": "6034:2228",
+      "name": "Left=Title + Description, Right=Number (Double Text), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9ae97b8f71b3166279b7d14a7e9ba49278e87169",
+      "nodeId": "6034:3147",
+      "name": "Left=Title + Description, Right=Number, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9be0173c4dbef8d42b3418a5ce6391918d8b5740",
+      "nodeId": "6034:1838",
+      "name": "Left=Title [14px], Right=Chevron, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a16eadecc17ebea0a5dd0744fcbaf00db427f465",
+      "nodeId": "6034:2165",
+      "name": "Left=Title + Description, Right=Button, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a50f227995fcdc7d47bc996d9d583b6b14099234",
+      "nodeId": "6034:1982",
+      "name": "Left=Title [13px], Right=Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a73509e805d4cfe20d923509cb4bb301fcb67eda",
+      "nodeId": "6034:2332",
+      "name": "Left=Title [16px] + Desc [14px], Right=N/A, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a73a307e9c35c8747518e3f0f5cb6e20ec468931",
+      "nodeId": "6034:2213",
+      "name": "Left=Title + Description, Right=Number (Double Text), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a82f14e6b6ca3a298aa4595ddeaffd4b4e15a0ef",
+      "nodeId": "6034:3225",
+      "name": "Left=Title [16px] + Desc [14px], Right=Text Small, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "aef40e8801eb72afb3baf37f1be9eec837c76355",
+      "nodeId": "6034:3394",
+      "name": "Left=Description + Title, Right=Radio, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b035b2acf080cf600443a0fbd16bd5190da1471f",
+      "nodeId": "6034:3137",
+      "name": "Left=Title [16px] + Desc [14px], Right=Button, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b2c2b8669adb49b017fd21309c518b7c36528905",
+      "nodeId": "6034:1946",
+      "name": "Left=Title [14px], Right=Double Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b31c13903617f9575bd42b6f52372e2675d4998d",
+      "nodeId": "6034:3349",
+      "name": "Left=Description + Title, Right=Text, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b33954eabdf6b7e6838a4e6b43d8450eb2bbaae5",
+      "nodeId": "6034:2873",
+      "name": "Left=Title [14px], Right=Text, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b77899e2f23968e42fbfd9da848fb5a1ca747a63",
+      "nodeId": "6034:2638",
+      "name": "Left=Description + Title, Right=Radio, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b8a79db3956b034856bb1d15ca8f59455d8a28c1",
+      "nodeId": "6034:1823",
+      "name": "Left=Title [13px], Right=N/A, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b93c93763a6ed143aa24d2fb751bd564f37d0344",
+      "nodeId": "6034:2680",
+      "name": "Left=Title [16px], Right=N/A, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bbd243a7550ffd5c528383e8fa5dad235a4f0cbd",
+      "nodeId": "6034:2128",
+      "name": "Left=Title [13px], Right=Checkbox, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bffa63b623ff449731e22dabf8db2ccfb5649608",
+      "nodeId": "6034:2692",
+      "name": "Left=Title [16px], Right=Toggle, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c576306bcf67af8bc62d23d7abec108adee15e0d",
+      "nodeId": "6034:2718",
+      "name": "Left=Title [16px], Right=Text, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c5c74fd90ffea9fb7472198e81ae4d28164a36b5",
+      "nodeId": "6034:2611",
+      "name": "Left=Description + Title, Right=Icon, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c8050490b13a55c7d50ee43e74d2e776b976f630",
+      "nodeId": "6034:3248",
+      "name": "Left=Title [16px] + Desc [14px], Right=Icon, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c98fdd3ee797dff2e013deb673f3affd5c698f9b",
+      "nodeId": "6034:2288",
+      "name": "Left=Title + Description, Right=Icon, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cf4f8507a7eebcd87bad50828c6671093a3d5eeb",
+      "nodeId": "6034:2082",
+      "name": "Left=Title [13px], Right=Icon, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d10b707ca9d5c73a3f83a1cbf403c30831b83c84",
+      "nodeId": "6034:3359",
+      "name": "Left=Description + Title, Right=Double Text, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d44a19823490e1ebb7fb6c03ef06b6af55daa462",
+      "nodeId": "6034:2530",
+      "name": "Left=Title [16px] + Desc [14px], Right=Number (Double Text), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d582c7c56dac958516330e83e876c5defc349dbe",
+      "nodeId": "6034:1918",
+      "name": "Left=Title [12px], Right=Number (X-Small), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d6b6a02cf454474cd0ec828b8105aa9f056af4aa",
+      "nodeId": "6034:2379",
+      "name": "Left=Description + Title, Right=Button, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "da45c09f1e8fd229922f907feec0a2751cfcb621",
+      "nodeId": "6034:3193",
+      "name": "Left=Title [16px] + Desc [14px], Right=Text, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "da4ee034addc8f441ab587fcb46ff8f2d3a1a77e",
+      "nodeId": "6034:2349",
+      "name": "Left=Title [16px] + Desc [14px], Right=Chevron, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dab4126c80376722f9828fa59a1e69b0314a0350",
+      "nodeId": "6034:2189",
+      "name": "Left=Title + Description, Right=Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "db9d284eb8ea9a9fdaccfccc6840fd5a8d76e083",
+      "nodeId": "6034:2358",
+      "name": "Left=Description + Title, Right=Toggle, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dd2a7be08831529c1275b0f7feb7d8a49577a102",
+      "nodeId": "6034:2029",
+      "name": "Left=Title [13px], Right=Number (Double Text), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dd73897c2437a6140e106bdbfedfadb4e1734a24",
+      "nodeId": "6083:1833",
+      "name": "Left=Title [13px] + Icon, Right=Toggle, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dd863d4f81c2cfa0296d95ff0bc5960d485b738c",
+      "nodeId": "6034:1852",
+      "name": "Left=Title [12px], Right=Chevron, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dfcaf5cd96a4dbf92f7f7990ae214d5f683746b2",
+      "nodeId": "6034:3075",
+      "name": "Left=Title + Description, Right=N/A, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e0f644073f75150bfb00341d265241623bef9ddd",
+      "nodeId": "6034:2853",
+      "name": "Left=Title [14px], Right=Number, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e0ff292a40e2723e98f21cdbe5ea9eca695c5e44",
+      "nodeId": "6034:3067",
+      "name": "Left=Title [13px], Right=Checkbox, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e1119fbe53a147890e75b14cc5a3b672899a5e14",
+      "nodeId": "6034:1680",
+      "name": "Left=Title [16px], Right=Chevron, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e2a909c2c5b301a04322d709e2a7ce0ccd8e3b81",
+      "nodeId": "6034:2476",
+      "name": "Left=Description + Title, Right=Number (Double), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e321b57146d057c851bcdbb1299193d3e18b8a91",
+      "nodeId": "6034:3203",
+      "name": "Left=Title [16px] + Desc [14px], Right=Double Text, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e3d94eddded06f7780b457ce1536828b7a4d2306",
+      "nodeId": "6034:2845",
+      "name": "Left=Title [13px], Right=Button, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e4491afddd3d25d79bcd77b3e5c0f30a53cb3e8a",
+      "nodeId": "6034:2390",
+      "name": "Left=Title [16px] + Desc [14px], Right=Button, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e5f45cc3e07384d05c8542852d77d9a3856396cb",
+      "nodeId": "6034:2544",
+      "name": "Left=Title [16px] + Desc [14px], Right=Number (Double Text), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e6404b4e3eada4ea364aae3b24fabac440a1c090",
+      "nodeId": "6034:2625",
+      "name": "Left=Title [16px] + Desc [14px], Right=Icon, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e7013a014e946f5cb8e2bf01a68e15f6b4dbcc6f",
+      "nodeId": "6034:3171",
+      "name": "Left=Title + Description, Right=Text, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e73bac5489599782a0fe8cc3f1d0ab7ad8aa6576",
+      "nodeId": "6034:1713",
+      "name": "Left=Title [16px], Right=Button, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e75085a940c6a1c3784e677a38ef4d6dc4b7cd06",
+      "nodeId": "6034:1859",
+      "name": "Left=Title [12px], Right=Chevron, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e78f6fc40e9dc68dc8f0679725a724bf120bcc4c",
+      "nodeId": "6034:2055",
+      "name": "Left=Title [14px], Right=Text Small, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e7b39c689a13d4dd8009ba0bfdc9c5ba24a5b9fc",
+      "nodeId": "6034:3082",
+      "name": "Left=Title [16px] + Desc [14px], Right=N/A, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e8196ac558a19f3a7add519cc825420a50e48869",
+      "nodeId": "6034:1968",
+      "name": "Left=Title [14px], Right=Number (Double), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "eb3b594fcd442b61764729817807eaa792a09240",
+      "nodeId": "6034:2019",
+      "name": "Left=Title [13px], Right=Double Text, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ec07a080bed2e26807cef6026d9d04e33e69d5e1",
+      "nodeId": "6034:2400",
+      "name": "Left=Description + Title, Right=Number, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ec949b87e508de9e110bcf2f01bc3317b72df0b2",
+      "nodeId": "6034:2120",
+      "name": "Left=Title [14px], Right=Checkbox, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ecf14b259df834087dea2aac0f9c536e0888b7fb",
+      "nodeId": "6034:2144",
+      "name": "Left=Title + Description, Right=Chevron, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ef969a88002a22c405d3f2db43b4fb4def5449bb",
+      "nodeId": "6034:3291",
+      "name": "Left=Title [16px] + Desc [14px], Right=Checkbox, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f025281361e1d08bc7ae1139152463a583f5e5e2",
+      "nodeId": "6034:1674",
+      "name": "Left=Title [16px], Right=N/A, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f57c8aa69351d2d396b98892906849421f812d38",
+      "nodeId": "6034:2762",
+      "name": "Left=Title [16px], Right=Text Small, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f5c0a1451ca5fa4d7a67d14876e2c090967cd006",
+      "nodeId": "6034:2176",
+      "name": "Left=Title + Description, Right=Number, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f743b2c8d99d46d08d07395a134435d57f6c3a67",
+      "nodeId": "6034:3089",
+      "name": "Left=Title + Description, Right=Chevron, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fea3857694e1cc9b9bdeae9d52d75645d0516201",
+      "nodeId": "6034:2726",
+      "name": "Left=Title [16px], Right=Double Text, -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fecbe80cd7b61d7ed8655dc8bde6b1b28295f4fa",
+      "nodeId": "6034:2243",
+      "name": "Left=Title + Description, Right=Number (Double), -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fef48c72c73b072ca3edbf6c0b6e2b2477209ab3",
+      "nodeId": "6034:2324",
+      "name": "Left=Description + Title, Right=N/A, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ff4073a9ae214566f8adc54b619649178afb9534",
+      "nodeId": "6034:2339",
+      "name": "Left=Description + Title, Right=Chevron, -><- Margin=YES",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ff8bc8a664ab80143a0715e1797992d71d0f4ae8",
+      "nodeId": "6034:2935",
+      "name": "Left=Title [13px], Right=Number (Double Text), -><- Margin=NO",
+      "description": "",
+      "containingFrame": "ROW",
+      "containingPage": "1.0"
+    }
+  ]
+}

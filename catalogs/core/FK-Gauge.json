@@ -1,0 +1,177 @@
+{
+  "fileKey": "bHav3vCFOlMn8TWnwaciXD",
+  "name": "FK-Gauge",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:09:55.324Z",
+  "componentCount": 21,
+  "components": [
+    {
+      "key": "02d3a4988a589f0a8e78be656a10c8be75b0c0b9",
+      "nodeId": "8001:651",
+      "name": "Size=Medium, Type=Primary, State=Active",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "09e11c7211209ced9164bb8ad0ee51b845de953b",
+      "nodeId": "8001:674",
+      "name": "Size=Medium, Type=Primary, State=Inactive",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "26ebcb5f4999d710dcf46484e29424c5a946cfa5",
+      "nodeId": "8001:647",
+      "name": "Size=Medium, Type=Buy, State=Active",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "292cefe5d7600cbb4f5b3ee26e52afcf76d7446a",
+      "nodeId": "8001:643",
+      "name": "Size=Medium, Type=Sell, State=Active",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2fdee90bd82096a75aa29ca40db8c3cc6e4b6777",
+      "nodeId": "8001:639",
+      "name": "Size=Large, Type=Primary, State=Active",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3141b064b517957e7a76197bd5f957f10159e33b",
+      "nodeId": "8001:689",
+      "name": "Size=Small, Type=Primary, State=Inactive",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "46bb2794a135107c31c61a849402c9d40456d384",
+      "nodeId": "8001:681",
+      "name": "Size=Small, Type=Sell, State=Active",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "470397106c80a77e1b0cd063da1ac2f63b1c2307",
+      "nodeId": "8001:685",
+      "name": "Size=Small, Type=Buy, State=Active",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4bcaa3f49b2acca0f7d77e5ab56d7dcb031d2b4c",
+      "nodeId": "8001:631",
+      "name": "Size=Large, Type=Sell, State=Active",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "57f6a0f04d2e839a11e97730528559b82bdfe2ae",
+      "nodeId": "8001:692",
+      "name": "Size=Small, Type=Sell, State=Inactive",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "69ca3e26665ca28253efd305d189c0cbcdd7a603",
+      "nodeId": "8073:77",
+      "name": "Size=Large, Type=Partial 2, State=Active",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "813d90d71d4cdf6ff0b7b8253e03085d2c761715",
+      "nodeId": "8001:668",
+      "name": "Size=Medium, Type=Sell, State=Inactive",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8829ec6e6d2669c2409f5767cb7b580f0d67cdda",
+      "nodeId": "8073:60",
+      "name": "Size=Large, Type=Partial 1, State=Active",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "95f142b66bc18e580de1408bb78d7207cf71b6ff",
+      "nodeId": "8001:671",
+      "name": "Size=Medium, Type=Buy, State=Inactive",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9c8f3e560a2015268f0f968a344380b3655c9a51",
+      "nodeId": "8073:99",
+      "name": "Size=Large, Type=Partial 3, State=Active",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a58dafef93dbb95016ffeb9bd15f14cf48a1aa52",
+      "nodeId": "8001:665",
+      "name": "Size=Large, Type=Primary, State=Inactive",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b31af9358d37c7e20e0182db302188433730b4a0",
+      "nodeId": "8001:695",
+      "name": "Size=Small, Type=Buy, State=Inactive",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bd5c5ae3553ff4ae616343760db0f3fcb937849c",
+      "nodeId": "8001:662",
+      "name": "Size=Large, Type=Buy, State=Inactive",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ce93d5115c2ba7c0750ac141d37417fa3de9cf60",
+      "nodeId": "8001:635",
+      "name": "Size=Large, Type=Buy, State=Active",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d4f84482bcdef1d2062b8bf8b23a91e8b0856333",
+      "nodeId": "8001:677",
+      "name": "Size=Small, Type=Primary, State=Active",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "eab24cc5895b6c3ec7e5f448d97a38f548cc6123",
+      "nodeId": "8001:659",
+      "name": "Size=Large, Type=Sell, State=Inactive",
+      "description": "",
+      "containingFrame": "Gauge",
+      "containingPage": "1.0"
+    }
+  ]
+}

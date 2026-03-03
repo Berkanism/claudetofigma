@@ -1,0 +1,5457 @@
+{
+  "fileKey": "ehiVDR4Dhtls5jujkncviR",
+  "name": "x-StockLogos",
+  "group": "assets",
+  "updatedAt": "2026-03-03T15:10:40.644Z",
+  "componentCount": 681,
+  "components": [
+    {
+      "key": "1118634ee5b265832766f2f92c01c4c97407f7b4",
+      "nodeId": "17:7274",
+      "name": "Stock=BIST, Company=DGNMO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1a0ed0f1c097c9a5c1803072ed35ae211a6ab4dd",
+      "nodeId": "17:5694",
+      "name": "Stock=BIST, Company=KRDMA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "327922c6098d65bb5ffe451e4cbdedc3b8b3a5a2",
+      "nodeId": "1129:327",
+      "name": "Stock=BIST, Company=DMLKT.G",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2597359e001cd6469e40510bcc36d3ed6a622132",
+      "nodeId": "17:6495",
+      "name": "Stock=BIST, Company=AKSA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "525d404414615907a1100f7e570b2444e5d58030",
+      "nodeId": "17:5922",
+      "name": "Stock=BIST, Company=IHGZT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7231e8b9b4f5bf7c2d3b1d2a9ad7431a951e9c2d",
+      "nodeId": "338:12053",
+      "name": "Stock=BIST, Company=ASTOR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "733acaa887159a8f48731524251b830ab69d0419",
+      "nodeId": "17:6820",
+      "name": "Stock=BIST, Company=VESTL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d452ea3ec26260cf4c794bd6514da85913e1eef3",
+      "nodeId": "17:7176",
+      "name": "Stock=BIST, Company=CRDFA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e4269ada013ceea25990215ef8e1c908d0abb80e",
+      "nodeId": "17:6609",
+      "name": "Stock=BIST, Company=SANEL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e44eaffb1f09c960c5076a5ed515f0bf5e4861bd",
+      "nodeId": "17:6166",
+      "name": "Stock=BIST, Company=INVEO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e4b29c5158d400aca76d5366e6ff91ef587428f5",
+      "nodeId": "17:5669",
+      "name": "Stock=BIST, Company=KORDS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e4ea4dfc61b50985da7e7496900253bcca154ebe",
+      "nodeId": "17:4470",
+      "name": "Stock=BIST, Company=POLHO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e9d9a8259ae9613348772934e7ee105a1242773e",
+      "nodeId": "17:4008",
+      "name": "Stock=BIST, Company=METRO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f9283f97f3e65a5afe8bdd50c612eb41346b09b5",
+      "nodeId": "17:7942",
+      "name": "Stock=BIST, Company=FORMT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "15c60b4c7329103dfadea455f6a6f78caa4e222f",
+      "nodeId": "887:184",
+      "name": "Stock=BIST, Company=ALKLC",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "48021bc304b10810872db46f0900e6102780b306",
+      "nodeId": "736:1945",
+      "name": "Stock=BIST, Company=BEGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5f4c2469e01f64405cf72d3d9b626f4a3fc25af7",
+      "nodeId": "17:5714",
+      "name": "Stock=BIST, Company=KRDMD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "60016bfc9e6609e123ea48fe58524c13176af383",
+      "nodeId": "17:4690",
+      "name": "Stock=BIST, Company=KARSN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6370334456dc4f74d5001633499adc1f0ce16e9f",
+      "nodeId": "17:5388",
+      "name": "Stock=BIST, Company=CASA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2c0ca6ab343bd241c26f118636620414b68a8266",
+      "nodeId": "17:5587",
+      "name": "Stock=BIST, Company=KLKIM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "87af3efb0d790a38ad9aa9a58bef691109f6e7e2",
+      "nodeId": "17:3952",
+      "name": "Stock=BIST, Company=MAVI",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2ae3906a4c0b9f63929db0834fedcbff9710275e",
+      "nodeId": "2907:303",
+      "name": "Company=Albaraka Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ce377cdf33567f6abff944010ddce37f6969137d",
+      "nodeId": "2907:312",
+      "name": "Company=Deniz Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7119226815f9b5d02a403b8f4e675a1f168d4c77",
+      "nodeId": "2907:327",
+      "name": "Company=Meksa Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "98544bab3707550afb287307c265b7279c9b03e5",
+      "nodeId": "2907:301",
+      "name": "Company=Ak Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d00c4735507ee1b2603a75b252d5ff51f5098fe9",
+      "nodeId": "2907:318",
+      "name": "Company=Hedef Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "859be66f9134ce8217dd20b78bb347aec0dff49d",
+      "nodeId": "2907:325",
+      "name": "Company=Kuveyttürk Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "68b577cbc5201efcc8d4dc54e0665f44dc6b5819",
+      "nodeId": "2907:304",
+      "name": "Company=Allbatros Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "12acd26bb7da1e0406179033af5609548b39ca38",
+      "nodeId": "2907:313",
+      "name": "Company=Emaa Blue Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c3e7068a92ef033495ef64b548354953502affd4",
+      "nodeId": "2907:328",
+      "name": "Company=MT Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1201a426a90459e7cfe210ed081776d9bbe33bb1",
+      "nodeId": "2907:302",
+      "name": "Company=Aktif Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cbfd0fc977da49568825f9ee57c223c2ddfceef9",
+      "nodeId": "2907:311",
+      "name": "Company=BV Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "fb5f5b30fc3dfb7e1cf7416e801fc6e277072ef5",
+      "nodeId": "2907:326",
+      "name": "Company=Marmara Capital Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "988ff87f6abd6044e23defb4dbe479a2bbea8ff4",
+      "nodeId": "2907:305",
+      "name": "Company=Ata Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0877ccffdccb5827fa5ba7bc58d44b0f84da30c2",
+      "nodeId": "2907:306",
+      "name": "Company=Atlas Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "12cfe7e3069e874a67ff94315b5f1d8f97fddbec",
+      "nodeId": "2907:329",
+      "name": "Company=Neo Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "22a8f3be27cf915d4be1ff088479291011c41078",
+      "nodeId": "2907:308",
+      "name": "Company=Azimut Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "45c62ea89417846615468f61792e76c296ba5342",
+      "nodeId": "2907:323",
+      "name": "Company=İş Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3b3062e448c44b71a93bc443fcaebd115bb5ecd7",
+      "nodeId": "2907:322",
+      "name": "Company=İstanbul Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ee01746905dc8577cc9a1e66aee99a732b7f17b9",
+      "nodeId": "2907:307",
+      "name": "Company=Aura Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9a92d716eb5c542da9c61c6d3f0936debe8f4ae8",
+      "nodeId": "2907:309",
+      "name": "Company=A1 Capital Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "253cd143f30551f82049ca8a60d6d8849c05ecd7",
+      "nodeId": "2907:324",
+      "name": "Company=Kare Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "45b0343b900341014be4c8b3783b3b546baba2b7",
+      "nodeId": "2907:300",
+      "name": "Company=Ahlatcı Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "52ed1692a0f1cce1293b9663f7aa33e2a83030a3",
+      "nodeId": "2907:310",
+      "name": "Company=Bulls Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6dc2e8c749683d889a88a6dceac2251138b8f571",
+      "nodeId": "2907:314",
+      "name": "Company=Fiba Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "567ae8c28f28529e8a64196b9fea49ae64ef5976",
+      "nodeId": "2907:337",
+      "name": "Company=Piramit Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2d57e5920e2756a5972ba5475e0bb4e9c6f0c781",
+      "nodeId": "2907:315",
+      "name": "Company=Fonmap Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d791bd9ab2116b2ac48d327369ad8239f2d89861",
+      "nodeId": "2907:330",
+      "name": "Company=Nurol Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "54583aec8ad1ecb81fdc43c6fdf0b4f19ed05718",
+      "nodeId": "2907:316",
+      "name": "Company=Garantibbva Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "76cb66c654fcff80bc9b39c0959b6815c3962dd7",
+      "nodeId": "2907:321",
+      "name": "Company=Inveo Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f052fbca9f743e1a0f3972ab541cbba92e813825",
+      "nodeId": "2907:331",
+      "name": "Company=One Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7bc261fd4a83f3ebb8aa21dedd49fa83e2a6d635",
+      "nodeId": "2907:317",
+      "name": "Company=GlobalMD Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a189b9886bdb3cf0716b191f4f502ecb2abd8174",
+      "nodeId": "2907:332",
+      "name": "Company=Osmanlı Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ffe3106dcf42d44d6f86ce461906455867f89286",
+      "nodeId": "2907:319",
+      "name": "Company=HSBC Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "aa992fc7b40de22209d2d323d3901834d06eaf85",
+      "nodeId": "2907:334",
+      "name": "Company=Pardus Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "298383df22cf4b0d7053dfaba53b851e6c502892",
+      "nodeId": "2907:320",
+      "name": "Company=ICBC Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ce0db045e00b25bd21c66d38400c924c06251641",
+      "nodeId": "2907:335",
+      "name": "Company=Philip Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "fe7b0123ddf3e4704b9668ca27739f72d6469294",
+      "nodeId": "2907:336",
+      "name": "Company=Perform Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b02825a0b90ef181c2936042259283e32555e54b",
+      "nodeId": "2907:333",
+      "name": "Company=Oyak Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "53eccd60ae3cdb5860bd85aa1416750e255697f7",
+      "nodeId": "2907:338",
+      "name": "Company=Pusula Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "27eeef061ec7afeb450ddf38d39ed4fb9038455d",
+      "nodeId": "2907:339",
+      "name": "Company=Qinvest Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3e252d6342ceed1be63059629db9ca12c2bea021",
+      "nodeId": "2907:340",
+      "name": "Company=QNB Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0df4a363cdfb8b1282f754be199c125c3656a2c4",
+      "nodeId": "2907:341",
+      "name": "Company=Repie Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "03bf46deb547662606d371578459621da053a848",
+      "nodeId": "2907:342",
+      "name": "Company=Rota Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f777f67ee3b4db6631fd7f39e5cfed94ea02072b",
+      "nodeId": "2907:343",
+      "name": "Company=Strateji Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1ac1a259a199dbd247f776bc0757cfd17eec014c",
+      "nodeId": "2907:344",
+      "name": "Company=Sparta Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "56b7f64216f602bddcd41a1a392c8e5809621104",
+      "nodeId": "2907:345",
+      "name": "Company=Tacirler Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cb343f822b642877d8f740b19d1062c8b3efb0d9",
+      "nodeId": "2907:346",
+      "name": "Company=TEB Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "81ca3fa99ac552534cb085cd0be2498d99416d84",
+      "nodeId": "2907:347",
+      "name": "Company=Tera Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e297106508116f381a3bc2a357c6649b48156ea8",
+      "nodeId": "2907:348",
+      "name": "Company=Trive Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ccc74be7d51602eb5b58e72160dd546d998a0070",
+      "nodeId": "2907:349",
+      "name": "Company=Ünlü Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "52da5cdae8b06ba87a431ac44ec007051db3e62a",
+      "nodeId": "2907:350",
+      "name": "Company=Vega Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "856989c9ee1f56ad9660b4d4dca5054e33c3d452",
+      "nodeId": "2907:351",
+      "name": "Company=Yapıkredi Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "35fcbf3fdca6c9c88ca0f47424c4ad07f40f4b30",
+      "nodeId": "2907:352",
+      "name": "Company=Ziraat Portföy",
+      "description": "",
+      "containingFrame": "Fund Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "273068c1419543377cc5eda31b049e3f5b8b5123",
+      "nodeId": "1177:302",
+      "name": "Stock=BIST, Company=ECOGR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ac7d217df123a1b678b8e7839cea1bc9aa235052",
+      "nodeId": "1182:301",
+      "name": "Stock=BIST, Company=PAHOL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "649b4759514f7484cf989418752effbb8afffa76",
+      "nodeId": "1182:325",
+      "name": "Stock=BIST, Company=VAKFA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "002208416960553fe554f7bb2c0643fb9e5b381a",
+      "nodeId": "17:3976",
+      "name": "Stock=BIST, Company=MEPET",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "011d3da9c34dcf9d0ca6d05446fe355f7fe48db1",
+      "nodeId": "635:288",
+      "name": "Stock=BIST, Company=D_TRETF",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0228c66f146dea6ab20d7eb89b1da91fef4c5d91",
+      "nodeId": "17:6689",
+      "name": "Stock=BIST, Company=UNLU",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "022ed1e157650769497f1089befd53450cd6a12a",
+      "nodeId": "17:5930",
+      "name": "Stock=BIST, Company=INVES",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "025b1846d042d753532fd4eec185ed31dbadb042",
+      "nodeId": "338:6363",
+      "name": "Stock=BIST, Company=Company490",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "03ba8c83e3e4b42beedbc5ceaa738b8e6de6e133",
+      "nodeId": "17:5757",
+      "name": "Stock=BIST, Company=KRTEK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "03c7995c73ab1bacb294bf3da00243d993a2fba4",
+      "nodeId": "1046:435",
+      "name": "Stock=BIST, Company=SMRVA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "04886a57507777aff9397ebd44ade5d40552f8fb",
+      "nodeId": "17:4372",
+      "name": "Stock=BIST, Company=PEGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "065d35d840479bf0a337b7081e94c52cb467b41b",
+      "nodeId": "17:7387",
+      "name": "Stock=BIST, Company=ECILC",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "069111fefb84c3147f47cd83f17b001760013ec4",
+      "nodeId": "17:6856",
+      "name": "Stock=BIST, Company=SRVGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "071484e1a8a4467f125c38f8537a11c721fb82dc",
+      "nodeId": "17:4092",
+      "name": "Stock=BIST, Company=MRSHL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0806430718a3a0f68559a10efbea38dd20e040d2",
+      "nodeId": "17:6826",
+      "name": "Stock=BIST, Company=SNKRN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "08184f12214abadafd9f8d9f4d98aa4d11ff5cb6",
+      "nodeId": "17:3946",
+      "name": "Stock=BIST, Company=MARTI",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "081bc4e05795d76acd217ec733e2de6c2ec84555",
+      "nodeId": "904:416",
+      "name": "Stock=BIST, Company=DCTTR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "08de8ea3b11c224f6b48e53a7bfcdd7ac5f317ad",
+      "nodeId": "17:4186",
+      "name": "Stock=BIST, Company=OBASE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0c64fafec3dc23930eb38203d25404e49621a605",
+      "nodeId": "17:6433",
+      "name": "Stock=BIST, Company=TRGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "093d77b7376d15231941eccfed317e86fb447113",
+      "nodeId": "833:832",
+      "name": "Stock=BIST, Company=ALTIN.S1",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "094d6e37909bd70685d93958507b9a20eca3196a",
+      "nodeId": "17:4936",
+      "name": "Stock=BIST, Company=ARMDA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "09eb5c8ce0b739a1df394ed4bdb0f5e0f99cb383",
+      "nodeId": "17:4381",
+      "name": "Stock=BIST, Company=PEKGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0a03d971b8199ab9c221097b5663aee212d7b06c",
+      "nodeId": "17:7268",
+      "name": "Stock=BIST, Company=DGATE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0a0b957c9be9b2a48f81001ca9d68bb9c35e15d1",
+      "nodeId": "17:3991",
+      "name": "Stock=BIST, Company=MERIT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0ab8a0a045bbaab54e81ec3294aad6c6419fc4e9",
+      "nodeId": "17:5818",
+      "name": "Stock=BIST, Company=KAPLM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0ae3b73ae077d7727df7e8bd27ba76905688e831",
+      "nodeId": "17:4311",
+      "name": "Stock=BIST, Company=PAGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0c87e90d498361293be32884e6b14f6eb8ac4d6e",
+      "nodeId": "17:5750",
+      "name": "Stock=BIST, Company=KRSTL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0cb9c19659ae329ecb665a7ca39d456611165f59",
+      "nodeId": "17:6675",
+      "name": "Stock=BIST, Company=SISE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0dad151323be8de1bbe4f1c42ccd6d2c92d64dca",
+      "nodeId": "17:6586",
+      "name": "Stock=BIST, Company=AGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0dd6017ba2d6dd96fcb97fe96bb3e4b6c329a988",
+      "nodeId": "17:6120",
+      "name": "Stock=BIST, Company=IZMDC",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0e7f9b5b347fffb710dedd0e766deb6f52b4fa44",
+      "nodeId": "533:5024",
+      "name": "Stock=BIST, Company=HKTM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "0f3ea2584cb2f2144a589b6f563e3aa8d72e8807",
+      "nodeId": "516:370",
+      "name": "Stock=BIST, Company=KTLEV",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1050913024721413f6663fb0067b26bfc02e3b20",
+      "nodeId": "17:6660",
+      "name": "Stock=BIST, Company=SELVA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "10c05b698442edb5646d429d97ec4952f0b69177",
+      "nodeId": "17:7146",
+      "name": "Stock=BIST, Company=CMBTN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1183c23800435152cb94c84629be03887021c751",
+      "nodeId": "17:6733",
+      "name": "Stock=BIST, Company=YAPRK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "118e9eff030ece75a77494b3dc322817534dee78",
+      "nodeId": "865:712",
+      "name": "Stock=BIST, Company=ODINE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1218f4b7f707b69f3c8755fd3ecccaa635bf9edb",
+      "nodeId": "17:4020",
+      "name": "Stock=BIST, Company=MGROS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "129e44203d2af21b68e5a25770bc056e48b311c7",
+      "nodeId": "17:4387",
+      "name": "Stock=BIST, Company=PENGD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "13d8863fe5b94dfe105cda7bf9b071435b356ace",
+      "nodeId": "17:3959",
+      "name": "Stock=BIST, Company=MEDTR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "147987de52017deeb04b82c3eee25a7f2171e784",
+      "nodeId": "17:5636",
+      "name": "Stock=BIST, Company=KMPUR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "169317b05d34c60340ba7f4c172c83859485d136",
+      "nodeId": "17:7920",
+      "name": "Stock=BIST, Company=FLAP",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "14c43d1a38d8821ddda35c402397a61e6aed2ce8",
+      "nodeId": "17:8020",
+      "name": "Stock=BIST, Company=GESAN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "155f8630407d3d526d964331c72d0a090cd003dd",
+      "nodeId": "823:517",
+      "name": "Stock=BIST, Company=LMKDC",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "15688017e9d502af4d38d8acdaa4d14604b91954",
+      "nodeId": "17:6346",
+      "name": "Stock=BIST, Company=JANTS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "159ab724d6f1b13e1b1ac8de50a7cfcaeb544038",
+      "nodeId": "17:7335",
+      "name": "Stock=BIST, Company=DOBUR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "15f1256dfa7180dcac66f003be84a3a6c49f32ba",
+      "nodeId": "17:6454",
+      "name": "Stock=BIST, Company=TSKB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "15f76fe5547c897abc9e61f5cddc362d6e93867e",
+      "nodeId": "736:2191",
+      "name": "Stock=BIST, Company=SURGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "16049d4cecf926e28054ff18e342bbaf84161c5d",
+      "nodeId": "17:5250",
+      "name": "Stock=BIST, Company=BMSTL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "17e50e1c6a78598c95c968ea902e84184ced1e06",
+      "nodeId": "17:6202",
+      "name": "Stock=BIST, Company=IMASM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "16d9f0ba7f068c27b81edb2cd0a15849d71ba886",
+      "nodeId": "338:14385",
+      "name": "Stock=BIST, Company=TNZTP",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "16ec651789b6ec2432d49ef489c0e6ae2ee5eaa3",
+      "nodeId": "516:366",
+      "name": "Stock=BIST, Company=FORTE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "16ff2904959acacab92ec01cfa90b830d050496b",
+      "nodeId": "17:3913",
+      "name": "Stock=BIST, Company=MAGEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1745cdeae00571a2e9cd2a325148445578c9c6a2",
+      "nodeId": "17:6701",
+      "name": "Stock=BIST, Company=SMART",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1749cdc41f9b0f4772a513c37e10e69c6d2b9eb0",
+      "nodeId": "17:6641",
+      "name": "Stock=BIST, Company=SEGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "178e3a29634b90c74906c9abb789247f683741e8",
+      "nodeId": "17:5183",
+      "name": "Stock=BIST, Company=BIOEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "17e1af1ffe773ad57fcdaa9ea2caf8665c2763e3",
+      "nodeId": "17:4001",
+      "name": "Stock=BIST, Company=MERKO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1a65a47f5ddbce4bcdd39e7e4cf8c613150b6808",
+      "nodeId": "17:5515",
+      "name": "Stock=BIST, Company=LIDER",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "180940fbfe99273335d5800159f34b98722de300",
+      "nodeId": "17:4014",
+      "name": "Stock=BIST, Company=METUR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "18a5a2dcdf19faf01594c4c1f030f1eac0e1f40b",
+      "nodeId": "17:5220",
+      "name": "Stock=BIST, Company=BLCYT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "190870995e0be1fd07c26473c18ede04ea8967cc",
+      "nodeId": "615:292",
+      "name": "Stock=US, Company=MSFT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "191a9811f81d8c46fc16fe1098a208c4c5134554",
+      "nodeId": "17:6602",
+      "name": "Stock=BIST, Company=SAMAT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "197a1de1af4a8fca9cc339a6424ec2e115c6ee40",
+      "nodeId": "17:6373",
+      "name": "Stock=BIST, Company=Z30EAF",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "19b836eb5455ef659e1b728bab52d91aba761ee9",
+      "nodeId": "17:3906",
+      "name": "Stock=BIST, Company=MAALT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1a49eeac04e991fb67d930f2460fc53557529390",
+      "nodeId": "17:4461",
+      "name": "Stock=BIST, Company=PNSUT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1a7a56f0e7a65ae793d04bcc740d74e018dc9fc0",
+      "nodeId": "736:1998",
+      "name": "Stock=BIST, Company=CATES",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1af07566924599689c2fb707556572f89cf4c6d0",
+      "nodeId": "17:6103",
+      "name": "Stock=BIST, Company=IZFAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1b55808a6e4dc56f0c28337111c783337974b2d0",
+      "nodeId": "17:4417",
+      "name": "Stock=BIST, Company=PGSUS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1b5b336bac534cc39f05e01336592209a78ffccb",
+      "nodeId": "17:6234",
+      "name": "Stock=BIST, Company=HLGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1b7d00642ff9975e485308426daf0e1c92a57799",
+      "nodeId": "17:4128",
+      "name": "Stock=BIST, Company=MTRYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1b864001fe55bb8a002dc11434d2a0f94cf70478",
+      "nodeId": "17:5788",
+      "name": "Stock=BIST, Company=KUTPO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1bf6402ce93654836b353955a8757c6ab038c2a4",
+      "nodeId": "17:7580",
+      "name": "Stock=BIST, Company=ULUUN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1c6395413e3db72b1cf36b617b145a52f6308161",
+      "nodeId": "17:7467",
+      "name": "Stock=BIST, Company=EKGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1c6d18a45f7f83dac6ac66f2dedb0697dfbef70f",
+      "nodeId": "17:6413",
+      "name": "Stock=BIST, Company=TPYTIF2",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1cd3c54e6f806bb273b96dade26f8af1b9a9db40",
+      "nodeId": "17:5630",
+      "name": "Stock=BIST, Company=KLSYN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1d06023a1d2be9280daaab9e6af00dc194f4b0c0",
+      "nodeId": "17:6758",
+      "name": "Stock=BIST, Company=YYAPI",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1d28246c4bdc976a2c21d91376128c02b2445056",
+      "nodeId": "17:6764",
+      "name": "Stock=BIST, Company=YUNSA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1e1879b099a27e9a17983f3f83df5993ad1eefd7",
+      "nodeId": "824:651",
+      "name": "Stock=BIST, Company=BORSK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1e5b331682176e1ce99d265b5860bad952e08b51",
+      "nodeId": "17:5826",
+      "name": "Stock=BIST, Company=KAREL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1ec1c34e773c184b9e6a5c2792f118abe7a3c8d9",
+      "nodeId": "886:362",
+      "name": "Stock=BIST, Company=ONRYT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1f440bd3101dea4198df146260421b0f326c46e0",
+      "nodeId": "615:324",
+      "name": "Stock=US, Company=TSLA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1f5a0f8a49fc1a8174d81628726f3a2991e51d25",
+      "nodeId": "17:6747",
+      "name": "Stock=BIST, Company=YEOTK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "1f819d3b8403c17e13127c5ffe2f2b3a0316478d",
+      "nodeId": "17:5877",
+      "name": "Stock=BIST, Company=KENT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2000a621213382a729f8c47487ad7740b1cac6d7",
+      "nodeId": "670:212",
+      "name": "Stock=BIST, Company=KZGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "20e14f5658eb7fae20f9ec9fa3621b2b4be9f6ce",
+      "nodeId": "17:7123",
+      "name": "Stock=BIST, Company=CIMSA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "216c7812267d045c66e02fdb7955e288e9b5720f",
+      "nodeId": "338:14350",
+      "name": "Stock=BIST, Company=DFFKR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2196bd3a06435bcd8c3bde1d84ea12f33e43c3e8",
+      "nodeId": "338:14390",
+      "name": "Stock=BIST, Company=YKSLN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "22bcc50cd8e503cd4f800790e00981420229b940",
+      "nodeId": "17:4177",
+      "name": "Stock=BIST, Company=NUHCM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "23846dad28c685f8d9e9bb6e60d3339416d9e876",
+      "nodeId": "17:5089",
+      "name": "Stock=BIST, Company=BAKAB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "243806e08c6f9879295653e0bf0f15f07621f596",
+      "nodeId": "17:6508",
+      "name": "Stock=BIST, Company=AKSUE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2522c95c5b06d9a554c201f77d066b14a1a4836f",
+      "nodeId": "17:7101",
+      "name": "Stock=BIST, Company=CEMAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "25300ed42039a647820e7bb846a8d8588ef14b66",
+      "nodeId": "17:6739",
+      "name": "Stock=BIST, Company=YBTAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "253c23e4a509591432fdce9955829dbc370006c8",
+      "nodeId": "338:14373",
+      "name": "Stock=BIST, Company=TERA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "26863502172da7a06e407b783e1d960e3b0626ec",
+      "nodeId": "17:4205",
+      "name": "Stock=BIST, Company=ORGE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "275724a9180dd3e444d404d2b759dd9dedc1e918",
+      "nodeId": "17:7369",
+      "name": "Stock=BIST, Company=DURDO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "27cf19a8efb2f68505a2ba710a7047dd30ad4917",
+      "nodeId": "17:7984",
+      "name": "Stock=BIST, Company=GEDZA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "28564d6eca9f46014493fb2792b87051a300bc28",
+      "nodeId": "17:5572",
+      "name": "Stock=BIST, Company=KLGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "285982c857b6ebdd491742e4ff4c461bd19d5926",
+      "nodeId": "17:5907",
+      "name": "Stock=BIST, Company=IHLGM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "28c8404cbf6844ceefdaf0d0d6d78e66ee08353e",
+      "nodeId": "17:4639",
+      "name": "Stock=BIST, Company=RYSAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2913e7bcc8e03c0cc27e13d82303b7fe4f0f9f40",
+      "nodeId": "17:4903",
+      "name": "Stock=BIST, Company=ARCLK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "293bccd12004524b5778e322bf0feb9da5b55dc2",
+      "nodeId": "17:6228",
+      "name": "Stock=BIST, Company=HUBVC",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "29a4eb32acd9464b0e2b238ca108c7bc409ad990",
+      "nodeId": "17:5774",
+      "name": "Stock=BIST, Company=KSTUR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "29ba20b0431457f7b02ea42f5aba2b302785b543",
+      "nodeId": "17:6208",
+      "name": "Stock=BIST, Company=IHYAY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "29f11f2cbc91e0df7fd10abb3173b3decbdd3279",
+      "nodeId": "516:367",
+      "name": "Stock=BIST, Company=PASEU",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2a5ff94146d5783cfaa32febdf0cb65e21aa23cc",
+      "nodeId": "17:7280",
+      "name": "Stock=BIST, Company=DGGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2b50a9979d4600337fa2350c0de59ca46d241ba5",
+      "nodeId": "17:5339",
+      "name": "Stock=BIST, Company=BSOKE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2b8b25b0c29f52cec234e04777fb1ebec2613c85",
+      "nodeId": "17:4264",
+      "name": "Stock=BIST, Company=OYLUM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2eeff73db9e7afef1486d52599c6994cb1572535",
+      "nodeId": "909:307",
+      "name": "Stock=BIST, Company=GUNDG",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2bd55fc72fdf63dcc66da39f6bd7d1ef59aefe44",
+      "nodeId": "17:6712",
+      "name": "Stock=BIST, Company=UZERB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2c1cb28caef69ffe56a61d2036bd980c9e4aecaa",
+      "nodeId": "644:575",
+      "name": "Stock=BIST, Company=BYNDR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2c3befed23c59c953922167549c589a51969c3d4",
+      "nodeId": "17:8083",
+      "name": "Stock=BIST, Company=GOZDE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2d72bc0a47241727c3018eaf08967ce566e6b095",
+      "nodeId": "17:6460",
+      "name": "Stock=BIST, Company=ZRGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2d74108989951eeebca0dd6aaf7fdf05289e802a",
+      "nodeId": "17:6823",
+      "name": "Stock=BIST, Company=SNGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2e3c839877b59a929d3496fc4a6c330f2583fda1",
+      "nodeId": "17:6950",
+      "name": "Stock=BIST, Company=TETMT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2e49b32eacbc307096d2926d2bb506812b42563e",
+      "nodeId": "17:6032",
+      "name": "Stock=BIST, Company=ISDMR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2f0a98d40b6a15e32918f121eb2b40843925d684",
+      "nodeId": "665:735",
+      "name": "Stock=BIST, Company=ENERY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2f3361412fe63d7f0d73c6c819c1c62c7cbec56a",
+      "nodeId": "17:7087",
+      "name": "Stock=BIST, Company=ACSEL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2f556e199e8b47472e89d04a70cd3b27302f2908",
+      "nodeId": "17:7011",
+      "name": "Stock=BIST, Company=AGESA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2f8fa24bec3295abca067325531ac101ac0b0ebd",
+      "nodeId": "17:7307",
+      "name": "Stock=BIST, Company=DMSAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2f9116ba41887d2db16329273ba13ed4c88e9bd8",
+      "nodeId": "17:4704",
+      "name": "Stock=BIST, Company=GARAN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "2ffa137458593a2124166fbf23a55a9c26f06f7c",
+      "nodeId": "17:6718",
+      "name": "Stock=BIST, Company=VAKBN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "302820dc7d7615f36f8021470e250216e8e29306",
+      "nodeId": "17:4921",
+      "name": "Stock=BIST, Company=ARDYZ",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "306db409184867f75a31b36065e0ad6dbc1de116",
+      "nodeId": "1144:274",
+      "name": "Stock=BIST, Company=DOFRB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3089d21e68551596b965e689cca896a3da3730ae",
+      "nodeId": "17:4057",
+      "name": "Stock=BIST, Company=MNDTR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "30904778045ec2ab71d6fc32d1fb9882087553be",
+      "nodeId": "17:4150",
+      "name": "Stock=BIST, Company=NIBAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3167c3427b05623e65e2757e2a75517d8693ae1c",
+      "nodeId": "17:5466",
+      "name": "Stock=BIST, Company=ALKA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3171afbffb3d25fe41faad957bd39ca3481cf269",
+      "nodeId": "17:4192",
+      "name": "Stock=BIST, Company=ODAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3183c1b4df13b3ff0b3910b703795cc9b90af35b",
+      "nodeId": "700:13620",
+      "name": "Stock=BIST, Company=BORLS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "31ce0aeb8506ec4c6c7cf07f12724cecc2220118",
+      "nodeId": "17:6876",
+      "name": "Stock=BIST, Company=TAVHL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "358d9f1c74c1b6ddb81380386703a8ef434970d9",
+      "nodeId": "17:6425",
+      "name": "Stock=BIST, Company=ZOREN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "32418bf11dd5b032e10aff17268135928bd40cca",
+      "nodeId": "17:6941",
+      "name": "Stock=BIST, Company=TCELL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "333b5f21db6cdff7b1bbe5294492811b511e1a96",
+      "nodeId": "17:6440",
+      "name": "Stock=BIST, Company=TRILC",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "334aebf052d9135f10e1fc4564e4bf4862422f0a",
+      "nodeId": "17:5509",
+      "name": "Stock=BIST, Company=YKBNK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "339672f74d57790fc956904f1a4c3d47a3c60229",
+      "nodeId": "338:12041",
+      "name": "Stock=BIST, Company=ARASE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "341bc35780701664df8924bd9b688836ecdd3f93",
+      "nodeId": "17:5176",
+      "name": "Stock=BIST, Company=BFREN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "341f5ce1431cf894c28e9f37cf54a06df69e9d68",
+      "nodeId": "17:7507",
+      "name": "Stock=BIST, Company=ENKAI",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "34c235d8b2fdff3afcd396c20e6d98f6bb1b487a",
+      "nodeId": "17:6810",
+      "name": "Stock=BIST, Company=VERUS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "359859e8b73ad62173f3181daa8856f06855a844",
+      "nodeId": "671:850",
+      "name": "Stock=BIST, Company=TATEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "363d318be2edf4df27892bbf89fde952ce20493f",
+      "nodeId": "17:6568",
+      "name": "Stock=BIST, Company=AKBNK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "36690760dcc74574bfcb0b59612d059bdb4b1ebe",
+      "nodeId": "1072:1729",
+      "name": "Stock=Avatar, Company=Lila",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "369f57bf7c8dc342dfb890a4278c6166c66e55ed",
+      "nodeId": "17:8033",
+      "name": "Stock=BIST, Company=GLYHO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "37102c786c0205161bf81cef2ee583c588fa80a6",
+      "nodeId": "17:3965",
+      "name": "Stock=BIST, Company=MEGAP",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3747325998fe8d3a6dab362e5e9a8859914b8f80",
+      "nodeId": "17:6873",
+      "name": "Stock=BIST, Company=TATGD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "37da2cac76ffeddbb434491846e8a05d31551957",
+      "nodeId": "17:5452",
+      "name": "Stock=BIST, Company=ALARK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "389192a51bb69aecd0b16fdd463eaa17a6d6d043",
+      "nodeId": "338:14322",
+      "name": "Stock=BIST, Company=KERVT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "38a40764894694877d13dec2841a65206b1116ac",
+      "nodeId": "865:709",
+      "name": "Stock=BIST, Company=ENTRA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "38f2105bdb216414975054aeac45eaba57012583",
+      "nodeId": "17:4044",
+      "name": "Stock=BIST, Company=MMCAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3940a47df96aa820e81e6c91ca5ff415e097e527",
+      "nodeId": "17:7207",
+      "name": "Stock=BIST, Company=DAGI",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3a09fa4913c2caa4f9d6fe33394113a7f8b99aad",
+      "nodeId": "17:5536",
+      "name": "Stock=BIST, Company=LINK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3ad2cee7d75793cde72eabcd013c759c6d9a8d16",
+      "nodeId": "17:6408",
+      "name": "Stock=BIST, Company=ZTM15F",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3aec3d5b69e06ab4decf77238ba4ec13f786191c",
+      "nodeId": "17:7652",
+      "name": "Stock=BIST, Company=ESCOM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3b1a67a4fdb48f8f62dff1e8e8f5fae97e037426",
+      "nodeId": "17:6730",
+      "name": "Stock=BIST, Company=VKING",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3b80a2f0994d97131cf7b260286fef3d5a387ce5",
+      "nodeId": "17:6549",
+      "name": "Stock=BIST, Company=AKCNS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3bf58173d340773e8dedd25de7de71860cab21de",
+      "nodeId": "17:7108",
+      "name": "Stock=BIST, Company=CEMTS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3cb8457d5da79768102d8df90db53ee3558e1639",
+      "nodeId": "17:5678",
+      "name": "Stock=BIST, Company=KOZAA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3cd2793b0c23822a8c0df195bd8430f752b7a943",
+      "nodeId": "17:4887",
+      "name": "Stock=BIST, Company=ASELS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3d10f42c743f49bb59f7b114379c79115001882b",
+      "nodeId": "899:425",
+      "name": "Stock=BIST, Company=ALTNY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3d3e164edc6cdf391baeb24786676eb0d1b190c3",
+      "nodeId": "736:2361",
+      "name": "Stock=BIST, Company=MEGMT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3dbab2e532c6571a1e7a31466f58f74ca08e6edb",
+      "nodeId": "17:4950",
+      "name": "Stock=BIST, Company=ARZUM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3dd3f2125e99fbf225450ea35f613bc56b1d1458",
+      "nodeId": "17:7253",
+      "name": "Stock=BIST, Company=DESPC",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3e155e379a8c0c8b022099b1527f50e09e0e2ecd",
+      "nodeId": "17:6286",
+      "name": "Stock=BIST, Company=HATEK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "3e56fe16524bf7b63e3cfd25b4ca114dd94124e9",
+      "nodeId": "17:6596",
+      "name": "Stock=BIST, Company=TSPOR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "400f8eb654130af12728072684b2d497d315ecda",
+      "nodeId": "17:4276",
+      "name": "Stock=BIST, Company=OYYAT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "406c9ed79c8c8b5698b3605f5fc8f4a79ff59509",
+      "nodeId": "17:6515",
+      "name": "Stock=BIST, Company=AKYHO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "40fa67feaa274de7d71265505e862f9de1d1500e",
+      "nodeId": "17:7045",
+      "name": "Stock=BIST, Company=AEFES",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4130c939fed97229949f41e865a00ffdb794c873",
+      "nodeId": "17:5239",
+      "name": "Stock=BIST, Company=BMSCH",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "42a42e8ba89d49cc3ca04fbf5d4d1d08055503f2",
+      "nodeId": "17:6155",
+      "name": "Stock=BIST, Company=IDGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "42bc8113a8ff5780b27cca9a8216d7441b8cf043",
+      "nodeId": "17:6590",
+      "name": "Stock=BIST, Company=SAHOL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4318f1bb3e5422493beaf725e0e4c0f30aac9b45",
+      "nodeId": "17:5301",
+      "name": "Stock=BIST, Company=BRKO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "438d4240c67a2992420959b28729cdf98fbd4c1b",
+      "nodeId": "17:6341",
+      "name": "Stock=BIST, Company=GSDDE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "43c41ec7dafdb678e4022842cb65f856c8007767",
+      "nodeId": "17:8012",
+      "name": "Stock=BIST, Company=GEREL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "43c8a2b81951af4e79bf927982c7442ba79849c8",
+      "nodeId": "17:4665",
+      "name": "Stock=BIST, Company=SASA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "43d93927322180a9fe00b51a178001c3fa0c6a1b",
+      "nodeId": "665:262",
+      "name": "Stock=BIST, Company=HATSN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "442e5706ae6c4d192aaadc8f7f9c6527ab67c4dd",
+      "nodeId": "17:5325",
+      "name": "Stock=BIST, Company=BRSAN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "449c45e8417b7af409d606facb8444c4289ba01e",
+      "nodeId": "17:4718",
+      "name": "Stock=BIST, Company=FROTO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4533bf425091b44ea8328476699cd75306dc5ae6",
+      "nodeId": "516:369",
+      "name": "Stock=BIST, Company=BIGCH",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "45c07666dd39cfdc96b02532aa420db9d7b7e7f1",
+      "nodeId": "17:4171",
+      "name": "Stock=BIST, Company=NUGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "46e79362acc164599eb69e47c91417f5fe8825e5",
+      "nodeId": "17:6958",
+      "name": "Stock=BIST, Company=TGSAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "47474696e4627d39d794ae4feb3f3c02a3f66360",
+      "nodeId": "17:7322",
+      "name": "Stock=BIST, Company=DOAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "47677105270620ff1c96b2e43ee4cc051a975edb",
+      "nodeId": "17:5193",
+      "name": "Stock=BIST, Company=BIZIM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "47c94f5acaf73b3c82175d44843019f16910b4fd",
+      "nodeId": "17:6698",
+      "name": "Stock=BIST, Company=SKTAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "49de6d4967ab40ebaf8d82093137adea8033b30f",
+      "nodeId": "17:4362",
+      "name": "Stock=BIST, Company=PCILT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4ad21fca4cb2433936bbbaa95237e2a724a1fb6e",
+      "nodeId": "1053:757",
+      "name": "Stock=BIST, Company=EGEGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4afe0e73c4f44d52cfee85cef6f31731533bea40",
+      "nodeId": "700:13770",
+      "name": "Stock=BIST, Company=VRGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4b1481bc65686575db10bf60366381ece4953e3a",
+      "nodeId": "17:5478",
+      "name": "Stock=BIST, Company=ALKIM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4c2b04f3e64da1eab47af53b1c198563e7beb2fa",
+      "nodeId": "17:5424",
+      "name": "Stock=BIST, Company=ALBRK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4c550c4ce855079ad916ab0eaa236ae0894ed5c8",
+      "nodeId": "17:4630",
+      "name": "Stock=BIST, Company=RYGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4d47fac68010a443932e6c5ba7fc8f8ae5d10e90",
+      "nodeId": "17:5055",
+      "name": "Stock=BIST, Company=AYDEM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4d59baed0b0ede0f2511178e67e1a7c056eb7049",
+      "nodeId": "17:7381",
+      "name": "Stock=BIST, Company=DZGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4d5b8b35b575661463b97d7abd5b98f075a0b13c",
+      "nodeId": "17:5623",
+      "name": "Stock=BIST, Company=KLRHO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4dc1e6846f4f25e6897aab6bdefcdef3a1096d60",
+      "nodeId": "17:4426",
+      "name": "Stock=BIST, Company=PINSU",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4e113a2983429616a0c05ee7b772e3abc4602295",
+      "nodeId": "17:6752",
+      "name": "Stock=BIST, Company=YESIL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4e682e593e3571dbc86ad0b6bfdeff09d0a2c142",
+      "nodeId": "17:4540",
+      "name": "Stock=BIST, Company=QNBFL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4e8f0ef40969f2864a6c3d9d1db912c5f03fc923",
+      "nodeId": "1072:1731",
+      "name": "Stock=Avatar, Company=Purple",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "4f403dae70406c02486dbfda0bc158bce8c1dedd",
+      "nodeId": "338:14329",
+      "name": "Stock=BIST, Company=MACKO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "507157625d0b31b1cae68748dfd1ee49463d3202",
+      "nodeId": "17:5317",
+      "name": "Stock=BIST, Company=BRLSG",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "51006e6162e882c91670cb9e117375bbdc7b4c66",
+      "nodeId": "17:6672",
+      "name": "Stock=BIST, Company=SILVR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "512a301621b3008dd00a6c522d9baff31ac70629",
+      "nodeId": "17:5998",
+      "name": "Stock=BIST, Company=ISATR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "514483bb0ccd4953780372cfebbf2d57433c511c",
+      "nodeId": "17:5082",
+      "name": "Stock=BIST, Company=AYGAZ",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "51ad2aa317d90aa1b15702bc0c4dc671ee81e6c2",
+      "nodeId": "17:6418",
+      "name": "Stock=BIST, Company=TRCAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5382f337286db01458f0ff8d7b78ccd4c0f8e27d",
+      "nodeId": "17:6127",
+      "name": "Stock=BIST, Company=ISFIN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "53af8d3dad12b33cf5e4bc4aa0eb3aa4defbea74",
+      "nodeId": "17:6947",
+      "name": "Stock=BIST, Company=TEKTU",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "540be83fe84d7f367120f445b0e9cd10c6424a69",
+      "nodeId": "17:5488",
+      "name": "Stock=BIST, Company=ALMAD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "542da81adba5bf1ef21c7ca4c72ca10613bc1b07",
+      "nodeId": "17:5357",
+      "name": "Stock=BIST, Company=BUCIM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "54a6f85c40a04e3f93e766e6723cc7df510baaa7",
+      "nodeId": "17:6040",
+      "name": "Stock=BIST, Company=ISGSY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5655dbd95d3d409457c88914866804d6af7cacab",
+      "nodeId": "17:4863",
+      "name": "Stock=BIST, Company=BIMAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "56e61a0c02e3bfce100da7544cd0b300dde263be",
+      "nodeId": "17:7563",
+      "name": "Stock=BIST, Company=ULKER",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "56f24e2de53e161a8b89db1c841faa61077fd52f",
+      "nodeId": "17:4164",
+      "name": "Stock=BIST, Company=NTHOL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "571eba316ca77278a00ef9ab456ebf17ba26d4c2",
+      "nodeId": "338:16798",
+      "name": "Stock=BIST, Company=ALFAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "57345d7ddcea71e9b33e2406bdebd4ae387a107b",
+      "nodeId": "1072:1736",
+      "name": "Stock=Avatar, Company=Gray",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "57b882c078fc248b57ded91a732a9effa6d57be1",
+      "nodeId": "17:5794",
+      "name": "Stock=BIST, Company=KUVVA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "58062bc45e65d1ec9b1939b1b623b6d5b6f5b56a",
+      "nodeId": "1072:1733",
+      "name": "Stock=Avatar, Company=Water Green",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "58b9ffa18aa8ff78ac9be18da39c8063eaefd393",
+      "nodeId": "17:5273",
+      "name": "Stock=BIST, Company=BOBET",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "58be6693e57a897e7414f50fa5122d38b4bff42d",
+      "nodeId": "1056:206",
+      "name": "Stock=BIST, Company=ENDAE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "59012b01e9d49254458a8b04d490bd88b835d84e",
+      "nodeId": "601:296",
+      "name": "Stock=BIST, Company=ATAKP",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "59b1ebca789ce06469b823d9d9e18e56718f26f4",
+      "nodeId": "17:5400",
+      "name": "Stock=BIST, Company=ANHYT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5b1fab34dec75b72a44804b182110124b4bd7c6f",
+      "nodeId": "17:4698",
+      "name": "Stock=BIST, Company=GWIND",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5b3cea9814e9d4cfdac16a9897db05c7f91f5f5b",
+      "nodeId": "671:1018",
+      "name": "Stock=BIST, Company=IZENR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5bcd0aaf9e6fff8eaaddcc5ae88734045fd2308d",
+      "nodeId": "978:443",
+      "name": "Stock=BIST, Company=CEMZY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5be36b22ebd28f6526cd92fd2f26ee860606eae2",
+      "nodeId": "17:4356",
+      "name": "Stock=BIST, Company=PARSN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5cf5c63e45beefa2123bddfaa243a77e2f563501",
+      "nodeId": "17:5062",
+      "name": "Stock=BIST, Company=AYEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5d23f5e0514db038a2734128cc9eb64bc1c2f34f",
+      "nodeId": "17:5103",
+      "name": "Stock=BIST, Company=BANVT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5d403dd16ddf13d63d68e12bdc7d923f5f988205",
+      "nodeId": "1056:184",
+      "name": "Stock=BIST, Company=BRLSM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5d45386a32875ca83de34fa1266e36d8f56d9e24",
+      "nodeId": "17:5332",
+      "name": "Stock=BIST, Company=BRYAT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5d563749eba30428d03018d5980b3b4511fe0fd4",
+      "nodeId": "533:5040",
+      "name": "Stock=BIST, Company=CVKMD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5d61bd04d0e82757b9260fdd45c0b40ffb7f051f",
+      "nodeId": "17:7354",
+      "name": "Stock=BIST, Company=DOHOL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5d79ada903f64147a0303dfcc81477f3ad990e3c",
+      "nodeId": "17:4555",
+      "name": "Stock=BIST, Company=RALYH",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5dc508c7a5fb7448b9a9012b1b5237f336435fc1",
+      "nodeId": "533:5030",
+      "name": "Stock=BIST, Company=EKSUN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5e3e8dfd52076cf0f76282e6a1c8aec1080df5c0",
+      "nodeId": "1058:199",
+      "name": "Stock=BIST, Company=AKFIS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5e66b3800cbc7a105b291e129a7ee7ee8f85406c",
+      "nodeId": "615:294",
+      "name": "Stock=US, Company=AAPL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5eb0c18b67bba624a82748450046cb7642709491",
+      "nodeId": "17:6772",
+      "name": "Stock=BIST, Company=YGGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5efcc77abe8a6823a838940aaed34567c4f852e2",
+      "nodeId": "17:6998",
+      "name": "Stock=BIST, Company=ZEDUR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "5fdcc144cf29bd76ad7648d7809966f0f00400b7",
+      "nodeId": "1061:306",
+      "name": "Stock=BIST, Company=BULGS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "605557fe7d1c52879101855913826e9011a2f7cd",
+      "nodeId": "17:4658",
+      "name": "Stock=BIST, Company=THYAO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "60bab45a8f07dd8f1d497706498fc3d2fb25306a",
+      "nodeId": "823:618",
+      "name": "Stock=BIST, Company=PATEK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "61f386022681db871bd100bf57438434f79b0c71",
+      "nodeId": "17:4828",
+      "name": "Stock=BIST, Company=CCOLA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6209bf5499072fd7c4bfe0858d099b9ce3899760",
+      "nodeId": "17:3933",
+      "name": "Stock=BIST, Company=MANAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "620ed5501b9b70df213dfc0b17e6c0512bb70b0d",
+      "nodeId": "17:7490",
+      "name": "Stock=BIST, Company=EMNIS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "62bf8410525ff3b2e974fcd80efb5659db555c94",
+      "nodeId": "17:5544",
+      "name": "Stock=BIST, Company=LKMNH",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "62e821a3f72ef3e6f2a14b24eb030043ddc64e76",
+      "nodeId": "1050:356",
+      "name": "Stock=US, Company=ADBE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6370d4b5c323310fd52ee6d1d93012fcc34e6530",
+      "nodeId": "17:6724",
+      "name": "Stock=BIST, Company=VKFYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "642d18b4bfa973c7af06b16a2c237f8c3ab3c695",
+      "nodeId": "17:7978",
+      "name": "Stock=BIST, Company=GEDIKR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "66a24ddf652d3975669d3dc952fb59bce6633ae0",
+      "nodeId": "17:7461",
+      "name": "Stock=BIST, Company=EGSER",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6769f8dff96a5505cf7ddaf5ae352cdf31ad5311",
+      "nodeId": "735:1809",
+      "name": "Stock=BIST, Company=BINHO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6797a74b9301a19af8e04241b5606cd6a3c1aed3",
+      "nodeId": "17:5598",
+      "name": "Stock=BIST, Company=KLMSN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "67b0fb616dcae77f3c54fd69ef4d40586507dcb2",
+      "nodeId": "17:7529",
+      "name": "Stock=BIST, Company=TUCLK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "681c0d09ca98054b5ae3282f31050e0cad1d196f",
+      "nodeId": "17:7002",
+      "name": "Stock=BIST, Company=AGHOL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "68c0dca6fa63a39e51cddbcac5a61c50d883b3b7",
+      "nodeId": "17:5743",
+      "name": "Stock=BIST, Company=KRPLS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "69287fe94c5f3b2768d9bc13cd4cf80c886e20c4",
+      "nodeId": "17:6693",
+      "name": "Stock=BIST, Company=USAK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "696cae99645a38b2f59b1060bcdc3280a1d70c03",
+      "nodeId": "17:8058",
+      "name": "Stock=BIST, Company=GOLTS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6974b325a14b4319e0d164d695744b0be6a01c7c",
+      "nodeId": "17:4349",
+      "name": "Stock=BIST, Company=PAPIL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "697b42fdcdf13fdbd1786c8b2b9d37fdf5dd56f3",
+      "nodeId": "17:5135",
+      "name": "Stock=BIST, Company=BAYRK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "69b8cb3e4a43ae9c6c06e8edb178919b15f95d40",
+      "nodeId": "17:7362",
+      "name": "Stock=BIST, Company=DOKTA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "69f1a20630570530df8f5e088fe20fd45541efd6",
+      "nodeId": "17:4549",
+      "name": "Stock=BIST, Company=QUAGR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6a2e69b1cd8f9c8d9c4383da6b266801fb3ac71c",
+      "nodeId": "17:4957",
+      "name": "Stock=BIST, Company=ASUZU",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6a3cac3b2eee78e4bfd6c8c089696a83eea940ab",
+      "nodeId": "17:4399",
+      "name": "Stock=BIST, Company=PETKM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6a7ff219bbd372264ec5b2e50b13f68af8906995",
+      "nodeId": "17:5431",
+      "name": "Stock=BIST, Company=ALCAR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6a904ae120c72f04b6c3bc500ada17078101543e",
+      "nodeId": "17:5521",
+      "name": "Stock=BIST, Company=LIDFA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6b2dd3c54846b68e3f58cfa4e1658cc4bf4ae165",
+      "nodeId": "17:4797",
+      "name": "Stock=BIST, Company=DENGE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6bc4a6c8101d3149bba0c56d9ba7b2b2b2ee1683",
+      "nodeId": "17:4086",
+      "name": "Stock=BIST, Company=MRGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6bf8bcdb25d20449648db77d42c9f4365bd457ce",
+      "nodeId": "17:4447",
+      "name": "Stock=BIST, Company=RTRTT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6c09dc2d9f5bbf5c2e33fcbeb096c2b84989749d",
+      "nodeId": "17:6398",
+      "name": "Stock=BIST, Company=ZPT10F",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6c70995142d857a9c203cd49458c0ebcd342f0c6",
+      "nodeId": "17:5836",
+      "name": "Stock=BIST, Company=KARTN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6d2cc128977318daeec84e4fd554bc896ffa2677",
+      "nodeId": "533:5041",
+      "name": "Stock=BIST, Company=EUPWR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6d44e9cfb77ffa38cc4de1af01a37c54be7b501a",
+      "nodeId": "899:923",
+      "name": "Stock=BIST, Company=KOCMT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6da9acb64f4ca2fb5896c982661df6234a92ca39",
+      "nodeId": "17:5914",
+      "name": "Stock=BIST, Company=IHLAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6eadfa44298ea7465e1a1f25e32e1fd2c521b06a",
+      "nodeId": "17:7626",
+      "name": "Stock=BIST, Company=ERCB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6ef5071428b40243fd7d30801ea08c09d2b93d7a",
+      "nodeId": "17:5011",
+      "name": "Stock=BIST, Company=AVGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6f3cf93865e90f1ba09bf4ca6397979e6cb9411b",
+      "nodeId": "338:14367",
+      "name": "Stock=BIST, Company=SANIC",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "6fbdaccf46f5de268615ffa62cb1e74eb225ccbf",
+      "nodeId": "17:6306",
+      "name": "Stock=BIST, Company=GUBRF",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7007f7960f78432c4c09b2587fc569a1225a36b2",
+      "nodeId": "17:4476",
+      "name": "Stock=BIST, Company=POLTK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "702014df0c616f27e46bf9b70bf39f116f5fbe5b",
+      "nodeId": "17:7782",
+      "name": "Stock=BIST, Company=EUKYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7044cc352190a071a12d1885f1c600cbbe507a4a",
+      "nodeId": "17:5116",
+      "name": "Stock=BIST, Company=BASCM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "706a7794b0d71bdf0db06472949627840398728f",
+      "nodeId": "17:6007",
+      "name": "Stock=BIST, Company=ISBIR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "72995becfad9526f964dec6ce1c194f7bad196ec",
+      "nodeId": "17:7575",
+      "name": "Stock=BIST, Company=ULUSE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "72cd1b7b9fc717edb02141848a4a586a6bd6a4eb",
+      "nodeId": "17:8096",
+      "name": "Stock=BIST, Company=GRSEL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "73281120ef9b895c1795b9b9d6f8479e602334ca",
+      "nodeId": "17:7666",
+      "name": "Stock=BIST, Company=ETYAT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "73b470962355ae53d40da1ac20c16461eb1e0927",
+      "nodeId": "17:4305",
+      "name": "Stock=BIST, Company=OZRDN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "73c23fe0cad5cfb1a3bfe30b45e31a9b33728a5e",
+      "nodeId": "17:3919",
+      "name": "Stock=BIST, Company=MAKIM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "74231605e232acc9a42eaff076683fe4e8c89e7d",
+      "nodeId": "17:4408",
+      "name": "Stock=BIST, Company=PETUN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "743863718b4ee37bf7c7ecc3f0f2cbd98fc660d7",
+      "nodeId": "17:6581",
+      "name": "Stock=BIST, Company=ADEL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "750e9a5313470ca0e49c8feb0ac56f9ee4342d32",
+      "nodeId": "17:7585",
+      "name": "Stock=BIST, Company=TUREX",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "752d83c466cf11805d8da2fc558057435fa63414",
+      "nodeId": "601:365",
+      "name": "Stock=BIST, Company=ASGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "752f14be739d04ef3589b3524b7b3dad800075c2",
+      "nodeId": "17:6491",
+      "name": "Stock=BIST, Company=AKMGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "753499a7bec8694ec4bc61ac3dc542367f80e7da",
+      "nodeId": "17:8004",
+      "name": "Stock=BIST, Company=GENTS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7666b41659ef44970a36ff1ee3757759f64e6a0e",
+      "nodeId": "17:5416",
+      "name": "Stock=BIST, Company=ARESE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "76fbfaec505041e0777f99dbe9157169eae94f59",
+      "nodeId": "17:6995",
+      "name": "Stock=BIST, Company=TOASO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "775101f919cda1b419d78220ef3c6c2a19d0cbc5",
+      "nodeId": "17:7660",
+      "name": "Stock=BIST, Company=ESEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "77a81b798eb769e11667d42e884b50f69d7f48ac",
+      "nodeId": "17:6248",
+      "name": "Stock=BIST, Company=HTTBT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "77f756858ed01e9c90a2b146f32e03004816c364",
+      "nodeId": "17:5642",
+      "name": "Stock=BIST, Company=KNFRT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "78ad4a027e4ccdf4624658d8ff8970ca2688df00",
+      "nodeId": "533:5034",
+      "name": "Stock=BIST, Company=CWENE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "78d8d5e5789f77822c779192e4711f61fce47720",
+      "nodeId": "17:6736",
+      "name": "Stock=BIST, Company=YAYLA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "78e0aa872f453908b063076eff1586321185ea0e",
+      "nodeId": "1072:1732",
+      "name": "Stock=Avatar, Company=Blue",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7985e0ec7e0621790fbf804ad7df156e18f95469",
+      "nodeId": "338:14306",
+      "name": "Stock=BIST, Company=EYGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7a9f5fea1d019d75c244285df24777189d8f0f70",
+      "nodeId": "17:4120",
+      "name": "Stock=BIST, Company=MTRKS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7b4d2a3980db6ed4717f5fc5778119bd2b08e9bf",
+      "nodeId": "338:14402",
+      "name": "Stock=BIST, Company=SOKE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7c726858ac6d7738c478dd923d2469bcdd613349",
+      "nodeId": "17:5654",
+      "name": "Stock=BIST, Company=KONKA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7c8744d5759195dabff2450cf80b095382e0e243",
+      "nodeId": "818:5969",
+      "name": "Stock=BIST, Company=ARTMS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7c946596b1038760451b442b2d4c4117ec2a21ec",
+      "nodeId": "17:5167",
+      "name": "Stock=BIST, Company=BEYAZ",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7d022dd4b3809cc48d0c9845671fa450bd32992e",
+      "nodeId": "17:6832",
+      "name": "Stock=BIST, Company=SONME",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7ecd270db0d25a57c72704b78e3210134fed331c",
+      "nodeId": "338:12068",
+      "name": "Stock=BIST, Company=AZTEK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7f2e2917b1c0182bcdb0cf5913ecc70c7c7c78a6",
+      "nodeId": "824:594",
+      "name": "Stock=BIST, Company=ALVES",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7fb0bb67aa68f88d271e46bb5283219a1541dca6",
+      "nodeId": "17:6880",
+      "name": "Stock=BIST, Company=TBORG",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7fc2da3711dbced4014daa63247985ad58abdb8e",
+      "nodeId": "17:6078",
+      "name": "Stock=BIST, Company=ISSEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "7fcc4d9b2d1898bb2072197b66f178dcb96ac0fa",
+      "nodeId": "17:4452",
+      "name": "Stock=BIST, Company=PNLSN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "804e1e31db195437a92164ff936f04f91627a9d3",
+      "nodeId": "17:4252",
+      "name": "Stock=BIST, Company=OYAKC",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "80db252165f7bee21b98f5f03b24e18878a5a3de",
+      "nodeId": "17:5809",
+      "name": "Stock=BIST, Company=KZBGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "810e8ced55ed01b7fdb9b508641bdb6692226104",
+      "nodeId": "17:6383",
+      "name": "Stock=BIST, Company=ZELOTF",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "817bac29841223a27c67d1eb1138c593328178a2",
+      "nodeId": "17:7132",
+      "name": "Stock=BIST, Company=CEOEM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "81bd8051bba3f7baf56c27a138074fc4bf648417",
+      "nodeId": "17:4967",
+      "name": "Stock=BIST, Company=ATAGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "823312dd14871bb327c15a497768df7c75ac60fa",
+      "nodeId": "17:7347",
+      "name": "Stock=BIST, Company=DOGUB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "838637a8b4096dd8007215bd8c733248a201f0c2",
+      "nodeId": "17:6320",
+      "name": "Stock=BIST, Company=GSRAY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "84ac08327a3b564b53b5e5531875e19917287684",
+      "nodeId": "17:7959",
+      "name": "Stock=BIST, Company=GARFA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "84ba37e227c3d2e28871cdc06a837db1351848bc",
+      "nodeId": "17:6222",
+      "name": "Stock=BIST, Company=IDEAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "850b1694051177fa19b214f3cb5d7b0ffa711c85",
+      "nodeId": "17:6500",
+      "name": "Stock=BIST, Company=AKSEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "85ac3d32916583b8cb5b0cd743fbc68ed4784e68",
+      "nodeId": "17:6767",
+      "name": "Stock=BIST, Company=YYLGD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8643269d7a38d97c60b7b87bcb731ab295e5abb8",
+      "nodeId": "17:4645",
+      "name": "Stock=BIST, Company=SAFKR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "86e306dd5485f945df56a1586cccc7c833d9c2de",
+      "nodeId": "17:6978",
+      "name": "Stock=BIST, Company=TMPOL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "879d4f2fdc5ac55babbe0a762ba1f1981edd1f4c",
+      "nodeId": "976:508",
+      "name": "Stock=BIST, Company=DURKN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "87b9aa89584862ed9eb673d5f16efd1823898566",
+      "nodeId": "17:6992",
+      "name": "Stock=BIST, Company=TMSN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "880472e1903d49ad76fd9d214c681b6d10c6a9a3",
+      "nodeId": "17:6803",
+      "name": "Stock=BIST, Company=VERTU",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8834bb18595a6b8d4574b47368321753b0ff0992",
+      "nodeId": "17:6070",
+      "name": "Stock=BIST, Company=ISMEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "883e13d2b06d173295e6749a970d7a5b8a1fffd0",
+      "nodeId": "17:6944",
+      "name": "Stock=BIST, Company=TDGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8876f804830130039597e4c0289e70988eda0a9d",
+      "nodeId": "17:6863",
+      "name": "Stock=BIST, Company=SUMAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "88bc051b741c8f1b81d53ae7d598f53d12a57fb7",
+      "nodeId": "17:7948",
+      "name": "Stock=BIST, Company=FRIGO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "896f711bd82ddaf80974c0acb4cc55f1911a71bc",
+      "nodeId": "17:7550",
+      "name": "Stock=BIST, Company=TURSG",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8ad553a5180c52db3966c9ad5d1932027be70c5c",
+      "nodeId": "17:4318",
+      "name": "Stock=BIST, Company=PAMEL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8ad84cab21b425fcaff32c83929e3d0118eda6c3",
+      "nodeId": "338:14395",
+      "name": "Stock=BIST, Company=UMPAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8af835a8c764773841b8fe2e523b92aca407c813",
+      "nodeId": "17:6388",
+      "name": "Stock=BIST, Company=ZPBDLF",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8ba54a2743c031a0f0bd48ac036f2a3ec4f0afab",
+      "nodeId": "17:4243",
+      "name": "Stock=BIST, Company=OTTO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8bf07a06ebe3df436cc09d1e825a7cdbb31bf4a3",
+      "nodeId": "17:4213",
+      "name": "Stock=BIST, Company=ORMA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8d1b15f329d326c5dafb82afbeb8112f12163728",
+      "nodeId": "17:6523",
+      "name": "Stock=BIST, Company=AKSGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8db5d04ded04be08732645e59a06768c6859516e",
+      "nodeId": "17:6014",
+      "name": "Stock=BIST, Company=ISBTR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8dfe71b4a8e027c0360b02f9044bc1846a7dddc4",
+      "nodeId": "17:8090",
+      "name": "Stock=BIST, Company=GRNYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8e85ce0b79d29f05ca52fe856e211f114f4ccbf8",
+      "nodeId": "17:4034",
+      "name": "Stock=BIST, Company=MIPAZ",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8f022acdf4a2bfbdcd88be088850aec16dbb712e",
+      "nodeId": "17:5048",
+      "name": "Stock=BIST, Company=AYCES",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8fd45cd041de6ff3525fe329d23776a75fbfe70c",
+      "nodeId": "338:14355",
+      "name": "Stock=BIST, Company=SAYAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "8fe4071b3a05982ec8e67d1404fb2721f8526e3a",
+      "nodeId": "700:13792",
+      "name": "Stock=BIST, Company=TABGD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "90238dfee8395e5b55638ab44c45d7db5b3631fa",
+      "nodeId": "17:4237",
+      "name": "Stock=BIST, Company=OTKAR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9049771f300ebeeea09236e73522f4d58b1690ea",
+      "nodeId": "17:6953",
+      "name": "Stock=BIST, Company=TEZOL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "92e0a959671eac8045f86a8b8284ad36af526ddd",
+      "nodeId": "17:5071",
+      "name": "Stock=BIST, Company=AYES",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "90e210ace74a81392cc49a6e5c05c76aadab6e09",
+      "nodeId": "338:14346",
+      "name": "Stock=BIST, Company=OZSUB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "90f3e61d3966046517c643433eca3f0d2c48f4fb",
+      "nodeId": "17:4490",
+      "name": "Stock=BIST, Company=PRKAB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "911febcb9a9eecd3023aa4eb75371c8be95b46a0",
+      "nodeId": "17:7193",
+      "name": "Stock=BIST, Company=CUSAN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "91663fc346d00bf9c42a45668b86122d11f6a2e5",
+      "nodeId": "17:5617",
+      "name": "Stock=BIST, Company=KLNMA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "91777e110363c1ac878a5c81d802749fde58b096",
+      "nodeId": "736:1975",
+      "name": "Stock=BIST, Company=SKYMD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "91cd2674582f031d60989e5c965be183dab9ad74",
+      "nodeId": "17:5861",
+      "name": "Stock=BIST, Company=KCAER",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "92aee61b79d7f2e35acdd3a4503054dda2e4e3da",
+      "nodeId": "17:7840",
+      "name": "Stock=BIST, Company=EUYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "95c4b0473e2637b0b1cd8a52f5c7efc564363736",
+      "nodeId": "601:313",
+      "name": "Stock=BIST, Company=FZLGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "931dfa5e4883e30d581cbc564d1eee2a06516489",
+      "nodeId": "17:7600",
+      "name": "Stock=BIST, Company=ENSRI",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "93a54d16ab3129883467fe8bc093992116002ed9",
+      "nodeId": "17:7397",
+      "name": "Stock=BIST, Company=ECZYT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "945844a16381ed07addebc8e997073be69aa2441",
+      "nodeId": "17:6530",
+      "name": "Stock=BIST, Company=AKENR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "94e9785504346372e1204b9ea7d5949e8f5b1671",
+      "nodeId": "17:5096",
+      "name": "Stock=BIST, Company=BALAT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "950c08fa9822a8e36c3b479bc00167f47a764d6c",
+      "nodeId": "516:372",
+      "name": "Stock=BIST, Company=A1CAP",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "95835d6d2e671d2131d157b1c41cfd0138530706",
+      "nodeId": "17:8026",
+      "name": "Stock=BIST, Company=GLBMD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "97cb285ac20f4d45cd102f3aa2b68d806af77b27",
+      "nodeId": "17:4614",
+      "name": "Stock=BIST, Company=RTALB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "95dbc7a31dc18767a7719c603880d35f1b3b010a",
+      "nodeId": "17:6113",
+      "name": "Stock=BIST, Company=IZINV",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "960800f8e934002d14512eebe97bf8b5998ff950",
+      "nodeId": "17:6778",
+      "name": "Stock=BIST, Company=YATAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "96abb73037f25ccad041bbd04d4f2b8a59f6366f",
+      "nodeId": "865:710",
+      "name": "Stock=BIST, Company=LILAK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9709836340a8fea81a6411b8d417f3020d6da7a2",
+      "nodeId": "338:12037",
+      "name": "Stock=BIST, Company=ANSGR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "97405cea64c981cdfd3af257dae735d9ef3d0601",
+      "nodeId": "17:5203",
+      "name": "Stock=BIST, Company=BJKAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "97714a87caf77a6c9abf1351415f1b6176191842",
+      "nodeId": "17:7433",
+      "name": "Stock=BIST, Company=EGEEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "97c500cc92a4647680ca0d924a0dbe9668accd43",
+      "nodeId": "533:5027",
+      "name": "Stock=BIST, Company=GRTRK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "97d420c09af0aa4e2aa25a0174800b3de469c013",
+      "nodeId": "17:6787",
+      "name": "Stock=BIST, Company=VANGD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "98b9ff239c27797b1fe6b23b4c5e9614fec630ce",
+      "nodeId": "17:5124",
+      "name": "Stock=BIST, Company=BASGZ",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9903de253c033ecb14cabe3dbce861e925b0a3f3",
+      "nodeId": "17:4109",
+      "name": "Stock=BIST, Company=MSGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "991b8e9c92f259b7ea593ce0082f2559ccadec8e",
+      "nodeId": "17:4684",
+      "name": "Stock=BIST, Company=KONTR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "99326bcf5db59478fcf49500e29b30ae68bf2db9",
+      "nodeId": "17:4531",
+      "name": "Stock=BIST, Company=QNBFB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "99548384c7100be2f9f19865eb31c970e1727591",
+      "nodeId": "17:4393",
+      "name": "Stock=BIST, Company=PENTA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9997d24e8970c85e88781e331c5dd4ef5e637920",
+      "nodeId": "17:7608",
+      "name": "Stock=BIST, Company=EPLAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9a10c3619aa4d5a07337432e841af4ed2f5ef7bb",
+      "nodeId": "899:1655",
+      "name": "Stock=BIST, Company=SGMEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9ad305289067611fb4b9d412fec428f44a472518",
+      "nodeId": "17:6652",
+      "name": "Stock=BIST, Company=SELEC",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9ad32b170f2ac04d8d80f14a0728b66a0718acb9",
+      "nodeId": "899:976",
+      "name": "Stock=BIST, Company=YIGIT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9b392fd41f39cac58f5188f940be26be747de2e3",
+      "nodeId": "615:314",
+      "name": "Stock=US, Company=NVDA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9b72563afca8cce4e66c36c800c4d8ec2fa1d124",
+      "nodeId": "17:8042",
+      "name": "Stock=BIST, Company=GLRYH",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9c15a3532d886a51a71938b9371aa796638ba07f",
+      "nodeId": "760:1964",
+      "name": "Stock=BIST, Company=İCUGS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9d1517c1ec668461bd0a2475d2508f862e197863",
+      "nodeId": "17:5550",
+      "name": "Stock=BIST, Company=LOGO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9da0a62f83f5d7de906f8ebd5531cdeb5baacc5b",
+      "nodeId": "17:7407",
+      "name": "Stock=BIST, Company=EDATA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9dca2a23980edc318e8748fe643f806f4334276c",
+      "nodeId": "17:4993",
+      "name": "Stock=BIST, Company=ATLAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9e0294a9e747e4cd2088f84974e419d05ad1633f",
+      "nodeId": "17:6139",
+      "name": "Stock=BIST, Company=INDES",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9e4828b8a8d51c41b1b283680740c59919a3b62c",
+      "nodeId": "17:7995",
+      "name": "Stock=BIST, Company=GENIL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9e5edc4a822540eb65f3c38d3826b30488719360",
+      "nodeId": "17:7542",
+      "name": "Stock=BIST, Company=TURGG",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9f00ea5caa602a2ff4d18c585b56eaeec4ab00bb",
+      "nodeId": "17:6622",
+      "name": "Stock=BIST, Company=SANFM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9ff0ccf9bdbafb48e91ddea245ebf4746b46c26a",
+      "nodeId": "17:4228",
+      "name": "Stock=BIST, Company=OSTIM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "9ff5a12b984a138ce212fc857fa13c3762686a03",
+      "nodeId": "17:6095",
+      "name": "Stock=BIST, Company=ITTFH",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a0de4911131a6ce05c5bf5e2626e18ea5d4fc3ae",
+      "nodeId": "17:6172",
+      "name": "Stock=BIST, Company=IHAAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a216c9b857801ead98b3506d541747a0cc18fa25",
+      "nodeId": "17:6363",
+      "name": "Stock=BIST, Company=USDTRF",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a24af688584151c8fdff4b813e341683522732bc",
+      "nodeId": "17:7030",
+      "name": "Stock=BIST, Company=AFYON",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a25496e47af5a925ad5b4db883760f4964659809",
+      "nodeId": "17:5372",
+      "name": "Stock=BIST, Company=BURVA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a29326e5104b5b16bf9e9a671d623a3af1032911",
+      "nodeId": "17:5898",
+      "name": "Stock=BIST, Company=KFEIN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a38c95652a3e9b75a513af0506aedfe5ecb33e08",
+      "nodeId": "17:6471",
+      "name": "Stock=BIST, Company=AKGRT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a434fb56320a93dbd07c4f8bf198e9f9b9751e7b",
+      "nodeId": "17:5724",
+      "name": "Stock=BIST, Company=KRGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a457bfa7719979d03daf988b035bedecba1c6235",
+      "nodeId": "17:4513",
+      "name": "Stock=BIST, Company=PSDTC",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a50af8806e5dd00d739fee2412d844619823900e",
+      "nodeId": "1053:345",
+      "name": "Stock=BIST, Company=ARMGD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a5b285a54dacc72f9dba30e87c85e1f6cc3d66a5",
+      "nodeId": "17:7199",
+      "name": "Stock=BIST, Company=DAGHL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a5bd8ed177123c5630b36c753c342cd632adc9e8",
+      "nodeId": "17:6196",
+      "name": "Stock=BIST, Company=ICBCT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a5c3b2ddf3aaf08399e1f8202bd6f1bec9edb753",
+      "nodeId": "338:14317",
+      "name": "Stock=BIST, Company=GOKNR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a5ce0422b4d6419fc45d6c5f47579e236f0fa48b",
+      "nodeId": "17:6296",
+      "name": "Stock=BIST, Company=HALKB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a5fcfdef4bf6442223fdb5da974ea2d9f6efc3d0",
+      "nodeId": "17:6358",
+      "name": "Stock=BIST, Company=ETDRT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a67d14560d0791fb97f88fdb90073dda1f1528fc",
+      "nodeId": "17:7482",
+      "name": "Stock=BIST, Company=EKIZ",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a715064ca8352eae668366caeebf273fceb91a85",
+      "nodeId": "1072:1728",
+      "name": "Stock=Avatar, Company=Brick",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a7aec3e79b2d524a5d534b0312a9e44eca503a8b",
+      "nodeId": "17:7724",
+      "name": "Stock=BIST, Company=EUHOL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a7c31e274c14bb623db6f88124e0220ad166de64",
+      "nodeId": "17:8071",
+      "name": "Stock=BIST, Company=GMTAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a7c5845ace607211eb3d92e5a6ad195c150ce9ea",
+      "nodeId": "899:1004",
+      "name": "Stock=BIST, Company=HOROZ",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a83ec301a81781e2ef0101a60ab0300bbf3f0c77",
+      "nodeId": "17:4199",
+      "name": "Stock=BIST, Company=ORCAY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a86d73722fc2a5f233a1b4c0b68573a920d97520",
+      "nodeId": "17:6056",
+      "name": "Stock=BIST, Company=ISKPL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a8cb38989caedcb75ac79a4ad6d224b54d0d9742",
+      "nodeId": "17:6727",
+      "name": "Stock=BIST, Company=VKGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "a98ead155c03796b168dfa129201e2a72c5d9fe2",
+      "nodeId": "17:7972",
+      "name": "Stock=BIST, Company=GEDIK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "aa0f3a12a676d42cd7cda6d4d59ad0e31d86bdbb",
+      "nodeId": "17:7594",
+      "name": "Stock=BIST, Company=TUPRS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "aa911904c938cfc61d1aff6a9a19ec710c23c2e8",
+      "nodeId": "17:4258",
+      "name": "Stock=BIST, Company=OYAYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "aad80cd656d5efa2aaab7710be912e08e076b01e",
+      "nodeId": "17:3925",
+      "name": "Stock=BIST, Company=MAKTK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "aaf2f99514afdd5145a2b3f6d10db75a3e32f05c",
+      "nodeId": "17:4974",
+      "name": "Stock=BIST, Company=ATATP",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ac0b5316705e9e103d7a12ebf9d7f8c853db61e7",
+      "nodeId": "17:6967",
+      "name": "Stock=BIST, Company=TKNSA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "aca9c3b1236498d5b8ef6b002e8aabec2d672d2e",
+      "nodeId": "17:5348",
+      "name": "Stock=BIST, Company=BTCIM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ace3461bed9409b3331b089f35938c2007660ff9",
+      "nodeId": "17:6179",
+      "name": "Stock=BIST, Company=INFO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ad012a9e9290ef4544f28957a494a5be9ad056e1",
+      "nodeId": "17:5660",
+      "name": "Stock=BIST, Company=KONYA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ad3dd79403c64fc4bdb5a6b0906b9a17f2300dac",
+      "nodeId": "735:1897",
+      "name": "Stock=BIST, Company=EKOS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ae1de60e764ad1da817945eb66143b73da943882",
+      "nodeId": "899:937",
+      "name": "Stock=BIST, Company=HRKET",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ae3b7feac6e2ce62a56223639698b3d3b5fa9f59",
+      "nodeId": "516:368",
+      "name": "Stock=BIST, Company=INGRM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ae8b73470c4a719cbb85b8192bde2a37ac34b448",
+      "nodeId": "17:6657",
+      "name": "Stock=BIST, Company=SELGD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "aed285aa74bc1f3a5b0cc32114d8c7f1abeb6606",
+      "nodeId": "700:13557",
+      "name": "Stock=BIST, Company=MEKAG",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "af0d946132fb0bbf73f9954fe6594456268050d7",
+      "nodeId": "338:14283",
+      "name": "Stock=BIST, Company=BRKVY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "af2495a25b53b646ab14b43d3cbb6df12edb3497",
+      "nodeId": "17:8108",
+      "name": "Stock=BIST, Company=EUREN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "af408247b3a98871c9418044b4e94373314e6c35",
+      "nodeId": "17:6378",
+      "name": "Stock=BIST, Company=Z30KPF",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "af9a3fe89a63ae00976b04097ba85a7b71efbf62",
+      "nodeId": "17:6189",
+      "name": "Stock=BIST, Company=IHEVA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "afc2e4f7935f8b6aaff0b9b1e8c66e40bcadf9d8",
+      "nodeId": "17:7559",
+      "name": "Stock=BIST, Company=ULAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "afc49369a48fab91cbbde8cc2c012d2732f97673",
+      "nodeId": "17:6446",
+      "name": "Stock=BIST, Company=TSGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b077cafde56388118972e8c6273b9433083f8310",
+      "nodeId": "17:5288",
+      "name": "Stock=BIST, Company=BRISA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b1dcbe422993358d2fcecf07dac96a58c9931e8c",
+      "nodeId": "1072:1735",
+      "name": "Stock=Avatar, Company=Deep Purple",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b26fa667413cfcc6231b53887ff84017c2e43c8e",
+      "nodeId": "1053:395",
+      "name": "Stock=BIST, Company=EYGYO2",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b27d94398f8c4b35b57875aee49f5cdb06adbb93",
+      "nodeId": "17:4790",
+      "name": "Stock=BIST, Company=ENJSA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b2a5e6b10c150797fec3efcd8004a0020cc9a969",
+      "nodeId": "17:6755",
+      "name": "Stock=BIST, Company=YGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b30ca63dbb7298ce1b640204f37b687cc4adaa32",
+      "nodeId": "17:4293",
+      "name": "Stock=BIST, Company=OZKGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b3dbc0ba5d50d01fab9856a2ef4faa591aa3d1ff",
+      "nodeId": "824:301",
+      "name": "Stock=BIST, Company=MOGAN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b4299f270205e075a34f3194ce3c9f292ffd6c3a",
+      "nodeId": "865:711",
+      "name": "Stock=BIST, Company=RGYAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b4442a9d72e0786f9a382b94e174fcbb6791472f",
+      "nodeId": "17:4028",
+      "name": "Stock=BIST, Company=MIATK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b4a7932c4c553c98a9c40af5a9e9f6adc36a6b68",
+      "nodeId": "670:656",
+      "name": "Stock=BIST, Company=ADGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b4a7bdc0ba9bd18994a8c2e4cafddf26db3285ae",
+      "nodeId": "17:6393",
+      "name": "Stock=BIST, Company=ZPLIBF",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b4b11b8a230e39397f937f4af70abd5db5a11ad0",
+      "nodeId": "17:7646",
+      "name": "Stock=BIST, Company=ESCAR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b52187faf27fe7dd4900a90a1f89bba5fddc5b4f",
+      "nodeId": "17:7475",
+      "name": "Stock=BIST, Company=ELITE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b543da96d1ffd340f3add088d311a8cae5a36513",
+      "nodeId": "17:7166",
+      "name": "Stock=BIST, Company=COSMO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b5f43c00bb71077ae0c5bf2bd59392b1d1f2fe6c",
+      "nodeId": "670:347",
+      "name": "Stock=BIST, Company=TARKM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b617cfbebe9ca867c51ccbc2a1c17d5f3c2762c2",
+      "nodeId": "17:5038",
+      "name": "Stock=BIST, Company=AVTUR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b6a37353a9ff084639e1edf126554ff67af78306",
+      "nodeId": "17:5409",
+      "name": "Stock=BIST, Company=ANSGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b6f4cc82c172fcfdec2bd8628dd57d0ad07bf786",
+      "nodeId": "1072:1730",
+      "name": "Stock=Avatar, Company=Magenta",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b87942eeb00c268ad913ce2a233fb4fd9fd47878",
+      "nodeId": "17:4582",
+      "name": "Stock=BIST, Company=RNPOL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b8c5bf20c161b6ca6b1aa41832dd3fd862ac7f89",
+      "nodeId": "17:7228",
+      "name": "Stock=BIST, Company=DERHL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b8e40b46e9d5b0e13318fb6ae2c046f0b3487be7",
+      "nodeId": "17:6255",
+      "name": "Stock=BIST, Company=HURGZ",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "b91509b7d35f33e83f3f9030b6a72cc8cd607974",
+      "nodeId": "17:4595",
+      "name": "Stock=BIST, Company=RODRG",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "bb684b2a40fb518e17c0ea9a576d50268bea242f",
+      "nodeId": "670:596",
+      "name": "Stock=BIST, Company=GIPTA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "bb6c3579cb8200a440ac63cf2216a160c6209dc8",
+      "nodeId": "17:6261",
+      "name": "Stock=BIST, Company=HEKTS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "bb75c163f5308f8987056ae5fd3df7a130ecfb51",
+      "nodeId": "17:5020",
+      "name": "Stock=BIST, Company=AVHOL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "bc1f9101ab0e7af5be9b947f062229571abb292d",
+      "nodeId": "17:5782",
+      "name": "Stock=BIST, Company=KTSKR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "bd7796858456e1b9fff8155c880bf3933a6ce1b7",
+      "nodeId": "17:4157",
+      "name": "Stock=BIST, Company=NTGAZ",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "be0ee69d51c4e67f93322dd2eaeaafe39499923e",
+      "nodeId": "17:5266",
+      "name": "Stock=BIST, Company=BNTAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "be0fc36b1e2026dc2ee40f15138525641af5ebc3",
+      "nodeId": "17:6647",
+      "name": "Stock=BIST, Company=SEKUR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "be2beecf8b6fbe1b8c651eeebdbd4ea79d0fe35c",
+      "nodeId": "17:6974",
+      "name": "Stock=BIST, Company=TLMAN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "be30ff577e040008492e5db1445c31f4451c2987",
+      "nodeId": "17:4484",
+      "name": "Stock=BIST, Company=PRDGS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "be73fb9bc39962317120a9397ed5b3661b4a687a",
+      "nodeId": "17:4441",
+      "name": "Stock=BIST, Company=PKENT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "beb7397ac41db413dbaafd7784675a916a0f77e3",
+      "nodeId": "17:4871",
+      "name": "Stock=BIST, Company=BAGFS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "bf4df0f8ddfaca5cb57572939a1c40d30823ce4c",
+      "nodeId": "533:5037",
+      "name": "Stock=BIST, Company=KAYSE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "bf8a035e8d3cf84cf055b7d08e097d955e732ab0",
+      "nodeId": "17:4134",
+      "name": "Stock=BIST, Company=MZHLD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "bfb72472d9b37dabef3f3b391826d084db71006d",
+      "nodeId": "17:5444",
+      "name": "Stock=BIST, Company=ALCTL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c04429bf34de2b9e91888782ca1b67dec7bd6e35",
+      "nodeId": "17:7341",
+      "name": "Stock=BIST, Company=DOCO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c12f9cba4d88fac6a3aea3d886d94494cc7953f9",
+      "nodeId": "17:7446",
+      "name": "Stock=BIST, Company=EGGUB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c166ba762a7cfdbff0a4a2f3cb0ec04af149cdd8",
+      "nodeId": "17:6667",
+      "name": "Stock=BIST, Company=SEYKM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c189f0f4e667577a42e6292d2e536a5498d6358a",
+      "nodeId": "17:5842",
+      "name": "Stock=BIST, Company=KARYE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c19820295340e9fe4980673b4abc616743ffc890",
+      "nodeId": "17:3895",
+      "name": "Stock=BIST, Company=LUKSK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c2c4e8c795bfbe1c79f4724aab3d7b44fe18713c",
+      "nodeId": "17:6331",
+      "name": "Stock=BIST, Company=GSDHO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c2ce73cf2dfdbccce64b5bebafbc2cb56fd2cfc6",
+      "nodeId": "1072:1734",
+      "name": "Stock=Avatar, Company=Green",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c2d949309c0bef43a92ea85ab7c3730cfc7e8823",
+      "nodeId": "865:708",
+      "name": "Stock=BIST, Company=KOTON",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c31780f62490b21eb9ac81b3bb92ba79dc7a91da",
+      "nodeId": "17:7501",
+      "name": "Stock=BIST, Company=EMKEL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c32318fcf05c9e1becce150fe6fb89c4a1bc9de9",
+      "nodeId": "533:5044",
+      "name": "Stock=BIST, Company=AKFYE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c397a0c71351d8845adc92865b761693387bfd30",
+      "nodeId": "1046:410",
+      "name": "Stock=BIST, Company=CGCAM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c3b7c70f90d1afbce66096a1dccece0c4aac1a19",
+      "nodeId": "17:4283",
+      "name": "Stock=BIST, Company=OZGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c414ad115ababeea35a34360f823e84c0f3a15cd",
+      "nodeId": "17:5870",
+      "name": "Stock=BIST, Company=KCHOL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c43264a1838cb7d1dbd57488524cbcaab53e2c3a",
+      "nodeId": "17:6148",
+      "name": "Stock=BIST, Company=IEYHO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c45e2b3bf30be6c5fa8404c05cb5c2a3e97d548b",
+      "nodeId": "17:6817",
+      "name": "Stock=BIST, Company=VESBE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c54f50f7dd9ea3f650c32c1e15f00ec8998a8ced",
+      "nodeId": "17:6368",
+      "name": "Stock=BIST, Company=TPYGIF2",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c6e7838cf64038bdc4735e5577863d3f196fe92e",
+      "nodeId": "17:7898",
+      "name": "Stock=BIST, Company=FADE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c77eb8d457dfd90e8ef5c57a488efa7aafe2b623",
+      "nodeId": "671:706",
+      "name": "Stock=BIST, Company=REEDR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c845c42a8688afefc8b87bf988a2247a768e878a",
+      "nodeId": "17:6048",
+      "name": "Stock=BIST, Company=ISGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c8be293e965003c1d6f483559b7450d87c71306a",
+      "nodeId": "17:6273",
+      "name": "Stock=BIST, Company=HEDEF",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c974d5a64c6008b4521e4ebc8e834e42e72fafd8",
+      "nodeId": "17:4051",
+      "name": "Stock=BIST, Company=MNDRS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "c9970fec9cf72d23ad09641cb245b324d69a0717",
+      "nodeId": "17:5735",
+      "name": "Stock=BIST, Company=KRONT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ca676554a7e929e00d8f04ac13bea259b5998f37",
+      "nodeId": "17:5502",
+      "name": "Stock=BIST, Company=ANGEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ca6a9d81becfffbc395c32ce59207aa3e83ba4da",
+      "nodeId": "17:4624",
+      "name": "Stock=BIST, Company=RUBNS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ca9881ee0c31ed2c670f4c3d8bec575ab4bc33ea",
+      "nodeId": "17:6314",
+      "name": "Stock=BIST, Company=GZNMI",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cb7225ad10ce01e2c0f4588b40ad5c7cbaafb274",
+      "nodeId": "17:7929",
+      "name": "Stock=BIST, Company=FMIZP",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cb8e8f72135bf137fcdbf18372304b82507f463d",
+      "nodeId": "17:5281",
+      "name": "Stock=BIST, Company=BOSSA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cb9ab7b27d4b80f79553b8c4e9e38a1a3ff30f5e",
+      "nodeId": "17:7523",
+      "name": "Stock=BIST, Company=TTRAK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cbb046a502912e3f4e3e0c02faee06be3eee0ab3",
+      "nodeId": "17:6644",
+      "name": "Stock=BIST, Company=SEKFK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cbdcee499b6d7bc1de9f11c47d0dd0f199ff992d",
+      "nodeId": "665:416",
+      "name": "Stock=BIST, Company=DMRGD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ccd39b92bdebd4ae4706a6a27d177e21501ba737",
+      "nodeId": "17:4943",
+      "name": "Stock=BIST, Company=ARSAN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cd62ae687f7ebb8244bc3a0c1ee6d3becc2c50dc",
+      "nodeId": "17:6133",
+      "name": "Stock=BIST, Company=INTEM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cd70922b54da7f798aee789cfef081d93d1a3c62",
+      "nodeId": "17:4498",
+      "name": "Stock=BIST, Company=PRKME",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cdf6746825b06312ec5db6cf629f3b917cc7c4e3",
+      "nodeId": "17:7261",
+      "name": "Stock=BIST, Company=DEVA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ce392860006a9b8658d48830e74c1e7e64611fec",
+      "nodeId": "700:13697",
+      "name": "Stock=BIST, Company=MHRGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ce9f6d77a59d5f335941f4451a5ce3acfcbcc4e9",
+      "nodeId": "17:6867",
+      "name": "Stock=BIST, Company=SUNTK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cecd856bfc739fbae2034c5710705b7335f9d752",
+      "nodeId": "17:4671",
+      "name": "Stock=BIST, Company=NETAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cef9f5c8354512c2ff9669814456de31af84e19b",
+      "nodeId": "17:7066",
+      "name": "Stock=BIST, Company=ADESE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cf0df69ba18d928145ef2c66563f4e0530525a24",
+      "nodeId": "338:14361",
+      "name": "Stock=BIST, Company=SDTTR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cf43ce8d4d080c9fffa70ba7eb74babaf4f3b8a2",
+      "nodeId": "17:6784",
+      "name": "Stock=BIST, Company=VAKKO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cfb0e813a6990cfddd6b360799d34cb9a524e870",
+      "nodeId": "17:7439",
+      "name": "Stock=BIST, Company=EGEPO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "cfcecb621ce588f4454e6cf708a34afe1385d37a",
+      "nodeId": "17:6721",
+      "name": "Stock=BIST, Company=VAKFN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d054bfea16844a8c105d22a05861c98e51230d31",
+      "nodeId": "17:6541",
+      "name": "Stock=BIST, Company=AKFGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d1aa94f23d236c32fc97efc860d02c30efe9063c",
+      "nodeId": "886:1486",
+      "name": "Stock=BIST, Company=OZYSR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d32e3cc625e6ea88e52b0be5582d82ce40e6df46",
+      "nodeId": "17:7513",
+      "name": "Stock=BIST, Company=TTKOM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d332a33d83f18da419991f7ac04833a7b57df4ce",
+      "nodeId": "736:2267",
+      "name": "Stock=BIST, Company=KBORU",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d371d5fd8b600cd89a5867c71350f41e078bcc55",
+      "nodeId": "17:7452",
+      "name": "Stock=BIST, Company=EGPRO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d3b2a3b0b1a314c62ea214eaaa2763ff8f8482f2",
+      "nodeId": "17:5142",
+      "name": "Stock=BIST, Company=BERA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d3e9cfad870c87a1c320c309fbb07b8ae5a8f110",
+      "nodeId": "17:4222",
+      "name": "Stock=BIST, Company=OSMEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d43bbf0eeac9279a36eb8ac9f0c9090da70b4041",
+      "nodeId": "17:5459",
+      "name": "Stock=BIST, Company=ALGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d4de1f5e52b66d41a9e0d2d2c766c080f81b11fd",
+      "nodeId": "17:7535",
+      "name": "Stock=BIST, Company=TUKAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d55ea189c1deec4dd3b733dce53a959e67de2ecc",
+      "nodeId": "17:6846",
+      "name": "Stock=BIST, Company=SOKM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d581172a5d7edcbfd7b18bb32dc06827b1afdea4",
+      "nodeId": "17:6963",
+      "name": "Stock=BIST, Company=TKFEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d6171cf5c3a302308861018c0c079c72fc3a9596",
+      "nodeId": "17:5850",
+      "name": "Stock=BIST, Company=KATMR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d61d699f73ece6dcc1cbffa6d15224415186db52",
+      "nodeId": "17:6353",
+      "name": "Stock=BIST, Company=TRRRT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d664528c5d9928b5ceb576162ede6cb16baae358",
+      "nodeId": "17:4504",
+      "name": "Stock=BIST, Company=PRZMA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d6a902c93efe0e42d21e40fccd384b655517ae1f",
+      "nodeId": "17:5802",
+      "name": "Stock=BIST, Company=KUYAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d789d94d17c9b3d5a8eeb627769accaed59cf5b3",
+      "nodeId": "736:2411",
+      "name": "Stock=BIST, Company=AVPGY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d84c31494de21ab8e6a20b71349a8c18349e43b2",
+      "nodeId": "17:5886",
+      "name": "Stock=BIST, Company=KERVN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d9864a9d638d00f26202a2a2885a7eab8aa04f40",
+      "nodeId": "899:1054",
+      "name": "Stock=BIST, Company=EFORC",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d9b2841fb12d74a5835cbbab52ea48e09b431848",
+      "nodeId": "17:7570",
+      "name": "Stock=BIST, Company=ULUFA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "d9ed2f14a88a92e8dc74d1632eb4fd5cfb1649dc",
+      "nodeId": "17:5495",
+      "name": "Stock=BIST, Company=ANELE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "da0fbcb43dadde4980f15f9dd61afe5cac55ab1a",
+      "nodeId": "735:1923",
+      "name": "Stock=BIST, Company=AGROT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "da5bcf8e45f2dac9f9aa63cb59f97f6ba77c87fc",
+      "nodeId": "1072:1727",
+      "name": "Stock=Avatar, Company=Brown",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "da6a49ca67137f455f805535d655a476e9c77fac",
+      "nodeId": "17:5308",
+      "name": "Stock=BIST, Company=BRKSN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "da8b7eeeda1e0b1756ef0ab4952e3334310e3a39",
+      "nodeId": "17:6686",
+      "name": "Stock=BIST, Company=SKBNK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "db111f2b33d83b3742ad407e5673f228c7f6b4a5",
+      "nodeId": "17:7633",
+      "name": "Stock=BIST, Company=EREGL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "dbebd6df93bf273b0fcba096133ba0756877a7e5",
+      "nodeId": "1053:690",
+      "name": "Stock=BIST, Company=GLRMK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "dc3681eb8cbb42325d0e1f91638bb904fd8217db",
+      "nodeId": "17:4929",
+      "name": "Stock=BIST, Company=ARENA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "dc592eb5a72f9c68b21656c8cc894899b745b82b",
+      "nodeId": "17:5687",
+      "name": "Stock=BIST, Company=KOZAL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "dc9d589f80f991fcf1324d846d27668638d6a1bd",
+      "nodeId": "17:5364",
+      "name": "Stock=BIST, Company=BURCE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "dca06a10ab39237d10ba0b529837ea94a6a60152",
+      "nodeId": "834:891",
+      "name": "Stock=BIST, Company=[b]ALTIN.S1",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "dde05a98b208bc49a498acf1be665b6eb4d0f0d1",
+      "nodeId": "17:5030",
+      "name": "Stock=BIST, Company=AVOD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "de03b5cbbbc1f54a3a8b5294f5631629d885f968",
+      "nodeId": "17:3940",
+      "name": "Stock=BIST, Company=MARKA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "de631f446ad7b17ead963c419e18519ed51c70af",
+      "nodeId": "533:5033",
+      "name": "Stock=BIST, Company=BIENY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "df562685926c3aa82cca0260c5781903938610d8",
+      "nodeId": "700:13818",
+      "name": "Stock=BIST, Company=MARBL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "df84b3cd3685662fdd4e2d7adb59ba0d3c6e086b",
+      "nodeId": "17:6023",
+      "name": "Stock=BIST, Company=ISCTR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "dfe6d90b6ef6a85f0100e208104f09752cfba8d7",
+      "nodeId": "17:6268",
+      "name": "Stock=BIST, Company=TRRRG",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e04ef1dfdc69b318f9b81df5b04bc2f663895128",
+      "nodeId": "17:4142",
+      "name": "Stock=BIST, Company=NATEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e081c7a67c583790b80b5ee9b5717fcc63df8f25",
+      "nodeId": "17:7222",
+      "name": "Stock=BIST, Company=DARDL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e0fca70f81617e06df22fe5f06eda357d4fc3e35",
+      "nodeId": "17:5380",
+      "name": "Stock=BIST, Company=CANTE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e11aa374d6a50ec1707675099cdfb691d9d630a7",
+      "nodeId": "17:6403",
+      "name": "Stock=BIST, Company=ZPX30F",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e330099d88177a263385d42d41fe2e3d2474518b",
+      "nodeId": "338:12074",
+      "name": "Stock=BIST, Company=BARMA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e46d819e0ed498d051cdad415e77f1e6e6b8af91",
+      "nodeId": "17:3982",
+      "name": "Stock=BIST, Company=MERCN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e639189b366805fa84d7dfa0c49554ee69ffd7f4",
+      "nodeId": "17:8102",
+      "name": "Stock=BIST, Company=GOODY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e65c5d55cf506e8f578a6b38034a94bee5a94b89",
+      "nodeId": "17:6705",
+      "name": "Stock=BIST, Company=SMRTG",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e8b6e59fb53f24ed9e7bc1cc1dff602370ba82ba",
+      "nodeId": "17:4605",
+      "name": "Stock=BIST, Company=ROYAL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e8c88fba80fc6065c772c119657e9268aacd3d53",
+      "nodeId": "17:6087",
+      "name": "Stock=BIST, Company=ISYAT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e8fb6f0005767cf9f1347d6b8edde9b28bbfe6de",
+      "nodeId": "17:4435",
+      "name": "Stock=BIST, Company=PKART",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e93e03b7e51a9c8bd7d9335fa7dcbde546734ba7",
+      "nodeId": "338:14333",
+      "name": "Stock=BIST, Company=ONCSM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e993e6d461fbdf051c22933218a7668d8a38d9e4",
+      "nodeId": "17:6635",
+      "name": "Stock=BIST, Company=SARKY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e9f196a43f3a7962cfc2b28bddee456be092993e",
+      "nodeId": "17:6829",
+      "name": "Stock=BIST, Company=SNPAM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "e9fe1d43a4db9a8b995f071a7f6f9e1934e3caef",
+      "nodeId": "17:6240",
+      "name": "Stock=BIST, Company=HUNER",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ea2f2651f252b12c46973e9f35ba43f8189ec26d",
+      "nodeId": "17:7617",
+      "name": "Stock=BIST, Company=ERBOS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ea640f00480eee89e653bf0dd1ad7bbdc044da1b",
+      "nodeId": "338:17837",
+      "name": "Stock=BIST, Company=AHGAZ",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "eb205d4464e9bb4a136b2b812866441188c4517d",
+      "nodeId": "17:7935",
+      "name": "Stock=BIST, Company=FONET",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "eb4827ea4acab47a2ccb9aac4691ea154c62cb49",
+      "nodeId": "823:466",
+      "name": "Stock=BIST, Company=OBAMS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "eb994f4eb63e7a66c3891b0a95d6cd5acb1f4066",
+      "nodeId": "17:5557",
+      "name": "Stock=BIST, Company=KGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ebec7920de8265145ec15cc50e3b5017f9799327",
+      "nodeId": "17:7294",
+      "name": "Stock=BIST, Company=DIRIT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ec54ac01360d5ecbdaefdcc90adfa613a995b9e9",
+      "nodeId": "17:5704",
+      "name": "Stock=BIST, Company=KRDMB",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ec71a4eda9e773e0e2cae60d9417b8bcc2b0e23b",
+      "nodeId": "17:7375",
+      "name": "Stock=BIST, Company=DYOBY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "eca1f71d3a5babdeb7166e8dcdc7c772cc35fa12",
+      "nodeId": "615:304",
+      "name": "Stock=US, Company=META",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ecc09e49125ea0de45b103b345fec472f6d0832e",
+      "nodeId": "601:339",
+      "name": "Stock=BIST, Company=KLSER",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "edfc587f5e03a39792582f0cf5dbee02033be468",
+      "nodeId": "17:7213",
+      "name": "Stock=BIST, Company=DAPGM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ee3d10eca30bb8096c0ae03dc583e02e80a3591e",
+      "nodeId": "17:4576",
+      "name": "Stock=BIST, Company=RHEAG",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ee47797c621eb3a0f775fd275b6d86ae26758020",
+      "nodeId": "17:5564",
+      "name": "Stock=BIST, Company=KIMMR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ee4e420f4b34c2bc0cfcf351a0803374b3d2d517",
+      "nodeId": "1038:309",
+      "name": "Stock=BIST, Company=BINBN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ee67e491961e8ab720ec36236de10dae00790439",
+      "nodeId": "17:7186",
+      "name": "Stock=BIST, Company=CRFSA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ee6c8041614fbd695c58c65e8c6b1b2f17e34515",
+      "nodeId": "17:6799",
+      "name": "Stock=BIST, Company=VBTYZ",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ef0fedca7b2bc57f64763260dc829d4fa308cd14",
+      "nodeId": "17:4063",
+      "name": "Stock=BIST, Company=MOBTL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ef3eb80ce953f75c5dc31cc222a9794b44b173e6",
+      "nodeId": "635:328",
+      "name": "Stock=BIST, Company=L_TRETF",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ef75888e260106cc6e47444e38268c9f5de2cd0b",
+      "nodeId": "17:7152",
+      "name": "Stock=BIST, Company=CONSE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ef76d62e3d57fc4abb9fc2763c2a6cdb40499d9c",
+      "nodeId": "17:6280",
+      "name": "Stock=BIST, Company=HDFGS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f02d71dcc093995e1dd31a9cbc52b44b31dadf80",
+      "nodeId": "700:13587",
+      "name": "Stock=BIST, Company=DOFER",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f11579245af3a334e96b6e3e06b35a34afd968b6",
+      "nodeId": "17:7095",
+      "name": "Stock=BIST, Company=CELHA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f1caecf46cd1605893a92c0d17c414f07a9dd1b1",
+      "nodeId": "17:4725",
+      "name": "Stock=BIST, Company=ETILR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f1f29c4abeb1a0295271d4ef20c0435d3e6f1bfc",
+      "nodeId": "17:6062",
+      "name": "Stock=BIST, Company=ISKUR",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f263e63ea14ecd942dc1c7bfddd6cfbf267ee90e",
+      "nodeId": "17:8052",
+      "name": "Stock=BIST, Company=GLCVY",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f3a0ef9e1888a3ff3790d21cc1b081645e56850d",
+      "nodeId": "533:5021",
+      "name": "Stock=BIST, Company=KOPOL",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f55f401e98b4c4fb8952319db077478c63a1e13e",
+      "nodeId": "17:7115",
+      "name": "Stock=BIST, Company=CLEBI",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f58a3d3cbcc6157c19aace1c0ecde2bf8cea0e46",
+      "nodeId": "17:4075",
+      "name": "Stock=BIST, Company=MPARK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f59fe3e9cc10191be81e4724ccb0a8d0b4da1d44",
+      "nodeId": "17:7639",
+      "name": "Stock=BIST, Company=ERSU",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f5a6592cd3673fb4acecd903990b647a4d164e56",
+      "nodeId": "17:4848",
+      "name": "Stock=BIST, Company=BRMEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f5e550f35589551e73cbd32f1dc8a83ce41bb804",
+      "nodeId": "671:894",
+      "name": "Stock=BIST, Company=OFSYM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f5f870f34003c6ccb033f3ae31081987d945bcf6",
+      "nodeId": "17:4568",
+      "name": "Stock=BIST, Company=RAYSG",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f652292a9c34a1a50beb5fedf0c19e31613d873a",
+      "nodeId": "17:4981",
+      "name": "Stock=BIST, Company=ATEKS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f674bba001ba55e13de96201365197c9d016c5b2",
+      "nodeId": "17:4820",
+      "name": "Stock=BIST, Company=CMENT",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f6b4428e3b7f75959dc8f7fc2c17c51d67f9b56c",
+      "nodeId": "17:6835",
+      "name": "Stock=BIST, Company=SODSN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f6b9da36a24a34ebf1eb5626a9ba856ccc6b267d",
+      "nodeId": "644:559",
+      "name": "Stock=BIST, Company=EBEBK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f6d81d3b04a3370624b7273b65a176490884faae",
+      "nodeId": "17:6870",
+      "name": "Stock=BIST, Company=SUWEN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f72a217d771cfed53567e60e7ab5cba11cef9b8b",
+      "nodeId": "17:5001",
+      "name": "Stock=BIST, Company=ATSYH",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f7ace3d1a40ac5be041d4bf77a66da83c720c418",
+      "nodeId": "17:5768",
+      "name": "Stock=BIST, Company=KRVGD",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f8fdcf87ad9981f30b778f4d9ea26ea5090fdd82",
+      "nodeId": "17:5990",
+      "name": "Stock=BIST, Company=IPEKE",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f90f800f224def230937abea35d18c12ef206bc7",
+      "nodeId": "17:7555",
+      "name": "Stock=BIST, Company=UFUK",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "f989a73c3941dd1f72f3377397753753a27db77c",
+      "nodeId": "17:6761",
+      "name": "Stock=BIST, Company=YONGA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "fa20adc0ff8801fc5f27d46ec8d3dee0a999dd50",
+      "nodeId": "17:7246",
+      "name": "Stock=BIST, Company=DESA",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "faa0b4196dd158d0ad4f4c3c3dc5c461421e901b",
+      "nodeId": "17:7316",
+      "name": "Stock=BIST, Company=DNISI",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "fb1e5a2dd5f5c44f852d66184d406c1c54b3e740",
+      "nodeId": "17:6630",
+      "name": "Stock=BIST, Company=SANKO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "fbd93ce353b7defab16641274d95e27228c85a8a",
+      "nodeId": "17:7905",
+      "name": "Stock=BIST, Company=FENER",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "fc07764edb53af09d5670b4c1e17349123823ef2",
+      "nodeId": "17:7427",
+      "name": "Stock=BIST, Company=EDIP",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "fda52bef317b81a3613ade1e116aa384900630aa",
+      "nodeId": "17:4522",
+      "name": "Stock=BIST, Company=PSGYO",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "fec0c928e479401d660bdc39c3680f10a979f15c",
+      "nodeId": "17:7234",
+      "name": "Stock=BIST, Company=DERIM",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "fec868303545d12211796043272f76200c3651b7",
+      "nodeId": "1061:300",
+      "name": "Stock=BIST, Company=BALSU",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "fef6d742ce7c0f76f0f994042f07136f33395dd4",
+      "nodeId": "338:14290",
+      "name": "Stock=BIST, Company=BVSAN",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    },
+    {
+      "key": "ffb12df576f819e6cd386ce6db5da13ae133c1ca",
+      "nodeId": "17:7300",
+      "name": "Stock=BIST, Company=DITAS",
+      "description": "",
+      "containingFrame": "Stock Icons",
+      "containingPage": "Logos"
+    }
+  ]
+}

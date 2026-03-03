@@ -1,0 +1,73 @@
+{
+  "fileKey": "moFa24gGdMnmyNzJyscO0O",
+  "name": "FK-TableHeader",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:11.300Z",
+  "componentCount": 8,
+  "components": [
+    {
+      "key": "1f11048093751854d9a89054221a3d74e0d05f4d",
+      "nodeId": "8001:64",
+      "name": "State=Down Active, Dark Mode=ON, Brand=Kripto",
+      "description": "",
+      "containingFrame": "Sorter + Table Header",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2b1c09b7a0d68bd0bd591b540128d46fb66b8d42",
+      "nodeId": "8001:128",
+      "name": "Type=Assets (Simple), Calculation=ON",
+      "description": "",
+      "containingFrame": "Sorter + Table Header",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7827acd8cd15f23c813703d7b32ddd04fcf041f8",
+      "nodeId": "8001:54",
+      "name": "State=Default, Dark Mode=ON, Brand=Kripto",
+      "description": "",
+      "containingFrame": "Sorter + Table Header",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c6b392c7cb4f661382a4e2b019e1ca4969e3464d",
+      "nodeId": "8001:70",
+      "name": "Type=Price Listing, Calculation=ON",
+      "description": "",
+      "containingFrame": "Sorter + Table Header",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cc40154dd66d7b7c0f6ee956abd3ea07889b3e73",
+      "nodeId": "8001:94",
+      "name": "Type=Generic, Calculation=ON",
+      "description": "",
+      "containingFrame": "Sorter + Table Header",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dc3dc5c876dd5331ad6c83a5d3c0dfb0c53200ec",
+      "nodeId": "8001:143",
+      "name": "Type=Assets (Detailed), Calculation=OFF",
+      "description": "",
+      "containingFrame": "Sorter + Table Header",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f188ae6748462d174c8c2ba37fccd906c3366e3b",
+      "nodeId": "8001:134",
+      "name": "Type=Assets (Detailed), Calculation=ON",
+      "description": "",
+      "containingFrame": "Sorter + Table Header",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fc73b41167110cf44de3e1a5f7fecbbc53f83bb3",
+      "nodeId": "8001:59",
+      "name": "State=Up Active, Dark Mode=ON, Brand=Kripto",
+      "description": "",
+      "containingFrame": "Sorter + Table Header",
+      "containingPage": "1.0"
+    }
+  ]
+}

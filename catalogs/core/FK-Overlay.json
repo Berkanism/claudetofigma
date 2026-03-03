@@ -1,0 +1,17 @@
+{
+  "fileKey": "QKqC0qDVRzrlRkUZbxT6eA",
+  "name": "FK-Overlay",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:04.979Z",
+  "componentCount": 1,
+  "components": [
+    {
+      "key": "74cf4e36eb7c243eb5cce48a5650abe16eb5efa3",
+      "nodeId": "8002:10",
+      "name": "FK-Overlay",
+      "description": "",
+      "containingFrame": "",
+      "containingPage": "1.0"
+    }
+  ]
+}

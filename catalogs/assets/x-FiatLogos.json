@@ -1,0 +1,137 @@
+{
+  "fileKey": "Pli3Ofc0Ch8Gm4I0C8AcxL",
+  "name": "x-FiatLogos",
+  "group": "assets",
+  "updatedAt": "2026-03-03T15:10:41.293Z",
+  "componentCount": 16,
+  "components": [
+    {
+      "key": "15f33343b24e92c18797424b4bdf35efc7546891",
+      "nodeId": "1:78",
+      "name": "Style=Mono (Disabled), Type=GBP",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "1ed8470fc2b000015d6fd053a783b0e8b5f398d0",
+      "nodeId": "1:63",
+      "name": "Style=Color, Type=GBP",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "21c9d62cda71354ce8e34600210075668d1e5a78",
+      "nodeId": "49:74",
+      "name": "Style=Color-Filled, Type=GBP",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "3403ac5424840a48a7570e9937fd06ea1d128708",
+      "nodeId": "49:65",
+      "name": "Style=Color-Filled, Type=USD",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "424ec4755051a70942f8f9737d5ebf26afbf03d8",
+      "nodeId": "1:46",
+      "name": "Style=Mono, Type=EUR",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "456062ea66c486e4218fe53b4e89c8707f6e420c",
+      "nodeId": "1:75",
+      "name": "Style=Mono (Disabled), Type=EUR",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "c4c8556d3cc292f1ed270a09eb37b9253f51a4bd",
+      "nodeId": "1:33",
+      "name": "Style=Mono, Type=GBP",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "4ea64c1a6b1c00ea4ce4532980968f62d451801c",
+      "nodeId": "49:71",
+      "name": "Style=Color-Filled, Type=EUR",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "4ef96237e4886c5b7ac318ca7eee35aac1c89b4b",
+      "nodeId": "1:54",
+      "name": "Style=Color, Type=USD",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "55ad81db2e5c4cd44e6dfae97096e71f735ba664",
+      "nodeId": "1:66",
+      "name": "Style=Mono (Disabled), Type=TRY",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "5c46ef03e9a0937478d1c3cc8e521172550441ad",
+      "nodeId": "1:60",
+      "name": "Style=Color, Type=EUR",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "712ab589171a21e0efd38c65f3606afe6047238c",
+      "nodeId": "1:28",
+      "name": "Style=Mono, Type=TRY",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "74f83865154c9c07c4f7424f58088a90473f009a",
+      "nodeId": "1:51",
+      "name": "Style=Color, Type=TRY",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "98a7d861e1e89d62b19d030a0e0406b60a40af2d",
+      "nodeId": "1:38",
+      "name": "Style=Mono, Type=USD",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "ee63e0cc9c66f52b5dacfa290d0e8c065505cb43",
+      "nodeId": "1:69",
+      "name": "Style=Mono (Disabled), Type=USD",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    },
+    {
+      "key": "f2d4cece70ef4cc7290483e9994e976acf3082de",
+      "nodeId": "49:62",
+      "name": "Style=Color-Filled, Type=TRY",
+      "description": "",
+      "containingFrame": "Currency",
+      "containingPage": "Icons"
+    }
+  ]
+}

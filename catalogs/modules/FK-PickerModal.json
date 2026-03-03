@@ -1,0 +1,81 @@
+{
+  "fileKey": "tj3tKUoyT8fw0oJVA3TID9",
+  "name": "FK-PickerModal",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:34.125Z",
+  "componentCount": 9,
+  "components": [
+    {
+      "key": "126badc24e266f3318d59ec1890ccf1c2c52f07a",
+      "nodeId": "8002:26049",
+      "name": "Type=Cities",
+      "description": "",
+      "containingFrame": "Picker/Categories",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "331b7f737f8dbf77304ef131b13e51a817c8eda2",
+      "nodeId": "8002:26027",
+      "name": "Type=Countries",
+      "description": "",
+      "containingFrame": "Picker/Categories",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3b2669eedc37ef27bde9193f0c9ae5c163edd6ea",
+      "nodeId": "8002:26063",
+      "name": "Type=Town",
+      "description": "",
+      "containingFrame": "Picker/Categories",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8275a4952cd4f588896d7aea0e172335905ec177",
+      "nodeId": "8002:36336",
+      "name": "Picker",
+      "description": "",
+      "containingFrame": "",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9afe4cec39dd4b1aa8f88b16c15fac308fe0d994",
+      "nodeId": "8002:26076",
+      "name": "Type=Neighborhood",
+      "description": "",
+      "containingFrame": "Picker/Categories",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a723be7f0c453bec6b32c6593804709c7b256e95",
+      "nodeId": "8002:26089",
+      "name": "Type=Streets",
+      "description": "",
+      "containingFrame": "Picker/Categories",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d3d5a8404fdc28403edb13c5a89b76ab95e371c6",
+      "nodeId": "8002:26115",
+      "name": "Type=Occupations",
+      "description": "",
+      "containingFrame": "Picker/Categories",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e6ae249c13cccd18aee913f68c0abc90ca64d9e1",
+      "nodeId": "8002:26038",
+      "name": "Type=Countries + Codes",
+      "description": "",
+      "containingFrame": "Picker/Categories",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ff39ef0db08a582311f823c55fbbfea4af6768db",
+      "nodeId": "8002:26102",
+      "name": "Type=Numbers",
+      "description": "",
+      "containingFrame": "Picker/Categories",
+      "containingPage": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "fileKey": "MYLV177LGYkYrKXD5TtKIe",
+  "name": "FK-AssetRow",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:20.232Z",
+  "componentCount": 24,
+  "components": [
+    {
+      "key": "cede8322d1d172e0e1185ad69413e866f1571960",
+      "nodeId": "8170:3298",
+      "name": "Problem?=True, Currency=Fiat USD",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "702c2fabe6a5568c8a9e20651b14993b72cc01a5",
+      "nodeId": "8004:7661",
+      "name": "Asset Seperator",
+      "description": "",
+      "containingFrame": "Asset Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c5fe00482f8cf2c1f3afd90194f710ef43fe2bf8",
+      "nodeId": "8005:12062",
+      "name": "State=Kripto -> Hisse",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c6da33d5fd900def359b4f07cc71b52676bc2107",
+      "nodeId": "8005:12021",
+      "name": "Consent?=FALSE",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "54ba8ef8ca63d602c78ce1c8fa71a73014761f76",
+      "nodeId": "8005:12051",
+      "name": "Problem?=False, Currency=Fiat TRY",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b7a89eb971aaa4dd9731edd5071c663b9446e4bd",
+      "nodeId": "8013:14077",
+      "name": "Asset List Top Function",
+      "description": "",
+      "containingFrame": "Asset Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a7571e049a4a2e3d98f98fcf494fea2ccb568db6",
+      "nodeId": "8004:7630",
+      "name": "Asset Fiat Item",
+      "description": "",
+      "containingFrame": "Asset Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ba048181a2575d9bcf4e8671f6e444f021c964cd",
+      "nodeId": "8005:12047",
+      "name": "Problem?=False, Currency=Kripto",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "39a61123ed80c709f95bb96d15cc80a4401ca42a",
+      "nodeId": "8005:12060",
+      "name": "State=Hisse -> Kripto",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d517bfe61b0c569354a6c637759efe2554b72fc5",
+      "nodeId": "8005:12053",
+      "name": "Problem?=True, Currency=Fiat TRY",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e8a09cbef0ffab497b8e4ff637d8963f8075dc8b",
+      "nodeId": "8005:12031",
+      "name": "Consent?=TRUE",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ebc3896618a754eb774583fa3e6f8b6f3f65137f",
+      "nodeId": "8212:582",
+      "name": "Problem?=False, Currency=Other",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0976d231023452e11777f7eddfdf006359e9c165",
+      "nodeId": "8170:3296",
+      "name": "Problem?=False, Currency=Fiat USD",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0f13372a561731a5adf07e48017a4982576bf573",
+      "nodeId": "8133:1739",
+      "name": "Brand=Hisse, Type=Rüçhan, PNL Calculation=TRUE",
+      "description": "",
+      "containingFrame": "Asset Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "18fb16d6d19886bd78fcaf0a0b385e2e10cf9e5e",
+      "nodeId": "8005:12043",
+      "name": "Problem?=False, Currency=Hisse",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1d767bee7220f0a4c59840c9db2f071c95258070",
+      "nodeId": "8004:7612",
+      "name": "Brand=Hisse, Type=Simple, PNL Calculation=TRUE",
+      "description": "",
+      "containingFrame": "Asset Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "39c7d9a31363e36ca059c8b59041c3e1473d63be",
+      "nodeId": "8004:7561",
+      "name": "Brand=Kripto, Type=Simple, PNL Calculation=TRUE",
+      "description": "",
+      "containingFrame": "Asset Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5539c0a8823efa2956685ff6ee48dc5fb48acd20",
+      "nodeId": "8005:12045",
+      "name": "Problem?=True, Currency=Hisse",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5a57205f72c7b3ee75f4fb270d1f7da095fa25a3",
+      "nodeId": "8136:1092",
+      "name": "Brand=Hisse, Type=Detailed, PNL Calculation=FALSE",
+      "description": "",
+      "containingFrame": "Asset Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "755aa60cbf70e57538d41e857a69f07920f9c1a1",
+      "nodeId": "8139:1377",
+      "name": "Brand=Kripto, Type=Detailed, PNL Calculation=FALSE",
+      "description": "",
+      "containingFrame": "Asset Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a3c84420eb051ec1efe83e33d2b8e868400f5acf",
+      "nodeId": "8004:7490",
+      "name": "Brand=Kripto, Type=Detailed, PNL Calculation=TRUE",
+      "description": "",
+      "containingFrame": "Asset Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a5f992decdb35217308c8d84357cced9cb3812b2",
+      "nodeId": "8212:584",
+      "name": "Problem?=True, Currency=Other",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ccc290f790c832e0d08e539ee12343f7f901715b",
+      "nodeId": "8004:7422",
+      "name": "Brand=Hisse, Type=Detailed, PNL Calculation=TRUE",
+      "description": "",
+      "containingFrame": "Asset Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cde9c8a2da9965c4c072cca85f74235e1b5c7179",
+      "nodeId": "8005:12049",
+      "name": "Problem?=True, Currency=Kripto",
+      "description": "",
+      "containingFrame": "Merger Row",
+      "containingPage": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "fileKey": "qMBvu90hoseTWLK0Hf5JMF",
+  "name": "FK-TradeStuff",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:37.207Z",
+  "componentCount": 71,
+  "components": [
+    {
+      "key": "0457e37bccdc315b9f15ff18e8dadc59426049aa",
+      "nodeId": "8157:2100",
+      "name": "Type=Buy, Width=1",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fceb715b7d24d91cd9afbfb1f963c3480e625468",
+      "nodeId": "8212:1327",
+      "name": "State=True, Lines=13",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "05c03c77f4cb9d20d0b25f5263ae3df07f295719",
+      "nodeId": "8158:3614",
+      "name": "Type=Sell, Width=5",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "14bd19efde76622e57f671f57024db9abd6e6f73",
+      "nodeId": "8158:3556",
+      "name": "Type=Buy, Width=2",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "19ae38fa363c86f56bde3e84de6293488fcb14e4",
+      "nodeId": "8099:4439",
+      "name": "State=Default, Left=None",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1cf66143c3651383453526415383de71e5308e8a",
+      "nodeId": "8002:364",
+      "name": "Size=Kripto, State=OFF, Last Price=OFF",
+      "description": "",
+      "containingFrame": "Depth Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1dc73910fc617332a6487597f2c50107603990b7",
+      "nodeId": "8158:3616",
+      "name": "Type=Sell, Width=6",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "22afd82cac483be24d3a308dfa2c2d22d94387dd",
+      "nodeId": "8002:338",
+      "name": "Size=Kripto, State=OFF, Last Price=ON",
+      "description": "",
+      "containingFrame": "Depth Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "36e9a5fc00c02c197ce7d7cc148eac3d74ac9a8c",
+      "nodeId": "8099:4419",
+      "name": "State=Default, Left=Select Nav",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "384c0d278a66c033cb2348725658010c59341f2c",
+      "nodeId": "8158:3610",
+      "name": "Type=Sell, Width=3",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "39256cf3777f9c39a85bed6f6ee7609b0abff0a5",
+      "nodeId": "8099:4493",
+      "name": "State=Focus, Left=Icon",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "45fd3848387ffe128af3a8fca5d3776a7cc146e8",
+      "nodeId": "8002:390",
+      "name": "Tech/Trade/OrderBook/NA",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "48efc20df7ec86b3eed0220424a2ee9cf7661df5",
+      "nodeId": "8158:3586",
+      "name": "Type=Buy, Width=9",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "48aa68990d3d53af7dc513b63f47aaad07887551",
+      "nodeId": "8100:1768",
+      "name": "Type=Stop Market 2",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5994b779ab63d48daeaca84b5da2b5551012dd61",
+      "nodeId": "8100:1053",
+      "name": "Type=Market 1",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5b07fc3eb3cff955b6166d47d3314ce016a7e0d9",
+      "nodeId": "8002:244",
+      "name": "Size=Hisse, State=OFF, Last Price=ON",
+      "description": "",
+      "containingFrame": "Depth Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "65702f9e27f58e0e338b94188b6da78617e97cd9",
+      "nodeId": "8002:428",
+      "name": "Trade Inline Row",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "67fe652488dac773cac9d96ed658819d4d1b8837",
+      "nodeId": "8120:976",
+      "name": "State=Done, Left=Icon",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6b22b00f796574909103c28fa24721226da68493",
+      "nodeId": "8158:3580",
+      "name": "Type=Buy, Width=6",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6c5cc878a30f1cb42e9029f1cee1dfa3b2766c18",
+      "nodeId": "8100:1564",
+      "name": "Type=Stop Market 1",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7631f2b4648f36f15f0d8e89e82b467a49d0d5a6",
+      "nodeId": "8158:3608",
+      "name": "Type=Sell, Width=2",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7fb3190e8c38dbb56e961038092170e95e617c00",
+      "nodeId": "8002:180",
+      "name": "Order Type Selector (N/A)",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8579439644801f4bae347c17dd52babbf3d922e4",
+      "nodeId": "8099:4516",
+      "name": "State=Focus, Left=None",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "864b3b4993b730c81298cad992edfe57769cef7e",
+      "nodeId": "8158:3620",
+      "name": "Type=Sell, Width=8",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8a7d7aab03b6ff4e42fb9f585a674b8c84fcdc17",
+      "nodeId": "8158:3612",
+      "name": "Type=Sell, Width=4",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8af941a4e3d47e30d296d3ee862fc4de0767dc94",
+      "nodeId": "8120:987",
+      "name": "State=Done, Left=Select Nav",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a3796a574f170be425457ee4a53a1c596d78c0d5",
+      "nodeId": "8158:3606",
+      "name": "Type=Sell, Width=1",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a74973b73a7d530ac591ca718bb66afad2c9faff",
+      "nodeId": "8158:3584",
+      "name": "Type=Buy, Width=8",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b54584a9a462b070000b5a62558446c425f34558",
+      "nodeId": "8158:3582",
+      "name": "Type=Buy, Width=7",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bcf2d4332910a167f3ae39d5d21d933e0368c24e",
+      "nodeId": "8099:4504",
+      "name": "State=Focus, Left=Select Nav",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bfedd8cc00171aab4adc337866d24f74e28d510c",
+      "nodeId": "8099:4370",
+      "name": "State=Default, Left=Icon",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c1fe85a1488aaa403b27bf40b945c3050a1926c7",
+      "nodeId": "8002:213",
+      "name": "Size=Hisse, State=ON, Last Price=ON",
+      "description": "",
+      "containingFrame": "Depth Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c668e76c6178e1200193dee2fef0cc97416766a6",
+      "nodeId": "8207:1194",
+      "name": "State=Default",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d0f0e1722f632533afc5e69190363879af306236",
+      "nodeId": "8207:1196",
+      "name": "State=Active",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d1942f11f37139c4e3da75caceb7d6658c8a1204",
+      "nodeId": "8158:3618",
+      "name": "Type=Sell, Width=7",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d496b4f928290a7fc6becf633896abf07435be50",
+      "nodeId": "8120:999",
+      "name": "State=Done, Left=None",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d6d53a6810a881540e34b64a1b9b3068a7a48472",
+      "nodeId": "8002:272",
+      "name": "Size=Kripto, State=ON, Last Price=ON",
+      "description": "",
+      "containingFrame": "Depth Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d6fd4def437c93703048048a6038da97a0cb0923",
+      "nodeId": "8158:3622",
+      "name": "Type=Sell, Width=9",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e651096ea222a36438aea85a1c77289e8039e938",
+      "nodeId": "8158:3576",
+      "name": "Type=Buy, Width=4",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f0a4aa15cd6687c8bfa480679489e24b7605af9a",
+      "nodeId": "8158:3574",
+      "name": "Type=Buy, Width=3",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f8d160b57500da356a7fb38b2cd3e404a156bc11",
+      "nodeId": "8158:3578",
+      "name": "Type=Buy, Width=5",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f8e78a4466872a60fbdf39e9d1abc5fa1305dcdb",
+      "nodeId": "8205:1103",
+      "name": " Limit Order TP/SL",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e22029a0925b5b1118a7883feb762358cbdf7bce",
+      "nodeId": "8100:1483",
+      "name": "Type=Limit",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fac22cae5229e25bd36110f9ac914f9200c593ae",
+      "nodeId": "8002:305",
+      "name": "Size=Kripto, State=ON, Last Price=OFF",
+      "description": "",
+      "containingFrame": "Depth Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fd4086b9c4c12c88e151f8fe65c5133a45b85c9d",
+      "nodeId": "8002:426",
+      "name": "Trade Input Title",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "07e8f2d8204bd76f808ec53c8cb999666d8089f7",
+      "nodeId": "8002:208",
+      "name": "Type=Sell, Alternate=FALSE, isAvailable?=NO, Show.Order=FALSE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "15aa19da1effaae7b7d8239437d434ad82b23a4e",
+      "nodeId": "8002:204",
+      "name": "Type=Buy, Alternate=FALSE, isAvailable?=NO, Show.Order=FALSE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0fc02e7f86ec44c8a71ff9d71b57c5580ce9c8ec",
+      "nodeId": "8107:1568",
+      "name": "State=True, Lines=6",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "137ee177aeb193b83a5687d0a0286513b80f1175",
+      "nodeId": "8002:463",
+      "name": "Brand=Regular User, Market Open?=TRUE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2173611086f9f74efe5653efb29f1e2a87622134",
+      "nodeId": "8028:116",
+      "name": "Type=Sell, Alternate=FALSE, isAvailable?=YES, Show.Order=FALSE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "257da580db4beb3ba2f1a2f52107cffc095deaf0",
+      "nodeId": "8002:192",
+      "name": "Type=Sell, Alternate=FALSE, isAvailable?=YES, Show.Order=TRUE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "495ae843ee8b9bef2f9bfe31592adc19d2fd3638",
+      "nodeId": "8028:121",
+      "name": "Type=Sell, Alternate=TRUE, isAvailable?=YES, Show.Order=FALSE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4ad344050db7c7e8f300903d1531661740806247",
+      "nodeId": "8002:185",
+      "name": "Tech/Trade/Order-Indicator/Order-Indicator-Dark",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "55c815d430cfe39a83164109231244671cc3f5bc",
+      "nodeId": "8028:106",
+      "name": "Type=Buy, Alternate=FALSE, isAvailable?=YES, Show.Order=TRUE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7bd85234a26dd77a7aa6575e58862a83337a1c57",
+      "nodeId": "8028:111",
+      "name": "Type=Buy, Alternate=TRUE, isAvailable?=YES, Show.Order=TRUE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "946c290ccc0d278b628ff8607c61531c7e7816d3",
+      "nodeId": "8002:196",
+      "name": "Type=Buy, Alternate=TRUE, isAvailable?=YES, Show.Order=FALSE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cac8c579254516d7530e12fd863dd6149fb51c5a",
+      "nodeId": "8002:188",
+      "name": "Type=Buy, Alternate=FALSE, isAvailable?=YES, Show.Order=FALSE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f21ef2602ce9fdeeb06824840e69124aab022e56",
+      "nodeId": "8002:200",
+      "name": "Type=Sell, Alternate=TRUE, isAvailable?=YES, Show.Order=TRUE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2f646a47ef055822a6c326d7497b497fcca2f8bb",
+      "nodeId": "8106:886",
+      "name": "State=True, Lines=7",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4496c08bb5443093f5bad351f0232d68c4db9221",
+      "nodeId": "8002:457",
+      "name": "Brand=Hisse, Market Open?=FALSE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "46bc73bb6544a6b7c178bf2b499972fb7ccf8da2",
+      "nodeId": "8093:1288",
+      "name": "State=False, Lines=5",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5dc136f5b322952c6bca2e55783dba34b8595b65",
+      "nodeId": "8002:435",
+      "name": "Brand=Kripto, Market Open?=TRUE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6e87b345ae39f785c81dda0985ae9796a57da9cc",
+      "nodeId": "8100:1065",
+      "name": "Type=Market 2",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7d19d5705d95cee1b56ec96149d0079e269eb8c0",
+      "nodeId": "8107:1592",
+      "name": "State=False, Lines=6",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7f4fd47c8b736c371966cb0e2ad26c5dc7a3b865",
+      "nodeId": "8093:1590",
+      "name": "State=False, Lines=8",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "829a67e08cc514273d17f03761a9bd6e8a33830a",
+      "nodeId": "8212:1351",
+      "name": "State=False, Lines=13",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "89185e61a3f0940760ba7df37f6b5caf0dc20dc8",
+      "nodeId": "8093:1111",
+      "name": "State=True, Lines=5",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "938c95055289c89ae646fbab5dc6bf82a5fadd0a",
+      "nodeId": "8002:446",
+      "name": "Brand=Hisse, Market Open?=TRUE",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "afbac42e770762dad156db04941325e3ccba057b",
+      "nodeId": "8100:1833",
+      "name": "Type=Stop Limit",
+      "description": "",
+      "containingFrame": "Trade",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c67e6772cb917ba8c0d29b00404785aabf0f6422",
+      "nodeId": "8093:1126",
+      "name": "State=True, Lines=8",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "eadeea83339d6d9790dc59cf0b4785a468b44d05",
+      "nodeId": "8106:910",
+      "name": "State=False, Lines=7",
+      "description": "",
+      "containingFrame": "Order Book",
+      "containingPage": "1.0"
+    }
+  ]
+}

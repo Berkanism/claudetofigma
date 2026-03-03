@@ -1,0 +1,145 @@
+{
+  "fileKey": "OD1CPbCRN4dPrOntLUYff1",
+  "name": "FK-Menu",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:03.190Z",
+  "componentCount": 17,
+  "components": [
+    {
+      "key": "3b6123b10798455e64e9a1ca6f1c6c49767fdf25",
+      "nodeId": "8005:2642",
+      "name": "Type=Title + Desc., Status=Default, View=Line",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "428c965e6e3f89fdb1babf5d8aa6376459e484d5",
+      "nodeId": "10004:2357",
+      "name": "Type=Title, Status=Active, View=Box",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fec09f825aeabb174393e55735f435f0a6e94d89",
+      "nodeId": "8005:2652",
+      "name": "NoOfItems=4",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4512b5028bf96b340215ca87c2298435ddeb10fc",
+      "nodeId": "10022:591",
+      "name": "Type=Title + Desc., Status=Deactive, View=Line",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b57173fe17768ba40beb0c3581ef1c988e09d672",
+      "nodeId": "10018:3587",
+      "name": "Type=Title + Desc., Status=Active, View=Box",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c0562d155430f7c4fc9f5b6e8834fe130e86b939",
+      "nodeId": "8005:2658",
+      "name": "Direction=Top",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cae63004105bbc4445245e893f281facc95a5935",
+      "nodeId": "10004:2359",
+      "name": "Type=Title, Status=Default, View=Box",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dd4c96d612e78643b747d3ec35d0f02de27d38d4",
+      "nodeId": "8005:2648",
+      "name": "NoOfItems=3",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "df39bd3c6a4957d7f23cd5e2170b855ec7fc97c5",
+      "nodeId": "8005:2640",
+      "name": "Type=Title + Desc., Status=Active, View=Line",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f519ac21c48c28e9f25315055562ac4240aa2ad3",
+      "nodeId": "10018:3589",
+      "name": "Type=Title + Desc., Status=Default, View=Box",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0581e10176a9c3f24c44c8fff9ac7b76a70ddb4c",
+      "nodeId": "10018:3402",
+      "name": "Type=Title, Status=Active, View=Line",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3e547984a54a1691dac2b9616d96068abe8408c4",
+      "nodeId": "10022:529",
+      "name": "Type=Title, Status=Deactive, View=Line",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "966e00155cd94885b6dfb9dbf39067d5f0acb36a",
+      "nodeId": "8005:2663",
+      "name": "Direction=Down",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a3089066b11995b49c22bfb26a6f92be29ac6924",
+      "nodeId": "8005:2645",
+      "name": "NoOfItems=2",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a88a8fff6e989b020e8f66e650da4d09b3e9df05",
+      "nodeId": "10018:3404",
+      "name": "Type=Title, Status=Default, View=Line",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d768c65b3099d8d5fec14560909ea2e46260ac04",
+      "nodeId": "10022:625",
+      "name": "Type=Title + Desc., Status=Deactive, View=Box",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fc58e92f25986ba41a2e24adb46b68b9c71edae8",
+      "nodeId": "10022:559",
+      "name": "Type=Title, Status=Deactive, View=Box",
+      "description": "",
+      "containingFrame": "Menu",
+      "containingPage": "1.0"
+    }
+  ]
+}

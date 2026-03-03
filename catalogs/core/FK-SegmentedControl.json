@@ -1,0 +1,681 @@
+{
+  "fileKey": "k6PMBkpjwmpKnwCdevrNA9",
+  "name": "FK-SegmentedControl",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:10.465Z",
+  "componentCount": 84,
+  "components": [
+    {
+      "key": "b62fc6304d3aed2079b836f805fe73b741cd4858",
+      "nodeId": "8001:269",
+      "name": "Icons=True, Options=3, Selected=Center, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ba2d829315f8c4e52a372304aa24f12db5db91a3",
+      "nodeId": "8001:281",
+      "name": "Icons=True, Options=3, Selected=Left, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bda0f915e7d466dbd7bdfb2188edd828f19d63d7",
+      "nodeId": "8001:227",
+      "name": "Icons=True, Options=2, Selected=Right, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bf3ccbbcd769b638798c6aac655867aff2bbc02e",
+      "nodeId": "8001:56",
+      "name": "Style=UI, Selected=False, Icon=False, Size=Small",
+      "description": "",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1a8c835e3c8d664841d44f799e60fa32bba96c72",
+      "nodeId": "8001:62",
+      "name": "Style=UI, Selected=False, Icon=True, Size=Small",
+      "description": "",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "367828c5c272bf5c6fe2a5043b7ce7fd39042f32",
+      "nodeId": "8001:41",
+      "name": "Style=Color, Selected=True, Icon=False, Size=Medium",
+      "description": "",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3c20bf36a932d968da946b9ac0d46f47008caf0c",
+      "nodeId": "8001:44",
+      "name": "Style=UI, Selected=True, Icon=True, Size=Small",
+      "description": "",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3d82b52f9634f61379357e5d6ff4c47425e1caf4",
+      "nodeId": "8001:50",
+      "name": "Style=UI, Selected=True, Icon=True, Size=Medium",
+      "description": "",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "42d4e9b697c4bd4efffe893789cdb988817bb72e",
+      "nodeId": "8001:35",
+      "name": "Style=Color, Selected=True, Icon=False, Size=Small",
+      "description": "",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "53284923e51604e20ccb8a3178d3223f085a1629",
+      "nodeId": "8001:53",
+      "name": "Style=Color, Selected=True, Icon=True, Size=Medium",
+      "description": "",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "86de564f2b59cfe50ffd05fe06a101949e470ce5",
+      "nodeId": "8001:65",
+      "name": "Style=UI, Selected=False, Icon=True, Size=Medium",
+      "description": "",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "883b73410b498628df6bf69e9767aed6b07d8c9c",
+      "nodeId": "8001:32",
+      "name": "Style=UI, Selected=True, Icon=False, Size=Small",
+      "description": "",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9060929856faca233cc8bbd5b15d1a615ce4e155",
+      "nodeId": "8001:59",
+      "name": "Style=UI, Selected=False, Icon=False, Size=Medium",
+      "description": "",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a65ce445d92d0d6129f55bff5a0d4f90a256ea58",
+      "nodeId": "8001:38",
+      "name": "Style=UI, Selected=True, Icon=False, Size=Medium",
+      "description": "",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ad5e331c99e8d9456779c0adf20f3ca2e2934199",
+      "nodeId": "8001:47",
+      "name": "Style=Color, Selected=True, Icon=True, Size=Small",
+      "description": "",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "017c1aaeb78ef7f99198cfd2ef5f48f19ca5d7ea",
+      "nodeId": "8001:105",
+      "name": "Icons=False, Options=3, Selected=Right, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "025ae9ac20f0cfb421769d8a7c61f04b737715fb",
+      "nodeId": "8001:236",
+      "name": "Icons=True, Options=2, Selected=Left, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "07cbcaaac23ad7e4841b99837a215f7e94ce91b8",
+      "nodeId": "8001:249",
+      "name": "Icons=True, Options=3, Selected=Right, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "08beece0c7fec5c03b3f13a86dfd6ce3480ee881",
+      "nodeId": "8001:216",
+      "name": "Icons=False, Options=4, Selected=Right, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0956c936903673280438cd8ec18f73d85e6f4d26",
+      "nodeId": "8001:129",
+      "name": "Icons=False, Options=3, Selected=Left, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0c37d1b66f312435d730ec93a33f47918ee610b3",
+      "nodeId": "8001:137",
+      "name": "Icons=False, Options=3, Selected=Left, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "186fa40cb551365b23cb9a571fe1bf374ca69761",
+      "nodeId": "8001:253",
+      "name": "Icons=True, Options=3, Selected=Right, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1a645045c09609be336fc67333dd4454ade9c7d0",
+      "nodeId": "8001:84",
+      "name": "Icons=False, Options=2, Selected=Left, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "20418c17f0efa7fb2ac26d71357a02d266d289ff",
+      "nodeId": "8001:151",
+      "name": "Icons=False, Options=4, Selected=Left, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "26b7062a75389843678e567b94aca8e2d75d1a5f",
+      "nodeId": "8001:245",
+      "name": "Icons=True, Options=3, Selected=Right, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2c88ca0ecd5c2dd1c21963cdaad9f773ff6cdd23",
+      "nodeId": "8001:121",
+      "name": "Icons=False, Options=3, Selected=Center, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2dd69e4755410f90e08ecfabdddc151b758bbca8",
+      "nodeId": "8001:201",
+      "name": "Icons=False, Options=4, Selected=Right, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2e4ef507d62ab8022fb6c0f5daf137cc4d91ff63",
+      "nodeId": "8001:323",
+      "name": "Icons=True, Options=4, Selected=Left-Center, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3760b47be4583fe0b689ab9a1dbe571ae5d78d02",
+      "nodeId": "8001:176",
+      "name": "Icons=False, Options=4, Selected=Left-Center, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3cf7bcfdf4665e9a4395ba9805888da9afb70fd8",
+      "nodeId": "8001:78",
+      "name": "Icons=False, Options=2, Selected=Right, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3de561a83f6c027c3d707acda1c7668eddeb47bb",
+      "nodeId": "8001:298",
+      "name": "Icons=True, Options=4, Selected=Left, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "413bc6a12b4c20668895e1d0c763745039568e6b",
+      "nodeId": "8001:125",
+      "name": "Icons=False, Options=3, Selected=Left, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "47e049615783cb89acb8f32176fb63244fe5bbd4",
+      "nodeId": "8001:333",
+      "name": "Icons=True, Options=4, Selected=Right-Center, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "51d96af7f8b4db8b605bdb1ac4d1a6035942330c",
+      "nodeId": "8001:109",
+      "name": "Icons=False, Options=3, Selected=Center, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "529a06dc6d5891c6668acc0d85ee0c51a788f056",
+      "nodeId": "8001:117",
+      "name": "Icons=False, Options=3, Selected=Center, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "52ec3fc97912e31e15086133bb3103487f2125e4",
+      "nodeId": "8001:303",
+      "name": "Icons=True, Options=4, Selected=Left, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "543e18e453741f95cdc602b54b10017f2633c773",
+      "nodeId": "8001:277",
+      "name": "Icons=True, Options=3, Selected=Left, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "54538268ceb1b85c0359797d1e1434538a665dce",
+      "nodeId": "8001:318",
+      "name": "Icons=True, Options=4, Selected=Left-Center, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5e48e1e0246e7161c27e845876fb73c6c512e1dd",
+      "nodeId": "8001:75",
+      "name": "Icons=False, Options=2, Selected=Right, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "66ebee2ecfa23cae54fea971677715ed768348f3",
+      "nodeId": "8001:233",
+      "name": "Icons=True, Options=2, Selected=Left, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6e5d68b0a8cfd18c076088ea706e30a0a908d0ab",
+      "nodeId": "8001:363",
+      "name": "Icons=True, Options=4, Selected=Right, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6faff63ad4682036da3f9d9bae7c88da08844fc9",
+      "nodeId": "8001:101",
+      "name": "Icons=False, Options=3, Selected=Right, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "761ec20eb4444794458b1f41da4a47365ed780b3",
+      "nodeId": "8001:343",
+      "name": "Icons=True, Options=4, Selected=Right-Center, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "76482c6b537d908da94b519818a7703aad769bb5",
+      "nodeId": "8001:313",
+      "name": "Icons=True, Options=4, Selected=Left-Center, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "771be448866cb3bd0ba2cb8b331245fdd46df5c3",
+      "nodeId": "8001:186",
+      "name": "Icons=False, Options=4, Selected=Right-Center, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "780aae63537d612326bff13a0ab90a7d051ee32e",
+      "nodeId": "8001:87",
+      "name": "Icons=False, Options=2, Selected=Left, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "78a1d90633d3f552248b63b051d31bc436f46da7",
+      "nodeId": "8001:230",
+      "name": "Icons=True, Options=2, Selected=Right, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7919ca10d6efd1c1a599e01e4e8632a33f36ae4e",
+      "nodeId": "8001:90",
+      "name": "Icons=False, Options=2, Selected=Left, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7d4625bdd0c1c18037f21e2596ba50271cbe2ddb",
+      "nodeId": "8001:211",
+      "name": "Icons=False, Options=4, Selected=Right, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7d8f6069e40225a00b164b057130e19c6789cb32",
+      "nodeId": "8001:239",
+      "name": "Icons=True, Options=2, Selected=Left, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7e6a8d295e627988f5c66ac3fb442ac2c7d3abd2",
+      "nodeId": "8001:72",
+      "name": "Icons=False, Options=2, Selected=Right, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "89ae0bec6cd9c5977e93a6a016e9a209eaaaa96c",
+      "nodeId": "8001:97",
+      "name": "Icons=False, Options=3, Selected=Right, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8bbcd315f543763e71a56c1174ee8ef76d03d38b",
+      "nodeId": "8001:224",
+      "name": "Icons=True, Options=2, Selected=Right, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8c830b6996635fb7c156b24315cfc18fc915d994",
+      "nodeId": "8001:181",
+      "name": "Icons=False, Options=4, Selected=Right-Center, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8cf5533da100bb501dcded8f3902d18d8ba3cf24",
+      "nodeId": "8001:141",
+      "name": "Icons=False, Options=4, Selected=Left, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8e0999b8bb35bf7909444129b5997743c4348222",
+      "nodeId": "8001:293",
+      "name": "Icons=True, Options=4, Selected=Left, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9748b3aa83efdbbc1d4f0e64e0c79c12e78ec04f",
+      "nodeId": "8001:156",
+      "name": "Icons=False, Options=4, Selected=Left, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9f0f33803df80ffb00915f28c741eac4cf969f72",
+      "nodeId": "8001:171",
+      "name": "Icons=False, Options=4, Selected=Left-Center, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a3a81172c40c293e8bbfb1963615543fac27fc0f",
+      "nodeId": "8001:368",
+      "name": "Icons=True, Options=4, Selected=Right, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a3dd44e4b5f248b44f32ea774dd06ef88b73c261",
+      "nodeId": "8001:353",
+      "name": "Icons=True, Options=4, Selected=Right, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a5a9acdc93f296b561178785f84f370ff8c9318c",
+      "nodeId": "8001:69",
+      "name": "Icons=False, Options=2, Selected=Right, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a5fcafde9b14ac2e720dfb1b7ce3d2dbfb5d65f6",
+      "nodeId": "8001:328",
+      "name": "Icons=True, Options=4, Selected=Left-Center, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a737547a43d1656b7b669ef73648ace351c75e97",
+      "nodeId": "8001:196",
+      "name": "Icons=False, Options=4, Selected=Right-Center, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a8e6e9d5aabbbf5389c1a2d6260ad013e3ec5876",
+      "nodeId": "8001:242",
+      "name": "Icons=True, Options=2, Selected=Left, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a9d95ff66491157bb01ab91d3532f7a8fdecb526",
+      "nodeId": "8001:261",
+      "name": "Icons=True, Options=3, Selected=Center, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ac6e3319e5deadf7158c2de4053151fb860ab57d",
+      "nodeId": "8001:273",
+      "name": "Icons=True, Options=3, Selected=Center, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "afc7b80240c316dd55da5e8f42f8cc780a1098e3",
+      "nodeId": "8001:265",
+      "name": "Icons=True, Options=3, Selected=Center, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b030d850b600e5029db55bb03f3ed32ac190789e",
+      "nodeId": "8001:166",
+      "name": "Icons=False, Options=4, Selected=Left-Center, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b2887355eb063490e781cb3b69d620a9f7b228f7",
+      "nodeId": "8001:289",
+      "name": "Icons=True, Options=3, Selected=Left, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cdf22d1a886ec8a9fff19ba1d0298e456967d098",
+      "nodeId": "8001:113",
+      "name": "Icons=False, Options=3, Selected=Center, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ce2c8107094dd76ce20f02f28c830bc6265cf02a",
+      "nodeId": "8001:308",
+      "name": "Icons=True, Options=4, Selected=Left, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cfd979f400e224071a46744435a7112c69a008e0",
+      "nodeId": "8001:133",
+      "name": "Icons=False, Options=3, Selected=Left, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d156914666a14bbe9c43ed731edf6fb77dc495c4",
+      "nodeId": "8001:257",
+      "name": "Icons=True, Options=3, Selected=Right, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d75a949aaa99f2c8fecc2eb324a76e57521ef388",
+      "nodeId": "8001:358",
+      "name": "Icons=True, Options=4, Selected=Right, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d8fa9215981e265f5ad08169f253a994679c35d2",
+      "nodeId": "8001:338",
+      "name": "Icons=True, Options=4, Selected=Right-Center, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d93b997a306615ca092e7d7fbeca87491d8e85d8",
+      "nodeId": "8001:146",
+      "name": "Icons=False, Options=4, Selected=Left, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d9a1d2d6c928f9f6e71a05a42df21952f31578f6",
+      "nodeId": "8001:81",
+      "name": "Icons=False, Options=2, Selected=Left, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d9ec089757b10f6b0dfb6e9efa6c0561952aef15",
+      "nodeId": "8001:348",
+      "name": "Icons=True, Options=4, Selected=Right-Center, Size=Medium, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e0612cb5b401cb5ea3812af470ef27b273f0248d",
+      "nodeId": "8001:285",
+      "name": "Icons=True, Options=3, Selected=Left, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ecb7b89fb9df3eafc14bbf619b8a4781ad7668e7",
+      "nodeId": "8001:206",
+      "name": "Icons=False, Options=4, Selected=Right, Size=Small, Style=Color",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f65a5dbb9fb6f98b1db6c3d722f5a9620fa54680",
+      "nodeId": "8001:221",
+      "name": "Icons=True, Options=2, Selected=Right, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fb1aee3845fece0f21a29a94a5eb99f3d999f6e2",
+      "nodeId": "8001:93",
+      "name": "Icons=False, Options=3, Selected=Right, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fcbbaa64934a5f46d86ac3ff2f9c0728d7c5e922",
+      "nodeId": "8001:161",
+      "name": "Icons=False, Options=4, Selected=Left-Center, Size=Small, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ffd6ddc0044fa2414038c2e0e526398f56a30d2f",
+      "nodeId": "8001:191",
+      "name": "Icons=False, Options=4, Selected=Right-Center, Size=Medium, Style=UI",
+      "description": "Struct Picker",
+      "containingFrame": "Segmented Control",
+      "containingPage": "1.0"
+    }
+  ]
+}

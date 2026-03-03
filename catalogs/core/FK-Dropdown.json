@@ -1,0 +1,305 @@
+{
+  "fileKey": "PXi811WxncaFFdn2Ul5X7m",
+  "name": "FK-Dropdown",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:09:53.897Z",
+  "componentCount": 37,
+  "components": [
+    {
+      "key": "01020cfeb38d71bb61c90636d62e50aee6a090b8",
+      "nodeId": "8004:602",
+      "name": "State=Loading",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "07c06d1763576949b53aca938ae3f7a5e0dd412d",
+      "nodeId": "8004:568",
+      "name": "State=Typing",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0b909b21657ca4a8792e3e30c3587ee9a442c474",
+      "nodeId": "8004:701",
+      "name": "Type=Default, State=Disabled, Selected=True",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0f01b35af9072636f634e40690e587ff473d3a7b",
+      "nodeId": "8004:798",
+      "name": "Type=Checkbox",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "12718458c7f4fde2560e5fffcfeb1d8d03dde1bc",
+      "nodeId": "8004:682",
+      "name": "Type=Icon, State=Focus, Selected=True",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1b7bcdd44d3ee4cc86abc5d289b1c8d1b2f24da1",
+      "nodeId": "8004:677",
+      "name": "Type=Icon, State=Focus, Selected=False",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "20a7b591231e4c147637f9693730861a9dc885c4",
+      "nodeId": "8004:660",
+      "name": "Type=Icon, State=Default, Selected=True",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "217abc0950c43c8566a1bb00d28428da4b160059",
+      "nodeId": "8004:549",
+      "name": "State=Error",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2190c47a66867820d8bab7f44771171bddc553ff",
+      "nodeId": "8004:772",
+      "name": "Type=Country, State=Focus, Selected=True",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2c33d2a57b92db9775fd06cac1f912ccf4949962",
+      "nodeId": "8004:756",
+      "name": "Type=Country, State=Disabled, Selected=False",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3ae42d3e60865ab19a0e6fb5a4ac3e13a52ad14b",
+      "nodeId": "8004:761",
+      "name": "Type=Country, State=Disabled, Selected=True",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "412599098420cafbdc348200ed1302f9af38c231",
+      "nodeId": "8004:498",
+      "name": "State=Inactive",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "450d77ea667b460d02da81c9c55c7f46466b99b1",
+      "nodeId": "8004:789",
+      "name": "Type=Icon",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4c8b373c326659ff3d0dd3df4b741151c729cac7",
+      "nodeId": "8004:655",
+      "name": "Type=Icon, State=Default, Selected=False",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "51c49171ad43eb92dd750186a0dae59d990ea631",
+      "nodeId": "8004:706",
+      "name": "Type=Default, State=Focus, Selected=False",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "536192addf1db66b1d3699d1fec1894af2c881b8",
+      "nodeId": "8004:697",
+      "name": "Type=Default, State=Disabled, Selected=False",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "606a423bfaad3ccf0382fb0d33472da40b80325b",
+      "nodeId": "8004:740",
+      "name": "Type=Checkbox, State=Focus, Selected=True",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "65cc3ff1b74d260a82980dfc24764e9b3557d0a8",
+      "nodeId": "8004:730",
+      "name": "Type=Checkbox, State=Disabled, Selected=True",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "68c8ce15e71e6de266f1dcb1e4ce165d13aa5e7c",
+      "nodeId": "8004:750",
+      "name": "Type=Country, State=Default, Selected=True",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7ed0878cac81d9ebf00cae7852660b8a2935a6e8",
+      "nodeId": "8004:688",
+      "name": "Type=Default, State=Default, Selected=False",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "90407573f0bd3c447d53f0286cfeeb341f16d242",
+      "nodeId": "8004:735",
+      "name": "Type=Checkbox, State=Focus, Selected=False",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "939a4d877675b22d15ee3a103ed05d4305baf5ac",
+      "nodeId": "8004:807",
+      "name": "Type=Country",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "99ae23b0d6f62f42da994318cc7c352475a26ff5",
+      "nodeId": "8004:619",
+      "name": "State=Focus",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a363194f225aced08bda0c008df6d2fb7b6421d6",
+      "nodeId": "8004:692",
+      "name": "Type=Default, State=Default, Selected=True",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "aee86c2bef029d641790714d9b5436b2eb5e3d66",
+      "nodeId": "8004:725",
+      "name": "Type=Checkbox, State=Disabled, Selected=False",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b23fd1e7c50baf7729d7838bb59afdff7323efac",
+      "nodeId": "8004:514",
+      "name": "State=Done",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b55b598b1ae091a7dfade4b3eb62e8921a681b8c",
+      "nodeId": "8004:779",
+      "name": "Type=Default",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c0e7cb9abca12d5c00b824a236b13e3ffb4e81e5",
+      "nodeId": "8004:532",
+      "name": "State=Disabled",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cc0724c38fc679196c80c3217b72896698d9b8e2",
+      "nodeId": "8004:666",
+      "name": "Type=Icon, State=Disabled, Selected=False",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cc68811dbfe1404280d47de8a36acd865fd89194",
+      "nodeId": "8004:720",
+      "name": "Type=Checkbox, State=Default, Selected=True",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d42f2c41cbf312505838bbc61456f4e353a474d7",
+      "nodeId": "8081:1836",
+      "name": "Select List Empty State",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d85e1d44cc387365d6905b6225c83aaf1f174732",
+      "nodeId": "8004:767",
+      "name": "Type=Country, State=Focus, Selected=False",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d9235a419b0f412acea19d97a5877a7eb60cda99",
+      "nodeId": "8004:671",
+      "name": "Type=Icon, State=Disabled, Selected=True",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e0fa014463238755af09f70a83186130c0ecd774",
+      "nodeId": "8004:745",
+      "name": "Type=Country, State=Default, Selected=False",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e8df52797cc5fb32e4fca7303f028d0a1419685e",
+      "nodeId": "8004:585",
+      "name": "State=No Results",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ede4cf3b5beffd04d10c8551ab3ce84c64273c4a",
+      "nodeId": "8004:710",
+      "name": "Type=Default, State=Focus, Selected=True",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fb0b3b10399ba8cb9a50cd9cfcf3e66ed8cf0b30",
+      "nodeId": "8004:715",
+      "name": "Type=Checkbox, State=Default, Selected=False",
+      "description": "",
+      "containingFrame": "Combo",
+      "containingPage": "1.0"
+    }
+  ]
+}

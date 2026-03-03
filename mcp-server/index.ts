@@ -95,8 +95,8 @@ function sendToFigma(action: string, params: Record<string, any>): Promise<any> 
     const id = String(++requestId);
     const timeout = setTimeout(() => {
       pendingRequests.delete(id);
-      reject(new Error("Request to Figma timed out (10s)"));
-    }, 10000);
+      reject(new Error("Request to Figma timed out (30s)"));
+    }, 30000);
 
     pendingRequests.set(id, {
       resolve: (value) => { clearTimeout(timeout); resolve(value); },

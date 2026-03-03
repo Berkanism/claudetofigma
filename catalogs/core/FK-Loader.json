@@ -1,0 +1,105 @@
+{
+  "fileKey": "C1rZmbQpk3gZDaeC1SQ16d",
+  "name": "FK-Loader",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:02.532Z",
+  "componentCount": 12,
+  "components": [
+    {
+      "key": "25492baab8d055605dccf906e5e23850b9b0f571",
+      "nodeId": "10007:118",
+      "name": "Property 1=Variant7",
+      "description": "",
+      "containingFrame": "Loader",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2e5b09ef1982e7881a1b479dba19de78c0d2eadc",
+      "nodeId": "10007:40",
+      "name": "Property 1=Default",
+      "description": "",
+      "containingFrame": "Loader",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2e84dd767310bde23f9c344dcc7367cb7409e291",
+      "nodeId": "10007:92",
+      "name": "Property 1=Variant5",
+      "description": "",
+      "containingFrame": "Loader",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "46f7c6f819f667fdacc929c09266cf95613146ce",
+      "nodeId": "10007:105",
+      "name": "Property 1=Variant6",
+      "description": "",
+      "containingFrame": "Loader",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "476fe69a95b3ac8faa991e8c90616b0e91a66613",
+      "nodeId": "10007:386",
+      "name": "Type=Transparent, Size=Small",
+      "description": "",
+      "containingFrame": "Loader",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "481512cf352d7795b0d7358083c479ecbd7f4270",
+      "nodeId": "10007:66",
+      "name": "Property 1=Variant3",
+      "description": "",
+      "containingFrame": "Loader",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5c377e3e0cd5ede8f7bc4b9bf10e288ea3fd1a44",
+      "nodeId": "10007:370",
+      "name": "Type=Transparent, Size=Large",
+      "description": "",
+      "containingFrame": "Loader",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "661b645c05384e1b14895d03bd0788e0a8479a39",
+      "nodeId": "10007:372",
+      "name": "Type=Transparent, Size=Medium",
+      "description": "",
+      "containingFrame": "Loader",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6b9cbb55c31599a5c2dd6a952b53a0d2d2188b9b",
+      "nodeId": "10007:53",
+      "name": "Property 1=Variant2",
+      "description": "",
+      "containingFrame": "Loader",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bc7121eff0b7fea6eefbbb8fe77b5231dcf6dd77",
+      "nodeId": "10007:79",
+      "name": "Property 1=Variant4",
+      "description": "",
+      "containingFrame": "Loader",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c57706c4441aa2c6cae451cafdf13290ff8f8015",
+      "nodeId": "10007:131",
+      "name": "Property 1=Variant8",
+      "description": "",
+      "containingFrame": "Loader",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fbb67752f569d3c78dc750eccc488d587a3ce0ba",
+      "nodeId": "10007:400",
+      "name": "Type=Transparent, Size=XX-Small",
+      "description": "",
+      "containingFrame": "Loader",
+      "containingPage": "1.0"
+    }
+  ]
+}

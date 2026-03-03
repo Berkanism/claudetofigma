@@ -1,0 +1,57 @@
+{
+  "fileKey": "4R7A5OLRKJ9GmsdQ5JIPN9",
+  "name": "FK-ButtonGroup",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:09:50.344Z",
+  "componentCount": 6,
+  "components": [
+    {
+      "key": "2e835ac76b04b88f9c4cf852b108d1c5b7b49ceb",
+      "nodeId": "8001:35",
+      "name": "State=Default",
+      "description": "",
+      "containingFrame": "Button Group",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "37faa8c731eac5c4ea3bb6ce261f7b19cfe049fb",
+      "nodeId": "8001:32",
+      "name": "Dark Mode=ON, Type=Text",
+      "description": "",
+      "containingFrame": "Button Group",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7c4bfdb873b578cbabc4baa4394ab1dac611df54",
+      "nodeId": "8001:38",
+      "name": "State=Both Active",
+      "description": "",
+      "containingFrame": "Button Group",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8000a47ba70850976dc3c471b7d4fa6523a07d56",
+      "nodeId": "8001:41",
+      "name": "State=Wallet Active",
+      "description": "",
+      "containingFrame": "Button Group",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "82c8e8bd16490dcf72389111eb8769e367987acb",
+      "nodeId": "8001:30",
+      "name": "Dark Mode=ON, Type=Icon",
+      "description": "",
+      "containingFrame": "Button Group",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "85ddb848b4b83d0af2af47fbc793420452872f49",
+      "nodeId": "8001:44",
+      "name": "State=Favorites Active",
+      "description": "",
+      "containingFrame": "Button Group",
+      "containingPage": "1.0"
+    }
+  ]
+}

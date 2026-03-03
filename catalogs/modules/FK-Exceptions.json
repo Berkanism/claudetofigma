@@ -1,0 +1,73 @@
+{
+  "fileKey": "MRFmDHubvRXb6gb52owX0p",
+  "name": "FK-Exceptions",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:29.118Z",
+  "componentCount": 8,
+  "components": [
+    {
+      "key": "1bf144d8116d8452a92df4760d70b35d16a9d9f8",
+      "nodeId": "10002:7853",
+      "name": "Brand=Kripto",
+      "description": "",
+      "containingFrame": "No Internet ½",
+      "containingPage": "Internet N/A"
+    },
+    {
+      "key": "3235dbdff4f69a1d8850509a084a0ea92bd2e0e4",
+      "nodeId": "10002:7860",
+      "name": "Brand=Hisse",
+      "description": "",
+      "containingFrame": "No Internet ½",
+      "containingPage": "Internet N/A"
+    },
+    {
+      "key": "dbd5606bc8386775080376ace089b210b533dd2b",
+      "nodeId": "10002:7832",
+      "name": "Brand=Kripto",
+      "description": "",
+      "containingFrame": "Secure Internet ½",
+      "containingPage": "Secure Internet Warning"
+    },
+    {
+      "key": "f6a9d61af632b4cb29e9af8e3b9ce0ffeac4ad2f",
+      "nodeId": "10002:7839",
+      "name": "Brand=Hisse",
+      "description": "",
+      "containingFrame": "Secure Internet ½",
+      "containingPage": "Secure Internet Warning"
+    },
+    {
+      "key": "c81362cf36ef869bffae8e706c3ec88363217b3d",
+      "nodeId": "10008:1768",
+      "name": "Close Account ½",
+      "description": "",
+      "containingFrame": "",
+      "containingPage": "Close Account"
+    },
+    {
+      "key": "6c6931976e773c34e5f6a963050006bc498bfcf4",
+      "nodeId": "10002:7892",
+      "name": "Brand=Hisse",
+      "description": "",
+      "containingFrame": "Soft Update ½ [Dont' Use]",
+      "containingPage": "Force + Soft Update"
+    },
+    {
+      "key": "c18912a15f831030cd085e45f67b082a9e3936dc",
+      "nodeId": "10002:7901",
+      "name": "Brand=Wallet",
+      "description": "",
+      "containingFrame": "Soft Update ½ [Dont' Use]",
+      "containingPage": "Force + Soft Update"
+    },
+    {
+      "key": "c18a9e881e2ef79400b582012684220fb1f204bf",
+      "nodeId": "10002:7883",
+      "name": "Brand=Kripto",
+      "description": "",
+      "containingFrame": "Soft Update ½ [Dont' Use]",
+      "containingPage": "Force + Soft Update"
+    }
+  ]
+}

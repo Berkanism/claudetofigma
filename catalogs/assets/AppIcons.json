@@ -1,0 +1,177 @@
+{
+  "fileKey": "U1A2jnNqD5JouAU91CMhmD",
+  "name": "AppIcons",
+  "group": "assets",
+  "updatedAt": "2026-03-03T15:10:43.102Z",
+  "componentCount": 21,
+  "components": [
+    {
+      "key": "78a81ec595c77fc15c7f8545d2a5574168fa99ea",
+      "nodeId": "1:5",
+      "name": "Exchange-Starter",
+      "description": "",
+      "containingFrame": "",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8043517708c042a3525e1a7a204e354bf0e47644",
+      "nodeId": "8001:528",
+      "name": "Guide",
+      "description": "",
+      "containingFrame": "",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c67a6fc74c8c91e73a4b558549d9ea90f18127c2",
+      "nodeId": "8001:690",
+      "name": "Type=Kripto",
+      "description": "",
+      "containingFrame": "Trials",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0632ca4d7035304a4ca6f52d8110c8d2ea54f3d9",
+      "nodeId": "8001:580",
+      "name": "Type=Kripto",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0cd7e3eaa0722fe264bd18f671ad98957c415aa9",
+      "nodeId": "8001:562",
+      "name": "Type=10th-TR",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "30f08f93fe9e461d9caf649b9164c64290449e19",
+      "nodeId": "8001:698",
+      "name": "Type=Wallet",
+      "description": "",
+      "containingFrame": "Trials",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3ab1a4fcd431ec841eaec50180fd7551b774090b",
+      "nodeId": "8001:588",
+      "name": "Type=Wallet",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3deef4c53a40279069268cdb24c1f05dad26eb9b",
+      "nodeId": "8001:598",
+      "name": "Type=Dev",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "691c5915647f53ae1c6547b336db29866d45bcd4",
+      "nodeId": "8001:584",
+      "name": "Type=Hisse",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6a7d5cfa51ee2bd12d7d6469f86145b8995d546b",
+      "nodeId": "8001:571",
+      "name": "Type=10th-TR-Basic",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8582ca8b6da8260933d3783e7501c61a4086d4ec",
+      "nodeId": "8001:694",
+      "name": "Type=Hisse",
+      "description": "",
+      "containingFrame": "Trials",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "91a0352d23acf73ed3f030308f28db1db63cd4da",
+      "nodeId": "8001:592",
+      "name": "Type=HR",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "abec37d93914a4f91379bf8350bc61863c5d53c0",
+      "nodeId": "8001:681",
+      "name": "Type=Hisse",
+      "description": "",
+      "containingFrame": "Trials",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b55f3afd1b9db1559382ad6508dbfd0b3e65dc12",
+      "nodeId": "8001:677",
+      "name": "Type=Kripto",
+      "description": "",
+      "containingFrame": "Trials",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b9c61cd24b0589b21515f6279e03f9547d443533",
+      "nodeId": "8001:545",
+      "name": "State=TR",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "be267cfdc5528c460fd39d1f2d1542eb4df5e0fe",
+      "nodeId": "8001:605",
+      "name": "1024-Template-Symbol-Only-BtcTurk",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d48f0a0efac0baa8a8bea59cf007b7ca7c226b90",
+      "nodeId": "8001:552",
+      "name": "State=EN",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f5159b8ee235102d82696e4cf2d51089d3e98191",
+      "nodeId": "8001:566",
+      "name": "Type=10th-EN",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f970c7fff40007d35243670d78008117b1ef7abf",
+      "nodeId": "8001:685",
+      "name": "Type=Wallet",
+      "description": "",
+      "containingFrame": "Trials",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fa7ea4fcd6a57a81057948dbddecd1761efdd4e7",
+      "nodeId": "8001:602",
+      "name": "1024-Template-Symbol-Only",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ff185f931e1b7f1cf6c73e8f6e135c9564dc2cb5",
+      "nodeId": "8001:575",
+      "name": "Type=10th-EN-Basic",
+      "description": "",
+      "containingFrame": "Plates",
+      "containingPage": "1.0"
+    }
+  ]
+}

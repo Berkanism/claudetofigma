@@ -1,0 +1,121 @@
+{
+  "fileKey": "aJtIIFR51thwzjYAAhf6H6",
+  "name": "FK-Chips",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:09:52.562Z",
+  "componentCount": 14,
+  "components": [
+    {
+      "key": "0964917412fcced7ce196d9cd0108d96d01fe0d1",
+      "nodeId": "8059:81",
+      "name": "× State=ON, Type=Secondary",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0a48f4edd5d190b7bd26395f74dd3882c64faad6",
+      "nodeId": "8082:83",
+      "name": "× State=OFF, Type=Tertiary",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "142daac5a474ede6e3528d41ff2eeafc6c570faf",
+      "nodeId": "8108:187",
+      "name": "Size=Large, Type=Solid",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2b5e5889bdda6b176a38c7b141702d9926ebaca8",
+      "nodeId": "8108:190",
+      "name": "Size=Medium, Type=Solid",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3d30af69889e32ff781f16703a282456db58ee3a",
+      "nodeId": "8108:196",
+      "name": "Size=X-Small, Type=Solid",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5a247e1d0d1b336df57398b73f8a039a6a524f82",
+      "nodeId": "8001:53",
+      "name": "× State=ON, Type=Primary",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5f63636d62e3b1d81ec8abfb2757788e54922e5e",
+      "nodeId": "8059:83",
+      "name": "× State=OFF, Type=Secondary",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6474b8fb7dcb69ff2e23509fd6d7813554a9fe56",
+      "nodeId": "8082:81",
+      "name": "× State=ON, Type=Tertiary",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "70c668fa4d7ac783c478d4d6810711e91ccd1a6c",
+      "nodeId": "8108:193",
+      "name": "Size=Small, Type=Solid",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "833379d7d1a24d9cff51189543bdb89831d87d14",
+      "nodeId": "8001:86",
+      "name": "Size=Small, Type=Line",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "98c76d080ddd541af677b217b1d6d3aa53b0488f",
+      "nodeId": "8001:58",
+      "name": "Size=Large, Type=Line",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bc7cc068ca8f9637a0551dad49d91df8fbc23b28",
+      "nodeId": "8001:55",
+      "name": "× State=OFF, Type=Primary",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cce96e258f5b3793dec436d584c52ff35d8a82ab",
+      "nodeId": "8001:72",
+      "name": "Size=Medium, Type=Line",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fe87f308ddfb1511187faf9b442297805339dccb",
+      "nodeId": "8001:98",
+      "name": "Size=X-Small, Type=Line",
+      "description": "",
+      "containingFrame": "Chips",
+      "containingPage": "1.0"
+    }
+  ]
+}

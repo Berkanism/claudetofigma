@@ -1,0 +1,201 @@
+{
+  "fileKey": "z2XpEnXNMxwhKf4qUFyOW9",
+  "name": "FK-OrderList",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:32.873Z",
+  "componentCount": 24,
+  "components": [
+    {
+      "key": "dbd70def08779d15249f3565c8608bc04a906d2d",
+      "nodeId": "12001:38031",
+      "name": "Ticker=Crypto, Order=Limit, Type=Buy, Box=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0d57e77fde0709c444cafd4fc6b350e5f9862c74",
+      "nodeId": "12001:40581",
+      "name": "Page=Order, Swipe=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d8a690fae12b7a0967323d3e71df04ea7456c795",
+      "nodeId": "12171:24815",
+      "name": "Ticker=Crypto, Order=Stop, Type=Sell, Box=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0ea054bd5f1cb3e3ee8ffd06a12018db18a4f84a",
+      "nodeId": "12159:3423",
+      "name": "Ticker=Crypto, Order=Earn, Type=Active, Box=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "105c68ce7652ec276ef134ada9e88dfe7ea8f1ab",
+      "nodeId": "12024:6417",
+      "name": "Page=History, Swipe=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "26dd4e7402cf5c43e7f4b72603d23deb387125c0",
+      "nodeId": "12001:43165",
+      "name": "Ticker=Stock, Order=Stop, Type=Buy, Box=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "35d990d980aa08a7d8782b81e79e0b51880245d1",
+      "nodeId": "12171:24819",
+      "name": "Ticker=Stock, Order=Stop, Type=Sell, Box=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "55847fc24d7417466d9c2ab98a075ef750d57ae0",
+      "nodeId": "12001:39766",
+      "name": "Page=History, Swipe=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5f7fe865af810801bbf53e8d4ea87928ad236a5a",
+      "nodeId": "12166:5416",
+      "name": "Ticker=Crypto, Order=Limit, Type=Sell, Box=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5fb40628a07c735af3d736ab292696352129ad2a",
+      "nodeId": "12171:24809",
+      "name": "Ticker=Stock, Order=Limit, Type=Buy, Box=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7b8796ea6025eb2ca10b82c2ed07d0f5b8a502fe",
+      "nodeId": "12001:40570",
+      "name": "Page=Order, Swipe=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "820916bfd7168dafc45c0f5f42f52b083a391d84",
+      "nodeId": "12001:43163",
+      "name": "Ticker=Stock, Order=Limit, Type=Buy, Box=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8559df57d14f6dc4f91530cfba1e32d674193f4c",
+      "nodeId": "12114:3768",
+      "name": "Ticker=Crypto, Order=Borrow, Type=Margin, Box=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "952b426bcb05a52bdf85ab3dfb2c4978d33bd2f9",
+      "nodeId": "12166:5418",
+      "name": "Ticker=Stock, Order=Limit, Type=Sell, Box=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a4d7d7c1930c545e14ad88b91f4b10d3e5823865",
+      "nodeId": "12166:5422",
+      "name": "Ticker=Stock, Order=Stop, Type=Sell, Box=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a6f33d06b2b1079113d82103915a76c678288e71",
+      "nodeId": "12171:24813",
+      "name": "Ticker=Crypto, Order=Stop, Type=Buy, Box=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "afd7f93d65fb25a72c966d70a31377b9f8e52f98",
+      "nodeId": "12171:24807",
+      "name": "Ticker=Crypto, Order=Limit, Type=Sell, Box=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bb80928341c39cff2a2a2b4bdfb4461b29a9c2ba",
+      "nodeId": "12171:24817",
+      "name": "Ticker=Stock, Order=Stop, Type=Buy, Box=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "be843a2f6a534bd56d3869415021b107e6b736f0",
+      "nodeId": "12114:2981",
+      "name": "Ticker=Crypto, Order=Borrow, Type=Active, Box=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c0177374c6dcea2691465c7dacc0eab02eb9bea3",
+      "nodeId": "12003:2908",
+      "name": "Page=Empty, Swipe=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d2355000fdab355ede7bcde3085241cbfb2346b4",
+      "nodeId": "12001:38234",
+      "name": "Ticker=Crypto, Order=Stop, Type=Buy, Box=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "eec232e1054bb1a6842b5b4aec86c27132ce04e5",
+      "nodeId": "12171:24811",
+      "name": "Ticker=Stock, Order=Limit, Type=Sell, Box=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fdc0156516e1f6f29e99012106c34463ed3e224d",
+      "nodeId": "12171:24805",
+      "name": "Ticker=Crypto, Order=Limit, Type=Buy, Box=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ff3568dd30885bc42b968f0525cb3cd0e9ecb767",
+      "nodeId": "12166:5420",
+      "name": "Ticker=Crypto, Order=Stop, Type=Sell, Box=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    }
+  ]
+}

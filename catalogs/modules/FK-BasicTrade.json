@@ -1,0 +1,97 @@
+{
+  "fileKey": "NXig2szKnNmuPMIF0JYFxE",
+  "name": "FK-BasicTrade",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:23.074Z",
+  "componentCount": 11,
+  "components": [
+    {
+      "key": "0d32da15d5d381e67d35fe6ebec55e12518b2ff3",
+      "nodeId": "12001:37887",
+      "name": "State=Sell, Type=Line",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0d5dcfe8ed89b7623b210bf0f416ea131aa98d4c",
+      "nodeId": "12010:1497",
+      "name": "Type=Sell, State=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1bb699bb1d4723e7ebc1220f27a01d44167d6bbb",
+      "nodeId": "12001:37898",
+      "name": "State=Sell",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "25d2e56c1ec04f2ab9ceb5cc646ca3794f67d564",
+      "nodeId": "12010:1455",
+      "name": "Type=Buy, State=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4a3181d9990e120b56bb93f0dd16dedfdea1c72e",
+      "nodeId": "12001:37879",
+      "name": "State=Sell, Type=Default",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4c7abe19e1e649be8121bbb6ebdbe14066e0251b",
+      "nodeId": "12010:1495",
+      "name": "Type=Buy, State=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "77b1e4d228b470775a8aee2480f0b56422f118f9",
+      "nodeId": "12001:37936",
+      "name": "Basic Trade Keyboard",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "99c3e4e2015add599700e65623d1215b4622708b",
+      "nodeId": "12010:1457",
+      "name": "Type=Sell, State=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d4d2ebbc749460edcf397fad955252339a2e44ce",
+      "nodeId": "12001:37863",
+      "name": "State=Buy, Type=Default",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "da8f332d3ebae87926d14e9e032a877887b58bd9",
+      "nodeId": "12001:37871",
+      "name": "State=Buy, Type=Line",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ea338874ff6fa37f577635ed18818bd01e36cfe9",
+      "nodeId": "12001:37896",
+      "name": "State=Buy",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    }
+  ]
+}

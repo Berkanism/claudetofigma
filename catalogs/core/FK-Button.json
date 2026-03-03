@@ -1,0 +1,1177 @@
+{
+  "fileKey": "Nlit2JQKPm0l2Z5fWMD983",
+  "name": "FK-Button",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:09:49.718Z",
+  "componentCount": 146,
+  "components": [
+    {
+      "key": "0003a594745724ad06b30c92b9e6eb29ea988d90",
+      "nodeId": "8002:143",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Focus Mode), Presence=Default, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "00077926d9b6b3cbaa0d7d1d0a911a8864d9f1b3",
+      "nodeId": "8018:1891",
+      "name": "Platform=WEB, Size=Large, Style=Outline, Presence=Default, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "008837e24fb251430b3912ea1229a6d244cc6ab4",
+      "nodeId": "8002:146",
+      "name": "Platform=APP, Size=Medium, Style=Outline, Presence=Default, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "014dd95ec7c0fc46f191eb87b060ead1cdf5bb6a",
+      "nodeId": "8002:77",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Subtle, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "032be8b371f965361f41f475a3e6c26e1c412371",
+      "nodeId": "8002:95",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "059106df12ca08c92b40496dd1a1df83d55ea6f1",
+      "nodeId": "8002:14",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "08e152e0e8f9db820f03a3b60240071f21307418",
+      "nodeId": "8002:17",
+      "name": "Platform=APP, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0931e99bdc77a33a9f0a3db819fdaa92dcfdb06b",
+      "nodeId": "8018:2091",
+      "name": "Platform=WEB, Size=Large, Style=Ghost, Presence=Default, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0ad5cbb13260db157e3152e2eea2a148840bf7c2",
+      "nodeId": "8018:1897",
+      "name": "Platform=WEB, Size=Large, Style=Outline, Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "11e39b9306d3abfa4063168119933cdc0a405f18",
+      "nodeId": "8002:161",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Focus Mode), Presence=Default, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "13315daf1a337b41823359374509b5dae3ad2382",
+      "nodeId": "8288:587",
+      "name": "Platform=WEB, Size=Small, Style=Ghost, Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1443e409708376ac9b3fe053e8d147973d03711b",
+      "nodeId": "8002:233",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Default, Type=Icon Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "16319646cf22f7cc440c0ae13a30e69be29e8077",
+      "nodeId": "8002:158",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Subtle, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "16c75964fb8cc8bb7e5c204e7dd5a08a4863dafe",
+      "nodeId": "8002:197",
+      "name": "Platform=APP, Size=Medium, Style=Outline, Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "16e124cecac4915c5b8d7b29cf5e40a7b6f7b24e",
+      "nodeId": "8002:50",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1954a454dc2e39160877db3cd122a3deafed0f01",
+      "nodeId": "8018:1819",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1b01ff30fc6311b065f172134e2f508f4c5f8869",
+      "nodeId": "8002:215",
+      "name": "Platform=APP, Size=Small, Style=Solid (Primary), Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1d058e9dd01e412796fdfa86e013c24d83175da5",
+      "nodeId": "8018:1656",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Primary), Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1d316debb6538cc530800db5a9f3a74a8ea91874",
+      "nodeId": "8002:87",
+      "name": "Platform=APP, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1e18c830d6829d03a37e4f683c9547c626a9f720",
+      "nodeId": "8002:173",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Default, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1ffd3c1bb1a864592913b91bbcebffd16c29f0d1",
+      "nodeId": "8002:35",
+      "name": "Platform=APP, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "209850e86bf9285d4e4a4b2f74d579157f07821d",
+      "nodeId": "8002:20",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Default, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "218251fb201c6c361d3a08a91917c600f7501eff",
+      "nodeId": "8292:870",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Subtle, Type=Icon+Text, State=ON, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "223808ee47e41c161f959d387541f743bafd095a",
+      "nodeId": "8002:140",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Subtle, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "22769ceaa4a9c459bec13d9cbbf244b0a09458de",
+      "nodeId": "8002:213",
+      "name": "Platform=APP, Size=Small, Style=Ghost, Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2576e41cd4f63d0a4d39c5a313630d5225cb0ebe",
+      "nodeId": "8002:97",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2634955be0ca253a6beadd1f181231f24ec1f7e9",
+      "nodeId": "8002:44",
+      "name": "Platform=APP, Size=Large, Style=Ghost, Presence=Default, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "27c19e2ac7a42547aa313ece246376576cd0f380",
+      "nodeId": "8292:867",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Subtle, Type=Text + Icon, State=OFF, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "29903b88d7b6fa40b869f8b29d81646097248135",
+      "nodeId": "8002:71",
+      "name": "Platform=APP, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "29eaf09773276a9842267748921bd94a48dcde95",
+      "nodeId": "8002:193",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2b01d2533cbe480796be74ac87002d1da873ab18",
+      "nodeId": "8292:881",
+      "name": "Platform=APP, Size=Small, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=OFF, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2cfe0e00e6598bbf8189142c444e526bf7cde2cc",
+      "nodeId": "8002:89",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2e538f2a90b8f9008f7736e24f77da1969a014e3",
+      "nodeId": "8002:167",
+      "name": "Platform=APP, Size=Medium, Style=Outline, Presence=Subtle, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2f600e8df6924467203115dce564bb1544bf482d",
+      "nodeId": "8002:99",
+      "name": "Platform=APP, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "32658ceb8ccfbf6469b5306ada081c1cf88c64bc",
+      "nodeId": "8018:1885",
+      "name": "Platform=WEB, Size=Large, Style=Outline, Presence=Default, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "34b1023a3b1948789176bee9c1c98ed25ac4365f",
+      "nodeId": "8002:131",
+      "name": "Platform=APP, Size=Medium, Style=Outline, Presence=Subtle, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "35f5d29a47a2c23415863fe37539c7aba82c5de3",
+      "nodeId": "8018:1971",
+      "name": "Platform=WEB, Size=Large, Style=Outline, Presence=Subtle, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3797ad782524c5b8281363b97d9834a5ffc1a996",
+      "nodeId": "8018:2097",
+      "name": "Platform=WEB, Size=Large, Style=Ghost, Presence=Default, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3c6ae9e386681e6a67306985b9acbf6f5d46d17d",
+      "nodeId": "8002:107",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3d0373d98dd57d6219debfce5eb11e3efcea256c",
+      "nodeId": "8002:101",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "417821b7bb4bc4f0e6a7d4670d5a70a49285ce00",
+      "nodeId": "8002:56",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Default, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "41c8140cb944ba47d0edd1703e2029addd54f449",
+      "nodeId": "8018:1888",
+      "name": "Platform=WEB, Size=Large, Style=Outline, Presence=Default, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "42fa7338437ed65b0127a3dd7d61018b0ff8e6f0",
+      "nodeId": "8018:1722",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "42fd8138d4a4b1c244ab76714786d8d2a681afef",
+      "nodeId": "8002:137",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Default, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4434d32e215d6d5e52774d2d6578fb31ac3a9fe3",
+      "nodeId": "8018:1728",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4446fac97dc4be24b7f90ab46933f033288a3111",
+      "nodeId": "8002:219",
+      "name": "Platform=APP, Size=Small, Style=Solid (Focus Mode), Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4651567aa786db4fa7b69a0ad2e3852bfac4dac8",
+      "nodeId": "8002:47",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Default, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "46ac90bb030bf0d7a921f8fb7740871d1d713eef",
+      "nodeId": "8002:201",
+      "name": "Platform=APP, Size=Medium, Style=Ghost, Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4923502d3a180f01cb1fec9cc13fcef942beee56",
+      "nodeId": "8002:203",
+      "name": "Platform=APP, Size=Small, Style=Solid (Primary), Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "492bb86e239e4b8b2b743dcab9785689f4dbc6df",
+      "nodeId": "8018:1965",
+      "name": "Platform=WEB, Size=Large, Style=Outline, Presence=Subtle, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4a6abb261c01381849c19bd3cbaa32fb9a6b29a7",
+      "nodeId": "8018:1805",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4af38574a95d952cffe8163f3c577c59d9591b3d",
+      "nodeId": "8002:115",
+      "name": "Platform=APP, Size=Medium, Style=Outline, Presence=Subtle, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4bf8a216b76e44c26ca2298705401d78b8d9585c",
+      "nodeId": "8002:134",
+      "name": "Platform=APP, Size=Medium, Style=Ghost, Presence=Default, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4f28de6d9c90ad463ffcfcdf78a8f2c8c88b5e49",
+      "nodeId": "8002:41",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Subtle, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "50012ea745dda4974e2957d8926fce8f3f1bde80",
+      "nodeId": "8002:199",
+      "name": "Platform=APP, Size=Medium, Style=Outline, Presence=Subtle, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "519389427727a1049be02347e334d0011544a67f",
+      "nodeId": "8002:93",
+      "name": "Platform=APP, Size=Large, Style=Ghost, Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "51d1864f35b1ed6720247715fa8f8814b29ab10f",
+      "nodeId": "8018:1899",
+      "name": "Platform=WEB, Size=Large, Style=Outline, Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "55324c01cea89eaefec10e406e44533cadbb3db9",
+      "nodeId": "8002:191",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "555791b96c5c6b38662da8846611632686a6ea03",
+      "nodeId": "8018:1731",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "59ef6a42381079ef0f0faf12d3c291c242c511af",
+      "nodeId": "8018:1651",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Primary), Presence=Default, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5a37daeb52cc7ef3b7b7ef3b01b074aa37aac03f",
+      "nodeId": "8002:38",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Default, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "61eb89cab2a43a6af98c48bb41425d3b476a08b0",
+      "nodeId": "8002:176",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Subtle, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "62a203854e4ea326846e029b5924970fd97888b1",
+      "nodeId": "8292:873",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Subtle, Type=Icon+Text, State=OFF, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "65624ccf4d434d818bcbb7bd3554264490325efa",
+      "nodeId": "8018:1654",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Primary), Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "693c8022c5360a7e3849d79ca7338b5a37cdc880",
+      "nodeId": "8292:846",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Icon+Text, State=ON, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6afb8373daee4aa42c318534930ad7bcae68f422",
+      "nodeId": "8292:855",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Text + Icon, State=OFF, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6b7c25d502c7050336801725d9099a35673364f6",
+      "nodeId": "8018:1645",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Primary), Presence=Default, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7327fb7091b6244da6c72b091be1016d669794cd",
+      "nodeId": "8002:185",
+      "name": "Platform=APP, Size=Medium, Style=Outline, Presence=Subtle, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "75b865a33fcfe9242540973d1993e742c59743ba",
+      "nodeId": "8288:584",
+      "name": "Platform=WEB, Size=Small, Style=Ghost, Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "773016e7529fa2ff36b9c5bf0ddcf83b58b02693",
+      "nodeId": "8292:849",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Icon+Text, State=OFF, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7780f0241a50dc8330c2ef04f33f4093964349a1",
+      "nodeId": "8002:179",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Focus Mode), Presence=Default, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "791fc9024b966dc0c89aba819fb64945b0f721dc",
+      "nodeId": "8002:164",
+      "name": "Platform=APP, Size=Medium, Style=Outline, Presence=Default, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "794c8867ef4df67dbb951cc5dcb4c094624f5081",
+      "nodeId": "8292:860",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=OFF, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "79c3ea1fa1e1004c4c4da1eecd6b0a31fcda44af",
+      "nodeId": "8002:109",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7c4342bbd5ba55345e208f5a83fab8dcd639afc1",
+      "nodeId": "8002:170",
+      "name": "Platform=APP, Size=Medium, Style=Ghost, Presence=Default, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7edcc972436596d7dfcbbe14b34de13423b4336a",
+      "nodeId": "8002:217",
+      "name": "Platform=APP, Size=Small, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7f68443bf4645c111eb8230864b3df0d6ce9911a",
+      "nodeId": "8002:105",
+      "name": "Platform=APP, Size=Large, Style=Ghost, Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "820f3c954b8c042d8d8d099c6794548f2414fe4b",
+      "nodeId": "8002:111",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Focus Mode), Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8353a9610403043561f581992617ea95022b14e5",
+      "nodeId": "8002:223",
+      "name": "Platform=APP, Size=Small, Style=Outline, Presence=Subtle, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "84ba90b26ff49f5ee448f55f6163b65506dcb55f",
+      "nodeId": "8018:2094",
+      "name": "Platform=WEB, Size=Large, Style=Ghost, Presence=Default, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "86d7bffcd07b2d4eeb6ef03d0ac86768f323b9bc",
+      "nodeId": "8018:1734",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "876de95d0528c3a8fc244ef1306ba655962a79b3",
+      "nodeId": "8002:122",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Subtle, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "91a4697e4209142077a834cfefa4320d5031f2c8",
+      "nodeId": "8292:862",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=ON, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "962e72f87700fe2618e9951da6544ce8452c4854",
+      "nodeId": "8107:524",
+      "name": "Style=Text Only",
+      "description": "",
+      "containingFrame": "Swipe Action",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "96af34bfe37d32b8403b1a6558ba2df8d00eefd6",
+      "nodeId": "8002:195",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Focus Mode), Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9860fe9b1e0f8bb2e93ed3b513815a6e4e55ba9f",
+      "nodeId": "8002:205",
+      "name": "Platform=APP, Size=Small, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9a6e078ab894df81a69ed4a5bb8fccf1df771453",
+      "nodeId": "8018:1736",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9aac1edfecdd980ca3ebf22adba66b2afbd0a770",
+      "nodeId": "8002:23",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Subtle, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9ad9da292531aa2a69e2d4b88ba7c6cce1594782",
+      "nodeId": "8292:876",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=OFF, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9b2f1b9bca17eebeeb3f56deafab5d5851ad3f4b",
+      "nodeId": "8002:207",
+      "name": "Platform=APP, Size=Small, Style=Solid (Focus Mode), Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9b4d9a2f049bd89d6af3d92432603162d7b7a61d",
+      "nodeId": "8292:884",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Icon Only, State=ON, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9d95bc4e1edb60e36c437e5edfb8a2dac2e3b73b",
+      "nodeId": "8002:211",
+      "name": "Platform=APP, Size=Small, Style=Outline, Presence=Subtle, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9f3e0690f45ca01cfd95d0079a0ca5ccfd9d29ec",
+      "nodeId": "8018:2103",
+      "name": "Platform=WEB, Size=Large, Style=Ghost, Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a1cd4b830731710c0a53c7cac2a718ea61522083",
+      "nodeId": "8018:1648",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Primary), Presence=Default, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a27ee99604bd36814f16259410268dd2421e4a30",
+      "nodeId": "8002:237",
+      "name": "Platform=APP, Size=Large, Style=Ghost, Presence=Default, Type=Icon Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a40c56568f074881e382eed13e4312f204db9303",
+      "nodeId": "8018:1894",
+      "name": "Platform=WEB, Size=Large, Style=Outline, Presence=Default, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a7d90fa26964921c46235a111f80acb3e9cc6a62",
+      "nodeId": "8018:1977",
+      "name": "Platform=WEB, Size=Large, Style=Outline, Presence=Subtle, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a89967f9c6c5891595d22f171d190734ffabfda1",
+      "nodeId": "8292:878",
+      "name": "Platform=APP, Size=Small, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=ON, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a8d31fb93940d5847062343d936164c298781b55",
+      "nodeId": "8002:227",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Default, Type=Icon Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "aa3ee6607c0c88b42ff9ea6d1e0498d6649d230f",
+      "nodeId": "8002:29",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Default, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "aadcd097a2198189aa4fd37c62b97d114ab8ca9f",
+      "nodeId": "8002:62",
+      "name": "Platform=APP, Size=Large, Style=Ghost, Presence=Default, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "aaedd16279e49fe2f234d0199c9d405af36f9dd1",
+      "nodeId": "8002:26",
+      "name": "Platform=APP, Size=Large, Style=Ghost, Presence=Default, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "abacb491ab7c9fb0fb1825db4c634f94a1f8bdf6",
+      "nodeId": "8292:864",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Subtle, Type=Text + Icon, State=ON, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ac5e122a969a214a92c6794f77a2554caec4f0be",
+      "nodeId": "8002:221",
+      "name": "Platform=APP, Size=Small, Style=Outline, Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ad25f2f3350fda454bd5818c6df11c8ab891f79b",
+      "nodeId": "8018:1811",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b07ea496a7ed6c902b8a91dc54f26dc2b82af64a",
+      "nodeId": "8292:852",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Text + Icon, State=ON, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b3e61d02fb114faef2ed9e62a1c4a05aa4d9944d",
+      "nodeId": "8002:117",
+      "name": "Platform=APP, Size=Medium, Style=Ghost, Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b3e66b90b7e294900fd030a5e73cf334d36a6acb",
+      "nodeId": "8002:65",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Default, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b5aa5afbab4d9ef9893e0f0a653701ce47c8ccba",
+      "nodeId": "8002:53",
+      "name": "Platform=APP, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b779bfc3eaa43e80273edbbd15feb1d7ec655fb7",
+      "nodeId": "8002:149",
+      "name": "Platform=APP, Size=Medium, Style=Outline, Presence=Subtle, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b8c19dc8b848c5ca1a29273d76fd0196d63add78",
+      "nodeId": "8002:152",
+      "name": "Platform=APP, Size=Medium, Style=Ghost, Presence=Default, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bdefec2feea93c72718804d62a51512f78eea829",
+      "nodeId": "8002:229",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Icon Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bf2c4c8d80bbe2dfda61d5848137173752c9033c",
+      "nodeId": "8018:1968",
+      "name": "Platform=WEB, Size=Large, Style=Outline, Presence=Subtle, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c6ca0a761889278451625b312ae894737014111e",
+      "nodeId": "8002:74",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Default, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c93e27cda702bae047df037e882589401f06526a",
+      "nodeId": "8002:231",
+      "name": "Platform=APP, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Icon Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cf6939e16e55401ba5ff3291b190d15d91a04e93",
+      "nodeId": "8018:2100",
+      "name": "Platform=WEB, Size=Large, Style=Ghost, Presence=Default, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cf91b423143211cee1feeb447d5fd2db37db08a4",
+      "nodeId": "8002:155",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Default, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cfd177d3f4354060e6c22a4012c1b74d11337c43",
+      "nodeId": "8018:1642",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Primary), Presence=Default, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d1c8b3c1b333a8ea46630539c57028d859282319",
+      "nodeId": "8002:32",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d2c44ebab0e6a7fbf30be96dc98350d2fce68ba5",
+      "nodeId": "8018:1725",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d4818968f64e799db08b295e28517fce2f405b37",
+      "nodeId": "8002:113",
+      "name": "Platform=APP, Size=Medium, Style=Outline, Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d82fcbf4ce6df13fcde97c5ade519bf4c1ef1086",
+      "nodeId": "8018:1814",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d92f36602ecef82d0f34cfb775cde9757f070cac",
+      "nodeId": "8002:59",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Subtle, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dc51a5dff231b099fd63978c311d95aca6122178",
+      "nodeId": "8018:1979",
+      "name": "Platform=WEB, Size=Large, Style=Outline, Presence=Subtle, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dc88c8fa0a72535681ee0196555fb99e3f9953d5",
+      "nodeId": "8002:128",
+      "name": "Platform=APP, Size=Medium, Style=Outline, Presence=Default, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dd756ef01fc628414778586489666d4c56885b14",
+      "nodeId": "8107:526",
+      "name": "Style=Icon + Text",
+      "description": "",
+      "containingFrame": "Swipe Action",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dd758d4dee922d086ff9bb00f8646789afe2b583",
+      "nodeId": "8002:188",
+      "name": "Platform=APP, Size=Medium, Style=Ghost, Presence=Default, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e088d13ee799b2d7df8387c53ddc5e6af50be7a7",
+      "nodeId": "8018:1974",
+      "name": "Platform=WEB, Size=Large, Style=Outline, Presence=Subtle, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e535930e62fc3b590603e9a1fbb75f2947c4b8c9",
+      "nodeId": "8002:182",
+      "name": "Platform=APP, Size=Medium, Style=Outline, Presence=Default, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e75e3a628fad26c8933840c577207ee6f778d088",
+      "nodeId": "8002:209",
+      "name": "Platform=APP, Size=Small, Style=Outline, Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e7b83caae8b3da488b87264a14f386a00957f6bb",
+      "nodeId": "8018:1817",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e92be1c72ee85fee00aab21d3a09db6c4c0c92a9",
+      "nodeId": "8002:125",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Focus Mode), Presence=Default, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e932fc63013596e000b6acace242b1e9761cc3a6",
+      "nodeId": "8002:235",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Subtle, Type=Icon Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ec63256e0815892e083f70644fca4707d4e11c59",
+      "nodeId": "8002:119",
+      "name": "Platform=APP, Size=Medium, Style=Solid (Primary), Presence=Default, Type=Text + Icon, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ef4e92b96edd28157ec3698b284b5556217052f7",
+      "nodeId": "8002:83",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Default, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "efef83d5a3cfd3c0247d3ec3b66f2d63c69f71be",
+      "nodeId": "8002:91",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Subtle, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f069a654935828e8a51175675a4fc03ae0ed56d3",
+      "nodeId": "8292:858",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=ON, Direction=Vertical",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f0d36f57b5d2feb3f12d570601532b0817c5ec1a",
+      "nodeId": "8002:68",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f3ab13ed43c72077bad972f5ab9fa6d88bee6f82",
+      "nodeId": "8002:85",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Subtle, Type=Text Only, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f4d58ab0aa11478b27fdae8d551894f1aac53bff",
+      "nodeId": "8299:670",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Default, Type=Icon Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f5d793170921e33a0cd8166aca4165a001b2a1ca",
+      "nodeId": "8002:103",
+      "name": "Platform=APP, Size=Large, Style=Outline, Presence=Subtle, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fdf29190075dfd0f75a79c6fd2d948ce498f2564",
+      "nodeId": "8002:80",
+      "name": "Platform=APP, Size=Large, Style=Ghost, Presence=Default, Type=Text + Icon, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fee142ac367adaa93ddc0751199ee0eddd7cf3f3",
+      "nodeId": "8018:2105",
+      "name": "Platform=WEB, Size=Large, Style=Ghost, Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ff71188ff4351eef13833980d8c70c32f42bb91c",
+      "nodeId": "8018:1808",
+      "name": "Platform=WEB, Size=Large, Style=Solid (Focus Mode), Presence=Default, Type=Icon+Text, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ffc010b7a7470d68e8365836f25e67d21de8079d",
+      "nodeId": "8002:11",
+      "name": "Platform=APP, Size=Large, Style=Solid (Primary), Presence=Default, Type=Icon+Text, State=ON, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fff7a1c12dc953403dd037b7ecbc17ce8a18b8c0",
+      "nodeId": "8002:225",
+      "name": "Platform=APP, Size=Small, Style=Ghost, Presence=Default, Type=Text Only, State=OFF, Direction=Horizantal",
+      "description": "",
+      "containingFrame": "{FKButton}",
+      "containingPage": "1.0"
+    }
+  ]
+}

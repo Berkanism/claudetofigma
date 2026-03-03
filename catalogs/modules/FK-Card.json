@@ -1,0 +1,137 @@
+{
+  "fileKey": "Fn4cTGHiXtxWvAXDF8tAqv",
+  "name": "FK-Card",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:25.610Z",
+  "componentCount": 16,
+  "components": [
+    {
+      "key": "29368cd752644393d43ca7acdd22608f3cfcd8d5",
+      "nodeId": "10229:3505",
+      "name": "Type=Warning",
+      "description": "",
+      "containingFrame": "Open Order",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1e0ea154ca23d9bcc172378d9a43d9905ebc8388",
+      "nodeId": "10281:2686",
+      "name": "Type=Type4",
+      "description": "",
+      "containingFrame": "Open Order",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "21a0daf7c1c2f25fd24e1d07aba7becc90571577",
+      "nodeId": "10229:3527",
+      "name": "Type=Alert",
+      "description": "",
+      "containingFrame": "Open Order",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d81ee864db0496d79f79cfaf88f97307685e9e73",
+      "nodeId": "10185:3163",
+      "name": "Type=Status",
+      "description": "",
+      "containingFrame": "Open Order",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b4d2dd9150d09539b3136bf84fe46bdb959d0177",
+      "nodeId": "10107:343",
+      "name": "Type=Fill",
+      "description": "",
+      "containingFrame": "Open Order",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "02d72f86e8feca99a2b320ef10c7d0efde2c9e90",
+      "nodeId": "10283:1073",
+      "name": "Type=Gauge+Text, Box=True",
+      "description": "",
+      "containingFrame": "Open Order",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "232f8cc5e6e974e842773330e863e294bc24fdd5",
+      "nodeId": "10281:930",
+      "name": "Type=Gauge+CTA, Box=False",
+      "description": "",
+      "containingFrame": "Open Order",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "69398cf98d61b4badeadc34e3c4ff985bcfda91e",
+      "nodeId": "10199:4671",
+      "name": "Type=Text (Double)",
+      "description": "",
+      "containingFrame": "Order Activity",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b49d4ae58c774e7db28dcd7c779754ef44d47c17",
+      "nodeId": "10281:968",
+      "name": "Type=Circle Progress, Box=True",
+      "description": "",
+      "containingFrame": "Open Order",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cbf09f7e539ee7f2def0086a170330e8b916e80a",
+      "nodeId": "8003:5594",
+      "name": "Type=Icon + CTA",
+      "description": "",
+      "containingFrame": "Order Activity",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f3da0049e8c41545b4401ad4c17410cad304be5c",
+      "nodeId": "8003:5591",
+      "name": "Type=Text + Status",
+      "description": "",
+      "containingFrame": "Order Activity",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "259f88a906dc1cde387fc25a22a30a15d9ccca34",
+      "nodeId": "10199:4987",
+      "name": "FK Position Card",
+      "description": "",
+      "containingFrame": "Position Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4b61ffafcc6d08e6325f4daf2779d2f0efc06412",
+      "nodeId": "10099:549",
+      "name": "Type=Box",
+      "description": "",
+      "containingFrame": "Open Order",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5d234530293fa3bedfd09a47414751c2381b8ba1",
+      "nodeId": "10071:35348",
+      "name": "CTA=YES",
+      "description": "",
+      "containingFrame": "Order Activity",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "603e4ef0a1eb1782e95d197b6987c9ee64a7a0c6",
+      "nodeId": "10071:35405",
+      "name": "CTA=NO",
+      "description": "",
+      "containingFrame": "Order Activity",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d5a89b1bbd85ec16edaded79c24f6164b407cf98",
+      "nodeId": "8003:5540",
+      "name": "FK-Card",
+      "description": "",
+      "containingFrame": "Order Activity",
+      "containingPage": "1.0"
+    }
+  ]
+}

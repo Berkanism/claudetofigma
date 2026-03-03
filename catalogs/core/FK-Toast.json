@@ -1,0 +1,65 @@
+{
+  "fileKey": "8ByBHoDrIX38XoEU9rXEVh",
+  "name": "FK-Toast",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:14.466Z",
+  "componentCount": 7,
+  "components": [
+    {
+      "key": "08adb7493403354619e5c40e43ceb1375bb240a3",
+      "nodeId": "8001:254",
+      "name": "State=Focus",
+      "description": "",
+      "containingFrame": "Toast",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1ec4c10426ed303a4de8122d086e592c6e3024a9",
+      "nodeId": "8001:290",
+      "name": "State=Stop",
+      "description": "",
+      "containingFrame": "Toast",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "29ab36f0e6568ce2f6f4336703c8fa4989bf01b0",
+      "nodeId": "8001:246",
+      "name": "State=Neutral",
+      "description": "",
+      "containingFrame": "Toast",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "349967d18359ed6bf59f2973608333a4b73b73aa",
+      "nodeId": "8001:270",
+      "name": "State=Important",
+      "description": "",
+      "containingFrame": "Toast",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "49e86714337070bf16c37f73e6271425e6abcb53",
+      "nodeId": "8001:287",
+      "name": "State=Start",
+      "description": "",
+      "containingFrame": "Toast",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e979238cac7a0187f812981b39bf4609ada0a0ad",
+      "nodeId": "8001:262",
+      "name": "State=Warning",
+      "description": "",
+      "containingFrame": "Toast",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ffb8c691ea2acc5d2dbc6abc88be28c6f739e3ad",
+      "nodeId": "8001:278",
+      "name": "State=Success",
+      "description": "",
+      "containingFrame": "Toast",
+      "containingPage": "1.0"
+    }
+  ]
+}

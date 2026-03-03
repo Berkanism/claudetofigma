@@ -1,0 +1,393 @@
+{
+  "fileKey": "6GFF7T7fU5i6xDYgvPLX0j",
+  "name": "FK-InfoRow",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:00.200Z",
+  "componentCount": 48,
+  "components": [
+    {
+      "key": "df57524567e16eb8bef589bd9d9ba216f9404c7b",
+      "nodeId": "8002:236",
+      "name": "Type=Dismissable, Presence=High, Tone=Info, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "113dc9089b21cf7b5805cc0f01a282e81729aa8d",
+      "nodeId": "8002:199",
+      "name": "Type=Left Align, Presence=Low, Tone=Warning, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "189180a5fa1869b7b50d8928d8d7e42c9bdf8986",
+      "nodeId": "8002:85",
+      "name": "Type=Right Align, Presence=Low, Tone=Focus, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "18b72eb21018e31273ac170df1a3de6ddc525300",
+      "nodeId": "8002:205",
+      "name": "Type=Right Align, Presence=Low, Tone=Warning, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1b2d903f10c63ba7997431df1914b558b39307c5",
+      "nodeId": "8002:142",
+      "name": "Type=Dismissable, Presence=Low, Tone=Caution, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "230cb7717c8360312a1704b824569cec0fbd5ed7",
+      "nodeId": "8002:62",
+      "name": "Type=Right Align, Presence=Low, Tone=Info, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "272499ffc5ab154803cba51578f8187c1e80547b",
+      "nodeId": "8002:118",
+      "name": "Type=Dismissable, Presence=Low, Tone=Focus, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2c8adbfde7fa8a6d03280f2790eb83910647a923",
+      "nodeId": "8002:245",
+      "name": "Type=Left Align, Presence=High, Tone=Info, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2cebc720c205fe510c6df2403922fe52d594b8b9",
+      "nodeId": "8002:223",
+      "name": "Type=Left Align, Presence=High, Tone=Info, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3177db7cebbbb01d6fa5cfb380aebd5561e281c2",
+      "nodeId": "8002:70",
+      "name": "Type=Dismissable, Presence=Low, Tone=Info, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "36115681bd996fd12ea15e4a5a2523e5076a20ce",
+      "nodeId": "8002:363",
+      "name": "Type=Left Align, Presence=High, Tone=Warning, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "378e22e27e8ce5af6cd57f1e3b3cfc30cb9aab3a",
+      "nodeId": "8002:228",
+      "name": "Type=Right Align, Presence=High, Tone=Info, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "38634e15fc8cd09cfe38313196cb4cdde7aa77b0",
+      "nodeId": "8002:181",
+      "name": "Type=Right Align, Presence=Low, Tone=Warning, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4127eccd8337dff521b984cfd742e2f03c350a2d",
+      "nodeId": "8002:133",
+      "name": "Type=Right Align, Presence=Low, Tone=Caution, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "50a466e01f4340e0be91ea2ba63998c4bf72a980",
+      "nodeId": "8002:267",
+      "name": "Type=Left Align, Presence=High, Tone=Focus, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "55dd59d4b893fd7dd94263f42d490b6534faa3a8",
+      "nodeId": "8002:402",
+      "name": "Type=Dismissable, Presence=High, Tone=Warning, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "56b10fd82964354503bb32044afeaa73939cde12",
+      "nodeId": "8002:35",
+      "name": "Type=Left Align, Presence=Low, Tone=Info, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "60166b09e4ba664230a3c74a3ff448f1b2f2853d",
+      "nodeId": "8002:282",
+      "name": "Type=Dismissable, Presence=High, Tone=Focus, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6128dd6904cb9bb99d3d518e11f87d943c36daf3",
+      "nodeId": "8002:378",
+      "name": "Type=Dismissable, Presence=High, Tone=Warning, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "61ab33489a611d6a06e44a3f0f4c67aaa4d38469",
+      "nodeId": "8002:339",
+      "name": "Type=Left Align, Presence=High, Tone=Caution, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "68a2fb47be4643da1caba7f57541ec38a16917f6",
+      "nodeId": "8002:57",
+      "name": "Type=Left Align, Presence=Low, Tone=Info, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "69ed9ff2b17a8b19cf616d958a6cae28b94b2fa6",
+      "nodeId": "8002:166",
+      "name": "Type=Dismissable, Presence=Low, Tone=Caution, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "77fa55fc908f3251d60a60f3bb6908e3617c7e16",
+      "nodeId": "8002:79",
+      "name": "Type=Left Align, Presence=Low, Tone=Focus, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7f32e9c8f2483d8abfd14bd4c4fd7ab58195697f",
+      "nodeId": "8002:127",
+      "name": "Type=Left Align, Presence=Low, Tone=Caution, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8c029e5936e3e3494aa74d939e7bd8082d0c8bfe",
+      "nodeId": "8002:40",
+      "name": "Type=Right Align, Presence=Low, Tone=Info, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8c2ba252fd4de8e7f9e3558ac56ebd93a40d93e9",
+      "nodeId": "8002:103",
+      "name": "Type=Left Align, Presence=Low, Tone=Focus, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8cdfb7113b4cf145fb11d7eb8873f8ddac425846",
+      "nodeId": "8002:258",
+      "name": "Type=Dismissable, Presence=High, Tone=Info, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8e050047321cb12e08af3d660aeee66555f19663",
+      "nodeId": "8002:393",
+      "name": "Type=Right Align, Presence=High, Tone=Warning, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "92bdb9a9e6b5fe39496b91583206705fe58bf6a8",
+      "nodeId": "8002:291",
+      "name": "Type=Left Align, Presence=High, Tone=Focus, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "96175274653c0f06f461cb65781833f24210fecc",
+      "nodeId": "8002:321",
+      "name": "Type=Right Align, Presence=High, Tone=Caution, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9aedf42bf080a370d46803709097db77e7ec17f4",
+      "nodeId": "8002:369",
+      "name": "Type=Right Align, Presence=High, Tone=Warning, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a80d82872fd679c1ea394edfbda36feebdbe993a",
+      "nodeId": "8002:157",
+      "name": "Type=Right Align, Presence=Low, Tone=Caution, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b6991ceb674336d92de0220c9d36e02ead3013d1",
+      "nodeId": "8002:354",
+      "name": "Type=Dismissable, Presence=High, Tone=Caution, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bca43e4888de9e17464d257705e431ee13a09063",
+      "nodeId": "8002:190",
+      "name": "Type=Dismissable, Presence=Low, Tone=Warning, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c567dacf8709846e5d34399247743966f9b69a24",
+      "nodeId": "8002:214",
+      "name": "Type=Dismissable, Presence=Low, Tone=Warning, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c58d6fa2bd30e66ecec4b4af73332c041993a75a",
+      "nodeId": "8002:273",
+      "name": "Type=Right Align, Presence=High, Tone=Focus, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c59c5f6407d0935725ff459f0957a356439cdf84",
+      "nodeId": "8002:48",
+      "name": "Type=Dismissable, Presence=Low, Tone=Info, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ca1377633260fafee8a47cad7e8e4b2959d9f81e",
+      "nodeId": "8002:330",
+      "name": "Type=Dismissable, Presence=High, Tone=Caution, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cab935b0ed4cd1fd18082056443de077469bf620",
+      "nodeId": "8002:175",
+      "name": "Type=Left Align, Presence=Low, Tone=Warning, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cc13e3d1dae69033ca77006a79d1652035e20a77",
+      "nodeId": "8002:151",
+      "name": "Type=Left Align, Presence=Low, Tone=Caution, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d7330300116f25e4f62cc8cbf75717bb914f202e",
+      "nodeId": "8002:345",
+      "name": "Type=Right Align, Presence=High, Tone=Caution, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d8008a3e0067b603f753c3bf5d16406d32eeedcd",
+      "nodeId": "8002:94",
+      "name": "Type=Dismissable, Presence=Low, Tone=Focus, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d8e5c953d50d5ce14805d397ab804cbd1d977deb",
+      "nodeId": "8002:109",
+      "name": "Type=Right Align, Presence=Low, Tone=Focus, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f2128d21ca7793cebeb43167a899cc1ee556fe02",
+      "nodeId": "8002:297",
+      "name": "Type=Right Align, Presence=High, Tone=Focus, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f6814a72443cbe39c2f0711926c2a5ca2574cc48",
+      "nodeId": "8002:306",
+      "name": "Type=Dismissable, Presence=High, Tone=Focus, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f92926b4f2d71d99fe753346f4224a8367b45216",
+      "nodeId": "8002:250",
+      "name": "Type=Right Align, Presence=High, Tone=Info, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fac7eee6b67272b396c46b816a4d47f150f149a6",
+      "nodeId": "8002:315",
+      "name": "Type=Left Align, Presence=High, Tone=Caution, Boxed?=True",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fff04d7abeccd28f51e9b042f6e7d270efe51925",
+      "nodeId": "8002:387",
+      "name": "Type=Left Align, Presence=High, Tone=Warning, Boxed?=False",
+      "description": "",
+      "containingFrame": "Info Row",
+      "containingPage": "1.0"
+    }
+  ]
+}

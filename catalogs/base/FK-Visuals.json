@@ -1,0 +1,2065 @@
+{
+  "fileKey": "DW5NtebXn6KGAiPJKjmauq",
+  "name": "FK-Visuals",
+  "group": "base",
+  "updatedAt": "2026-03-03T15:09:47.061Z",
+  "componentCount": 257,
+  "components": [
+    {
+      "key": "0f493f070e34d980a25049190aa4a8ca59bc7058",
+      "nodeId": "1092:1033",
+      "name": "Dark Mode=On, Lang=EN",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "42f70a6b7271a958e0ab9d6523175316088dc8a3",
+      "nodeId": "1368:33",
+      "name": "Dark Mode=ON, Lang=EN",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b7e82a84f50cbae450cffa23d0ce08fbf7d3fc47",
+      "nodeId": "1644:609",
+      "name": "Direction=Hisse -> Kripto, Dark Mode=Off",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "c03bb2d47513bbcfb85662fc29285b89f5bea98e",
+      "nodeId": "1573:316",
+      "name": "Direction=Kripto -> Hisse, Dark Mode=On",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d7145536952df17324fc5d0823edd1ac9d0ca918",
+      "nodeId": "1069:1096",
+      "name": "Dark Mode=Off, Lang=TR",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "2a6eb575b255dcebbc89dc37e4c7de384f9d4b17",
+      "nodeId": "1679:1082",
+      "name": "Direction=Hisse -> Kripto, Dark Mode=Off",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a0933e793d4a8fa7f7295f3e2c5901d4fe0e5d2b",
+      "nodeId": "1679:941",
+      "name": "Direction=Kripto -> Hisse, Dark Mode=Off",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "41977d74f876d909331da95161839c283c1c74d4",
+      "nodeId": "103:24",
+      "name": "PS-Card",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "07f044c21a79b31562cb8a5d9d9a64a3865ca1c9",
+      "nodeId": "1069:1036",
+      "name": "Dark Mode=OFF",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0d33a45cb47961b16298908ae8ee4fe418a764c9",
+      "nodeId": "1069:1085",
+      "name": "Dark Mode=On, Style=2",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0e5e30da22d4af01a21a5088c91ac9f27f805b62",
+      "nodeId": "1069:1081",
+      "name": "Dark Mode=On, Style=1",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "12e330abfd66cd1c13c29b9f4dbeaad3d84589c6",
+      "nodeId": "1069:1044",
+      "name": "Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "2d07250f589d150430a7184a2585fc7116a3a68a",
+      "nodeId": "1027:1129",
+      "name": "Kripto Security",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "338a40139427b75b360831e4e9b88edfcfd4bb90",
+      "nodeId": "839:463",
+      "name": "Brand=Custody",
+      "description": "",
+      "containingFrame": "Brand Logos",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "3f0f15f31acec1fdf90d5af3def47e6d068f8a85",
+      "nodeId": "839:469",
+      "name": "Brand=HR",
+      "description": "",
+      "containingFrame": "Brand Logos",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "50b2d6153c682fe698f0cd14c14cc6e9765a750c",
+      "nodeId": "1069:1087",
+      "name": "Dark Mode=Off, Style=2",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "56bacf46295105d68169736b961e1fa4e7171458",
+      "nodeId": "770:463",
+      "name": "Brand=Hisse",
+      "description": "",
+      "containingFrame": "Brand Logos",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "57adfbc2474d63e6488d37b91a60260e4a6edf50",
+      "nodeId": "839:461",
+      "name": "Brand=Ventures",
+      "description": "",
+      "containingFrame": "Brand Logos",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "6315bab05c61e82d5c2db5de5a8fdb24c841340a",
+      "nodeId": "779:468",
+      "name": "Brand=Wallet",
+      "description": "",
+      "containingFrame": "Brand Logos",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "6d977768c379f08c3489ee2fd2b0bb2c5291965a",
+      "nodeId": "1368:31",
+      "name": "Dark Mode=ON, Lang=TR",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "715dcddaa97c376a8984b6f6b2c09599d9df04a0",
+      "nodeId": "1053:1122",
+      "name": "Image/QR Login",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "75ca6e45daa21187a97efce8283f9216b33c432b",
+      "nodeId": "1069:1051",
+      "name": "Dark Mode=OFF",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "77d2427e6bf4092d850400ee7227e32ec05800c0",
+      "nodeId": "839:467",
+      "name": "Brand=Support",
+      "description": "",
+      "containingFrame": "Brand Logos",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "9a69cf27cf9e82e0ecad8ee34a098088ddfd01b8",
+      "nodeId": "1025:921",
+      "name": "Security API",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "9adbdd2992d715b05d1d25aaa0dde6f6a54ccf13",
+      "nodeId": "1069:1034",
+      "name": "Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "9de99b4a3c5fe06855e85cb07ec9b2b5fa264362",
+      "nodeId": "1092:1035",
+      "name": "Dark Mode=Off, Lang=EN",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a03c5494bb6729b45ac21b43d83296a7bb00b4b4",
+      "nodeId": "838:459",
+      "name": "Brand=Black",
+      "description": "",
+      "containingFrame": "Brand Logos",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a209d4068358d136b76d8854dc7eaff038708c6b",
+      "nodeId": "1368:37",
+      "name": "Dark Mode=OFF, Lang=EN",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a518202842ef9d873c9c86bfe36b7a8f02d434a3",
+      "nodeId": "1069:1063",
+      "name": "Dark Mode=On, Style=1",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ab399e31146aeb7deeef26d500ddc78f1fe11251",
+      "nodeId": "779:464",
+      "name": "Brand=Kripto",
+      "description": "",
+      "containingFrame": "Brand Logos",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b44fd46579d796b792d0edc932ca82e2a4df1da6",
+      "nodeId": "839:465",
+      "name": "Brand=Technology",
+      "description": "",
+      "containingFrame": "Brand Logos",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b671e6ef773b1d98cd27374c0c99d7e83db885e8",
+      "nodeId": "1069:1067",
+      "name": "Dark Mode=On, Style=2",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b98cc422c6996b4fcd2137622f202cf777a5fd80",
+      "nodeId": "1069:1069",
+      "name": "Dark Mode=Off, Style=2",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "baaacc65a296b41c9d7d028e55a822585c98f8ac",
+      "nodeId": "103:23",
+      "name": "DL-Card",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "bcbcb6142c97fe64414f1d65b7ab7c615f6f45c9",
+      "nodeId": "1069:1094",
+      "name": "Dark Mode=On, Lang=TR",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d29995439dd8582f3b8f8d449b9cb010467a4743",
+      "nodeId": "1069:1071",
+      "name": "Dark Mode=On, Style=3",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d66f9e85bff165160dc56d6d169c4b7ffddae4a3",
+      "nodeId": "1679:1040",
+      "name": "Direction=Hisse -> Kripto, Dark Mode=On",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d71d42ade2cd372ea6dc5f198b70bdf376fc05da",
+      "nodeId": "1069:1083",
+      "name": "Dark Mode=Off, Style=1",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d8b2bb2aa578dadcc4cc212de19df235aaf0f521",
+      "nodeId": "1069:1073",
+      "name": "Dark Mode=Off, Style=3",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "de3fce2881d4a47cb0af5c055a74c226e3c49a6d",
+      "nodeId": "1616:1832",
+      "name": "Direction=Hisse -> Kripto, Dark Mode=On",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "dfb68999583078ed47778abcfe236409eb875724",
+      "nodeId": "779:466",
+      "name": "Brand=Corporate",
+      "description": "",
+      "containingFrame": "Brand Logos",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "e7c726a69e373e457df17fd91de2cfae8de9f81f",
+      "nodeId": "1069:1046",
+      "name": "Dark Mode=OFF",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ee340def30210c83ce91f8875191998e54dcb708",
+      "nodeId": "1644:493",
+      "name": "Direction=Kripto -> Hisse, Dark Mode=Off",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f1d024a0896cc3cd05548f2da39fcf9fa83b61b6",
+      "nodeId": "1368:35",
+      "name": "Dark Mode=OFF, Lang=TR",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f86fd08dcdf6d3cc2765b0b494e5e3c2f7481f8d",
+      "nodeId": "1679:922",
+      "name": "Direction=Kripto -> Hisse, Dark Mode=On",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "fe2f04160a02cf858a7fc7a2ec22c8b0dd71a0e9",
+      "nodeId": "1069:1049",
+      "name": "Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f553d44f8df50aeaf0414345f5ac06ffc06cb84b",
+      "nodeId": "1772:985",
+      "name": "Image/Invoice",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "53c973857fb9f67a268463d3d25fb70185c983b3",
+      "nodeId": "2320:1062",
+      "name": "Brand=BitRapid, Theme=Light",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "aebd14adf2d4a6367de7cfe91e35f0548e2845f6",
+      "nodeId": "2196:2236",
+      "name": "Dark=True",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f62955a54a7010c1226aeeae8162425142e34cb7",
+      "nodeId": "1743:2443",
+      "name": "Brand=Hisse",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ea62d77d4b7a1673a03a261d4c81b5dff30ff9f7",
+      "nodeId": "2267:1439",
+      "name": "Brand=BitRapid, Network=WiFi",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "8c5c12a7e8b4fe1bc8096d592d97ef39bcfa3bcf",
+      "nodeId": "2267:1441",
+      "name": "Brand=BitRapid, Network=5G",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b023b2574f9478c54f5131043267cee99e11596e",
+      "nodeId": "2267:1437",
+      "name": "Brand=BitRapid, Network=ISP",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0be3bd89ad995362444de3cd46684b4d4090b625",
+      "nodeId": "752:460",
+      "name": "Brand=Hisse, Theme=Dark",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "1bd68f113cd2853524cf1e0460df7438f47bd081",
+      "nodeId": "219:286",
+      "name": "Brand=Kripto, Network=ISP",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "23191d9faadb61514d7e67701d20a3228daab2cd",
+      "nodeId": "220:288",
+      "name": "Brand=Kripto, Network=5G",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "2bdd80582b71e6524207189da989002813917b13",
+      "nodeId": "1816:1037",
+      "name": "Brand=Hisse, Network=ISP",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "339627eced35f07aa11d53e3f7dce20a791b7118",
+      "nodeId": "1816:1041",
+      "name": "Brand=Hisse, Network=5G",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0fcfc294e05d261b74bfb4db9bf5f65746f0a8a9",
+      "nodeId": "944:663",
+      "name": "Type=Mic, Brand=Kripto",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "5ea0619e722d4ce72ce0a0f7687c9bc2e767272a",
+      "nodeId": "1815:1035",
+      "name": "Brand=Kripto, Network=WiFi",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "e66690ee1041a139ac614285c702972759c45ab8",
+      "nodeId": "1816:1039",
+      "name": "Brand=Hisse, Network=WiFi",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "05bee03d4b023665bd4cbd9825d0c8d23f1547e1",
+      "nodeId": "2267:1451",
+      "name": "Brand=BitRapid, Theme=Dark",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "29f7c90e1562559f9b0d0bac8dfda09d7812d1de",
+      "nodeId": "441:385",
+      "name": "Type=Cam, Brand=Kripto",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "82c53443f9faa69924fba063a19b942c79fd5d4a",
+      "nodeId": "2267:1447",
+      "name": "Type=Mic, Brand=BitRapid",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "95c19057c482bc34f57ad437e85431cc1a287f51",
+      "nodeId": "2267:1445",
+      "name": "Type=Cam, Brand=BitRapid",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "69b8da60b96218ed4ddf6843af385e0454c6436f",
+      "nodeId": "209:19",
+      "name": "Brand=Kripto, Theme=Dark",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d40e87f9d120882c601cb899a33c379e5923d9cd",
+      "nodeId": "944:669",
+      "name": "Type=Cam, Brand=Hisse",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ac5681529eebb2892e75a40cb1e340e2e14ae8fb",
+      "nodeId": "753:459",
+      "name": "Brand=Wallet, Theme=Dark",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f606f06c0acabffd5e11c2f8ad59738174771a2c",
+      "nodeId": "944:671",
+      "name": "Type=Mic, Brand=Hisse",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "5ba1416270a93d5df9d24e0fbb29f16a454f2e7d",
+      "nodeId": "2267:1449",
+      "name": "Brand=BitRapid",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ebc571b3570d0e1dfa158c29ed2ffaf6921705f4",
+      "nodeId": "1743:2441",
+      "name": "Brand=Kripto",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b860a50faee33f7b89cc59a3def8f3e21075d0f8",
+      "nodeId": "101:20",
+      "name": "Image/Network-Disabled",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "e5c38be18e6e504d05eaa2b8ac41c2118814d1c4",
+      "nodeId": "413:169",
+      "name": "Image/Email Validation",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "cf44b33dd2701f09ea2512d01b10e3c9f0056f68",
+      "nodeId": "2481:13769",
+      "name": "theme=dark, Type=2",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0af5f8ac5ccd90b49082b308d64b1e9b30b02887",
+      "nodeId": "2478:13760",
+      "name": "theme=dark",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0f2d52637dac146b330a4cfdc0c7e5b2d4c78f25",
+      "nodeId": "2481:13787",
+      "name": "theme=dark",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "89c76f3d24bae521e4a2a0e727fde863cb2bfc3d",
+      "nodeId": "2481:13771",
+      "name": "theme=light, Type=2",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b078a3c9d6117c702ce3198b60353e2d6b8f099c",
+      "nodeId": "2478:13764",
+      "name": "theme=light",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "74eef512b237c0c889251681b5929330a6b1332a",
+      "nodeId": "2481:13767",
+      "name": "theme=dark, Type=1",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "307870b2d1380558f9de069735405726255e3892",
+      "nodeId": "2478:13698",
+      "name": "theme=light",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "755600e226db95d53304d50ecdbba799b23588cd",
+      "nodeId": "2478:13696",
+      "name": "theme=dark",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "2ec4493af8d9df722fb9c2097454fc05751f536a",
+      "nodeId": "2481:13791",
+      "name": "theme=light",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "512473f0ab3587c48a28ed0adbb05ab1bdf788ef",
+      "nodeId": "2555:1097",
+      "name": "theme=dark",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "71ea8489774a1bc8ae622e5e4a7c2828f1ca99f4",
+      "nodeId": "2555:1099",
+      "name": "theme=light",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a37f36f901bd925b1ae48c6ea40ec1ab41998ef5",
+      "nodeId": "2484:13800",
+      "name": "theme=light, Type=1",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "2c0505c613a7e00ba1e1932b930b772986818a16",
+      "nodeId": "2623:36967",
+      "name": "Image/Network-Disabled",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "4927dface050752eade2f1006cc8a6d48f83f297",
+      "nodeId": "2601:36043",
+      "name": "Image/Email Validation",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a511e6050ae6c112c35f07a14d5374eee2a8a042",
+      "nodeId": "1069:1041",
+      "name": "Dark Mode=OFF",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a8d63d9094cb0c2d75805d00f5ecd21093a52434",
+      "nodeId": "1069:1039",
+      "name": "Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "00668b830f128d9afc390a0e7d078ea299a656bf",
+      "nodeId": "995:911",
+      "name": "Dark Mode=On",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "03f5c3645a4aa03935774f3a7836ea41dadec0b9",
+      "nodeId": "307:29",
+      "name": "NFC-Scan-iOS-Video",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "163f599689199803134e5d6672abc7bb8d21e703",
+      "nodeId": "997:908",
+      "name": "Dark Mode=Off, Style=3",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "22efe941dc5f8b63169411a869ffba35362473bc",
+      "nodeId": "1000:916",
+      "name": "Dark Mode=Off, Style=1",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "242a91f6d8f3a724ae852fe0a0d548b23d912ef4",
+      "nodeId": "302:19",
+      "name": "Platform=Android",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "293e81f0e70677dfba8846ea323a36cfb57b17b2",
+      "nodeId": "1000:915",
+      "name": "Dark Mode=On, Style=1",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "7844efc87d7e61b28b9862652c1cd733752b3c49",
+      "nodeId": "996:919",
+      "name": "Dark Mode=Off, Style=1",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "815118bb34f7f36227106b50a4d37f3e00399312",
+      "nodeId": "638:434",
+      "name": "Image/Screen-Recording-Warning",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a43f5397f30f2c270663f87aeccdc184bb7b6cba",
+      "nodeId": "1000:914",
+      "name": "Dark Mode=Off, Style=2",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a8bba8a5350af33c893b55e2169ac6ba0e2403a6",
+      "nodeId": "997:899",
+      "name": "Dark Mode=On, Style=2",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d1e150721ca8bfd368041455f596e4527298ef77",
+      "nodeId": "997:907",
+      "name": "Dark Mode=On, Style=3",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "e111ed3435d635b103d2d325f880f1d330dac33d",
+      "nodeId": "306:27",
+      "name": "NFC-Scan-Android-Video",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "e83a4adb3f0f37bf8ab07b17769bb95547d79d97",
+      "nodeId": "996:916",
+      "name": "Dark Mode=On, Style=1",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "e9209b7c3329364f11b73b40e7309098fe9b4872",
+      "nodeId": "995:912",
+      "name": "Dark Mode=Off",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f3cddc8910ba6a40d78dcb4f36c93b9a3c7d3701",
+      "nodeId": "997:904",
+      "name": "Dark Mode=Off, Style=2",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "fb12c24c154c76ee8e8c9bb0b63db08749e716ab",
+      "nodeId": "1000:913",
+      "name": "Dark Mode=On, Style=2",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ff748cac90f6faeda8ce10cb5e84743ab4e0e015",
+      "nodeId": "234:19",
+      "name": "Platform=iOS",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "3ad9d20ea083d6986c13718793ce3d3beff33e0b",
+      "nodeId": "2941:5087",
+      "name": "Version=NoLogo",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "8ac47636bb8461223ffb14100c19fc4d76682b92",
+      "nodeId": "2941:5086",
+      "name": "Version=LogoOnUser",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "46094074539be3b8ca14d3e6c4f9cbeaf0360a57",
+      "nodeId": "2941:5085",
+      "name": "Version=LogoOnKeys",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "1fc3f100a5a80fae17f8f5d0015059dead85b861",
+      "nodeId": "703:436",
+      "name": "Image/Statements",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a05c596bbcad57f4306955ba66c296adac797622",
+      "nodeId": "634:1252",
+      "name": "Brand=Hisse",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "af5c67b58fea8aa94e3c90e2bda78d98665235d2",
+      "nodeId": "634:1254",
+      "name": "Brand=Kripto",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "fbe2eff6dba86e7f1ab7741748ad6032a947115e",
+      "nodeId": "2282:3774",
+      "name": "Brand=BitRapid",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ff7403cc354d95c8b8599920f22ddcaa26f62cdc",
+      "nodeId": "3128:3922",
+      "name": "Virman",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "bcddeff10273c3adc364c8f26b02cd4f95ea706f",
+      "nodeId": "3142:3925",
+      "name": "Image/Privacy",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "21ad943cb06d14f4eba67bbfc2c182aad2c2506c",
+      "nodeId": "634:1248",
+      "name": "Brand=Kripto",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "2acd5f325a0ef331a0347e0f6bcfe10a5af056df",
+      "nodeId": "1001:921",
+      "name": "Dark Mode=Off",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "3cae490ac292a71012723ac358d5b5ca090ec064",
+      "nodeId": "634:1249",
+      "name": "Brand=Hisse",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "8e9a57b16cedb6a1c5f213fdd6646cfe48e7fd17",
+      "nodeId": "1001:920",
+      "name": "Dark Mode=On",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "c0ab78a2c720e30b2f4e231973443b0f9eb358d8",
+      "nodeId": "2267:1453",
+      "name": "Brand=BitRapid",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "3ec90e5d40cfd0bc2613b30da5e2cc7660ff7980",
+      "nodeId": "103:22",
+      "name": "ID-Card",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "00dfd5714a32d2bc49dc1fe182cdc41e25820f92",
+      "nodeId": "616:382",
+      "name": "Brand=Hisse",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "37944eb560fac211a421a9bf3744198f8a054d00",
+      "nodeId": "2267:1443",
+      "name": "Brand=BitRapid",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "4a3bdf896cb73473585907c66546967f16efe349",
+      "nodeId": "616:384",
+      "name": "Brand=Kripto",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a6e9cb5c5f91de059495591b94d3c6ae4dc9e8c0",
+      "nodeId": "406:169",
+      "name": "Image/Not Yet Validated",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "96bbc5119231440b0d89721fc860fc5db3973bb3",
+      "nodeId": "2068:1241",
+      "name": "BitRapid-3D-Logo",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "aad785258e1bddc1d70d5a3cfd8a0a6b2933e95a",
+      "nodeId": "889:730",
+      "name": "Still/Recovery-Phrase",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "03295b00e483b2db6e901659ddf388df2eca0a32",
+      "nodeId": "1508:340",
+      "name": "Property 1=Light",
+      "description": "",
+      "containingFrame": "Support",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0406575ca30ec52a1a2e397efd0f453f63fd9987",
+      "nodeId": "2171:14840",
+      "name": "Dark Mode?=OFF, Style=Mono (2)",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0683e16d065d9198b7bbd37eccf653c8c777ce08",
+      "nodeId": "1508:327",
+      "name": "Property 1=Dark",
+      "description": "",
+      "containingFrame": "Support",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0b71a4cadb65037e45381cec3215d84eb82b1d64",
+      "nodeId": "1644:376",
+      "name": "Style=news_card.dark",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0b9951543865ef857158f5e37912c6d8fcc78d53",
+      "nodeId": "1403:675",
+      "name": "Dark Mode=FALSE",
+      "description": "",
+      "containingFrame": "Ventures",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0bf9a158e0ee8ee28a8428f17528742103b6ec92",
+      "nodeId": "1508:337",
+      "name": "Property 1=light",
+      "description": "",
+      "containingFrame": "Support",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0f124a6654e68e616c0aa2cf04c2ff14fdf1d750",
+      "nodeId": "2632:36974",
+      "name": "Image/Network-Disabled",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "118bad31029497e8e46ef61c8f03ecab86da2154",
+      "nodeId": "2727:7687",
+      "name": "version=4.0, theme=light",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "129dd3dac4d63de2e0b4617f0d0e3a244666ca61",
+      "nodeId": "2265:16763",
+      "name": "Dark Mode?=ON, Ratio=Small",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "1638c88c7a50aaa873e1e95cfc0288c284f0607d",
+      "nodeId": "903:697",
+      "name": "Property 1=Send-Receive-Bitcoin-V1 1",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "18113bd85904dd001c5add77c2b808d7fa7e4b64",
+      "nodeId": "2265:16765",
+      "name": "Dark Mode?=OFF, Ratio=Large",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "18b066be0e354655c1b750b4d1d4d62eea97b787",
+      "nodeId": "2029:996",
+      "name": "Style=Dark",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "1a3ed80deecb180d0a9d56b2206fdcb1ed189eae",
+      "nodeId": "908:684",
+      "name": "Type=Recovery Phrase, Dark Mode=OFF",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "1d8a21df9900d5f349b3348f09901ee4d50bcf1c",
+      "nodeId": "1644:377",
+      "name": "Style=news_card.light",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "1eb7ef6a67103025ef725c2de0ea54e8651d1b33",
+      "nodeId": "868:487",
+      "name": "Dark Mode=OFF",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "21b02215e5d7fb3880ad203fe094aaa5df23f412",
+      "nodeId": "2160:12766",
+      "name": "Dark Mode?=ON, Style=Green",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "509172636e1d5761adf852ea9236a27970de2328",
+      "nodeId": "2029:1034",
+      "name": "Style=Light, Versiyon=2.0",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "56970ebd794d8bcddf95e8508d6692c977b38825",
+      "nodeId": "2269:1468",
+      "name": "Image/QR Login",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "23a8da7dbb9d35fbd0b978af1a27e0b18a98e871",
+      "nodeId": "960:843",
+      "name": "Dark Mode=OFF",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "240a21b7db3cb5dc03b28fbd719d2523ae03fb7f",
+      "nodeId": "1508:332",
+      "name": "Property 1=Dark",
+      "description": "",
+      "containingFrame": "Support",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "297fa06e2299ab93770d945cce723e2d62c0e522",
+      "nodeId": "908:680",
+      "name": "Type=Send-Receive-Bitcoin, Dark Mode=OFF",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "2ba9ac91855939b933aa1af3516ea89834784ef3",
+      "nodeId": "2171:14838",
+      "name": "Dark Mode?=ON, Style=Mono (2)",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "350209e80541fd9af5cc918dcf2c5f5e184201a9",
+      "nodeId": "2673:7396",
+      "name": "theme=dark",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "36a2180a66abc967e0433273ffa462ad400cbf02",
+      "nodeId": "2160:12768",
+      "name": "Dark Mode?=OFF, Style=Green",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "473abbea665bf9c8ae2cb7c9b1bc5c2ee9c70f85",
+      "nodeId": "2726:5051",
+      "name": "theme=light",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "4b2a54a0910acb2aca967b68291890cfba1a9be9",
+      "nodeId": "2029:987",
+      "name": "Style=Dark",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "4b2ccf8cbe40dc9c89ed447464b442863c5a40dd",
+      "nodeId": "2196:2248",
+      "name": "Property 1=Hero-Dark",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "4d06d4cbe1b09441811ff56349672f0d135e7d7e",
+      "nodeId": "2726:5049",
+      "name": "theme=dark",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "4e0af2d802a5c9b355fc5639249a0b165ae851e5",
+      "nodeId": "2160:12733",
+      "name": "Dark Mode?=ON, Style=Steel",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "5982a370ff2c617777eae1baf0a6ad181006076a",
+      "nodeId": "2195:2231",
+      "name": "Dark=False",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "5f0557bfa781641334e0d026426957f0a052ea5c",
+      "nodeId": "2195:2224",
+      "name": "Dark=False",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "663ef3c81345778e4e74b865a4de08e31d61a3c4",
+      "nodeId": "2164:12770",
+      "name": "Dark Mode?=ON, Style=Mono (1)",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "72130da3a181b1d7229be40ba1ecc6f91842b9d4",
+      "nodeId": "1933:977",
+      "name": "Style=Dark",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "776bf23d50808c3e6159d49b8545e295970f5438",
+      "nodeId": "1938:985",
+      "name": "Style=Light, Versiyon=1.0",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "835c10ab746b06e8dc77e465c7d6e488ff118b89",
+      "nodeId": "2726:5060",
+      "name": "theme=light",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "8652b2befcdfbc97cfd31b835379764c67bca9c0",
+      "nodeId": "2670:6971",
+      "name": "theme=light",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "7ccb2c1b4bfcd7bf5ee8e29fde55135268d646e9",
+      "nodeId": "868:490",
+      "name": "Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "7f162334c388dadcbf00a7dd085c5cd88713df79",
+      "nodeId": "2195:2222",
+      "name": "Dark=True",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "7f73e3f17a0e8c1d7748cb33b1ed80e7082387aa",
+      "nodeId": "2867:15181",
+      "name": "Email-Validation",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "8008399b390030a0d7752f9ba7400fbe8dbd10d9",
+      "nodeId": "1931:984",
+      "name": "Style=Dark, Version=1.0",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "813e7a1866a98ca820ed0ed0bedf31f876ccd10a",
+      "nodeId": "908:686",
+      "name": "Type=Recovery Phrase, Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "83bc0ccbefecee04728269ab7f0d66437ff7d08f",
+      "nodeId": "2693:9729",
+      "name": "theme=light",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "885fb8e3170d3e34673dfbd107a71ecb48c9da78",
+      "nodeId": "2164:12772",
+      "name": "Dark Mode?=OFF, Style=Mono (1)",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "88653cf1d1e554bfbaec1f64e5623d1366c9253a",
+      "nodeId": "2029:999",
+      "name": "Style=Light",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "89dacb1e5f1e2f2c022d1485e5742df2fa035d80",
+      "nodeId": "2029:1031",
+      "name": "Style=Dark, Versiyon=2.0",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "9086a7ff52bcf57309836ba4737caded0936bc0a",
+      "nodeId": "1933:979",
+      "name": "Style=Light",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "91e4d3111d60febf4fada55c0d41f7e270105e74",
+      "nodeId": "2697:9735",
+      "name": "version=4.0, theme=dark",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "95c8c57c0ee5a0672325fcfd592406b76b329b73",
+      "nodeId": "2259:1415",
+      "name": "Image/Privacy",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "98cba4693b0634de8ec18bee93470a991a321360",
+      "nodeId": "2726:5053",
+      "name": "theme=light",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "9914e203c510c1040d4bb41e646652643d4854f8",
+      "nodeId": "2265:16767",
+      "name": "Dark Mode?=ON, Ratio=Large",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "9b8c3b442119e74ce73eaa9f73b86ee1a8482b30",
+      "nodeId": "2196:2249",
+      "name": "Property 1=Hero-Light",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a4565d4849f83066a574de7c2377a4273cd0dac4",
+      "nodeId": "925:683",
+      "name": "Dark Mode=OFF",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a7d7b989993150b3efef063afe8f944550e90d8c",
+      "nodeId": "1931:986",
+      "name": "Style=Light, Version=1.0",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b9387619f2b20eccbeffcadc19532a3297bf948b",
+      "nodeId": "2195:2229",
+      "name": "Dark=True",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ae0c47ae7caa2ad4d177ebecfedd05d077398002",
+      "nodeId": "1944:1733",
+      "name": "Style=Dark, Version=2.0",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b49ef5cebdb92882ded6e7095ee17ab9d8e46315",
+      "nodeId": "925:682",
+      "name": "Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b62b471b97b10abdadd7023c3c0ccf2c2aee1634",
+      "nodeId": "2029:989",
+      "name": "Style=Light",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b7c8ff2626096b3c9bb938bb34b9a0aeb9e30955",
+      "nodeId": "2198:2600",
+      "name": "Dark=True",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ba7a09c79b8336c5669484ef48cf81d891115625",
+      "nodeId": "2701:9740",
+      "name": "Version=2.0, theme=dark",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "c4d579d109722bfd2b51a1474d9d6634b9017a8c",
+      "nodeId": "1508:326",
+      "name": "Property 1=Light",
+      "description": "",
+      "containingFrame": "Support",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "c877f8eadcc13cf9cb2f883d379ffb0213fe8c0a",
+      "nodeId": "2029:1014",
+      "name": "Style=Light",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "cc39ce9d6091422f81d457f01f42b1d4fcfec8e2",
+      "nodeId": "1938:984",
+      "name": "Style=Dark, Versiyon=1.0",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "cc71a52a0ef8bd7247d981c4115b079e9900e7b8",
+      "nodeId": "2682:6010",
+      "name": "Style=Dark",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d546683a0ee4115061907a6b2db3eb61325acec6",
+      "nodeId": "2685:6518",
+      "name": "theme=dark",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "cf2e611e651981ece3d6dd5c563f74e82fc08047",
+      "nodeId": "1404:677",
+      "name": "Dark Mode=TRUE",
+      "description": "",
+      "containingFrame": "Ventures",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "cffb91639fb7e79f6a2bad1a6729a0b0720ff9a9",
+      "nodeId": "2160:12735",
+      "name": "Dark Mode?=OFF, Style=Steel",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d0569ef24c376b864bc16e889374a7db21bd677a",
+      "nodeId": "1508:338",
+      "name": "Property 1=dark",
+      "description": "",
+      "containingFrame": "Support",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d360ae6ac088f6f0097125505b8041aad7ac458c",
+      "nodeId": "1944:1735",
+      "name": "Style=Light, Version=2.0",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d4a1b0dc9eabf42eac91737d37c85963ff2c7083",
+      "nodeId": "1508:341",
+      "name": "Property 1=Dark",
+      "description": "",
+      "containingFrame": "Support",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "e971e1399c57c9f43369b17064cc500e3c593ec3",
+      "nodeId": "2676:5997",
+      "name": "theme=dark",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d86e3b9c7e3f1f37103ca0d1510d91a99f96a8fa",
+      "nodeId": "908:682",
+      "name": "Type=Create a Wallet, Dark Mode=OFF",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "db929d82b8d48c3f744d29f652e42c2af3c379ee",
+      "nodeId": "1508:331",
+      "name": "Property 1=Light",
+      "description": "",
+      "containingFrame": "Support",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "dbe2fc933ea0456781357794c4a173bad4e5376e",
+      "nodeId": "2727:7689",
+      "name": "Version=2.0, theme=light",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ddb0b6c2814e7bc1361347a23338dadb5ef69b79",
+      "nodeId": "1508:335",
+      "name": "Property 1=Dark",
+      "description": "",
+      "containingFrame": "Support",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "e2fa143c575bb833a632ff257bd2d298fa1665c5",
+      "nodeId": "2670:6970",
+      "name": "theme=dark",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "e75808e5e184aa981f6bd26d3dd2479cce67f284",
+      "nodeId": "899:682",
+      "name": "Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ec033eea82e1a3b41369bb4f7a31f44865afc932",
+      "nodeId": "2196:2238",
+      "name": "Dark=False",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f76c150515bea88079b30cb821d506b7d5e2a508",
+      "nodeId": "2198:2602",
+      "name": "Dark=False",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "eca93518dbc45c5df376d6f4d9f4e6c26177f9ae",
+      "nodeId": "2029:1011",
+      "name": "Style=Dark",
+      "description": "",
+      "containingFrame": "Tech",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ecf61db6d61d1508803fac37e3a6ae86cc8840ee",
+      "nodeId": "868:488",
+      "name": "Still/Wallet/Global-Security",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ee7c46302f1dd14e6fb931023071d6ed58d3b6dc",
+      "nodeId": "903:698",
+      "name": "Property 1=Send-Receive-Bitcoin-V2 1",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f1dc4ec12babb55ac2a8dee945be2276f21838a4",
+      "nodeId": "1508:334",
+      "name": "Property 1=Light",
+      "description": "",
+      "containingFrame": "Support",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f236e0ace44aeb4dcb9a11071c12083163956f46",
+      "nodeId": "2265:16761",
+      "name": "Dark Mode?=OFF, Ratio=Small",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f66a691a4ccc9d0229017cf0b96f9285cfc5bb0a",
+      "nodeId": "910:692",
+      "name": "Images/3D/Recovery-Phrase/",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f9c3763abb63d01b1bf601b1d02f1d7ebc3c0261",
+      "nodeId": "868:489",
+      "name": "Still/Wallet/Create-a-Wallet",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "fa5951aa12460db238ca583f079d0c7ecf17678a",
+      "nodeId": "2693:9727",
+      "name": "theme=dark",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "fbbf8b819b37d2687f9df59708a6a8898670e8e0",
+      "nodeId": "2726:5057",
+      "name": "theme=light",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "fd300cac08d28bfc79901d7980653828d5b47b74",
+      "nodeId": "2682:6012",
+      "name": "Style=Light",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d2388411a2f277416906d9b1eea71ec206789fc9",
+      "nodeId": "1053:1121",
+      "name": "Image/Privacy",
+      "description": "",
+      "containingFrame": "Kripto",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "3458e3aafa62675b4845072886fbacffc724a079",
+      "nodeId": "409:172",
+      "name": "Image/Uygunluk-Testi",
+      "description": "",
+      "containingFrame": "Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "01721aef83fb9632fd448531a0ab6d3f7769d955",
+      "nodeId": "1422:683",
+      "name": "Brand=Hisse, Dark Mode=TRUE, Post Processing=FALSE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "04764d3dbd32fa0cd86e7f693bcb90f3aec8516e",
+      "nodeId": "2683:6053",
+      "name": "Property 1=4",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "0537d9002bcadfbeab01027678504f380a5c350a",
+      "nodeId": "2602:14404",
+      "name": "Brand=Global, Dark Mode=FALSE, Post Processing=FALSE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "060c6e46aa71692b8feb5455ec66f7b23b43e156",
+      "nodeId": "2478:13701",
+      "name": "theme=dark",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "08d4d1071589fa9fa057ac2a39c407385b43bb17",
+      "nodeId": "2576:4973",
+      "name": "Dark Mode=On",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "1a527c0f09bff3160c2ef3823aec517b9beaaea4",
+      "nodeId": "2602:14408",
+      "name": "Brand=Global, Dark Mode=FALSE, Post Processing=TRUE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "1af55a9c883151c1aed62a247452ef651a7ce102",
+      "nodeId": "2481:13780",
+      "name": "Theme=light, Style=1",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "20c2d15254b5b2035081a4069c1659de2a3ec9fe",
+      "nodeId": "2602:14410",
+      "name": "Brand=Global, Dark Mode=TRUE, Post Processing=TRUE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "2cc73cac1797be82ef7c35d862685e80a112b29f",
+      "nodeId": "2267:1455",
+      "name": "Brand=BitRapid, Dark Mode=FALSE, Post Processing=FALSE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "45f844ce88d0ea1e4cb44a5c7de2532421657651",
+      "nodeId": "2267:1461",
+      "name": "Brand=BitRapid, Dark Mode=TRUE, Post Processing=TRUE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "4f92a1f62b914467e42c7b80e513b4347b7c4839",
+      "nodeId": "2683:6051",
+      "name": "Property 1=3",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "5c0bd0fd5f3e2199fbe74e3e2a736e6941f4bb3b",
+      "nodeId": "1422:685",
+      "name": "Brand=Kripto, Dark Mode=TRUE, Post Processing=FALSE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "6099f0a904d3f71b0e5795a2d5db7020b27c66c2",
+      "nodeId": "2670:5032",
+      "name": "theme=light",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "63e98a2821eaab139cf6806a0c9092fe6303d549",
+      "nodeId": "1423:6393",
+      "name": "Brand=Hisse, Dark Mode=FALSE, Post Processing=TRUE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "64525d1da469196adbe9c7bc91a24c351842e4a6",
+      "nodeId": "2481:13782",
+      "name": "Theme=dark, Style=2",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "686d4b38a05dda457c850fd8cbb9d71d9e44e41b",
+      "nodeId": "2085:3034",
+      "name": "Dark=True",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "6a4052a2136c7858b57161d72efae7995648f1d1",
+      "nodeId": "2267:1457",
+      "name": "Brand=BitRapid, Dark Mode=TRUE, Post Processing=FALSE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "6db527d2eeb3e8a2aca55f6b4286cd5707a3a13c",
+      "nodeId": "2267:1459",
+      "name": "Brand=BitRapid, Dark Mode=FALSE, Post Processing=TRUE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "7687824607ae96b8c3dc010b28a865dab7b66f31",
+      "nodeId": "1422:686",
+      "name": "Brand=Kripto, Dark Mode=FALSE, Post Processing=FALSE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "7af9d52dc964a045f82686fc2f999558f66dad7a",
+      "nodeId": "2478:13709",
+      "name": "theme=light",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "7cbac9b7ea052ba48520f3c86f0e26c700dfcbd2",
+      "nodeId": "2420:1240",
+      "name": "Dark Mode=On",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "82db1f4006f714b78237b77bdd9cd5ab9a53e5ac",
+      "nodeId": "1423:6389",
+      "name": "Brand=Kripto, Dark Mode=FALSE, Post Processing=TRUE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "87b814f29186cfe97292142005e62399944fa1a6",
+      "nodeId": "2670:5024",
+      "name": "theme=dark",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "992cc0ac36bb677bb28b26dec58d06870aaf4b9e",
+      "nodeId": "2670:7363",
+      "name": "Property 1=Default",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "9a1b278a1daf483f104cb884ffa81ad3d4205359",
+      "nodeId": "2683:6055",
+      "name": "Property 1=5",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "9ae063d12270ae1e2e7a44442357fc140f840086",
+      "nodeId": "2420:1239",
+      "name": "Dark Mode=Off",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a65a2dbf75d822f3c2db69f9dfd0f2c70521ad05",
+      "nodeId": "2576:5008",
+      "name": "Dark Mode=Off",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "a7d6b109d27d611698a462cb1b47f2e683832993",
+      "nodeId": "1422:684",
+      "name": "Brand=Hisse, Dark Mode=FALSE, Post Processing=FALSE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ad6faf16d6dab87cfb494e93955e81a0816f6782",
+      "nodeId": "2481:13784",
+      "name": "Theme=light, Style=2",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b6f111a630db800db80bfe610e1e49decc7cfc18",
+      "nodeId": "2657:5163",
+      "name": "Dark Mode=Off",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "b7b61c7e3055c3893c2ea316144f441b89746aa8",
+      "nodeId": "2656:5058",
+      "name": "Dark Mode=On",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "c141cd4b16c77b2ae2cf52c314e24f7d7c323baf",
+      "nodeId": "2195:2207",
+      "name": "Dark=False",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "c8d06a6bc770e7c8fc6f416c8c72e476607b7d24",
+      "nodeId": "2683:6049",
+      "name": "Property 1=2",
+      "description": "",
+      "containingFrame": "Tech (HFT)",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "c9cadd66f47138aa4a0f50feae66121aa1e37a9d",
+      "nodeId": "2602:14406",
+      "name": "Brand=Global, Dark Mode=TRUE, Post Processing=FALSE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "ccad97430c3fb6c52e2e7552eb8de446e3260cdf",
+      "nodeId": "1423:6391",
+      "name": "Brand=Kripto, Dark Mode=TRUE, Post Processing=TRUE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "d3950087128d5961164fce4087e413cf168f46bb",
+      "nodeId": "2195:2205",
+      "name": "Dark=True",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "e1dacef45a858879e80a206d4e319fe456be0adb",
+      "nodeId": "2481:13778",
+      "name": "Theme=dark, Style=1",
+      "description": "",
+      "containingFrame": "BtcTurk Global",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f7df966a58ccff1515735ba42156dfd804e89e1a",
+      "nodeId": "1423:6395",
+      "name": "Brand=Hisse, Dark Mode=TRUE, Post Processing=TRUE",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "fe5733dd9c2c65fc93603001f72e2dc29d7bec01",
+      "nodeId": "2127:982",
+      "name": "Dark=False",
+      "description": "",
+      "containingFrame": "BitRapid",
+      "containingPage": "-> Visuals"
+    },
+    {
+      "key": "f84be91b5214295396c651be74c451c689be1a4d",
+      "nodeId": "3083:3930",
+      "name": "Rooted Device",
+      "description": "",
+      "containingFrame": "Kripto + Hisse",
+      "containingPage": "-> Visuals"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "fileKey": "xtfDipMq69j91GSzrJQhzY",
+  "name": "FK-Drawer",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:09:53.229Z",
+  "componentCount": 3,
+  "components": [
+    {
+      "key": "455c27f1f7b6b080abbfeb7c9a12981f734ce871",
+      "nodeId": "8006:5936",
+      "name": "Wrapper=32px",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "724d1b71d4b17071e5cc2403f17a26c5f22e3740",
+      "nodeId": "8006:5939",
+      "name": "Wrapper=24px",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9c01fa40672fca53639f7f19fff2569c4c71ae20",
+      "nodeId": "8006:5934",
+      "name": "Drawer/Swipe Bar",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    }
+  ]
+}

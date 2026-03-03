@@ -1,0 +1,33 @@
+{
+  "fileKey": "pONZ7MnnWFyThMVh1BVeHD",
+  "name": "FK-Radio",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:08.124Z",
+  "componentCount": 3,
+  "components": [
+    {
+      "key": "73be53d0a9fe24404e05b2bff806b4ffc7e0d6dd",
+      "nodeId": "8001:17",
+      "name": "State=Disabled",
+      "description": "",
+      "containingFrame": "FK-Radio",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "df11e017ae5ed9a3277c4410a0f9e5096a5bbf4f",
+      "nodeId": "8001:19",
+      "name": "State=Enable",
+      "description": "",
+      "containingFrame": "FK-Radio",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ef1a116d1ea6334f4dd9ad951506ac7dcd802581",
+      "nodeId": "8001:21",
+      "name": "State=Default",
+      "description": "",
+      "containingFrame": "FK-Radio",
+      "containingPage": "1.0"
+    }
+  ]
+}

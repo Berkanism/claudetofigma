@@ -1,0 +1,41 @@
+{
+  "fileKey": "ADqYI5EermvB9JpEOByLH9",
+  "name": "FK-PriceRow",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:05.680Z",
+  "componentCount": 4,
+  "components": [
+    {
+      "key": "e453c30a4282f95b60f9034e98fad2a8a74137ba",
+      "nodeId": "8003:517",
+      "name": "Type=Default, Action=Buy",
+      "description": "",
+      "containingFrame": "Price List Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7cd80fc8923d77857bf51a37979ae209802e8420",
+      "nodeId": "8139:1007",
+      "name": "Type=Action, Action=Buy",
+      "description": "",
+      "containingFrame": "Price List Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a80878d18ab7d04a9c5a9f4a89893fa5b220cb70",
+      "nodeId": "8139:1938",
+      "name": "Type=Action, Action=Sell",
+      "description": "",
+      "containingFrame": "Price List Row",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ec87ba33c5d2349a9a3aa96cd4ea5e1b105e7d74",
+      "nodeId": "8144:880",
+      "name": "Type=Default, Action=Sell",
+      "description": "",
+      "containingFrame": "Price List Row",
+      "containingPage": "1.0"
+    }
+  ]
+}

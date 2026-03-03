@@ -1,0 +1,145 @@
+{
+  "fileKey": "a3VVbE8J76uGX77d2ChecT",
+  "name": "FK-ProgressDot",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:07.175Z",
+  "componentCount": 17,
+  "components": [
+    {
+      "key": "076e9c79dbe3c5ffa21bd4a7d97996bb9d8c82fa",
+      "nodeId": "8087:81",
+      "name": "%=0",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6b9960785869b8328739a652de84ca087e3eb672",
+      "nodeId": "8081:53",
+      "name": "Type=Warning",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c60bbea26bf9c5efee02a2f3b35f29ceb57eaf14",
+      "nodeId": "8087:93",
+      "name": "%=75",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f43d5373239f442a3d48cd12752807c5fe36ad0a",
+      "nodeId": "8082:72",
+      "name": "Type=Low 2",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f5cf8819f5a6e4fb27671e17e601638d53355e88",
+      "nodeId": "8087:89",
+      "name": "%=50",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f7f464cef5e7e0891349188224a58d967ceb45b2",
+      "nodeId": "8087:101",
+      "name": "%=100",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "09c8c6f6794a4ebbed65a58629316868fc19f96b",
+      "nodeId": "8096:12",
+      "name": "Type=Low [0], Size=Large",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "49aaa48a006f580146e07287ec49556a08b59dcf",
+      "nodeId": "8078:260",
+      "name": "Type=High, Size=Large",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "50b866e94a61e326d5950c0f2a5abfae3d8c85c5",
+      "nodeId": "8078:170",
+      "name": "Type=Medium, Size=Large",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7807cefae056d304b2b5b0fddefde04b88b1b425",
+      "nodeId": "8095:66",
+      "name": "Type=Low [2], Size=Large",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d2b9987babd7cc4657e11e9323ffe71bde107beb",
+      "nodeId": "8092:45",
+      "name": "Type=Low [1], Size=Large",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f817d29120a425e3a053a2dba5394123b5df76f4",
+      "nodeId": "8073:31125",
+      "name": "Type=Medium, Size=Small",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "02c88c43b77a01285e3eb0786bf1797bf8395398",
+      "nodeId": "8073:31123",
+      "name": "Type=Low [3], Size=Small",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3ef9160db70f44ca864318e1c7549fc43eeb496f",
+      "nodeId": "8073:31131",
+      "name": "Type=High, Size=Small",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "64091a81330f5cb4194b750868cc80972a476ab1",
+      "nodeId": "8001:15",
+      "name": "%=25",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dcd36c37f156c9a81405707b599276eaa1ef88dd",
+      "nodeId": "8081:43",
+      "name": "Type=Low",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d9224bac9ab4b1b2b391c5efc61727ac35cf2e07",
+      "nodeId": "8078:277",
+      "name": "Type=Low [3], Size=Large",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "fileKey": "2ZTHbEHReUPqN1b1au4JIX",
+  "name": "FK-BalancePNL",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:22.400Z",
+  "componentCount": 25,
+  "components": [
+    {
+      "key": "da8f40c32a394eba12b616727631a6f071ee2396",
+      "nodeId": "10074:2125",
+      "name": "Balance Card",
+      "description": "",
+      "containingFrame": "Balance Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "006cdef333cd1d170bec00d6feddc04fbc414e8a",
+      "nodeId": "10124:42961",
+      "name": "Type=Trade (Color), Style=Double",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0110d387df114d8c746a2d8713c217696a56501b",
+      "nodeId": "10075:79387",
+      "name": "PNL",
+      "description": "",
+      "containingFrame": "Balance Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "229f36098b8cb6f56e94a791b7228d9e9e930ee9",
+      "nodeId": "10125:5220",
+      "name": "Type=Stock",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "380fc20e968054367bd09edf2ab54d9fd0dacd8a",
+      "nodeId": "10124:42947",
+      "name": "Type=Deposit & Withdrawal, Style=Double",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "624fd1222cb565f2c2ce4d5f51a0887c97e990a5",
+      "nodeId": "10125:4864",
+      "name": "Brand=Kripto",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "63cfa843dea4857559594087413edc530c29fe90",
+      "nodeId": "10110:3308",
+      "name": "Blocked",
+      "description": "",
+      "containingFrame": "Balance Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7b100ec38f86cad30a642a31b7201396b308f89e",
+      "nodeId": "10217:2694",
+      "name": "Status=Off",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "81f6808809bf5903ea7f3b34a28efce8b2f59e66",
+      "nodeId": "10124:42965",
+      "name": "Type=Crypto",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d4a94066545448039ec74080100ecec512d332b4",
+      "nodeId": "10124:60445",
+      "name": "Type=Crypto",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fc07afe12cba31057970878b46c4cfcdca543643",
+      "nodeId": "10125:4662",
+      "name": "Type=Fiat",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1708184d2c1f486dfb03f8878d43d19b12602250",
+      "nodeId": "10074:2240",
+      "name": "Type=Text",
+      "description": "",
+      "containingFrame": "Balance Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "98f598f1b9ef158b935c3ec62057bf78ede98ab9",
+      "nodeId": "10074:2238",
+      "name": "Type=Pie",
+      "description": "",
+      "containingFrame": "Balance Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "713816d8d541185ad381e2718b8a1094994b3b18",
+      "nodeId": "10125:11444",
+      "name": "Asset Detail [Drawer]",
+      "description": "",
+      "containingFrame": "Asset Detail [Drawer]",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "05daf9b202c69e78f0e5594a84699cd1f012884d",
+      "nodeId": "10125:4010",
+      "name": "Type=Fiat",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "21e3ee8f18f8f6fbd2b14c319daa9fc82cc6f46c",
+      "nodeId": "10124:42908",
+      "name": "Asset Detail -> Pairs",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3fd298242e7d86b613846b3bef61a56b420ad83b",
+      "nodeId": "10124:60681",
+      "name": "Type=Crypto",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "68edabfd938e09cb9543b5e91c3abedb8bce801f",
+      "nodeId": "10075:2378",
+      "name": "Type=Chart",
+      "description": "",
+      "containingFrame": "Balance Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6e41886bac95f88360983c724cc53d01e11a45f1",
+      "nodeId": "10124:60786",
+      "name": "Asset Detail -> PNL Module",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8c6465c06a46efb9ce61f5470f524bda75d3e935",
+      "nodeId": "10213:3037",
+      "name": "Status=Ongoing",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9ddfaa608a957331210153928f4650509bf345d2",
+      "nodeId": "10125:4824",
+      "name": "Brand=Hisse",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b268e0bb2b274d2e1e0a06c4ef8517a623446dd9",
+      "nodeId": "10124:61795",
+      "name": "Direction=Vertical",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b84f9e085881bb2fe30f4ca6b7638efef35a2d0e",
+      "nodeId": "10074:1958",
+      "name": "Type=Text",
+      "description": "",
+      "containingFrame": "Balance Card",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e104eb03305298ebf92702094e6818e9934ddb61",
+      "nodeId": "10124:42912",
+      "name": "Direction=Horizontal",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e86e1dabd5de8635bac3edc966b04ba75a5d5054",
+      "nodeId": "10214:2690",
+      "name": "Status=On",
+      "description": "",
+      "containingFrame": "Asset Detail",
+      "containingPage": "1.0"
+    }
+  ]
+}

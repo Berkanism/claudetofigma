@@ -1,0 +1,73 @@
+{
+  "fileKey": "GoZDoZVaxgKT3lwn5ERr5B",
+  "name": "FK-AssetList",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:21.744Z",
+  "componentCount": 8,
+  "components": [
+    {
+      "key": "e7390df2a4ea06a027a5a2462d522e4965729efd",
+      "nodeId": "14006:20998",
+      "name": "Asset List Search+Button",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "560207bacae30ac7baa0b6d08b54508777abc350",
+      "nodeId": "14008:73589",
+      "name": "Asser List Disclaimer",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "01121b791b863f2d82f6b2e85c8e138a4339f332",
+      "nodeId": "14010:93968",
+      "name": "Brand=Hisse, PNL=False",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1897c1ce2bf1b9cb060110be0115955b27f89b30",
+      "nodeId": "14011:103811",
+      "name": "Brand=Hisse (Rüçhan), PNL=True",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "35119b96390615b67c2bcad2b227f832b3f63a81",
+      "nodeId": "14005:81195",
+      "name": "Brand=Hisse, PNL=True",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "50e48f4303321786e5e8ba3a6d95a14dee7234cf",
+      "nodeId": "14005:27044",
+      "name": "Brand=Kripto, PNL=True",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d9c121e6036a7d0d7f4b4d21dd11a77b093933ef",
+      "nodeId": "14011:97888",
+      "name": "Wallet List [Assets]",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "dbe22c26cc763e5fea8af263e3c4d90fca1896aa",
+      "nodeId": "14010:90153",
+      "name": "Brand=Kripto, PNL=False",
+      "description": "",
+      "containingFrame": "Wallet",
+      "containingPage": "1.0"
+    }
+  ]
+}

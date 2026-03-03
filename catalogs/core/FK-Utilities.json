@@ -1,0 +1,1625 @@
+{
+  "fileKey": "rsMwutsd7tLrgKDXTQ0EcN",
+  "name": "FK-Utilities",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:19.587Z",
+  "componentCount": 202,
+  "components": [
+    {
+      "key": "febe1877b2bd65985ba2c826c7d35a8d878f8926",
+      "nodeId": "8001:1124",
+      "name": "Type=Col Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "02f3d9da359114615259acdfdeb734bb5ba9efa0",
+      "nodeId": "8001:686",
+      "name": "Gesture=Scroll Right, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "0248c65b6cf720185bffe4c3ffc002696a667e21",
+      "nodeId": "8001:465",
+      "name": "Gesture=Scroll Vertical, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "0497d0a3c439f6342f89dc1cd086e4326c386849",
+      "nodeId": "8001:861",
+      "name": "Gesture=Swipe Left, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "078317f2c71e3470355925dc3565dd954d864a2a",
+      "nodeId": "8001:425",
+      "name": "Gesture=Tap Hold, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "090f6a65e30a8c8910f2a75131150bc2d2850440",
+      "nodeId": "8001:327",
+      "name": "Gesture=Scroll Vertical, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "0a5df18f7b3854da3138b50e16d9ee54dbd89635",
+      "nodeId": "8001:1001",
+      "name": "Type=Pointer",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "0bb1bac6bbb4a27feb2cbd6b2242388b98faadb6",
+      "nodeId": "8001:287",
+      "name": "Gesture=Tap Hold, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "0c0246b24c06f161c27884539c10ebdf7be1d9c8",
+      "nodeId": "8001:145",
+      "name": "Gesture=Scroll Left, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "0d32ccf55b7ef5a6abe6a0cf85267fe0286c4a81",
+      "nodeId": "8001:238",
+      "name": "Gesture=Move, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "0e0736d3f85b04bba3d74d9d161bddca38ccec6a",
+      "nodeId": "8001:174",
+      "name": "Gesture=Scroll Down, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "0e7a78e3b9eaa14f77952b4b839110da5138189c",
+      "nodeId": "8001:80",
+      "name": "Gesture=Move, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "0fc24a7a799722e8610256eadac9958abbc87737",
+      "nodeId": "8001:533",
+      "name": "Gesture=Move, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "1249c2f9ccee43647770beb4e82d1dbeb045e6ff",
+      "nodeId": "8001:270",
+      "name": "Gesture=Swipe Left, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "154c7eeff8e9c166295ecf42ba7c446ab5f82784",
+      "nodeId": "8001:1098",
+      "name": "Type=Ns-Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "171788a704e62951c145fbf5e52bc5fd72718221",
+      "nodeId": "8001:471",
+      "name": "Gesture=Scroll Horizontal, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "175fac443e5b05d54ae5100607da78ef80c70130",
+      "nodeId": "8001:666",
+      "name": "Gesture=Scroll Left, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "17f0bd9dd6aef809059e86ebc0efbc3d057f98ad",
+      "nodeId": "8001:1008",
+      "name": "Type=Not Allowed",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "181653a4e0db1cd88247c7272b4d21433daee518",
+      "nodeId": "8001:995",
+      "name": "Type=Arrow",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "18d4b98b41b5a6929e91fc71a0c8bd3820af31ca",
+      "nodeId": "8001:264",
+      "name": "Gesture=Scroll Horizontal, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "1c51e4c606c6b22d7244ae707b12f96ea44e4b06",
+      "nodeId": "8001:990",
+      "name": "Type=Cell",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "18f8a2c0508f95b5187e0af85bc8daf25c8c9710",
+      "nodeId": "8001:316",
+      "name": "Gesture=Scroll Down, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "1aa06757c1057246efbdd7309d37f4879887b5b2",
+      "nodeId": "8001:1110",
+      "name": "Type=N-Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "1feb632b84cb370f1b7b23821194e22d0f9ab31c",
+      "nodeId": "8001:127",
+      "name": "Gesture=Swipe Left, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "20f8799e0ae10a78ee0b07c4ad90bd7810595a83",
+      "nodeId": "8001:413",
+      "name": "Gesture=Swipe Right, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "249bfa64203f84caba6ee929e7d354b84e20cfa4",
+      "nodeId": "8001:65",
+      "name": "Gesture=Tap, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "26ba2b270232a3b5685d0e6d9523b84bfb984726",
+      "nodeId": "8001:804",
+      "name": "Gesture=Scroll Left, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "297363919ff77b1f37f7649055b3643ff7cfbc3c",
+      "nodeId": "8001:280",
+      "name": "Gesture=Default, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "29bd62e72124a563d35670305745b9e1d96b908a",
+      "nodeId": "8001:898",
+      "name": "Gesture=Move, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "2a0979654f892af33b184f47e1c347dfed5a6b94",
+      "nodeId": "8001:717",
+      "name": "Gesture=Scroll Horizontal, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "2a1df9a8879ee9f944e5854eb86c5d76fd2d9650",
+      "nodeId": "8001:723",
+      "name": "Gesture=Swipe Left, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "2d30c0c99adf15ac1157a3835fbc12c5d2f1e37e",
+      "nodeId": "8001:302",
+      "name": "Gesture=Scroll Right, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "2e2b943d269a217d2ca99bdcf56d70f49f4f0ad0",
+      "nodeId": "8001:751",
+      "name": "Gesture=Tap, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "2f8cffe05ecc3f9958e7c256eca3b8fa8332f201",
+      "nodeId": "8001:1102",
+      "name": "Type=Nesw-Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "306e872f737cfe1a767fc535e57ba9ed666bd2c4",
+      "nodeId": "8001:935",
+      "name": "Gesture=Swipe Right, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "30a6d5af37b422a8423c376be0384070a329236c",
+      "nodeId": "8001:571",
+      "name": "Gesture=Scroll Horizontal, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "311dd3986756abd3c270a16ed1f4f837b7a15d48",
+      "nodeId": "8001:1032",
+      "name": "Type=Grab",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "31837710c72c7cec1f598f18f920aa5994a19493",
+      "nodeId": "8001:677",
+      "name": "Gesture=Scroll Up, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "32cd084ccf8af78a6b30840bc73219fb558cfbb8",
+      "nodeId": "8001:179",
+      "name": "Gesture=Double Tap, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "3441852b9d0d6839271c277354d490e0dc806165",
+      "nodeId": "8001:92",
+      "name": "Gesture=Scroll Down, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "35a7e3257090f14306d49f5ff3c83acb16af3b64",
+      "nodeId": "8001:493",
+      "name": "Gesture=Scroll Left, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "372df7cd72916ca9705fab1470d0fb3568e4b389",
+      "nodeId": "8001:459",
+      "name": "Gesture=Double Tap, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "37aa01efa65411b75e2757fd0285068e1890bc0c",
+      "nodeId": "8001:976",
+      "name": "Type=Crosshair",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "391240ee5ba805d1ca91e06da5580fead272dcd1",
+      "nodeId": "8001:218",
+      "name": "Gesture=Tap Hold, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "3be33a6809e237d1072644f2d510448febcfb806",
+      "nodeId": "8001:390",
+      "name": "Gesture=Double Tap, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "3e234a762553be42eb5d61b833d6285bb81e628d",
+      "nodeId": "8001:562",
+      "name": "Gesture=Scroll Vertical, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "3e3bb1b1dcc120eec35d0d4bcbfb38911d495623",
+      "nodeId": "8001:907",
+      "name": "Gesture=Scroll Down, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "3f1d17d930aec62ef5cd4e812b65809a34280388",
+      "nodeId": "8001:792",
+      "name": "Gesture=Swipe Left, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "3fbac44ac5a31e7df3746dd2a70a64d8c4719d1e",
+      "nodeId": "8001:193",
+      "name": "Gesture=Scroll Horizontal, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "427e2f2fe5b2e40f619549a8e709d0c0919a96d3",
+      "nodeId": "8001:797",
+      "name": "Gesture=Swipe Right, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "434659691477741e9f62295b71ad143c13d3e32b",
+      "nodeId": "8001:815",
+      "name": "Gesture=Scroll Up, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "441e15556d45bd628a40388f75075e7ac13d13b8",
+      "nodeId": "8001:824",
+      "name": "Gesture=Scroll Right, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "445d1d5084a39af1906c9331fcc511b95d9bc8c3",
+      "nodeId": "8001:769",
+      "name": "Gesture=Scroll Down, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "8e7b6cb3992f8203e8a15825db76265de1ca241c",
+      "nodeId": "8001:72",
+      "name": "Gesture=Scroll Right, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "48aee4ab4357444f10f67e4cc5cb510236f6b900",
+      "nodeId": "8001:1023",
+      "name": "Type=Help",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "4ccd6c3010e97cf43c624eec2529046eb8cc0c55",
+      "nodeId": "8001:482",
+      "name": "Gesture=Swipe Right, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "4dae6393553d5b0ab59e13138299339d41ccf554",
+      "nodeId": "8001:985",
+      "name": "Type=Context menu",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "4def77e59f7eab95d26125684e80ef1a82c830e4",
+      "nodeId": "8001:436",
+      "name": "Gesture=Tap, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "4df340b08ada87a4eea040ed8e201521e98a7fac",
+      "nodeId": "8001:518",
+      "name": "Gesture=Tap, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "4f5150c8dc7a6ca91bc6c365b6ea38363330bbd7",
+      "nodeId": "8001:501",
+      "name": "Gesture=Tap Hold, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "517d8b2be64bad374ee6eb8ad912f077cc8a5d16",
+      "nodeId": "8001:307",
+      "name": "Gesture=Move, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "547664161134544dc8fc6db9ac666d7e8507a409",
+      "nodeId": "8001:924",
+      "name": "Gesture=Scroll Horizontal, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "55a3d5a696839e8ad62f1518a3c1550c67b9fc94",
+      "nodeId": "8001:118",
+      "name": "Gesture=Scroll Horizontal, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "573ad32e5eb44289f41fe3f580ca7f9e3c0905a5",
+      "nodeId": "8001:671",
+      "name": "Gesture=Tap Hold, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "58347f11a985db1f60ac80c2cbd02a0a5ced4eb9",
+      "nodeId": "8001:545",
+      "name": "Gesture=Scroll Down, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "5d6d66c61cb2322473101856ea27111992c219d8",
+      "nodeId": "8001:487",
+      "name": "Gesture=Default, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "5e12ea1a90b88a9237124473f1f0879d49ba40a2",
+      "nodeId": "8001:376",
+      "name": "Gesture=Move, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "5ede5980da4b3dd7925461e9bc4f833beb3c7ee5",
+      "nodeId": "8001:1114",
+      "name": "Type=Ew-Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "5f50dac2f61662c22bb19a07b49b0bc554b24811",
+      "nodeId": "8001:169",
+      "name": "Gesture=Move, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "6672c446f367cd8b6985dbaf0153fb4e5ef404db",
+      "nodeId": "8001:293",
+      "name": "Gesture=Scroll Up, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "6763d2ff564993c359ed4c30fc60bc0b9738524f",
+      "nodeId": "8001:728",
+      "name": "Gesture=Swipe Right, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "6af9a3e4fa35f6f89a4cfd34cd0b4d97a924b83f",
+      "nodeId": "8001:1071",
+      "name": "Type=W-Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "6c726988e85a9d873c87d66c2d3b86b95bbb0dcb",
+      "nodeId": "8001:912",
+      "name": "Gesture=Double Tap, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "6fc7464d5faaf6eba59df418b1fb4eb543b4e47f",
+      "nodeId": "8001:40",
+      "name": "Gesture=Scroll Left, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "7033b0ccf7eea44b9e2a56c574867d130364efed",
+      "nodeId": "8001:786",
+      "name": "Gesture=Scroll Horizontal, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "71627bf84628ec157cfe56939a6a54b2cd17acdd",
+      "nodeId": "8001:525",
+      "name": "Gesture=Scroll Right, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "71e2e18681497e30c4974af19bb0772dac19a6b9",
+      "nodeId": "8001:420",
+      "name": "Gesture=Scroll Left, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "752cf4d1bd6018d8643b1db7938e5e45ed413fea",
+      "nodeId": "8001:34",
+      "name": "Gesture=Default, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "791df613d2f78e74f86902e0c621d829da2b5132",
+      "nodeId": "8001:229",
+      "name": "Gesture=Tap, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "799699eaeeaecdcfdcd1afb81bc6070eaa7797ab",
+      "nodeId": "8001:632",
+      "name": "Gesture=Double Tap, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "7aacbe4ae08ea406b18a84ed899ca08e9a7dea34",
+      "nodeId": "8001:282",
+      "name": "Gesture=Scroll Left, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "7c5fdfa67a9d0d74dcc058925778ae17a986f355",
+      "nodeId": "8001:445",
+      "name": "Gesture=Move, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "7d634d4c6aba0080cd186f62af718b1f457d417e",
+      "nodeId": "8001:349",
+      "name": "Gesture=Default, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "7d8f433250af8751018df872dd8701c1a35e8b4d",
+      "nodeId": "8001:918",
+      "name": "Gesture=Scroll Vertical, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "7e5df1708a2966aeb9dd586675e64257ee077d47",
+      "nodeId": "8001:682",
+      "name": "Gesture=Tap, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "80a6d1480f9db99a4e9f900ac658b8588cf22d3c",
+      "nodeId": "8001:356",
+      "name": "Gesture=Tap Hold, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "8122191d0d3fe9bf7fdcfe7a0c55fadcb3bd34f3",
+      "nodeId": "8001:367",
+      "name": "Gesture=Tap, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "82bb5acce075fe6c3feb82d09ef5b67545933dbb",
+      "nodeId": "8001:321",
+      "name": "Gesture=Double Tap, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "8a7aec63dcd241ddd60c02406f99f3149d454434",
+      "nodeId": "8001:979",
+      "name": "Type=Copy",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "8b76b281e6254f8a4670d289bc951a7d44442918",
+      "nodeId": "8001:275",
+      "name": "Gesture=Swipe Right, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "90089bee2b71203e217b9fc3a93ae4e0c2edb3df",
+      "nodeId": "8001:820",
+      "name": "Gesture=Tap, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "905d45d8cecfb37ccdc0d5ad43c1a01b400632d8",
+      "nodeId": "8001:204",
+      "name": "Gesture=Swipe Right, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "913644742e0a80d6bfce19ae45bb2a0f43273123",
+      "nodeId": "8001:1053",
+      "name": "Type=Progress",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "9142b94cf5ed479ffa9b97def1606d10b41a48ff",
+      "nodeId": "8001:735",
+      "name": "Gesture=Scroll Left, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "923932a6af25224eba341b7001ee3a667e4789ed",
+      "nodeId": "8001:622",
+      "name": "Gesture=Move, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "93498390472b86ac6e06584a80e28d24c1eb0525",
+      "nodeId": "8001:664",
+      "name": "Gesture=Default, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "9535a3f7285fe6c1eb12bb420c4c927b0b1c8039",
+      "nodeId": "8001:612",
+      "name": "Gesture=Tap, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "967f3cefa89c946ef138f5a25ae620da2949f4c2",
+      "nodeId": "8001:164",
+      "name": "Gesture=Scroll Right, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "9860b53d4a6ae34da9ced614848483237854a53c",
+      "nodeId": "8001:809",
+      "name": "Gesture=Tap Hold, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "9bba68cbc253e60d055911b84dc813114d6496ee",
+      "nodeId": "8001:198",
+      "name": "Gesture=Swipe Left, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "9beb41c408978284adf9feba7fc04ce5affd00d0",
+      "nodeId": "8001:454",
+      "name": "Gesture=Scroll Down, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "9cd4b3d5b2862896d46e8020632bae4648ca72fd",
+      "nodeId": "8001:362",
+      "name": "Gesture=Scroll Up, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "9dbdb438876bdd800020f12df2ab316cf8b192c6",
+      "nodeId": "8001:109",
+      "name": "Gesture=Scroll Vertical, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "9f18f9ce1bcdb8f69decd73cec3ed08642a0b122",
+      "nodeId": "8001:838",
+      "name": "Gesture=Scroll Down, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "9f8ddbfe4d1a71a45913195ad75d67de0975c93e",
+      "nodeId": "8001:396",
+      "name": "Gesture=Scroll Vertical, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "a0a344bbc5252d466e3b2ef197a791c9fdc65374",
+      "nodeId": "8001:252",
+      "name": "Gesture=Double Tap, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "a2f557680c47ad8a0f82dd733713d0c6ce483a7f",
+      "nodeId": "8001:233",
+      "name": "Gesture=Scroll Right, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "a402f1cbf306c90d608b81a464e995eee6192623",
+      "nodeId": "8001:691",
+      "name": "Gesture=Move, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "a445158af0a89faa6ba8cece56bc06b1d7d7ce8d",
+      "nodeId": "8001:211",
+      "name": "Gesture=Default, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "a4b69270ed096a2b586aa1e742282907ae570593",
+      "nodeId": "8001:344",
+      "name": "Gesture=Swipe Right, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "a5664850e6d2e7e13cd43fc5da214e15e87c82a9",
+      "nodeId": "8001:873",
+      "name": "Gesture=Scroll Left, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "a99d0c9bf49a1ba969ce3952ef2cb46db9fd2c51",
+      "nodeId": "8001:1051",
+      "name": "Type=Text",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "a9bb3450d41e6ab11d347a382b87f619bfa46847",
+      "nodeId": "8001:371",
+      "name": "Gesture=Scroll Right, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "aa20fbcb6fba30263dd1f7792af2fc035e8e30a0",
+      "nodeId": "8001:705",
+      "name": "Gesture=Double Tap, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "a9db2f1843c83afd1fa001494311ce412d0ba655",
+      "nodeId": "8001:760",
+      "name": "Gesture=Move, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "aa3b265740b17ead15d7a88870646eceaec06cbb",
+      "nodeId": "8001:646",
+      "name": "Gesture=Scroll Horizontal, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "aba83488ac8af87929efdd2de8ff4822fd7be4a1",
+      "nodeId": "8001:408",
+      "name": "Gesture=Swipe Left, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "abd0dde38ce01f529ac2c9682ef07dc1093c74d2",
+      "nodeId": "8001:774",
+      "name": "Gesture=Double Tap, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "abdfcb7ac98616540dfff4a58f257bb4b915bbc1",
+      "nodeId": "8001:893",
+      "name": "Gesture=Scroll Right, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "ac8a81c7e1592b4196f51b2d0d7ab836cf7b96ca",
+      "nodeId": "8001:711",
+      "name": "Gesture=Scroll Vertical, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "ae36d5e78a3935a68d7da3004c9101de6dad8c69",
+      "nodeId": "8001:596",
+      "name": "Gesture=Default, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "aea45920de7252f4c2d7ae746036f6574dda7c23",
+      "nodeId": "8001:258",
+      "name": "Gesture=Scroll Vertical, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "b38e3ecc218e1e137e8ab55fb67d9ec4d625283d",
+      "nodeId": "8001:1090",
+      "name": "Type=NWSE-Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "b3d814e073d81629299b15347556e5fd44d8b7d0",
+      "nodeId": "8001:1083",
+      "name": "Type=S-Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "b551f87f74c7ddfe50cc469f54c09583d0c6510c",
+      "nodeId": "8001:657",
+      "name": "Gesture=Swipe Right, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "b737ae7ae89746f826f51e03396ece942a166e3a",
+      "nodeId": "8001:247",
+      "name": "Gesture=Scroll Down, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "b76ab94838e8e4b04a52d9d396bfab43fad04536",
+      "nodeId": "8001:1075",
+      "name": "Type=Sw-Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "b97b3c47b124a353dcf0c682b6294873f7361bff",
+      "nodeId": "8001:641",
+      "name": "Gesture=Scroll Vertical, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "b9921e0a6f502f2c52b34cfd339715a3d50fee63",
+      "nodeId": "8001:930",
+      "name": "Gesture=Swipe Left, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "b9c33409b3360ab33a37685fed27c8abdb0628c3",
+      "nodeId": "8001:440",
+      "name": "Gesture=Scroll Right, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "ba3d4d531b53b9fc87591144b172543215706198",
+      "nodeId": "8001:1044",
+      "name": "Type=Zoom In",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "bec02911a5ec31bc8f44b6ced1a0bfc8572f34e3",
+      "nodeId": "8001:1120",
+      "name": "Type=E-Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "bc1d9dabf55c3e9e96e206d32eb68226d6f21f21",
+      "nodeId": "8001:700",
+      "name": "Gesture=Scroll Down, Fingers=Hand-FourFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "c02588811101a915b3f089f0bd59701da3b8a0a5",
+      "nodeId": "8001:159",
+      "name": "Gesture=Tap, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "c09fe8bc06846217cd2b353ef6bb2e627c420860",
+      "nodeId": "8001:135",
+      "name": "Gesture=Swipe Right, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "c430949b3a9e916aba59bef1fc0143d8c99d59a5",
+      "nodeId": "8001:553",
+      "name": "Gesture=Double Tap, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "c53f364cf9f2c842da63d184614bcf547f2aedbd",
+      "nodeId": "8001:733",
+      "name": "Gesture=Default, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "c786dbf7dde41ffb00e855edd28e604d19aae90e",
+      "nodeId": "8001:755",
+      "name": "Gesture=Scroll Right, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "c872e386b38fd136a17f0ed8974d8e30e1d03e28",
+      "nodeId": "8001:351",
+      "name": "Gesture=Scroll Left, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "c8a0cd602cc56ddfcae2d6ed226d1e65975205e7",
+      "nodeId": "8001:1087",
+      "name": "Type=Row Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "ca01b3ceda80fd4a2bca927e86558438608b1742",
+      "nodeId": "8001:224",
+      "name": "Gesture=Scroll Up, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "ca04c5b2b8ea1b2cf25997d9cc58e0dd6de3af50",
+      "nodeId": "8001:580",
+      "name": "Gesture=Swipe Left, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "cb94403c4d58d050dd083784a799239aac8da586",
+      "nodeId": "8001:385",
+      "name": "Gesture=Scroll Down, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "cbfa58f918c6b252a72837a98a1b019e137bb8db",
+      "nodeId": "8001:510",
+      "name": "Gesture=Scroll Up, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "cc38e532711a4550322f5a6f9d623d0af9fa4b89",
+      "nodeId": "8001:746",
+      "name": "Gesture=Scroll Up, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "cccb8e36d48a31ccd42269b09301fd2d3bd25ecf",
+      "nodeId": "8001:1025",
+      "name": "Type=Grabbing",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "ce3a8ae05fc130c988383523ce33b3041359decc",
+      "nodeId": "8001:213",
+      "name": "Gesture=Scroll Left, Fingers=Hand-FourFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "ceabc36377b2ae387564c4f2cedf448b57c5618c",
+      "nodeId": "8001:1049",
+      "name": "Type=Vertical Text",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "d06549e328a9c4e5f840c364662d7ec917e11a38",
+      "nodeId": "8001:802",
+      "name": "Gesture=Default, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "d0ce8f20623f744e121552bd70856a0d6061d9e1",
+      "nodeId": "8001:1038",
+      "name": "Type=Zoom Out",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "d11bf39024b7082bdc233883037ab60982baf9c6",
+      "nodeId": "8001:849",
+      "name": "Gesture=Scroll Vertical, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "d210eef6f2c6c5d69a40add83b3033b474fc7cde",
+      "nodeId": "8001:339",
+      "name": "Gesture=Swipe Left, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "d285d59a5a6e531bb0b5398e700144528eada5f8",
+      "nodeId": "8001:48",
+      "name": "Gesture=Tap Hold, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "d5f1032970b2a7170363fca2039c0bfd33669b0f",
+      "nodeId": "8001:333",
+      "name": "Gesture=Scroll Horizontal, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "d651ed386f34e0d562774af6cf2d0f8095de12f1",
+      "nodeId": "8001:1079",
+      "name": "Type=Se-Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "d79ab244960971a70c0096230b5576ca97e29bed",
+      "nodeId": "8001:610",
+      "name": "Gesture=Scroll Up, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "d8d6d4cea5451c524224d8c7d8cf760929a4a565",
+      "nodeId": "8001:477",
+      "name": "Gesture=Swipe Left, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "d96bf0dcdddf4d1ad3e8ded5da3bff93d3d8d675",
+      "nodeId": "8001:143",
+      "name": "Gesture=Default, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "dab4d4b76fb057ff2aedd2de3375e780206c048f",
+      "nodeId": "8001:57",
+      "name": "Gesture=Scroll Up, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "db1fae430d0f72634314031ce9bc285c23917be7",
+      "nodeId": "8001:866",
+      "name": "Gesture=Swipe Right, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "dc972ee5b222271de586dbcfda82beaf28ea7480",
+      "nodeId": "8001:1013",
+      "name": "Type=Move",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "df539d1295aafd995ed3d9cec116acf56eb03eb6",
+      "nodeId": "8001:651",
+      "name": "Gesture=Swipe Left, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "e00c5dbff65f4bc0bdc5f41fe2e5de6ed8f5f832",
+      "nodeId": "8001:998",
+      "name": "Type=Alias",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "e29613a3754b3e946ed9fe15e53b297d5bdfde40",
+      "nodeId": "8001:298",
+      "name": "Gesture=Tap, Fingers=Hand-ThreeFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "e4f37da446cb80f795eca5031d066a100648da51",
+      "nodeId": "8001:871",
+      "name": "Gesture=Default, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "e62244e8c082b82d0a7118043dc9f20b9a80a6c4",
+      "nodeId": "8001:598",
+      "name": "Gesture=Scroll Left, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "e7e943793df60dafa44518921e4d5093b0c57eaf",
+      "nodeId": "8001:402",
+      "name": "Gesture=Scroll Horizontal, Fingers=Hand-TwoFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "e8c726fcfa96e71f3f9c5d29667a0780f5435930",
+      "nodeId": "8001:431",
+      "name": "Gesture=Scroll Up, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "e8cff1ba7bd7928d24e2ac1134b72a29287811a1",
+      "nodeId": "8001:889",
+      "name": "Gesture=Tap, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "e904a30747210ce8272df0711ec402ee9ecf71a6",
+      "nodeId": "8001:1094",
+      "name": "Type=Nw-Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "ea385ef36a3407357eb733f57430b1fbcc03e7ab",
+      "nodeId": "8001:151",
+      "name": "Gesture=Tap Hold, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "ec2764ae289f6d7558d2d3eba18bae7fab452e04",
+      "nodeId": "8001:418",
+      "name": "Gesture=Default, Fingers=Hand-OneFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "edd32627325c17e93b5efad93be47c4b042a273e",
+      "nodeId": "8001:878",
+      "name": "Gesture=Tap Hold, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "edd47782da8e519b71bef1d5108f5a202765893e",
+      "nodeId": "8001:188",
+      "name": "Gesture=Scroll Vertical, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "f0632dbe5183b04f71b2ee00d6166bbfe763373d",
+      "nodeId": "8001:627",
+      "name": "Gesture=Scroll Down, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "f170b7bc397942a3d05318b0ccdf845c298d2054",
+      "nodeId": "8001:843",
+      "name": "Gesture=Double Tap, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "f18b855087ef5af998d66867c984d531fea6c0bb",
+      "nodeId": "8001:617",
+      "name": "Gesture=Scroll Right, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "f1cfdf0fccec617ab28a3bd664b2351f0ade31d9",
+      "nodeId": "8001:604",
+      "name": "Gesture=Tap Hold, Fingers=Hand-FiveFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "f3e093b737117dbcc24a9eaf5cb2ca54818b0b40",
+      "nodeId": "8001:855",
+      "name": "Gesture=Scroll Horizontal, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "f4713eb5ff770a108c068e671d8d5670ddb4f3bd",
+      "nodeId": "8001:780",
+      "name": "Gesture=Scroll Vertical, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "f497a9704a43b3100812ba0fc16fd4c174e99862",
+      "nodeId": "8001:884",
+      "name": "Gesture=Scroll Up, Fingers=Hand-OneFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "f54344bf13af071b2583cac8f9f891c0e11216bd",
+      "nodeId": "8001:1106",
+      "name": "Type=Ne-Resize",
+      "description": "",
+      "containingFrame": "Cursor",
+      "containingPage": "Cursors"
+    },
+    {
+      "key": "f78a5d6c64595e19b1c1633c3504ebbd10fadbfd",
+      "nodeId": "8001:100",
+      "name": "Gesture=Double Tap, Fingers=Finger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "f8f3c11bf4ff2c3c95708be78a5e3d9e87a38ce7",
+      "nodeId": "8001:588",
+      "name": "Gesture=Swipe Right, Fingers=Finger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "f916b6849c6ad243c4d48f875be3bd0adbe3f793",
+      "nodeId": "8001:157",
+      "name": "Gesture=Scroll Up, Fingers=Hand-FiveFinger, Inverse=false",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "fb2d0ce590ccccf4b61503ee9f78fd4016b850be",
+      "nodeId": "8001:740",
+      "name": "Gesture=Tap Hold, Fingers=Hand-ThreeFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "fd4a63ae94504358f8ad0b264e5accc998738474",
+      "nodeId": "8001:829",
+      "name": "Gesture=Move, Fingers=Hand-TwoFinger, Inverse=true",
+      "description": "",
+      "containingFrame": "Gesture",
+      "containingPage": "Gestures"
+    },
+    {
+      "key": "2117dd6caf9cdd4930c9f32ebcfc7629f8013142",
+      "nodeId": "8010:69",
+      "name": "TYPE=Current App, Size=Medium",
+      "description": "",
+      "containingFrame": "Page Title",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "2988593c149effc2d2b05ed2f7bacc69d26296e5",
+      "nodeId": "8010:73",
+      "name": "State=ZEPLIN",
+      "description": "",
+      "containingFrame": "Status",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "2db999f4b368f89988ece1bc49f92d45e4c42148",
+      "nodeId": "8010:83",
+      "name": "State=Global Update",
+      "description": "",
+      "containingFrame": "Status",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "40a7bd44de57611713a65ca0edfb834a4578d450",
+      "nodeId": "8010:40",
+      "name": "TYPE=iOS, Size=Default",
+      "description": "",
+      "containingFrame": "Page Title",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "5d1594b5d7c6eba9ca3c583e059a4149e8d89683",
+      "nodeId": "8010:61",
+      "name": "TYPE=Android, Size=Medium",
+      "description": "",
+      "containingFrame": "Page Title",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "65259676a6f062a4937e41bd53a3010ff0f9019f",
+      "nodeId": "8010:89",
+      "name": "State=PROTOTYPE",
+      "description": "",
+      "containingFrame": "Status",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "7298150a82f027b3990f9c893f941749b5d16232",
+      "nodeId": "8010:80",
+      "name": "State=Revision",
+      "description": "",
+      "containingFrame": "Status",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "7ecb773d63555a3389b9926bbe4dc19e1f5c3ddf",
+      "nodeId": "8010:48",
+      "name": "TYPE=iOS, Size=Medium",
+      "description": "",
+      "containingFrame": "Page Title",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "818c7927f532e9e567206521469076f4be6ce9ff",
+      "nodeId": "8010:66",
+      "name": "TYPE=Current App, Size=Default",
+      "description": "",
+      "containingFrame": "Page Title",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "a319fc76a7f5509eafccf3ee36a595b80379573d",
+      "nodeId": "8010:86",
+      "name": "State=DONE",
+      "description": "",
+      "containingFrame": "Status",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "c1a3bc389a9c9ce5e76c941812b0952a8d717e0a",
+      "nodeId": "8010:77",
+      "name": "State=PROGRESS",
+      "description": "",
+      "containingFrame": "Status",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "d1e72487d3019097949679d6e632cefd5d27db31",
+      "nodeId": "8010:92",
+      "name": "State=DONE to ZEPLIN",
+      "description": "",
+      "containingFrame": "Status",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "d311d77f18627969bd4741d13d5641f20ccb4057",
+      "nodeId": "8010:56",
+      "name": "TYPE=Android, Size=Default",
+      "description": "",
+      "containingFrame": "Page Title",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "ed114998c55c837af6a37cd8fcfa5bb7a98489d9",
+      "nodeId": "8010:97",
+      "name": "Diagram",
+      "description": "",
+      "containingFrame": "",
+      "containingPage": "Project Status Lables"
+    },
+    {
+      "key": "40d3e2322b95c0cf64e51d0dc8a68d0d24d9e14a",
+      "nodeId": "8023:556",
+      "name": "Assets/Logo/FellowKit",
+      "description": "",
+      "containingFrame": "",
+      "containingPage": "KitLogo"
+    }
+  ]
+}

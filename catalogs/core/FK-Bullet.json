@@ -1,0 +1,121 @@
+{
+  "fileKey": "5PRWsNFWTDJAZYBkJsFsfX",
+  "name": "FK-Bullet",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:20.917Z",
+  "componentCount": 14,
+  "components": [
+    {
+      "key": "02a66893959c218a1b9e4db371034b2154e82905",
+      "nodeId": "8001:11",
+      "name": "Count=2",
+      "description": "",
+      "containingFrame": "Bullet [Line]",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "179e0a4b9fdc3311ad253be30d3908d47dee7496",
+      "nodeId": "8001:40",
+      "name": "Count=2",
+      "description": "",
+      "containingFrame": "Bullet [Dots]",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3ee2e66ea12116154190cd00fc612972906d0624",
+      "nodeId": "8001:70",
+      "name": "State=ON",
+      "description": "",
+      "containingFrame": "Controls/Bullet/Dots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "616a4c68d8e10ae922d5de2227743317d6bea54e",
+      "nodeId": "8001:43",
+      "name": "Count=3",
+      "description": "",
+      "containingFrame": "Bullet [Dots]",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e5f6f4ebf597d68edc4669f71d466d604b36e072",
+      "nodeId": "8001:24",
+      "name": "Count=5",
+      "description": "",
+      "containingFrame": "Bullet [Line]",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e189b80cf171465161f79283385009c9c4729057",
+      "nodeId": "8001:69",
+      "name": "State=OFF",
+      "description": "",
+      "containingFrame": "Controls/Bullet/Dots",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6356f0137e57670be259c8ff2729d21c372b4f65",
+      "nodeId": "8001:52",
+      "name": "Count=5",
+      "description": "",
+      "containingFrame": "Bullet [Dots]",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "64916661f62a9f09a8453541dd8dd438e75e4552",
+      "nodeId": "8001:66",
+      "name": "State=OFF",
+      "description": "",
+      "containingFrame": "Controls/Bullet/Line",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "87ccef0ad737d676ca7f2bb4f865db2447993c10",
+      "nodeId": "8001:19",
+      "name": "Count=4",
+      "description": "",
+      "containingFrame": "Bullet [Line]",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "88fb94bbf9c6976e3fb19ef59759ce9bd33ef5c1",
+      "nodeId": "8001:47",
+      "name": "Count=4",
+      "description": "",
+      "containingFrame": "Bullet [Dots]",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9d118efd7a48bf8eb70f314934f0b5d08947618f",
+      "nodeId": "8001:67",
+      "name": "State=ON",
+      "description": "",
+      "containingFrame": "Controls/Bullet/Line",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bd879c60c3ee87dca32a919d97d0945fb19e773e",
+      "nodeId": "8001:14",
+      "name": "Count=3",
+      "description": "",
+      "containingFrame": "Bullet [Line]",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d49852052f93b765d847314d4c526ead1aa0d4b5",
+      "nodeId": "8001:30",
+      "name": "Count=8",
+      "description": "",
+      "containingFrame": "Bullet [Line]",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ec79c569d1a8d34709adfa46640eefbbd184dac4",
+      "nodeId": "8001:58",
+      "name": "Count=6",
+      "description": "",
+      "containingFrame": "Bullet [Dots]",
+      "containingPage": "1.0"
+    }
+  ]
+}

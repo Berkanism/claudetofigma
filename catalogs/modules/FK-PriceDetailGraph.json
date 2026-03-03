@@ -1,0 +1,129 @@
+{
+  "fileKey": "860JxpULNmSZShDDKc8dZD",
+  "name": "FK-PriceDetailGraph",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:34.852Z",
+  "componentCount": 15,
+  "components": [
+    {
+      "key": "257f3ac865cb20af1d965ccae982290d51e63343",
+      "nodeId": "10016:4009",
+      "name": "Market Closed",
+      "description": "",
+      "containingFrame": "Transfered from Hisse Doc",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "55ad3b39150017921db248e53682e72cf4cc626c",
+      "nodeId": "10016:4011",
+      "name": "Market Open",
+      "description": "",
+      "containingFrame": "Transfered from Hisse Doc",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ad7d2abf44b4db39ec45e71befb1e3b041e5b207",
+      "nodeId": "10001:3834",
+      "name": "Summary Highlight",
+      "description": "",
+      "containingFrame": "Header Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "13f6363b2470b731f31f09905627068bf77ef540",
+      "nodeId": "10040:4180",
+      "name": "State=Dot",
+      "description": "",
+      "containingFrame": "Header Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2a093bf7cbf21df8f0fdafbc63745bd35f27f978",
+      "nodeId": "12157:11315",
+      "name": "Type=Decrease",
+      "description": "",
+      "containingFrame": "Header Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3ed6d3fd22349ade8fe24794ea23c56268f7f2c4",
+      "nodeId": "10016:4019",
+      "name": "State=Pre-Market",
+      "description": "",
+      "containingFrame": "Transfered from Hisse Doc",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6c01e1d3fd32ff24bf94669f194fac2ca4e1be75",
+      "nodeId": "10023:4026",
+      "name": "State=Icon",
+      "description": "",
+      "containingFrame": "Header Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7dd6d67af3d0cd4768d4ffd6bacf1437b29aae68",
+      "nodeId": "10001:2988",
+      "name": "Type=Default, Brand=Kripto",
+      "description": "",
+      "containingFrame": "Header Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a3f47c82e00e9beff6c978d1a8a82f932279bec1",
+      "nodeId": "12157:11313",
+      "name": "Type=Increase",
+      "description": "",
+      "containingFrame": "Header Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b3ece334579127d86a7b507b1276770bccb15b4c",
+      "nodeId": "12158:6666",
+      "name": "Type=Default",
+      "description": "",
+      "containingFrame": "Header Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c2158d73f57d92d4b559584ca0ff1847e016c37f",
+      "nodeId": "10016:4015",
+      "name": "State=Closed",
+      "description": "",
+      "containingFrame": "Transfered from Hisse Doc",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d9746f802beaf29105e44e33bdaf6cb50a8f902b",
+      "nodeId": "10016:4023",
+      "name": "State=After-Market",
+      "description": "",
+      "containingFrame": "Transfered from Hisse Doc",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e6ea3347f7577836a80112e8d0bc458bedb85d98",
+      "nodeId": "12157:11346",
+      "name": "Type=Notr",
+      "description": "",
+      "containingFrame": "Header Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e84c725e615d02904cc1ac9ff0e47f485b5bc4aa",
+      "nodeId": "10001:2980",
+      "name": "Type=w/ Balance, Brand=Kripto",
+      "description": "",
+      "containingFrame": "Header Graph",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f799c968f5b8c0cffe44906498165b3ae8023e92",
+      "nodeId": "12158:6872",
+      "name": "Type=Tapped",
+      "description": "",
+      "containingFrame": "Header Graph",
+      "containingPage": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "fileKey": "OJM0GrJL1IZnj7EZxTra58",
+  "name": "FK-FeeInformation",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:29.834Z",
+  "componentCount": 10,
+  "components": [
+    {
+      "key": "32d84250f38e1d22f6d06bdbe808e2e6261ca850",
+      "nodeId": "12008:2587",
+      "name": "Type=Tab 2",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "74eab6afc6720d4a09f1a19f192ce214a63fc0fd",
+      "nodeId": "12005:2008",
+      "name": "Type=Tab 1",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c4b7f0a939d6c2e2f25c0bc9c7fa6f3fcbad27ef",
+      "nodeId": "12002:788",
+      "name": "Fee [Maker/Taker]",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4927541336659189bc3207464a0e43110ad24c1f",
+      "nodeId": "12008:4620",
+      "name": "Level=8, VIP=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4a2a5f2435449c038f81134bb38ca24719cb1932",
+      "nodeId": "12002:426",
+      "name": "FK-Fee Summary",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4b770ee4e5afb611a629a4ad1ef4d8fe214eb734",
+      "nodeId": "12008:4610",
+      "name": "Level=1, VIP=True",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a23fcd079c72c65ac3338b42b7474dc7ef581659",
+      "nodeId": "12008:1451",
+      "name": "Level=1, VIP=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a8013926e467c834f58ca7d2f5ba9cea42f20fcc",
+      "nodeId": "12008:2681",
+      "name": "Level=8, VIP=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c6ae66dfddbf1010e373e80fbea205fee2b33ed2",
+      "nodeId": "12008:1758",
+      "name": "Fk-Fee Level",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f71986bd4a3d1701e67f688372e8dc0f16b3bd13",
+      "nodeId": "12017:1520",
+      "name": "Level=None, VIP=False",
+      "description": "",
+      "containingFrame": "Content",
+      "containingPage": "1.0"
+    }
+  ]
+}

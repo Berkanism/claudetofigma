@@ -1,0 +1,521 @@
+{
+  "fileKey": "rei2CMYXJD1qsA34KQ4hRO",
+  "name": "FK-Keyboards",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:01.771Z",
+  "componentCount": 64,
+  "components": [
+    {
+      "key": "058a849e3971b464986215520f5a01b5ce0cffce",
+      "nodeId": "8001:9234",
+      "name": "{FK-Spinner}",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "11550395123882a675b08b379746a5732864c89d",
+      "nodeId": "8001:9129",
+      "name": "Align=Vertical, Size=Medium",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "245e188cd5d9b8393453c147c4051de48a9947c7",
+      "nodeId": "8001:9135",
+      "name": "Align=Horizontal, Size=Medium",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "277b48c5ae100adef71561ecd545c022a931df51",
+      "nodeId": "8001:9138",
+      "name": "Align=Horizontal, Size=Large",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6943ffdccfb2c79c808186ae6a79bf17fb727509",
+      "nodeId": "8001:8975",
+      "name": "Brand=BtcTurk Pro, Type=2 CTA, Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b0740fea4741543a92ce017a1d754107f8fab2ee",
+      "nodeId": "8001:8969",
+      "name": "Brand=BtcTurk Pro, Type=Center Title + Done, Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c279d5c0899664d0530c959b193c1f8bd5dd98bc",
+      "nodeId": "8001:9132",
+      "name": "Align=Vertical, Size=Large",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ceea7b461b7802f0afe72e18dd55dee6b9bfdc2b",
+      "nodeId": "8001:8978",
+      "name": "Brand=BtcTurk Pro, Type=CTA Only, Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d7a946bd82d3355be447c7d5327951ecd3f2d409",
+      "nodeId": "8001:8980",
+      "name": "Brand=BtcTurk Pro, Type=SMS Autofill, Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e5001563fb0601cf9b349096c053505f1a0ec19f",
+      "nodeId": "8001:9126",
+      "name": "Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "eb3fe7b32aaa6c8e53c77855e13fe58535d6514f",
+      "nodeId": "8001:8962",
+      "name": "Brand=BtcTurk Pro, Type=Arrow + Close, Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "09e0ac38f96d8fe6cc230e2e82885bed10aeba27",
+      "nodeId": "8001:8937",
+      "name": "Style=Solid, Dark Mode=ON, Type=Icons, Size=Large (72px), Pressed?=NO",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1370ee6d19b527947616aa919bcb035114af9b50",
+      "nodeId": "8001:9176",
+      "name": "Balance Available?=TRUE, Feature=Rüçhan",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "202a126ac5f04166d5954a026904bfa826528ef7",
+      "nodeId": "8001:8953",
+      "name": "Style=Solid, Dark Mode=ON, Type=Icons, Size=Medium (64px), Pressed?=NO",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "208f9d35c6c0b2a3fb68a15596258f5939bdf715",
+      "nodeId": "8001:8945",
+      "name": "Style=Solid, Dark Mode=ON, Type=Numbers, Size=Medium (64px), Pressed?=NO",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2d57bd7b7d03effa15759c2c35d49d50e8bd52db",
+      "nodeId": "8001:8947",
+      "name": "Style=Transparent, Dark Mode=ON, Type=Numbers, Size=Medium (64px), Pressed?=NO",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "31638bc0c150e30c5af77e8ba7d6be9b751b41bc",
+      "nodeId": "10147:1023",
+      "name": "Type=Percent [75]",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3522b8edc88d1bc1c003fd3db8002d881ba0f766",
+      "nodeId": "8001:8951",
+      "name": "Style=Transparent, Dark Mode=ON, Type=Numbers, Size=Medium (64px), Pressed?=YES",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3f92a3621e7678a0300158a3fcb355a8841f7459",
+      "nodeId": "8001:8959",
+      "name": "Style=Transparent, Dark Mode=ON, Type=Icons, Size=Medium (64px), Pressed?=YES",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3fb6b932b9ac2b5bc0b3b4ab150f6ddaca7d029b",
+      "nodeId": "10131:996",
+      "name": "Style=Transparent [Secondary], Dark Mode=ON, Type=Numbers, Size=Large (72px), Pressed?=YES",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "43c0bc06de4ebdaf954f38011c8ff656b791e2c6",
+      "nodeId": "8001:9160",
+      "name": "Balance Available?=TRUE, Feature=Donation",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "46bcb4d6e4e445ff671bef263eebf71478fd7b0f",
+      "nodeId": "10131:994",
+      "name": "Style=Transparent [Secondary], Dark Mode=ON, Type=Numbers, Size=Large (72px), Pressed?=NO",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4901b19ff2e2aa1115e77b19348cef4ee6e3b760",
+      "nodeId": "10131:998",
+      "name": "Style=Transparent [Secondary], Dark Mode=ON, Type=Icons, Size=Large (72px), Pressed?=NO",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4be70f4025e0c83388202f54671e8cb857712e88",
+      "nodeId": "8001:8955",
+      "name": "Style=Transparent, Dark Mode=ON, Type=Icons, Size=Medium (64px), Pressed?=NO",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4e8d8d6985aa18fffb3f20bb427889c7365bca42",
+      "nodeId": "8001:9215",
+      "name": "Balance Available?=FALSE, Feature=Withdrawal",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "53cb6e4e69d84c13f1c2ecbb01218075e78aa6b2",
+      "nodeId": "8001:8933",
+      "name": "Style=Solid, Dark Mode=ON, Type=Numbers, Size=Large (72px), Pressed?=YES",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "55d2b6901bdd1d90af793f3793be968fd170356c",
+      "nodeId": "8001:9104",
+      "name": "Type=Face ID",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6264862cdbaaedb67e3a49fb71cd3ee93709f09a",
+      "nodeId": "8001:9184",
+      "name": "Balance Available?=TRUE, Feature=Rüçhan v2",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "728290ae6969f680d378f85f391d096812f759a5",
+      "nodeId": "8001:9189",
+      "name": "Balance Available?=TRUE, Feature=Basic Trade",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "72a87002024ea3cbb1cfdc3ad7c4030a61e6d945",
+      "nodeId": "10131:926",
+      "name": "Style=Transparent [Secondary], Dark Mode=ON, Type=Icons, Size=Medium (64px), Pressed?=NO",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "82f3109d3f883ceb3c19daff4ddf54d374efc4dc",
+      "nodeId": "10147:1012",
+      "name": "Type=Percent [25]",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "857afc9366d0f82c62de5fa939e2bd94ead0de5c",
+      "nodeId": "8001:8931",
+      "name": "Style=Transparent, Dark Mode=ON, Type=Numbers, Size=Large (72px), Pressed?=NO",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "86fe86d4f43fe90070fc3a6e4c71c7ff2733f255",
+      "nodeId": "8001:9082",
+      "name": "Dark Mode=OFF",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8825db81c5fbba5b770c82fd75be476c22b34541",
+      "nodeId": "8001:8929",
+      "name": "Style=Solid, Dark Mode=ON, Type=Numbers, Size=Large (72px), Pressed?=NO",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8eb28a6267f8b71cd1a90e71ea45f1eef0eb7ec9",
+      "nodeId": "10131:922",
+      "name": "Style=Transparent [Secondary], Dark Mode=ON, Type=Numbers, Size=Medium (64px), Pressed?=NO",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "984bb0b05bd9b097181abb5ba16dd10d9aa31676",
+      "nodeId": "10131:924",
+      "name": "Style=Transparent [Secondary], Dark Mode=ON, Type=Numbers, Size=Medium (64px), Pressed?=YES",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a40ddb5353f2d7974ac80752bbc73e68a160c685",
+      "nodeId": "8001:8983",
+      "name": "Size=Native, Type=A-Z, Suggestion Bar=OFF, Custom=OFF, Style=Solid",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a5904b1942fb9fe3431f2b027782316d2117e083",
+      "nodeId": "10143:1010",
+      "name": "Type=Percent",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a872029b8cf370cf0191fa0a2110784187817f5e",
+      "nodeId": "8001:9106",
+      "name": "Type=Keyboard",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ac5934fc787c51159c1f8fdbda27f11c68e6c1fe",
+      "nodeId": "8001:9152",
+      "name": "Balance Available?=TRUE, Feature=Withdrawal",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bc296ecc7117ccd1f8882a1122a357f35fb99604",
+      "nodeId": "10131:1000",
+      "name": "Style=Transparent [Secondary], Dark Mode=ON, Type=Icons, Size=Large (72px), Pressed?=YES",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c066174e999f549ea544d315c4a4d359af51ee6d",
+      "nodeId": "10143:1011",
+      "name": "Type=Text",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c45696fc01ebe6e3bb406ed75993cf1842c0c7b2",
+      "nodeId": "8001:8949",
+      "name": "Style=Solid, Dark Mode=ON, Type=Numbers, Size=Medium (64px), Pressed?=YES",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c6e7b15481633fa4ffb80ebe843914f52b47e638",
+      "nodeId": "8001:9089",
+      "name": "Type=Remove",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c9b2a4b604f251f09b4a6ad7a2d5f2525f293410",
+      "nodeId": "8001:9195",
+      "name": "Balance Available?=TRUE, Feature=Transfer",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ce556ffae3bbe27a06d2205772f324e91dd93295",
+      "nodeId": "8001:8943",
+      "name": "Style=Transparent, Dark Mode=ON, Type=Icons, Size=Large (72px), Pressed?=YES",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d188b01ec980cf1f8818c98c5bb16fee2c0f6742",
+      "nodeId": "8001:8939",
+      "name": "Style=Transparent, Dark Mode=ON, Type=Icons, Size=Large (72px), Pressed?=NO",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d2070577255352beb9f32353e9199da02d974f44",
+      "nodeId": "8001:8935",
+      "name": "Style=Transparent, Dark Mode=ON, Type=Numbers, Size=Large (72px), Pressed?=YES",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e07de091d3fcf6dc0292b5ffe3403c42e7db1818",
+      "nodeId": "10131:928",
+      "name": "Style=Transparent [Secondary], Dark Mode=ON, Type=Icons, Size=Medium (64px), Pressed?=YES",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ec4425b5fac01603d5d637f425f1b54cf577be03",
+      "nodeId": "8001:8957",
+      "name": "Style=Solid, Dark Mode=ON, Type=Icons, Size=Medium (64px), Pressed?=YES",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ec9a4b17ebab5988f7c6970e3c91077e1b13d484",
+      "nodeId": "8001:8941",
+      "name": "Style=Solid, Dark Mode=ON, Type=Icons, Size=Large (72px), Pressed?=YES",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "edac543c5c484d0c7b89a38b8e7cd1191108b4d4",
+      "nodeId": "8001:9123",
+      "name": "Type=Touch ID",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f2f49f86d23873a269627e6dab73496415c14396",
+      "nodeId": "10147:1047",
+      "name": "Type=Percent [100]",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f3db6ac91803ef57b66bc2a15ecd104b21621a50",
+      "nodeId": "10147:1035",
+      "name": "Type=Percent [50]",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fcaa937b4dd22aededb8588f25602814be7d5609",
+      "nodeId": "8001:9085",
+      "name": "Dark Mode=ON",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "3c92ad3a6ffb76aa689839aa749ad6908c8da330",
+      "nodeId": "8001:9015",
+      "name": "Size=Medium, Type=Numeric, Suggestion Bar=OFF, Custom=ON, Style=Solid",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5e09bb79c0adaafa72ddbc82a8c431c378df0f96",
+      "nodeId": "8001:8990",
+      "name": "Size=Native, Type=Numeric, Suggestion Bar=ON, Custom=OFF, Style=Solid",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "66be375a4753a775e534cfc8f93a3043ad1c80e7",
+      "nodeId": "10131:1870",
+      "name": "Size=Large, Type=Numeric, Suggestion Bar=OFF, Custom=ON, Style=Transparent [Secondary]",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "76161789b08155fbc2098fb0092fe27379a111a1",
+      "nodeId": "8001:8985",
+      "name": "Size=Native, Type=Numeric, Suggestion Bar=OFF, Custom=OFF, Style=Solid",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a540408769c98c8758172b9813696ff0cf98adbe",
+      "nodeId": "8001:9037",
+      "name": "Size=Large, Type=Numeric, Suggestion Bar=OFF, Custom=ON, Style=Transparent",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ba7aa6fdb104fe3abe05dd11d4d5edc431e869d6",
+      "nodeId": "8001:8993",
+      "name": "Size=Large, Type=Numeric, Suggestion Bar=OFF, Custom=ON, Style=Solid",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bf4980b46bf23bd13fad339f46bf04c1acdfcc10",
+      "nodeId": "8001:9059",
+      "name": "Size=Medium, Type=Numeric, Suggestion Bar=OFF, Custom=ON, Style=Transparent",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d2329f3ba5a6cfcef23030459750db1f6fe824ac",
+      "nodeId": "10131:1892",
+      "name": "Size=Medium, Type=Numeric, Suggestion Bar=OFF, Custom=ON, Style=Transparent [Secondary]",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e1dc5d9b5b37d70404881c1a18d4c4fb09796717",
+      "nodeId": "8001:8987",
+      "name": "Size=Native, Type=A-Z, Suggestion Bar=ON, Custom=OFF, Style=Solid",
+      "description": "",
+      "containingFrame": "Keyboard",
+      "containingPage": "1.0"
+    }
+  ]
+}

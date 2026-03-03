@@ -1,0 +1,17 @@
+{
+  "fileKey": "FRKkPJh45bCELWgmAe9vHA",
+  "name": "FK-NotificationBadge",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:10:04.235Z",
+  "componentCount": 1,
+  "components": [
+    {
+      "key": "4fea46162a8f1eed2fe4e5deaa9b0b2fd61d204f",
+      "nodeId": "10001:43",
+      "name": "Notification Badge",
+      "description": "",
+      "containingFrame": "",
+      "containingPage": "1.0"
+    }
+  ]
+}

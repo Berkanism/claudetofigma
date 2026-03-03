@@ -1,0 +1,529 @@
+{
+  "fileKey": "jeftAuSQnnJnEFSgRHhE8s",
+  "name": "FK-Validation",
+  "group": "modules",
+  "updatedAt": "2026-03-03T15:10:37.871Z",
+  "componentCount": 65,
+  "components": [
+    {
+      "key": "51a81d74f1b17c862c8595f16b4ec475be40624e",
+      "nodeId": "8002:4954",
+      "name": "Method=Manual, Style=Freeform, Type=Email, State=:Finish",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0606fa317f159c79a68bcfec663d4cbed02b492c",
+      "nodeId": "8077:3961",
+      "name": "Screen=Mobile, State=Focus",
+      "description": "",
+      "containingFrame": "Validation System",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "17fa90bd9d6bd5b2cf1f3ba1c19d070161525478",
+      "nodeId": "8077:3973",
+      "name": "Screen=Mobile, State=Typing",
+      "description": "",
+      "containingFrame": "Validation System",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "19b51e948da9a3df06bab68f6cccf9d335532912",
+      "nodeId": "8077:3997",
+      "name": "Screen=Mobile, State=Error",
+      "description": "",
+      "containingFrame": "Validation System",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1f48da768086337bc800ae74145dc4b7460a7612",
+      "nodeId": "8077:3985",
+      "name": "Screen=Mobile, State=Done",
+      "description": "",
+      "containingFrame": "Validation System",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "2ca4ed6e757445f7af55b9e5635d80ef798e36c1",
+      "nodeId": "8002:5118",
+      "name": "Type=SMS, State=Inactive",
+      "description": "",
+      "containingFrame": "{Validation Bottom Row}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "30db3ae498a805e8b1105bd7efd30fe92a1266a0",
+      "nodeId": "8077:3949",
+      "name": "Screen=Mobile, State=Disable",
+      "description": "",
+      "containingFrame": "Validation System",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "40cac5db06e6374cd7cae379905bd715c40c7ccb",
+      "nodeId": "8077:3839",
+      "name": "State=Typing",
+      "description": "",
+      "containingFrame": "Validation System",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "45d595ff2850705567f3a92f54a307a2cad1477a",
+      "nodeId": "8002:5156",
+      "name": "Type=Email, State=Code Sent",
+      "description": "",
+      "containingFrame": "{Validation Bottom Row}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5aa09b7083c45b9ca512d602ddcc2d248de818d4",
+      "nodeId": "8002:5137",
+      "name": "Type=SMS, State=Success",
+      "description": "",
+      "containingFrame": "{Validation Bottom Row}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "739083d1b5a25257fff4c487296b6dc5452d138b",
+      "nodeId": "8077:3937",
+      "name": "Screen=Mobile, State=Default",
+      "description": "",
+      "containingFrame": "Validation System",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "77794bde2ecbb7ebff7f168f6637f95c1235c465",
+      "nodeId": "8002:5142",
+      "name": "Type=Email, State=Default",
+      "description": "",
+      "containingFrame": "{Validation Bottom Row}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "88658abecb3461cb7621b8249a5e1fb77ec5d368",
+      "nodeId": "8077:3653",
+      "name": "State=Focus",
+      "description": "",
+      "containingFrame": "Validation System",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "90bf588e58fc35f0510b270d18ae394cd464f8b8",
+      "nodeId": "8002:5125",
+      "name": "Type=SMS, State=Code Sent",
+      "description": "",
+      "containingFrame": "{Validation Bottom Row}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "994026d2afba5337ea1373476f3b96a143de9c83",
+      "nodeId": "8002:5175",
+      "name": "Type=Email, State=Success",
+      "description": "",
+      "containingFrame": "{Validation Bottom Row}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "99d35d864fcac6e65b961a241dbd0d061834727a",
+      "nodeId": "8077:3630",
+      "name": "State=Default",
+      "description": "",
+      "containingFrame": "Validation System",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9c988aee69930d4f16a648156edaa343d22e6feb",
+      "nodeId": "8002:5180",
+      "name": "Type=Authenticator, State=Blocked",
+      "description": "",
+      "containingFrame": "{Validation Bottom Row}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "9f80f47e35a58a33723bd31858631a3899d6658c",
+      "nodeId": "8002:5111",
+      "name": "Type=SMS, State=Default",
+      "description": "",
+      "containingFrame": "{Validation Bottom Row}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b34782d46b4221923a221b82d74eb84fd2cda8da",
+      "nodeId": "8002:5132",
+      "name": "Type=SMS, State=Blocked",
+      "description": "",
+      "containingFrame": "{Validation Bottom Row}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c9688d9d80d03bbd0063344eab47aadb019b34a9",
+      "nodeId": "8077:4274",
+      "name": "State=Dşsabled",
+      "description": "",
+      "containingFrame": "Validation System",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "da4c2605344441a8d3ab82adea8d9e89cbaa136a",
+      "nodeId": "8002:5149",
+      "name": "Type=Email, State=Inactive",
+      "description": "",
+      "containingFrame": "{Validation Bottom Row}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e0aaf69086361029579ab227e384b2be06242fd3",
+      "nodeId": "8002:5170",
+      "name": "Type=Email, State=Blocked",
+      "description": "",
+      "containingFrame": "{Validation Bottom Row}",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f5fe302915a6fb7278f7aca449dc6ecf51eb3c7e",
+      "nodeId": "8077:3887",
+      "name": "State=Done",
+      "description": "",
+      "containingFrame": "Validation System",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f7abc4d2b3fa5ba4071dc90b55e3d40da2588ea4",
+      "nodeId": "8077:4215",
+      "name": "State=State5",
+      "description": "",
+      "containingFrame": "Validation System",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "099211cbcd44b2d6f5351b5959b38f2e3c30c3bf",
+      "nodeId": "8002:5047",
+      "name": "Method=Auto, Style=Locked, Type=Email, State=:Typing",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "0a2f8edcce936c8fc6ada456ee5f719062af91ee",
+      "nodeId": "8002:5057",
+      "name": "Method=Auto, Style=Locked, Type=Email, State=:Done",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "132e30cfac4b38063a4b0f5836324720fd2d2441",
+      "nodeId": "8002:4877",
+      "name": "Method=Manual, Style=Freeform, Type=SMS, State=Code :Focus",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1f5b1637af92f8a28ef57fc7faa8b9ddf875011f",
+      "nodeId": "8002:5027",
+      "name": "Method=Auto, Style=Locked, Type=SMS, State=Default",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "1f8d97c15c5b888bd9e4411147e370c9bf83e039",
+      "nodeId": "8002:4926",
+      "name": "Method=Manual, Style=Freeform, Type=Email, State=:Done",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "27b290a94a458bc382179d74571104bf1bdee3de",
+      "nodeId": "8002:4975",
+      "name": "Method=Manual, Style=Locked, Type=SMS, State=Code :Sent",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "293476402c6c0b73ed50f38df6a544b19d54a41a",
+      "nodeId": "8002:4835",
+      "name": "Method=Manual, Style=Freeform, Type=SMS, State=Error",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "37210ad695142f93e12510059a3ccb1433ba95dd",
+      "nodeId": "8002:4898",
+      "name": "Method=Manual, Style=Freeform, Type=Email, State=Default",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4da5891223b13adc9fdc23d8365963e5e1ededd2",
+      "nodeId": "8002:5003",
+      "name": "Method=Manual, Style=Locked, Type=Email, State=Default",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4ef0b7a9823441275ecf362649ce2c2a55b895c6",
+      "nodeId": "8002:4828",
+      "name": "Method=Manual, Style=Freeform, Type=SMS, State=Default",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "56cf5928c9efea513689fc2a4bf82819bbe815f5",
+      "nodeId": "8002:5062",
+      "name": "Method=Auto, Style=Locked, Type=SMS, State=:Done",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "57187097c93338d7deac939d693d3f96832624dc",
+      "nodeId": "8002:5032",
+      "name": "Method=Auto, Style=Locked, Type=SMS, State=Error",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "587b385306be91986470838c2e03e5302243584c",
+      "nodeId": "8002:5017",
+      "name": "Method=Auto, Style=Locked, Type=Email, State=Default",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "58ce213ea42b4f73da0bf22d9c0adff1eb9d37ba",
+      "nodeId": "8002:5067",
+      "name": "Method=Auto, Style=Locked, Type=Email, State=:Expired",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5b04a192228d8b2d685cb52871b65f395e42681e",
+      "nodeId": "8002:4989",
+      "name": "Method=Manual, Style=Locked, Type=SMS, State=:Finish",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5f954fb05e7550cabae6c5023a6b4fd4a45e03c3",
+      "nodeId": "8002:5022",
+      "name": "Method=Auto, Style=Locked, Type=Email, State=Error",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6bb21df7c0b2f57a5013ff829172a4029f6b7cd5",
+      "nodeId": "8002:4856",
+      "name": "Method=Manual, Style=Freeform, Type=SMS, State=:Done",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6bce59fce1136a357bb16d8c2deaacabd190f744",
+      "nodeId": "8002:5072",
+      "name": "Method=Auto, Style=Locked, Type=SMS, State=:Expired",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "72ec6aebd363a766eeff93f49bf95efe64cd15f3",
+      "nodeId": "8002:4940",
+      "name": "Method=Manual, Style=Freeform, Type=Email, State=Code :Sent",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7d360c4dce0d923e1a16e20efa35e33ae044e70e",
+      "nodeId": "8002:4870",
+      "name": "Method=Manual, Style=Freeform, Type=SMS, State=Code :Sent",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "81ed66dac4a9cd9f1cf19e1167a9b6d3e5234749",
+      "nodeId": "8002:5077",
+      "name": "Method=Manual, Style=Locked, Type=Email, State=Code :Focus",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "88d3c3b0c91d22a6daa8188b2d565367c424038d",
+      "nodeId": "8002:5042",
+      "name": "Method=Auto, Style=Locked, Type=SMS, State=:Focus",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "8cfb7455b2a31c873d29466bd4ffbe43fcb12b9f",
+      "nodeId": "8002:5084",
+      "name": "Method=Manual, Style=Locked, Type=Email, State=:Finish",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "96130748933a52f6c76279cc43c4c6e5f24c3815",
+      "nodeId": "8002:4891",
+      "name": "Method=Manual, Style=Freeform, Type=SMS, State=:Expired",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "aa64dd22eab3ff26e89f2b4f9b0012e0eaf9117b",
+      "nodeId": "8002:4996",
+      "name": "Method=Manual, Style=Locked, Type=SMS, State=:Expired",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "aac60a2b7c24228cc7457c9ccc5c7e813810871f",
+      "nodeId": "8002:5091",
+      "name": "Method=Manual, Style=Locked, Type=Email, State=:Expired",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "b314f0d8b3bd9d7057fe1d6bff32c7daf9ea572b",
+      "nodeId": "8002:4849",
+      "name": "Method=Manual, Style=Freeform, Type=SMS, State=:Typing",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bbe15eaf31713995e0fe62d10ed7ba2fcaa7e8c8",
+      "nodeId": "8002:4947",
+      "name": "Method=Manual, Style=Freeform, Type=Email, State=Code :Focus",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "bf41c7a0e4d5f66691403ab15ea82bb4e411e4f5",
+      "nodeId": "8002:4912",
+      "name": "Method=Manual, Style=Freeform, Type=Email, State=:Focus",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c3e9272b0446c33335c350de644452658334d41a",
+      "nodeId": "8002:5037",
+      "name": "Method=Auto, Style=Locked, Type=Email, State=:Focus",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c442c7d39d21d1a57cdea1dc9725cb1b4ca26ee7",
+      "nodeId": "8002:5052",
+      "name": "Method=Auto, Style=Locked, Type=SMS, State=:Typing",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c49ef0f0ca6f510152e00c7eebea2b64139b59a4",
+      "nodeId": "8002:4982",
+      "name": "Method=Manual, Style=Locked, Type=SMS, State=Code :Focus",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "c83c45b44f2b326bda164376aa80d0d7c6ca7bcb",
+      "nodeId": "8002:4842",
+      "name": "Method=Manual, Style=Freeform, Type=SMS, State=:Focus",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "cd2bf9c5ee3e86b690c0d892081ab4754d484b2d",
+      "nodeId": "8002:4863",
+      "name": "Method=Manual, Style=Freeform, Type=SMS, State=:Edit",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d130f40d3adac9a677e8f171e762001b270aa2f3",
+      "nodeId": "8002:4884",
+      "name": "Method=Manual, Style=Freeform, Type=SMS, State=:Finish",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d38c174043a0f6c4c990db09b6b5a8c76987b982",
+      "nodeId": "8002:4961",
+      "name": "Method=Manual, Style=Freeform, Type=Email, State=:Expired",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "d6bf0bc3f6a62c6bf4c1839852db03373e3b7f45",
+      "nodeId": "8002:5010",
+      "name": "Method=Manual, Style=Locked, Type=Email, State=Code :Sent",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "da3912a8e7832039ff135752872590fc36ec89d1",
+      "nodeId": "8002:4968",
+      "name": "Method=Manual, Style=Locked, Type=SMS, State=Default",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ed4f08d55cc8ebadc9bac19450af40b88326f54c",
+      "nodeId": "8002:4905",
+      "name": "Method=Manual, Style=Freeform, Type=Email, State=Error",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fd03bff2bf33156363bfef092056cf636556b8a5",
+      "nodeId": "8002:4933",
+      "name": "Method=Manual, Style=Freeform, Type=Email, State=:Edit",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "fda57c8772383d0caea402a2a51329a942570d55",
+      "nodeId": "8002:4919",
+      "name": "Method=Manual, Style=Freeform, Type=Email, State=:Typing",
+      "description": "",
+      "containingFrame": "{Validation System} DEPRECATED",
+      "containingPage": "1.0"
+    }
+  ]
+}

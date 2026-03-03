@@ -1,0 +1,105 @@
+{
+  "fileKey": "vkwVeHZiBCX3lSiZLR2upK",
+  "name": "FK-Checkbox",
+  "group": "core",
+  "updatedAt": "2026-03-03T15:09:51.805Z",
+  "componentCount": 12,
+  "components": [
+    {
+      "key": "3e9429b3e7f4cae6b44588396326f82c376d943b",
+      "nodeId": "8046:28",
+      "name": "State=Default, Size=Small",
+      "description": "",
+      "containingFrame": "Checkbox",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "4dcc1efd128a864b348730d70d4c233ad27d8efb",
+      "nodeId": "8046:10",
+      "name": "State=Disabled, Size=Medium",
+      "description": "",
+      "containingFrame": "Checkbox",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5096fcabef036dade06f26c45297370973337b76",
+      "nodeId": "8046:14",
+      "name": "State=Default, Size=Medium",
+      "description": "",
+      "containingFrame": "Checkbox",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f46c35b06bcd3d7823fb96ec95fb88b5c2b5c878",
+      "nodeId": "8046:26",
+      "name": "State=Enabled, Size=Small",
+      "description": "",
+      "containingFrame": "Checkbox",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "5f4a60e297464b0da99bc34560879accc7def570",
+      "nodeId": "8001:12",
+      "name": "State=Disabled, Size=Large",
+      "description": "",
+      "containingFrame": "Checkbox",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "6ec9b997398e197852dd39d84d54f5be4171db4f",
+      "nodeId": "8046:15",
+      "name": "State=Error, Size=Medium",
+      "description": "",
+      "containingFrame": "Checkbox",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "75cc902a262ab2e3ecb5d9afbe0361fb657ab8fa",
+      "nodeId": "8046:12",
+      "name": "State=Enabled, Size=Medium",
+      "description": "",
+      "containingFrame": "Checkbox",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "7fd9bdf44ad28df8f64eb3db6358692763ff17d0",
+      "nodeId": "8046:24",
+      "name": "State=Disabled, Size=Small",
+      "description": "",
+      "containingFrame": "Checkbox",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "a22dd6bbacadc501c4f8e57c933d2e44ab472ab9",
+      "nodeId": "8001:16",
+      "name": "State=Default, Size=Large",
+      "description": "",
+      "containingFrame": "Checkbox",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "ddf8433035df9c699848ad907368375856536718",
+      "nodeId": "8001:17",
+      "name": "State=Error, Size=Large",
+      "description": "",
+      "containingFrame": "Checkbox",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "e1149bb754a4879632f3c13a0eabbdab0f4be02b",
+      "nodeId": "8046:29",
+      "name": "State=Error, Size=Small",
+      "description": "",
+      "containingFrame": "Checkbox",
+      "containingPage": "1.0"
+    },
+    {
+      "key": "f866978eda2fd881a37c0fc935c9d1e8dddf3d9c",
+      "nodeId": "8001:14",
+      "name": "State=Enabled, Size=Large",
+      "description": "",
+      "containingFrame": "Checkbox",
+      "containingPage": "1.0"
+    }
+  ]
+}
