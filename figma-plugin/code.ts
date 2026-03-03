@@ -289,6 +289,9 @@ figma.ui.onmessage = async (msg: any) => {
       case "set_variable_mode":
         await handleSetVariableMode(id, params);
         break;
+      case "debug_variable_api":
+        await handleDebugVariableApi(id, params);
+        break;
 
       // Phase 7: Variable Creation & Component System
       case "create_variable_collection":
@@ -1418,22 +1421,75 @@ async function handleSetVariableMode(id: string, params: any) {
     return;
   }
   try {
-    // Import the collection from the library by key
-    const collection = await (figma.variables as any).importVariableCollectionByKeyAsync(params.collectionKey);
-    // Find the mode by name or use modeId directly
-    let modeId: string = params.modeId;
-    if (!modeId && params.modeName) {
-      const mode = collection.modes.find((m: any) => m.name.toLowerCase().includes(params.modeName.toLowerCase()));
-      if (!mode) {
-        sendResponse(id, undefined, `Mode "${params.modeName}" not found`);
-        return;
-      }
-      modeId = mode.modeId;
+    let collectionId: string = params.collectionId;
+
+    // variableKey verilmişse: o variable'ı import et, koleksiyon ID'sini oradan al
+    if (!collectionId && params.variableKey) {
+      const variable = await figma.variables.importVariableByKeyAsync(params.variableKey);
+      collectionId = variable.variableCollectionId;
     }
-    (figma.variables as any).setVariableModeOnNode(node, collection, modeId);
-    sendResponse(id, { nodeId: params.nodeId, collectionKey: params.collectionKey, modeId });
+
+    if (!collectionId) {
+      sendResponse(id, undefined, `collectionId or variableKey required`);
+      return;
+    }
+
+    const modeId: string = params.modeId;
+    if (!modeId) {
+      sendResponse(id, undefined, `modeId required`);
+      return;
+    }
+
+    // Local collection nesnesini al ve node.setExplicitVariableModeForCollection ile ata
+    const collection = figma.variables.getVariableCollectionById(collectionId);
+    if (!collection) {
+      sendResponse(id, undefined, `VariableCollection not found for id: ${collectionId}`);
+      return;
+    }
+    (node as any).setExplicitVariableModeForCollection(collection, modeId);
+
+    sendResponse(id, { nodeId: params.nodeId, collectionId, modeId });
   } catch (e: any) {
     sendResponse(id, undefined, `set_variable_mode failed: ${e.message}`);
+  }
+}
+
+async function handleDebugVariableApi(id: string, params: any) {
+  try {
+    // figma.variables üzerindeki tüm fonksiyonları listele
+    const figmaVarMethods = Object.getOwnPropertyNames(figma.variables).concat(
+      Object.getOwnPropertyNames(Object.getPrototypeOf(figma.variables))
+    ).filter(k => typeof (figma.variables as any)[k] === 'function');
+
+    // Node üzerindeki variable-ilgili property'leri kontrol et
+    let nodeProps: string[] = [];
+    if (params.nodeId) {
+      const node = figma.getNodeById(params.nodeId);
+      if (node) {
+        nodeProps = Object.getOwnPropertyNames(node).concat(
+          Object.getOwnPropertyNames(Object.getPrototypeOf(node))
+        ).filter(k => k.toLowerCase().includes('variable') || k.toLowerCase().includes('mode'));
+      }
+    }
+
+    // Eğer variableKey verilmişse, import et ve collectionId'yi döndür
+    let importedInfo: any = null;
+    if (params.variableKey) {
+      const v = await figma.variables.importVariableByKeyAsync(params.variableKey);
+      importedInfo = {
+        id: v.id,
+        name: v.name,
+        collectionId: v.variableCollectionId,
+        resolvedType: v.resolvedType,
+      };
+      // Bu collection local'de var mı?
+      const localCol = figma.variables.getVariableCollectionById(v.variableCollectionId);
+      importedInfo.localCollection = localCol ? { id: localCol.id, name: localCol.name, modes: localCol.modes } : null;
+    }
+
+    sendResponse(id, { figmaVarMethods, nodeProps, importedInfo });
+  } catch (e: any) {
+    sendResponse(id, undefined, `debug failed: ${e.message}`);
   }
 }
 
