@@ -30,7 +30,7 @@ Claude Code  ──MCP──►  mcp-server (stdio + WS :9000)  ──WebSocket�
 ### Creating Nodes
 | Tool | What it does |
 |------|-------------|
-| `create_frame` | New frame with position, size, and fill |
+| `create_frame` | New frame with position, size, and fill — default size 375×812 |
 | `add_text` | Text node with font, size, weight, color |
 | `add_rectangle` | Rectangle with corner radius and fill |
 | `add_ellipse` | Circle or ellipse |
@@ -39,12 +39,12 @@ Claude Code  ──MCP──►  mcp-server (stdio + WS :9000)  ──WebSocket�
 ### Editing Nodes
 | Tool | What it does |
 |------|-------------|
-| `update_node` | Change position, size, fill, stroke, opacity, visibility — any subset |
+| `update_node` | Change position, size, fill, stroke, opacity, visibility, `layoutAlign` (INHERIT\|STRETCH\|MIN\|CENTER\|MAX), `layoutGrow` (0\|1) — any subset |
 | `update_text` | Update text content and style properties |
 | `delete_node` | Remove a node from the canvas |
 | `clone_node` | Deep-clone a node with optional repositioning |
 | `move_node` | Reparent a node into a different container |
-| `set_auto_layout` | Apply auto layout (direction, gap, padding, alignment) to a frame |
+| `set_auto_layout` | Apply auto layout to a frame — direction, gap, padding, alignment, `primaryAxisSizingMode` (FIXED\|HUG\|FILL), `counterAxisSizingMode`, explicit width/height |
 | `set_constraints` | Set responsive constraints on a node |
 | `group_nodes` | Group multiple sibling nodes |
 
