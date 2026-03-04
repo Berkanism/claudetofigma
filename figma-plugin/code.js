@@ -320,7 +320,7 @@
     return __async(this, null, function* () {
       const frame = figma.createFrame();
       frame.name = params.name || "Frame";
-      frame.resize(params.width || 400, params.height || 300);
+      frame.resize(params.width || 375, params.height || 812);
       frame.x = params.x || 0;
       frame.y = params.y || 0;
       if (params.fillColor) {
@@ -513,6 +513,12 @@
     if (params.strokeWeight !== void 0 && "strokeWeight" in sceneNode) {
       sceneNode.strokeWeight = params.strokeWeight;
     }
+    if (params.layoutAlign !== void 0 && "layoutAlign" in sceneNode) {
+      sceneNode.layoutAlign = params.layoutAlign;
+    }
+    if (params.layoutGrow !== void 0 && "layoutGrow" in sceneNode) {
+      sceneNode.layoutGrow = params.layoutGrow;
+    }
     if (params.effects !== void 0 && "effects" in sceneNode) {
       const built = params.effects.map((e) => {
         var _a2, _b2, _c, _d, _e, _f, _g, _h, _i;
@@ -667,6 +673,7 @@
     });
   }
   function handleSetAutoLayout(id, params) {
+    var _a, _b;
     const node = figma.getNodeById(params.nodeId);
     if (!node || !("layoutMode" in node)) {
       sendResponse(id, void 0, `Node ${params.nodeId} not found or does not support auto layout`);
@@ -690,6 +697,15 @@
       const counterAlign = params.counterAlignItems || params.alignItems;
       frame.counterAxisAlignItems = counterAlign === "CENTER" ? "CENTER" : counterAlign === "END" ? "MAX" : "MIN";
     }
+    if (params.primaryAxisSizingMode !== void 0) {
+      frame.primaryAxisSizingMode = params.primaryAxisSizingMode;
+    }
+    if (params.counterAxisSizingMode !== void 0) {
+      frame.counterAxisSizingMode = params.counterAxisSizingMode;
+    }
+    if (params.width !== void 0 || params.height !== void 0) {
+      frame.resize((_a = params.width) != null ? _a : frame.width, (_b = params.height) != null ? _b : frame.height);
+    }
     sendResponse(id, {
       nodeId: frame.id,
       name: frame.name,
@@ -698,7 +714,11 @@
       paddingTop: frame.paddingTop,
       paddingRight: frame.paddingRight,
       paddingBottom: frame.paddingBottom,
-      paddingLeft: frame.paddingLeft
+      paddingLeft: frame.paddingLeft,
+      primaryAxisSizingMode: frame.primaryAxisSizingMode,
+      counterAxisSizingMode: frame.counterAxisSizingMode,
+      width: frame.width,
+      height: frame.height
     });
   }
   function findComponentsRecursive(node, query, results) {

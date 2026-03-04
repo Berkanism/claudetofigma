@@ -329,7 +329,7 @@ figma.ui.onmessage = async (msg: any) => {
 async function handleCreateFrame(id: string, params: any) {
   const frame = figma.createFrame();
   frame.name = params.name || "Frame";
-  frame.resize(params.width || 400, params.height || 300);
+  frame.resize(params.width || 375, params.height || 812);
   frame.x = params.x || 0;
   frame.y = params.y || 0;
 
@@ -552,6 +552,14 @@ function handleUpdateNode(id: string, params: any) {
     (sceneNode as GeometryMixin).strokeWeight = params.strokeWeight;
   }
 
+  if (params.layoutAlign !== undefined && "layoutAlign" in sceneNode) {
+    (sceneNode as any).layoutAlign = params.layoutAlign; // "INHERIT" | "STRETCH" | "MIN" | "CENTER" | "MAX"
+  }
+
+  if (params.layoutGrow !== undefined && "layoutGrow" in sceneNode) {
+    (sceneNode as any).layoutGrow = params.layoutGrow; // 0 | 1
+  }
+
   if (params.effects !== undefined && "effects" in sceneNode) {
     const built: Effect[] = (params.effects as any[]).map((e: any) => {
       if (e.type === "DROP_SHADOW" || e.type === "INNER_SHADOW") {
@@ -762,6 +770,19 @@ function handleSetAutoLayout(id: string, params: any) {
       counterAlign === "END" ? "MAX" : "MIN";
   }
 
+  // "FIXED" | "HUG" | "FILL"
+  if (params.primaryAxisSizingMode !== undefined) {
+    frame.primaryAxisSizingMode = params.primaryAxisSizingMode;
+  }
+  if (params.counterAxisSizingMode !== undefined) {
+    frame.counterAxisSizingMode = params.counterAxisSizingMode;
+  }
+
+  // Apply explicit size after sizing mode
+  if (params.width !== undefined || params.height !== undefined) {
+    frame.resize(params.width ?? frame.width, params.height ?? frame.height);
+  }
+
   sendResponse(id, {
     nodeId: frame.id,
     name: frame.name,
@@ -771,6 +792,10 @@ function handleSetAutoLayout(id: string, params: any) {
     paddingRight: frame.paddingRight,
     paddingBottom: frame.paddingBottom,
     paddingLeft: frame.paddingLeft,
+    primaryAxisSizingMode: frame.primaryAxisSizingMode,
+    counterAxisSizingMode: frame.counterAxisSizingMode,
+    width: frame.width,
+    height: frame.height,
   });
 }
 
