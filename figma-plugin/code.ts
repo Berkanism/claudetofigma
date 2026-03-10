@@ -140,6 +140,19 @@ function getNodeDetails(node: SceneNode): Record<string, any> {
     Object.assign(details, extractTextProps(node as TextNode));
   }
 
+  if (node.type === "ELLIPSE") {
+    details.arcData = (node as EllipseNode).arcData;
+    details.strokeCap = (node as any).strokeCap;
+  }
+
+  // Extract variable modes
+  if ("explicitVariableModes" in node) {
+    details.explicitVariableModes = node.explicitVariableModes;
+  }
+  if ("resolvedVariableModes" in node) {
+    details.resolvedVariableModes = node.resolvedVariableModes;
+  }
+
   if ("children" in node) {
     details.children = (node as ChildrenMixin).children.map((c: SceneNode) => ({
       nodeId: c.id,
@@ -539,7 +552,9 @@ function handleUpdateNode(id: string, params: any) {
     (sceneNode as BlendMixin).opacity = params.opacity;
   }
 
-  if (params.fillColor && "fills" in sceneNode) {
+  if (params.fills !== undefined && "fills" in sceneNode) {
+    (sceneNode as GeometryMixin).fills = params.fills;
+  } else if (params.fillColor && "fills" in sceneNode) {
     (sceneNode as GeometryMixin).fills = [{ type: "SOLID", color: params.fillColor }];
   }
 
@@ -553,6 +568,22 @@ function handleUpdateNode(id: string, params: any) {
 
   if (params.strokeWeight !== undefined && "strokeWeight" in sceneNode) {
     (sceneNode as GeometryMixin).strokeWeight = params.strokeWeight;
+  }
+
+  if (params.strokeCap !== undefined && "strokeCap" in sceneNode) {
+    (sceneNode as GeometryMixin).strokeCap = params.strokeCap; // "NONE" | "ROUND" | "SQUARE" | "ARROW_LINES" | "ARROW_EQUILATERAL"
+  }
+
+  if (params.strokeAlign !== undefined && "strokeAlign" in sceneNode) {
+    (sceneNode as GeometryMixin).strokeAlign = params.strokeAlign; // "CENTER" | "INSIDE" | "OUTSIDE"
+  }
+
+  if (params.arcData !== undefined && node.type === "ELLIPSE") {
+    (node as EllipseNode).arcData = {
+      startingAngle: params.arcData.startingAngle,
+      endingAngle: params.arcData.endingAngle,
+      innerRadius: params.arcData.innerRadius ?? 0,
+    };
   }
 
   if (params.layoutAlign !== undefined && "layoutAlign" in sceneNode) {
@@ -595,10 +626,16 @@ async function handleUpdateText(id: string, params: any) {
   }
   const textNode = node as TextNode;
 
-  // Determine the font to load
-  const family = params.fontFamily || (textNode.fontName !== figma.mixed ? (textNode.fontName as FontName).family : "Inter");
-  const style = params.fontWeight || (textNode.fontName !== figma.mixed ? (textNode.fontName as FontName).style : "Regular");
-  await figma.loadFontAsync({ family, style });
+  // Load existing font first (required before any property change)
+  const existingFont = textNode.fontName !== figma.mixed ? (textNode.fontName as FontName) : { family: "Inter", style: "Regular" };
+  await figma.loadFontAsync(existingFont);
+
+  // Determine new font and load it if different
+  const family = params.fontFamily || existingFont.family;
+  const style = params.fontWeight || existingFont.style;
+  if (family !== existingFont.family || style !== existingFont.style) {
+    await figma.loadFontAsync({ family, style });
+  }
 
   if (params.text !== undefined) textNode.characters = params.text;
   if (params.fontSize !== undefined) textNode.fontSize = params.fontSize;
@@ -778,9 +815,14 @@ function handleSetAutoLayout(id: string, params: any) {
   if (params.alignItems !== undefined) {
     frame.primaryAxisAlignItems = params.alignItems === "CENTER" ? "CENTER" :
       params.alignItems === "END" ? "MAX" : "MIN";
-    const counterAlign = params.counterAlignItems || params.alignItems;
-    frame.counterAxisAlignItems = counterAlign === "CENTER" ? "CENTER" :
-      counterAlign === "END" ? "MAX" : "MIN";
+  }
+  if (params.counterAlignItems !== undefined) {
+    frame.counterAxisAlignItems = params.counterAlignItems === "CENTER" ? "CENTER" :
+      params.counterAlignItems === "END" ? "MAX" : "MIN";
+  } else if (params.alignItems !== undefined) {
+    // fallback: use alignItems for counter axis if counterAlignItems not specified
+    frame.counterAxisAlignItems = params.alignItems === "CENTER" ? "CENTER" :
+      params.alignItems === "END" ? "MAX" : "MIN";
   }
 
   // "FIXED" | "HUG" | "FILL"
@@ -1499,14 +1541,13 @@ async function handleDebugVariableApi(id: string, params: any) {
       Object.getOwnPropertyNames(Object.getPrototypeOf(figma.variables))
     ).filter(k => typeof (figma.variables as any)[k] === 'function');
 
-    // Node üzerindeki variable-ilgili property'leri kontrol et
-    let nodeProps: string[] = [];
+    let nodeProps: any = {};
     if (params.nodeId) {
-      const node = figma.getNodeById(params.nodeId);
+      const node = figma.getNodeById(params.nodeId) as any;
       if (node) {
-        nodeProps = Object.getOwnPropertyNames(node).concat(
-          Object.getOwnPropertyNames(Object.getPrototypeOf(node))
-        ).filter(k => k.toLowerCase().includes('variable') || k.toLowerCase().includes('mode'));
+        nodeProps.explicitVariableModes = node.explicitVariableModes || {};
+        nodeProps.resolvedVariableModes = node.resolvedVariableModes || {};
+        nodeProps.boundVariables = node.boundVariables || {};
       }
     }
 
@@ -1664,8 +1705,8 @@ async function handleCreateComponentSet(id: string, params: any) {
     const variantProp = params.variantProperty || "Breakpoint";
     const variants: { name: string; width: number; height: number; fontSize?: number }[] = params.variants || [
       { name: "Desktop", width: 254, height: 48, fontSize: 16 },
-      { name: "Tablet",  width: 200, height: 44, fontSize: 15 },
-      { name: "Mobile",  width: 160, height: 40, fontSize: 14 },
+      { name: "Tablet", width: 200, height: 44, fontSize: 15 },
+      { name: "Mobile", width: 160, height: 40, fontSize: 14 },
     ];
 
     // Pre-load fonts from all text nodes in the source

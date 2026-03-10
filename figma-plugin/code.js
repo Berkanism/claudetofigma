@@ -149,6 +149,16 @@
     if (node.type === "TEXT") {
       Object.assign(details, extractTextProps(node));
     }
+    if (node.type === "ELLIPSE") {
+      details.arcData = node.arcData;
+      details.strokeCap = node.strokeCap;
+    }
+    if ("explicitVariableModes" in node) {
+      details.explicitVariableModes = node.explicitVariableModes;
+    }
+    if ("resolvedVariableModes" in node) {
+      details.resolvedVariableModes = node.resolvedVariableModes;
+    }
     if ("children" in node) {
       details.children = node.children.map((c) => ({
         nodeId: c.id,
@@ -483,7 +493,7 @@
     sendResponse(id, { paintStyles, textStyles, effectStyles });
   }
   function handleUpdateNode(id, params) {
-    var _a, _b;
+    var _a, _b, _c;
     const node = figma.getNodeById(params.nodeId);
     if (!node || node.type === "DOCUMENT" || node.type === "PAGE") {
       sendResponse(id, void 0, `Node ${params.nodeId} not found`);
@@ -504,7 +514,9 @@
     if (params.opacity !== void 0 && "opacity" in sceneNode) {
       sceneNode.opacity = params.opacity;
     }
-    if (params.fillColor && "fills" in sceneNode) {
+    if (params.fills !== void 0 && "fills" in sceneNode) {
+      sceneNode.fills = params.fills;
+    } else if (params.fillColor && "fills" in sceneNode) {
       sceneNode.fills = [{ type: "SOLID", color: params.fillColor }];
     }
     if (params.cornerRadius !== void 0 && "cornerRadius" in sceneNode) {
@@ -516,6 +528,19 @@
     if (params.strokeWeight !== void 0 && "strokeWeight" in sceneNode) {
       sceneNode.strokeWeight = params.strokeWeight;
     }
+    if (params.strokeCap !== void 0 && "strokeCap" in sceneNode) {
+      sceneNode.strokeCap = params.strokeCap;
+    }
+    if (params.strokeAlign !== void 0 && "strokeAlign" in sceneNode) {
+      sceneNode.strokeAlign = params.strokeAlign;
+    }
+    if (params.arcData !== void 0 && node.type === "ELLIPSE") {
+      node.arcData = {
+        startingAngle: params.arcData.startingAngle,
+        endingAngle: params.arcData.endingAngle,
+        innerRadius: (_c = params.arcData.innerRadius) != null ? _c : 0
+      };
+    }
     if (params.layoutAlign !== void 0 && "layoutAlign" in sceneNode) {
       sceneNode.layoutAlign = params.layoutAlign;
     }
@@ -524,13 +549,13 @@
     }
     if (params.effects !== void 0 && "effects" in sceneNode) {
       const built = params.effects.map((e) => {
-        var _a2, _b2, _c, _d, _e, _f, _g, _h, _i;
+        var _a2, _b2, _c2, _d, _e, _f, _g, _h, _i;
         if (e.type === "DROP_SHADOW" || e.type === "INNER_SHADOW") {
           return {
             type: e.type,
             visible: (_a2 = e.visible) != null ? _a2 : true,
             color: (_b2 = e.color) != null ? _b2 : { r: 0, g: 0, b: 0, a: 0.25 },
-            offset: (_c = e.offset) != null ? _c : { x: 0, y: 2 },
+            offset: (_c2 = e.offset) != null ? _c2 : { x: 0, y: 2 },
             radius: (_d = e.radius) != null ? _d : 8,
             spread: (_e = e.spread) != null ? _e : 0,
             blendMode: (_f = e.blendMode) != null ? _f : "NORMAL",
@@ -553,9 +578,13 @@
         return;
       }
       const textNode = node;
-      const family = params.fontFamily || (textNode.fontName !== figma.mixed ? textNode.fontName.family : "Inter");
-      const style = params.fontWeight || (textNode.fontName !== figma.mixed ? textNode.fontName.style : "Regular");
-      yield figma.loadFontAsync({ family, style });
+      const existingFont = textNode.fontName !== figma.mixed ? textNode.fontName : { family: "Inter", style: "Regular" };
+      yield figma.loadFontAsync(existingFont);
+      const family = params.fontFamily || existingFont.family;
+      const style = params.fontWeight || existingFont.style;
+      if (family !== existingFont.family || style !== existingFont.style) {
+        yield figma.loadFontAsync({ family, style });
+      }
       if (params.text !== void 0) textNode.characters = params.text;
       if (params.fontSize !== void 0) textNode.fontSize = params.fontSize;
       if (params.fontFamily !== void 0 || params.fontWeight !== void 0) {
@@ -706,8 +735,11 @@
     if (params.paddingLeft !== void 0) frame.paddingLeft = params.paddingLeft;
     if (params.alignItems !== void 0) {
       frame.primaryAxisAlignItems = params.alignItems === "CENTER" ? "CENTER" : params.alignItems === "END" ? "MAX" : "MIN";
-      const counterAlign = params.counterAlignItems || params.alignItems;
-      frame.counterAxisAlignItems = counterAlign === "CENTER" ? "CENTER" : counterAlign === "END" ? "MAX" : "MIN";
+    }
+    if (params.counterAlignItems !== void 0) {
+      frame.counterAxisAlignItems = params.counterAlignItems === "CENTER" ? "CENTER" : params.counterAlignItems === "END" ? "MAX" : "MIN";
+    } else if (params.alignItems !== void 0) {
+      frame.counterAxisAlignItems = params.alignItems === "CENTER" ? "CENTER" : params.alignItems === "END" ? "MAX" : "MIN";
     }
     if (params.primaryAxisSizingMode !== void 0) {
       frame.primaryAxisSizingMode = params.primaryAxisSizingMode;
@@ -1333,13 +1365,13 @@
         const figmaVarMethods = Object.getOwnPropertyNames(figma.variables).concat(
           Object.getOwnPropertyNames(Object.getPrototypeOf(figma.variables))
         ).filter((k) => typeof figma.variables[k] === "function");
-        let nodeProps = [];
+        let nodeProps = {};
         if (params.nodeId) {
           const node = figma.getNodeById(params.nodeId);
           if (node) {
-            nodeProps = Object.getOwnPropertyNames(node).concat(
-              Object.getOwnPropertyNames(Object.getPrototypeOf(node))
-            ).filter((k) => k.toLowerCase().includes("variable") || k.toLowerCase().includes("mode"));
+            nodeProps.explicitVariableModes = node.explicitVariableModes || {};
+            nodeProps.resolvedVariableModes = node.resolvedVariableModes || {};
+            nodeProps.boundVariables = node.boundVariables || {};
           }
         }
         let importedInfo = null;
