@@ -1,7 +1,7 @@
 // Claude to Figma — Plugin Backend
 // Communicates with ui.html (WebSocket bridge) and Figma API
 
-figma.showUI(__html__, { width: 320, height: 340 });
+figma.showUI(__html__, { width: 160, height: 48 });
 
 interface WsMessage {
   id: string;
@@ -308,6 +308,15 @@ figma.ui.onmessage = async (msg: any) => {
       case "debug_variable_api":
         await handleDebugVariableApi(id, params);
         break;
+      case "find_variable_by_name":
+        await handleFindVariableByName(id, params);
+        break;
+      case "search_library_variables":
+        await handleSearchLibraryVariables(id, params);
+        break;
+      case "bulk_import_variables":
+        await handleBulkImportVariables(id, params);
+        break;
 
       // Phase 7: Variable Creation & Component System
       case "create_variable_collection":
@@ -372,8 +381,6 @@ async function handleAddText(id: string, params: any) {
 
   text.characters = params.text || "Hello";
   text.fontSize = params.fontSize || 16;
-  text.x = params.x || 0;
-  text.y = params.y || 0;
 
   if (params.fillColor) {
     text.fills = [{ type: "SOLID", color: params.fillColor }];
@@ -388,6 +395,10 @@ async function handleAddText(id: string, params: any) {
       return;
     }
   }
+
+  // Set x/y AFTER appendChild so they are relative to the parent frame
+  text.x = params.x || 0;
+  text.y = params.y || 0;
 
   sendResponse(id, {
     nodeId: text.id,
@@ -1569,6 +1580,77 @@ async function handleDebugVariableApi(id: string, params: any) {
     sendResponse(id, { figmaVarMethods, nodeProps, importedInfo });
   } catch (e: any) {
     sendResponse(id, undefined, `debug failed: ${e.message}`);
+  }
+}
+
+async function handleFindVariableByName(id: string, params: any) {
+  // params: { name: string, collectionKey?: string, seedVariableKey?: string }
+  try {
+    const searchName = (params.name || '').toLowerCase();
+    const results: any[] = [];
+
+    // Search in subscribed (library) variables
+    try {
+      const subscribed = (figma.variables as any).getSubscribedVariables() as Variable[];
+      for (const v of subscribed) {
+        if (v.name.toLowerCase().includes(searchName)) {
+          results.push({ key: v.key, id: v.id, name: v.name, collectionId: v.variableCollectionId });
+        }
+      }
+    } catch(e2: any) {
+      results.push({ note: 'getSubscribedVariables failed: ' + e2.message });
+    }
+
+    // Also search local variables
+    const localVars = await figma.variables.getLocalVariablesAsync();
+    for (const v of localVars) {
+      if (v.name.toLowerCase().includes(searchName)) {
+        results.push({ key: v.key, id: v.id, name: v.name, collectionId: v.variableCollectionId });
+      }
+    }
+
+    sendResponse(id, { variables: results });
+  } catch (e: any) {
+    sendResponse(id, undefined, `find_variable_by_name failed: ${e.message}`);
+  }
+}
+
+async function handleBulkImportVariables(id: string, params: any) {
+  // params: { keys: string[], filter?: string }
+  const keys: string[] = params.keys || [];
+  const filter = (params.filter || '').toLowerCase();
+  const results: any[] = [];
+  for (const key of keys) {
+    try {
+      const v = await figma.variables.importVariableByKeyAsync(key);
+      if (!filter || v.name.toLowerCase().includes(filter)) {
+        results.push({ key: v.key, name: v.name, id: v.id });
+      }
+    } catch(e: any) {
+      // skip failed imports
+    }
+  }
+  sendResponse(id, { results });
+}
+
+async function handleSearchLibraryVariables(id: string, params: any) {
+  // params: { name: string }
+  try {
+    const searchName = (params.name || '').toLowerCase();
+    const collections = await figma.teamLibrary.getAvailableLibraryVariableCollectionsAsync();
+    const results: any[] = [];
+    for (const col of collections) {
+      if (params.collectionName && !col.name.toLowerCase().includes(params.collectionName.toLowerCase())) continue;
+      const vars = await figma.teamLibrary.getVariablesInLibraryCollectionAsync(col.key);
+      for (const v of vars) {
+        if (v.name.toLowerCase().includes(searchName)) {
+          results.push({ key: v.key, name: v.name, collection: col.name, collectionKey: col.key });
+        }
+      }
+    }
+    sendResponse(id, { variables: results });
+  } catch (e: any) {
+    sendResponse(id, undefined, `search_library_variables failed: ${e.message}`);
   }
 }
 

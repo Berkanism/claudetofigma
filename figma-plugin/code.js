@@ -37,7 +37,7 @@
   };
 
   // code.ts
-  figma.showUI(__html__, { width: 320, height: 340 });
+  figma.showUI(__html__, { width: 160, height: 48 });
   function sendResponse(id, result, error) {
     const response = { id };
     if (error) response.error = error;
@@ -300,6 +300,15 @@
         case "debug_variable_api":
           yield handleDebugVariableApi(id, params);
           break;
+        case "find_variable_by_name":
+          yield handleFindVariableByName(id, params);
+          break;
+        case "search_library_variables":
+          yield handleSearchLibraryVariables(id, params);
+          break;
+        case "bulk_import_variables":
+          yield handleBulkImportVariables(id, params);
+          break;
         // Phase 7: Variable Creation & Component System
         case "create_variable_collection":
           handleCreateVariableCollection(id, params);
@@ -355,8 +364,6 @@
       yield figma.loadFontAsync({ family: "Inter", style: "Regular" });
       text.characters = params.text || "Hello";
       text.fontSize = params.fontSize || 16;
-      text.x = params.x || 0;
-      text.y = params.y || 0;
       if (params.fillColor) {
         text.fills = [{ type: "SOLID", color: params.fillColor }];
       }
@@ -369,6 +376,8 @@
           return;
         }
       }
+      text.x = params.x || 0;
+      text.y = params.y || 0;
       sendResponse(id, {
         nodeId: text.id,
         characters: text.characters,
@@ -1389,6 +1398,71 @@
         sendResponse(id, { figmaVarMethods, nodeProps, importedInfo });
       } catch (e) {
         sendResponse(id, void 0, `debug failed: ${e.message}`);
+      }
+    });
+  }
+  function handleFindVariableByName(id, params) {
+    return __async(this, null, function* () {
+      try {
+        const searchName = (params.name || "").toLowerCase();
+        const results = [];
+        try {
+          const subscribed = figma.variables.getSubscribedVariables();
+          for (const v of subscribed) {
+            if (v.name.toLowerCase().includes(searchName)) {
+              results.push({ key: v.key, id: v.id, name: v.name, collectionId: v.variableCollectionId });
+            }
+          }
+        } catch (e2) {
+          results.push({ note: "getSubscribedVariables failed: " + e2.message });
+        }
+        const localVars = yield figma.variables.getLocalVariablesAsync();
+        for (const v of localVars) {
+          if (v.name.toLowerCase().includes(searchName)) {
+            results.push({ key: v.key, id: v.id, name: v.name, collectionId: v.variableCollectionId });
+          }
+        }
+        sendResponse(id, { variables: results });
+      } catch (e) {
+        sendResponse(id, void 0, `find_variable_by_name failed: ${e.message}`);
+      }
+    });
+  }
+  function handleBulkImportVariables(id, params) {
+    return __async(this, null, function* () {
+      const keys = params.keys || [];
+      const filter = (params.filter || "").toLowerCase();
+      const results = [];
+      for (const key of keys) {
+        try {
+          const v = yield figma.variables.importVariableByKeyAsync(key);
+          if (!filter || v.name.toLowerCase().includes(filter)) {
+            results.push({ key: v.key, name: v.name, id: v.id });
+          }
+        } catch (e) {
+        }
+      }
+      sendResponse(id, { results });
+    });
+  }
+  function handleSearchLibraryVariables(id, params) {
+    return __async(this, null, function* () {
+      try {
+        const searchName = (params.name || "").toLowerCase();
+        const collections = yield figma.teamLibrary.getAvailableLibraryVariableCollectionsAsync();
+        const results = [];
+        for (const col of collections) {
+          if (params.collectionName && !col.name.toLowerCase().includes(params.collectionName.toLowerCase())) continue;
+          const vars = yield figma.teamLibrary.getVariablesInLibraryCollectionAsync(col.key);
+          for (const v of vars) {
+            if (v.name.toLowerCase().includes(searchName)) {
+              results.push({ key: v.key, name: v.name, collection: col.name, collectionKey: col.key });
+            }
+          }
+        }
+        sendResponse(id, { variables: results });
+      } catch (e) {
+        sendResponse(id, void 0, `search_library_variables failed: ${e.message}`);
       }
     });
   }

@@ -1,5 +1,5 @@
 {
-  "name": "Claude to Figma",
+  "name": "Figma Assistant",
   "id": "claude-to-figma-plugin",
   "api": "1.0.0",
   "main": "code.js",
